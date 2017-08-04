@@ -1,7 +1,7 @@
 {
-	"Letter" : {
-		"selectKey" : "Correspondence",
-		"sortKey" : "Date"
+	"Brochure" : {
+		"selectKey" : "State",
+		"sortKey" : "Place"
 	},
 	"Photograph" : {
 		"selectKey" : "EventType",
