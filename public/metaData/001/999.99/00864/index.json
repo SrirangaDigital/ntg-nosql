@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/00864",
-	"AccessionCards" : "065.148, 065.482, 065.489, 066.047, 066.048, 066.049",
-	"State" : "Madhya Pradesh",
-	"Place" : "Ujjain, Bhopal",
-	"Date" : "03-04-1989",
-	"Type" : "Brochure"
+    "id": "001/999.99/00864",
+    "AccessionCards": "065.148, 065.482, 065.489, 066.047, 066.048, 066.049",
+    "State": "मध्य प्रदेश",
+    "Date": "03-04-1989",
+    "Type": "Brochure",
+    "Places": "Ujjain, Bhopal"
 }

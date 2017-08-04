@@ -1,9 +1,9 @@
 {
-	"id" : "001/061.23/01553",
-	"AccessionCards" : "054.307, 055.170, 066.038, 066.481, 067.040, 067.583, 069.144, 069.145",
-	"State" : "Uttar Pradesh, Madhya Pradesh, Rajasthan, Delhi, Bihar",
-	"Place" : "Allahabad, Lucknow, Bhopal, Udaipur, Delhi, Patna",
-	"Date" : "16-09-1991, 19-09-1991, 16-09-1991, 07-09-1991",
-	"AccessionNumber" : "1553",
-	"Type" : "Brochure"
+    "id": "001/061.23/01553",
+    "AccessionCards": "054.307, 055.170, 066.038, 066.481, 067.040, 067.583, 069.144, 069.145",
+    "Date": "16-09-1991, 19-09-1991, 16-09-1991, 07-09-1991",
+    "AccessionNumber": "1553",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, मध्य प्रदेश, राजस्थान, दिल्ली, बिहार",
+    "Places": "Allahabad, Lucknow, Bhopal, Udaipur, Delhi, Patna"
 }

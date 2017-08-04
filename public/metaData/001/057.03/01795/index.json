@@ -1,9 +1,9 @@
 {
-	"id" : "001/057.03/01795",
-	"AccessionCards" : "055.015, 056.193, 056.491, 056.575, 064.196, 064.197, 065.106, 065.492, 069.376, 069.405, 069.535, 069.536, 069.583",
-	"State" : "Uttar Pradesh, Kerala, Jammu and Kashmir, Tamil Nadu, Delhi, Manipur, Madhya Pradesh, Jammu and Kashmir, Tamil Nadu, Madhya Pradesh, Kerala, Manipur",
-	"Place" : "Nainital, Trivandrum, Jammu, Gandhigram, Delhi, Imphal, Bhopal, Jammu, Gandhigram, Bhopal, Trivandrum, Imphal",
-	"Date" : "13-01-1987, 16-01-1987, 14-01-1987, 17-01-1987, 13-01-1987, 15-01-1987, 14-01-1987, 17-01-1987, 15-01-1987, 16-01-1987, 13-01-1987",
-	"AccessionNumber" : "1795",
-	"Type" : "Brochure"
+    "id": "001/057.03/01795",
+    "AccessionCards": "055.015, 056.193, 056.491, 056.575, 064.196, 064.197, 065.106, 065.492, 069.376, 069.405, 069.535, 069.536, 069.583",
+    "Date": "13-01-1987, 16-01-1987, 14-01-1987, 17-01-1987, 13-01-1987, 15-01-1987, 14-01-1987, 17-01-1987, 15-01-1987, 16-01-1987, 13-01-1987",
+    "AccessionNumber": "1795",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, केरल, जम्मू और कश्मीर, तमिलनाडु, दिल्ली, मणिपुर, मध्य प्रदेश, जम्मू और कश्मीर, तमिलनाडु, मध्य प्रदेश, केरल, मणिपुर",
+    "Places": "Nainital, Trivandrum, Jammu, Gandhigram, Delhi, Imphal, Bhopal, Jammu, Gandhigram, Bhopal, Trivandrum, Imphal"
 }

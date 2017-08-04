@@ -1,9 +1,9 @@
 {
-	"id" : "001/057.10/04813",
-	"AccessionCards" : "054.053, 054.054, 056.144, 056.145, 056.477, 056.478, 064.225, 064.226, 066.384, 066.385, 067.257, 067.258, 067.770, 067.771",
-	"State" : "Assam, Kerala, Jammu and Kashmir, Delhi, Maharashtra, West Bengal, Bihar",
-	"Place" : "Guwahati, Thiruvananthapuram, Jammu, Delhi, Mumbai, Kolkata, Patna",
-	"Date" : "06-09-2006, 07-09-2006, 11-10-2006, 06-09-2006, 09-10-2006, 08-09-2006, 10-10-2006",
-	"AccessionNumber" : "4813",
-	"Type" : "Brochure"
+    "id": "001/057.10/04813",
+    "AccessionCards": "054.053, 054.054, 056.144, 056.145, 056.477, 056.478, 064.225, 064.226, 066.384, 066.385, 067.257, 067.258, 067.770, 067.771",
+    "Date": "06-09-2006, 07-09-2006, 11-10-2006, 06-09-2006, 09-10-2006, 08-09-2006, 10-10-2006",
+    "AccessionNumber": "4813",
+    "Type": "Brochure",
+    "States": "असम, केरल, जम्मू और कश्मीर, दिल्ली, महाराष्ट्र, पश्चिम बंगाल, बिहार",
+    "Places": "Guwahati, Thiruvananthapuram, Jammu, Delhi, Mumbai, Kolkata, Patna"
 }

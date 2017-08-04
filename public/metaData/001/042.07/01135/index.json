@@ -1,9 +1,9 @@
 {
-	"id" : "001/042.07/01135",
-	"AccessionCards" : "068.453, 068.454, 068.455, 068.634",
-	"State" : "Delhi, Himachal Pradesh",
-	"Place" : "Delhi, Shimla",
-	"Date" : "15-06-1992, 29-06-1992, 15-06-1992",
-	"AccessionNumber" : "1135(1-2)",
-	"Type" : "Brochure"
+    "id": "001/042.07/01135",
+    "AccessionCards": "068.453, 068.454, 068.455, 068.634",
+    "Date": "15-06-1992, 29-06-1992, 15-06-1992",
+    "AccessionNumber": "1135(1-2)",
+    "Type": "Brochure",
+    "States": "दिल्ली, हिमाचल प्रदेश",
+    "Places": "Delhi, Shimla"
 }

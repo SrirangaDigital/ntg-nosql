@@ -1,9 +1,9 @@
 {
-	"id" : "001/088.01/02796",
-	"AccessionCards" : "066.836, 066.837, 066.838",
-	"State" : "",
-	"Place" : "Osaka, Japan",
-	"Date" : "00-12-1997",
-	"AccessionNumber" : "2796-(1-2)",
-	"Type" : "Brochure"
+    "id": "001/088.01/02796",
+    "AccessionCards": "066.836, 066.837, 066.838",
+    "State": "",
+    "Date": "00-12-1997",
+    "AccessionNumber": "2796-(1-2)",
+    "Type": "Brochure",
+    "Places": "Osaka, Japan"
 }

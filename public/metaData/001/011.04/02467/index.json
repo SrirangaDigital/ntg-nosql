@@ -1,9 +1,9 @@
 {
-	"id" : "001/011.04/02467",
-	"AccessionCards" : "055.432, 065.238",
-	"State" : "Uttar Pradesh, Madhya Pradesh",
-	"Place" : "Lucknow, Orai",
-	"Date" : "27-02-1992, 01-03-1992",
-	"AccessionNumber" : "2467(1)",
-	"Type" : "Brochure"
+    "id": "001/011.04/02467",
+    "AccessionCards": "055.432, 065.238",
+    "Date": "27-02-1992, 01-03-1992",
+    "AccessionNumber": "2467(1)",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, मध्य प्रदेश",
+    "Places": "Lucknow, Orai"
 }

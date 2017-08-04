@@ -1,9 +1,9 @@
 {
-	"id" : "001/058.07/01811",
-	"AccessionCards" : "054.306, 056.369, 056.551, 058.404, 064.264, 064.265, 064.362, 066.712, 069.331, 069.361",
-	"State" : "Uttar Pradesh, Chandigarh, Jammu and Kashmir, Delhi, Himachal Pradesh, Delhi, Jammu and Kashmir",
-	"Place" : "Allahabad, Jammu, Delhi, Shimla, Delhi, Srinagar",
-	"Date" : "18-08-1987, 20-08-1987, 18-08-1987, 19-08-1987, 18-08-1987, 20-08-1987, 18-08-1987",
-	"AccessionNumber" : "1811",
-	"Type" : "Brochure"
+    "id": "001/058.07/01811",
+    "AccessionCards": "054.306, 056.369, 056.551, 058.404, 064.264, 064.265, 064.362, 066.712, 069.331, 069.361",
+    "Date": "18-08-1987, 20-08-1987, 18-08-1987, 19-08-1987, 18-08-1987, 20-08-1987, 18-08-1987",
+    "AccessionNumber": "1811",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, चंडीगढ़†, जम्मू और कश्मीर, दिल्ली, हिमाचल प्रदेश, दिल्ली, जम्मू और कश्मीर",
+    "Places": "Allahabad, Jammu, Delhi, Shimla, Delhi, Srinagar"
 }

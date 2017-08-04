@@ -1,9 +1,9 @@
 {
-	"id" : "001/061.09/03738",
-	"AccessionCards" : "055.105, 055.106, 067.007",
-	"State" : "Uttar Pradesh, Delhi",
-	"Place" : "Lucknow, Delhi",
-	"Date" : "12-03-2008, 15-12-2000",
-	"AccessionNumber" : "3738",
-	"Type" : "Brochure"
+    "id": "001/061.09/03738",
+    "AccessionCards": "055.105, 055.106, 067.007",
+    "Date": "12-03-2008, 15-12-2000",
+    "AccessionNumber": "3738",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, दिल्ली",
+    "Places": "Lucknow, Delhi"
 }

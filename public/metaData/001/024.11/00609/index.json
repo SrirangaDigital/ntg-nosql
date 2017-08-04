@@ -1,9 +1,9 @@
 {
-	"id" : "001/024.11/00609",
-	"AccessionCards" : "057.278, 067.523",
-	"State" : "Delhi, Bihar",
-	"Place" : "Delhi, Chandrapura",
-	"Date" : "13-08-1990, 15-08-1990",
-	"AccessionNumber" : "609",
-	"Type" : "Brochure"
+    "id": "001/024.11/00609",
+    "AccessionCards": "057.278, 067.523",
+    "Date": "13-08-1990, 15-08-1990",
+    "AccessionNumber": "609",
+    "Type": "Brochure",
+    "States": "दिल्ली, बिहार",
+    "Places": "Delhi, Chandrapura"
 }

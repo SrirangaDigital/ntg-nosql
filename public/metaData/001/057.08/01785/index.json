@@ -1,9 +1,9 @@
 {
-	"id" : "001/057.08/01785",
-	"AccessionCards" : "054.171, 064.247, 064.248, 065.098, 065.708, 065.777, 067.458, 069.580",
-	"State" : "Odisha, Delhi, Manipur, Madhya Pradesh, West Bengal, Manipur",
-	"Place" : "Bhubaneswar, Delhi, Imphal, Bhopal, Raipur, Kolkata, Imphal",
-	"Date" : "31-10-1993, 04-11-1993, 31-10-1993, 03-11-1993",
-	"AccessionNumber" : "1785",
-	"Type" : "Brochure"
+    "id": "001/057.08/01785",
+    "AccessionCards": "054.171, 064.247, 064.248, 065.098, 065.708, 065.777, 067.458, 069.580",
+    "Date": "31-10-1993, 04-11-1993, 31-10-1993, 03-11-1993",
+    "AccessionNumber": "1785",
+    "Type": "Brochure",
+    "States": "ओड़िशा, दिल्ली, मणिपुर, मध्य प्रदेश, पश्चिम बंगाल, मणिपुर",
+    "Places": "Bhubaneswar, Delhi, Imphal, Bhopal, Raipur, Kolkata, Imphal"
 }

@@ -1,9 +1,9 @@
 {
-	"id" : "001/036.09/01919",
-	"AccessionCards" : "063.355, 063.359, 063.365, 066.198, 066.328, 066.329, 066.330, 069.622",
-	"State" : "Delhi, Maharashtra",
-	"Place" : "Delhi, Mumbai",
-	"Date" : "05-11-1973, 00-00-1991",
-	"AccessionNumber" : "1919",
-	"Type" : "Brochure"
+    "id": "001/036.09/01919",
+    "AccessionCards": "063.355, 063.359, 063.365, 066.198, 066.328, 066.329, 066.330, 069.622",
+    "Date": "05-11-1973, 00-00-1991",
+    "AccessionNumber": "1919",
+    "Type": "Brochure",
+    "States": "दिल्ली, महाराष्ट्र",
+    "Places": "Delhi, Mumbai"
 }

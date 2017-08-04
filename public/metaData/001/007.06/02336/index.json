@@ -1,9 +1,9 @@
 {
-	"id" : "001/007.06/02336",
-	"AccessionCards" : "054.515, 054.516, 054.533, 054.594, 054.598, 055.483, 069.191, 069.192",
-	"State" : "Uttar Pradesh",
-	"Place" : "Gorakhpur, Varanasi, Gorakhpur",
-	"Date" : "13-12-1980",
-	"AccessionNumber" : "2336(1-10)",
-	"Type" : "Brochure"
+    "id": "001/007.06/02336",
+    "AccessionCards": "054.515, 054.516, 054.533, 054.594, 054.598, 055.483, 069.191, 069.192",
+    "State": "उत्तर प्रदेश",
+    "Date": "13-12-1980",
+    "AccessionNumber": "2336(1-10)",
+    "Type": "Brochure",
+    "Places": "Gorakhpur, Varanasi, Gorakhpur"
 }

@@ -1,9 +1,9 @@
 {
-	"id" : "001/076.15/04932",
-	"AccessionCards" : "056.229, 056.230, 065.739, 065.740, 066.011, 066.012, 066.014",
-	"State" : "Gujarat, Madhya Pradesh",
-	"Place" : "Ahmedabad, Bhopal",
-	"Date" : "18-03-2008, 19-03-2008, 17-03-2008",
-	"AccessionNumber" : "4932-(1-3)",
-	"Type" : "Brochure"
+    "id": "001/076.15/04932",
+    "AccessionCards": "056.229, 056.230, 065.739, 065.740, 066.011, 066.012, 066.014",
+    "Date": "18-03-2008, 19-03-2008, 17-03-2008",
+    "AccessionNumber": "4932-(1-3)",
+    "Type": "Brochure",
+    "States": "गुजरात, मध्य प्रदेश",
+    "Places": "Ahmedabad, Bhopal"
 }

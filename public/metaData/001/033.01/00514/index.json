@@ -1,9 +1,9 @@
 {
-	"id" : "001/033.01/00514",
-	"AccessionCards" : "063.097, 067.279, 067.293, 067.310, 067.361, 067.450, 069.511",
-	"State" : "Delhi, West Bengal",
-	"Place" : "Delhi, Kolkata",
-	"Date" : "18-01-1981",
-	"AccessionNumber" : "514(1-4)",
-	"Type" : "Brochure"
+    "id": "001/033.01/00514",
+    "AccessionCards": "063.097, 067.279, 067.293, 067.310, 067.361, 067.450, 069.511",
+    "Date": "18-01-1981",
+    "AccessionNumber": "514(1-4)",
+    "Type": "Brochure",
+    "States": "दिल्ली, पश्चिम बंगाल",
+    "Places": "Delhi, Kolkata"
 }

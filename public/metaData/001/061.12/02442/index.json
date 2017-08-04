@@ -1,9 +1,9 @@
 {
-	"id" : "001/061.12/02442",
-	"AccessionCards" : "067.064, 067.585",
-	"State" : "Delhi, Bihar",
-	"Place" : "Delhi, Patna",
-	"Date" : "26-03-1997",
-	"AccessionNumber" : "2442-(1-2)",
-	"Type" : "Brochure"
+    "id": "001/061.12/02442",
+    "AccessionCards": "067.064, 067.585",
+    "Date": "26-03-1997",
+    "AccessionNumber": "2442-(1-2)",
+    "Type": "Brochure",
+    "States": "दिल्ली, बिहार",
+    "Places": "Delhi, Patna"
 }

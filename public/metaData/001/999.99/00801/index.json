@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/00801",
-	"AccessionCards" : "068.163, 068.169",
-	"State" : "Delhi",
-	"Place" : "Delhi",
-	"Date" : "08-10-1984",
-	"Type" : "Brochure"
+    "id": "001/999.99/00801",
+    "AccessionCards": "068.163, 068.169",
+    "State": "दिल्ली",
+    "Place": "Delhi",
+    "Date": "08-10-1984",
+    "Type": "Brochure"
 }

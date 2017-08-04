@@ -1,9 +1,9 @@
 {
-	"id" : "001/045.05/05080",
-	"AccessionCards" : "061.591, 061.592",
-	"State" : "Delhi",
-	"Place" : "Delhi",
-	"Date" : "08-05-2015",
-	"AccessionNumber" : "5080",
-	"Type" : "Brochure"
+    "id": "001/045.05/05080",
+    "AccessionCards": "061.591, 061.592",
+    "State": "दिल्ली",
+    "Place": "Delhi",
+    "Date": "08-05-2015",
+    "AccessionNumber": "5080",
+    "Type": "Brochure"
 }

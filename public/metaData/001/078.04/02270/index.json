@@ -1,9 +1,9 @@
 {
-	"id" : "001/078.04/02270",
-	"AccessionCards" : "065.119, 065.152, 065.262, 065.285, 065.328, 065.422, 066.058",
-	"State" : "Madhya Pradesh",
-	"Place" : "Indore, Ujjain, Gwalior, Jabalpur, Bhopal, Raipur",
-	"Date" : "24-02-1994, 28-02-1994, 26-01-1994, 23-02-1994, 27-02-1994, 25-02-1994",
-	"AccessionNumber" : "2270-(1-6)",
-	"Type" : "Brochure"
+    "id": "001/078.04/02270",
+    "AccessionCards": "065.119, 065.152, 065.262, 065.285, 065.328, 065.422, 066.058",
+    "State": "मध्य प्रदेश",
+    "Date": "24-02-1994, 28-02-1994, 26-01-1994, 23-02-1994, 27-02-1994, 25-02-1994",
+    "AccessionNumber": "2270-(1-6)",
+    "Type": "Brochure",
+    "Places": "Indore, Ujjain, Gwalior, Jabalpur, Bhopal, Raipur"
 }

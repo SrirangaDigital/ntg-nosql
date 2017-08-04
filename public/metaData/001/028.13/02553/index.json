@@ -1,9 +1,9 @@
 {
-	"id" : "001/028.13/02553",
-	"AccessionCards" : "058.004, 058.006, 058.009, 058.010",
-	"State" : "Delhi",
-	"Place" : "Delhi",
-	"Date" : "29-03-1995, 27-03-1994, 25-03-1995",
-	"AccessionNumber" : "2553(1-3)",
-	"Type" : "Brochure"
+    "id": "001/028.13/02553",
+    "AccessionCards": "058.004, 058.006, 058.009, 058.010",
+    "State": "दिल्ली",
+    "Place": "Delhi",
+    "Date": "29-03-1995, 27-03-1994, 25-03-1995",
+    "AccessionNumber": "2553(1-3)",
+    "Type": "Brochure"
 }

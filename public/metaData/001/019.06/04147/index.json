@@ -1,9 +1,9 @@
 {
-	"id" : "001/019.06/04147",
-	"AccessionCards" : "056.557, 069.400",
-	"State" : "Jammu and Kashmir",
-	"Place" : "Jammu, Srinagar",
-	"Date" : "00-00-0000",
-	"AccessionNumber" : "4147",
-	"Type" : "Brochure"
+    "id": "001/019.06/04147",
+    "AccessionCards": "056.557, 069.400",
+    "State": "जम्मू और कश्मीर",
+    "Date": "00-00-0000",
+    "AccessionNumber": "4147",
+    "Type": "Brochure",
+    "Places": "Jammu, Srinagar"
 }

@@ -1,9 +1,9 @@
 {
-	"id" : "001/023.21/02483",
-	"AccessionCards" : "057.132, 057.136, 057.137, 057.139, 057.140, 069.445, 069.446",
-	"State" : "Delhi",
-	"Place" : "Delhi",
-	"Date" : "02-03-1981",
-	"AccessionNumber" : "2483(1-4)",
-	"Type" : "Brochure"
+    "id": "001/023.21/02483",
+    "AccessionCards": "057.132, 057.136, 057.137, 057.139, 057.140, 069.445, 069.446",
+    "State": "दिल्ली",
+    "Place": "Delhi",
+    "Date": "02-03-1981",
+    "AccessionNumber": "2483(1-4)",
+    "Type": "Brochure"
 }

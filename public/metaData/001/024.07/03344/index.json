@@ -1,9 +1,9 @@
 {
-	"id" : "001/024.07/03344",
-	"AccessionCards" : "055.028, 070.293, 070.295",
-	"State" : "Uttar Pradesh, Madhya Pradesh",
-	"Place" : "Pauri Garhwal, Ujjain",
-	"Date" : "15-06-1996, 18-02-1995",
-	"AccessionNumber" : "3344",
-	"Type" : "Brochure"
+    "id": "001/024.07/03344",
+    "AccessionCards": "055.028, 070.293, 070.295",
+    "Date": "15-06-1996, 18-02-1995",
+    "AccessionNumber": "3344",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, मध्य प्रदेश",
+    "Places": "Pauri Garhwal, Ujjain"
 }

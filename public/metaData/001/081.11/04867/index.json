@@ -1,9 +1,9 @@
 {
-	"id" : "001/081.11/04867",
-	"AccessionCards" : "065.159, 065.160, 065.279, 065.280, 065.290, 066.361, 068.544, 068.545, 068.546",
-	"State" : "Madhya Pradesh, Maharashtra, West Bengal",
-	"Place" : "Ujjain, Jabalpur, Mumbai, Calcutta",
-	"Date" : "15-12-1996, 14-12-1996, 18-12-1996, 16-12-1996, 17-12-1996",
-	"AccessionNumber" : "4867",
-	"Type" : "Brochure"
+    "id": "001/081.11/04867",
+    "AccessionCards": "065.159, 065.160, 065.279, 065.280, 065.290, 066.361, 068.544, 068.545, 068.546",
+    "Date": "15-12-1996, 14-12-1996, 18-12-1996, 16-12-1996, 17-12-1996",
+    "AccessionNumber": "4867",
+    "Type": "Brochure",
+    "States": "मध्य प्रदेश, महाराष्ट्र, पश्चिम बंगाल",
+    "Places": "Ujjain, Jabalpur, Mumbai, Calcutta"
 }

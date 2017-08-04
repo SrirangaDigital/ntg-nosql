@@ -1,9 +1,9 @@
 {
-	"id" : "001/076.05/04781",
-	"AccessionCards" : "054.056, 054.057, 062.820, 062.821, 065.111, 065.201, 065.202, 066.476, 066.477, 066.657, 066.659, 067.185, 067.186",
-	"State" : "Assam, Delhi, Tamil Nadu, Madhya Pradesh, Rajasthan, Haryana, Punjab",
-	"Place" : "Guwahati, Delhi, Ujjain, Udaipur, Yamunanagr, Amritsar",
-	"Date" : "31-01-2012, 29-01-2012, 02-02-2012, 27-01-2012, 30-01-2012, 31-01-2012, 28-01-2012",
-	"AccessionNumber" : "4781",
-	"Type" : "Brochure"
+    "id": "001/076.05/04781",
+    "AccessionCards": "054.056, 054.057, 062.820, 062.821, 065.111, 065.201, 065.202, 066.476, 066.477, 066.657, 066.659, 067.185, 067.186",
+    "Date": "31-01-2012, 29-01-2012, 02-02-2012, 27-01-2012, 30-01-2012, 31-01-2012, 28-01-2012",
+    "AccessionNumber": "4781",
+    "Type": "Brochure",
+    "States": "असम, दिल्ली, तमिलनाडु, मध्य प्रदेश, राजस्थान, हरियाणा, पंजाब",
+    "Places": "Guwahati, Delhi, Ujjain, Udaipur, Yamunanagr, Amritsar"
 }

@@ -1,9 +1,9 @@
 {
-	"id" : "001/033.18/00944",
-	"AccessionCards" : "063.007, 063.011, 063.016, 063.017",
-	"State" : "Delhi",
-	"Place" : "Delhi",
-	"Date" : "27-09-1987, 26-09-1987, 28-09-1987",
-	"AccessionNumber" : "944(1-3)",
-	"Type" : "Brochure"
+    "id": "001/033.18/00944",
+    "AccessionCards": "063.007, 063.011, 063.016, 063.017",
+    "State": "दिल्ली",
+    "Place": "Delhi",
+    "Date": "27-09-1987, 26-09-1987, 28-09-1987",
+    "AccessionNumber": "944(1-3)",
+    "Type": "Brochure"
 }

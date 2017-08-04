@@ -1,9 +1,9 @@
 {
-	"id" : "001/011.03/02921",
-	"AccessionCards" : "055.440, 055.449",
-	"State" : "Uttar Pradesh",
-	"Place" : "Lucknow, Varanasi",
-	"Date" : "05-09-1986",
-	"AccessionNumber" : "2921(1)",
-	"Type" : "Brochure"
+    "id": "001/011.03/02921",
+    "AccessionCards": "055.440, 055.449",
+    "State": "उत्तर प्रदेश",
+    "Date": "05-09-1986",
+    "AccessionNumber": "2921(1)",
+    "Type": "Brochure",
+    "Places": "Lucknow, Varanasi"
 }

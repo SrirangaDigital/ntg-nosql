@@ -1,9 +1,9 @@
 {
-	"id" : "001/006.12/02176",
-	"AccessionCards" : "054.438, 055.162",
-	"State" : "Uttar Pradesh",
-	"Place" : "Kanpur, Lucknow",
-	"Date" : "22-07-1972, 20-03-0000",
-	"AccessionNumber" : "2176-2177",
-	"Type" : "Brochure"
+    "id": "001/006.12/02176",
+    "AccessionCards": "054.438, 055.162",
+    "State": "उत्तर प्रदेश",
+    "Date": "22-07-1972, 20-03-0000",
+    "AccessionNumber": "2176-2177",
+    "Type": "Brochure",
+    "Places": "Kanpur, Lucknow"
 }

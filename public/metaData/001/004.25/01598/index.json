@@ -1,9 +1,9 @@
 {
-	"id" : "001/004.25/01598",
-	"AccessionCards" : "054.295, 054.523, 065.248, 066.490",
-	"State" : "Uttar Pradesh, Madhya Pradesh, Rajasthan",
-	"Place" : "Allahabad, Gorakhpur, Gwalior, Jaipur",
-	"Date" : "24-02-1996, 26-02-1996, 25-02-1996",
-	"AccessionNumber" : "1598",
-	"Type" : "Brochure"
+    "id": "001/004.25/01598",
+    "AccessionCards": "054.295, 054.523, 065.248, 066.490",
+    "Date": "24-02-1996, 26-02-1996, 25-02-1996",
+    "AccessionNumber": "1598",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, मध्य प्रदेश, राजस्थान",
+    "Places": "Allahabad, Gorakhpur, Gwalior, Jaipur"
 }

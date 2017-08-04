@@ -1,9 +1,9 @@
 {
-	"id" : "001/080.09/02304",
-	"AccessionCards" : "056.039, 063.038, 065.595, 065.604, 066.118, 066.124",
-	"State" : "Karnataka, Delhi, Madhya Pradesh, Maharashtra",
-	"Place" : "Bangalore, Delhi, Bhopal, Pune",
-	"Date" : "03-10-1988, 05-10-1988, 06-10-1988, 01-10-1988, 02-10-1988",
-	"AccessionNumber" : "2304-(1-6)",
-	"Type" : "Brochure"
+    "id": "001/080.09/02304",
+    "AccessionCards": "056.039, 063.038, 065.595, 065.604, 066.118, 066.124",
+    "Date": "03-10-1988, 05-10-1988, 06-10-1988, 01-10-1988, 02-10-1988",
+    "AccessionNumber": "2304-(1-6)",
+    "Type": "Brochure",
+    "States": "कर्नाटक, दिल्ली, मध्य प्रदेश, महाराष्ट्र",
+    "Places": "Bangalore, Delhi, Bhopal, Pune"
 }

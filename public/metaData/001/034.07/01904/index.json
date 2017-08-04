@@ -1,9 +1,9 @@
 {
-	"id" : "001/034.07/01904",
-	"AccessionCards" : "063.224, 063.225, 063.226",
-	"State" : "Delhi",
-	"Place" : "Delhi",
-	"Date" : "00-00-0000",
-	"AccessionNumber" : "1904",
-	"Type" : "Brochure"
+    "id": "001/034.07/01904",
+    "AccessionCards": "063.224, 063.225, 063.226",
+    "State": "दिल्ली",
+    "Place": "Delhi",
+    "Date": "00-00-0000",
+    "AccessionNumber": "1904",
+    "Type": "Brochure"
 }

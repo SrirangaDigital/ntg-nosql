@@ -1,9 +1,9 @@
 {
-	"id" : "001/057.02/04953",
-	"AccessionCards" : "054.041, 054.042, 055.264, 055.265, 056.811, 064.298, 064.299, 066.191, 066.192, 067.183",
-	"State" : "Assam, Uttar Pradesh, Delhi, Maharashtra, Punjab",
-	"Place" : "Guwahati, Lucknow, Delhi, Mumbai, Amritsar",
-	"Date" : "05-03-2009, 01-03-2009, 03-03-2009, 01-03-2009, 07-03-2009, 04-03-2009",
-	"AccessionNumber" : "4953-(1-8)",
-	"Type" : "Brochure"
+    "id": "001/057.02/04953",
+    "AccessionCards": "054.041, 054.042, 055.264, 055.265, 056.811, 064.298, 064.299, 066.191, 066.192, 067.183",
+    "Date": "05-03-2009, 01-03-2009, 03-03-2009, 01-03-2009, 07-03-2009, 04-03-2009",
+    "AccessionNumber": "4953-(1-8)",
+    "Type": "Brochure",
+    "States": "असम, उत्तर प्रदेश, दिल्ली, महाराष्ट्र, पंजाब",
+    "Places": "Guwahati, Lucknow, Delhi, Mumbai, Amritsar"
 }

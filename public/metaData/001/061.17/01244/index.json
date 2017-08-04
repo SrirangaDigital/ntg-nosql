@@ -1,9 +1,9 @@
 {
-	"id" : "001/061.17/01244",
-	"AccessionCards" : "056.363, 056.395, 056.451, 065.052, 066.025, 067.036, 069.562",
-	"State" : "Chandigarh, Jammu and Kashmir, Manipur, Madhya Pradesh, Delhi, Manipur",
-	"Place" : "Jammu, Imphal, Bhopal, Delhi, Imphal",
-	"Date" : "23-12-1992, 21-12-1992, 22-12-1992, 25-12-1992, 24-12-1992, 21-12-1992, 25-12-1992",
-	"AccessionNumber" : "1244",
-	"Type" : "Brochure"
+    "id": "001/061.17/01244",
+    "AccessionCards": "056.363, 056.395, 056.451, 065.052, 066.025, 067.036, 069.562",
+    "Date": "23-12-1992, 21-12-1992, 22-12-1992, 25-12-1992, 24-12-1992, 21-12-1992, 25-12-1992",
+    "AccessionNumber": "1244",
+    "Type": "Brochure",
+    "States": "चंडीगढ़†, जम्मू और कश्मीर, मणिपुर, मध्य प्रदेश, दिल्ली, मणिपुर",
+    "Places": "Jammu, Imphal, Bhopal, Delhi, Imphal"
 }

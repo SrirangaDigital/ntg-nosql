@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/02488",
-	"AccessionCards" : "064.114, 065.651, 065.652",
-	"State" : "Delhi, Madhya Pradesh",
-	"Place" : "Delhi, Bhopal",
-	"Date" : "00-00-1990",
-	"Type" : "Brochure"
+    "id": "001/999.99/02488",
+    "AccessionCards": "064.114, 065.651, 065.652",
+    "Date": "00-00-1990",
+    "Type": "Brochure",
+    "States": "दिल्ली, मध्य प्रदेश",
+    "Places": "Delhi, Bhopal"
 }

@@ -1,9 +1,9 @@
 {
-	"id" : "001/058.07/01804",
-	"AccessionCards" : "056.262, 056.522, 064.321, 064.322, 066.244, 066.245, 066.265, 066.614, 069.627, 069.628",
-	"State" : "Gujarat, Jammu and Kashmir, Delhi, Maharashtra, Rajasthan, Maharashtra",
-	"Place" : "Ahmedabad, Jammu, Delhi, Mumbai, Jodhpur, Mumbai",
-	"Date" : "15-10-1985, 06-07-1996, 11-10-1985, 14-10-1985, 11-10-1985",
-	"AccessionNumber" : "1804",
-	"Type" : "Brochure"
+    "id": "001/058.07/01804",
+    "AccessionCards": "056.262, 056.522, 064.321, 064.322, 066.244, 066.245, 066.265, 066.614, 069.627, 069.628",
+    "Date": "15-10-1985, 06-07-1996, 11-10-1985, 14-10-1985, 11-10-1985",
+    "AccessionNumber": "1804",
+    "Type": "Brochure",
+    "States": "गुजरात, जम्मू और कश्मीर, दिल्ली, महाराष्ट्र, राजस्थान, महाराष्ट्र",
+    "Places": "Ahmedabad, Jammu, Delhi, Mumbai, Jodhpur, Mumbai"
 }

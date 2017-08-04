@@ -1,9 +1,9 @@
 {
-	"id" : "001/054.18/00786",
-	"AccessionCards" : "062.736, 066.480",
-	"State" : "Delhi, Rajasthan",
-	"Place" : "Delhi, Udaipur",
-	"Date" : "20-02-1960",
-	"AccessionNumber" : "786",
-	"Type" : "Brochure"
+    "id": "001/054.18/00786",
+    "AccessionCards": "062.736, 066.480",
+    "Date": "20-02-1960",
+    "AccessionNumber": "786",
+    "Type": "Brochure",
+    "States": "दिल्ली, राजस्थान",
+    "Places": "Delhi, Udaipur"
 }

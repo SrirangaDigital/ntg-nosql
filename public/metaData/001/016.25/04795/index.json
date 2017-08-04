@@ -1,9 +1,9 @@
 {
-	"id" : "001/016.25/04795",
-	"AccessionCards" : "056.128, 056.137, 056.146, 056.149, 056.150, 056.168, 056.169, 056.170, 056.171, 056.172, 056.183, 057.478, 058.041, 058.270, 058.271, 062.827, 065.112, 065.113, 065.114, 065.510, 065.511, 066.821, 067.213, 067.214, 067.422, 067.428, 067.429, 067.500",
-	"State" : "Kerala, Delhi, Tamil Nadu, Madhya Pradesh, Punjab, West Bengal, Puducherry",
-	"Place" : "Kalikutt, Thiruvananthapuram, Trichur, Nedumangad, Delhi, Bhopal, Mexico, America, Chandigarh, Kolkata",
-	"Date" : "19-12-1998, 19-09-1998, 19-12-1998",
-	"AccessionNumber" : "4795",
-	"Type" : "Brochure"
+    "id": "001/016.25/04795",
+    "AccessionCards": "056.128, 056.137, 056.146, 056.149, 056.150, 056.168, 056.169, 056.170, 056.171, 056.172, 056.183, 057.478, 058.041, 058.270, 058.271, 062.827, 065.112, 065.113, 065.114, 065.510, 065.511, 066.821, 067.213, 067.214, 067.422, 067.428, 067.429, 067.500",
+    "Date": "19-12-1998, 19-09-1998, 19-12-1998",
+    "AccessionNumber": "4795",
+    "Type": "Brochure",
+    "States": "केरल, दिल्ली, तमिलनाडु, मध्य प्रदेश, पंजाब, पश्चिम बंगाल, पॉण्डिचेरी",
+    "Places": "Kalikutt, Thiruvananthapuram, Trichur, Nedumangad, Delhi, Bhopal, Mexico, America, Chandigarh, Kolkata"
 }

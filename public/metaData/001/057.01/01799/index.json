@@ -1,9 +1,9 @@
 {
-	"id" : "001/057.01/01799",
-	"AccessionCards" : "056.312, 064.185, 066.390",
-	"State" : "Goa, Delhi, Maharashtra",
-	"Place" : "Panaji, Delhi, Mumbai",
-	"Date" : "24-02-0000, 23-02-0000",
-	"AccessionNumber" : "1799",
-	"Type" : "Brochure"
+    "id": "001/057.01/01799",
+    "AccessionCards": "056.312, 064.185, 066.390",
+    "Date": "24-02-0000, 23-02-0000",
+    "AccessionNumber": "1799",
+    "Type": "Brochure",
+    "States": "गोआ, दिल्ली, महाराष्ट्र",
+    "Places": "Panaji, Delhi, Mumbai"
 }

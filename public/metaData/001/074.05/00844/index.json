@@ -1,9 +1,9 @@
 {
-	"id" : "001/074.05/00844",
-	"AccessionCards" : "054.389, 062.092, 062.173, 065.120, 065.150, 065.182, 065.183, 066.348",
-	"State" : "Uttar Pradesh, Delhi, Madhya Pradesh, Maharashtra",
-	"Place" : "Kanpur, Delhi, Indore, Ujjain, Mumbai",
-	"Date" : "20-02-1993, 26-02-1993, 20-02-1993",
-	"AccessionNumber" : "844-(1-6)",
-	"Type" : "Brochure"
+    "id": "001/074.05/00844",
+    "AccessionCards": "054.389, 062.092, 062.173, 065.120, 065.150, 065.182, 065.183, 066.348",
+    "Date": "20-02-1993, 26-02-1993, 20-02-1993",
+    "AccessionNumber": "844-(1-6)",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, दिल्ली, मध्य प्रदेश, महाराष्ट्र",
+    "Places": "Kanpur, Delhi, Indore, Ujjain, Mumbai"
 }

@@ -1,9 +1,9 @@
 {
-	"id" : "001/022.03/02482",
-	"AccessionCards" : "066.338, 070.257",
-	"State" : "Maharashtra, Delhi",
-	"Place" : "Mumbai, Delhi",
-	"Date" : "27-03-1964",
-	"AccessionNumber" : "2482(1)",
-	"Type" : "Brochure"
+    "id": "001/022.03/02482",
+    "AccessionCards": "066.338, 070.257",
+    "Date": "27-03-1964",
+    "AccessionNumber": "2482(1)",
+    "Type": "Brochure",
+    "States": "महाराष्ट्र, दिल्ली",
+    "Places": "Mumbai, Delhi"
 }

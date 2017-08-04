@@ -1,9 +1,9 @@
 {
-	"id" : "001/044.05/03345",
-	"AccessionCards" : "061.296, 061.297, 061.298, 061.300",
-	"State" : "Delhi",
-	"Place" : "Delhi",
-	"Date" : "11-05-1999, 12-05-1999",
-	"AccessionNumber" : "3345(1-10)",
-	"Type" : "Brochure"
+    "id": "001/044.05/03345",
+    "AccessionCards": "061.296, 061.297, 061.298, 061.300",
+    "State": "दिल्ली",
+    "Place": "Delhi",
+    "Date": "11-05-1999, 12-05-1999",
+    "AccessionNumber": "3345(1-10)",
+    "Type": "Brochure"
 }

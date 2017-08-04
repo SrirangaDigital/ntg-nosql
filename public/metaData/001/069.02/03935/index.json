@@ -1,9 +1,9 @@
 {
-	"id" : "001/069.02/03935",
-	"AccessionCards" : "063.455, 066.851, 067.826, 067.863, 067.864, 067.865, 067.866, 067.867",
-	"State" : "Delhi, Bihar",
-	"Place" : "Delhi, Janakpur, Nepal, Begusarai, Madhubani",
-	"Date" : "29-06-2008, 27-06-2008, 28-06-2008, 27-06-2008, 29-06-2008, 28-06-2008, 27-06-2008",
-	"AccessionNumber" : "3935",
-	"Type" : "Brochure"
+    "id": "001/069.02/03935",
+    "AccessionCards": "063.455, 066.851, 067.826, 067.863, 067.864, 067.865, 067.866, 067.867",
+    "Date": "29-06-2008, 27-06-2008, 28-06-2008, 27-06-2008, 29-06-2008, 28-06-2008, 27-06-2008",
+    "AccessionNumber": "3935",
+    "Type": "Brochure",
+    "States": "दिल्ली, बिहार",
+    "Places": "Delhi, Janakpur, Nepal, Begusarai, Madhubani"
 }

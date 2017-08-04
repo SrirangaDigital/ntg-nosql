@@ -1,9 +1,9 @@
 {
-	"id" : "001/057.05/05075",
-	"AccessionCards" : "054.168, 054.169, 055.340, 055.341, 056.076, 056.077, 056.195, 056.196, 056.259, 056.260, 064.194, 064.195, 065.078, 065.079, 066.263, 066.264",
-	"State" : "Odisha, Uttar Pradesh, Karnataka, Kerala, Gujarat, Delhi, Manipur, Maharashtra",
-	"Place" : "Bhubaneswar, Lucknow, Bangalore, Trivandrum, Ahmedabad, Delhi, Imphal, Mumbai",
-	"Date" : "11-01-1986, 10-01-1986, 14-01-1986, 12-01-1986, 15-01-1986, 09-01-1986, 09-02-1986, 13-01-1986",
-	"AccessionNumber" : "5075-(1-7)",
-	"Type" : "Brochure"
+    "id": "001/057.05/05075",
+    "AccessionCards": "054.168, 054.169, 055.340, 055.341, 056.076, 056.077, 056.195, 056.196, 056.259, 056.260, 064.194, 064.195, 065.078, 065.079, 066.263, 066.264",
+    "Date": "11-01-1986, 10-01-1986, 14-01-1986, 12-01-1986, 15-01-1986, 09-01-1986, 09-02-1986, 13-01-1986",
+    "AccessionNumber": "5075-(1-7)",
+    "Type": "Brochure",
+    "States": "ओड़िशा, उत्तर प्रदेश, कर्नाटक, केरल, गुजरात, दिल्ली, मणिपुर, महाराष्ट्र",
+    "Places": "Bhubaneswar, Lucknow, Bangalore, Trivandrum, Ahmedabad, Delhi, Imphal, Mumbai"
 }

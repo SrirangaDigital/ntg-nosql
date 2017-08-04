@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/03129",
-	"AccessionCards" : "055.474, 066.410",
-	"State" : "Uttar Pradesh, Maharashtra",
-	"Place" : "Varanasi, Mumbai",
-	"Date" : "24-03-1998, 18-11-1997",
-	"Type" : "Brochure"
+    "id": "001/999.99/03129",
+    "AccessionCards": "055.474, 066.410",
+    "Date": "24-03-1998, 18-11-1997",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, महाराष्ट्र",
+    "Places": "Varanasi, Mumbai"
 }

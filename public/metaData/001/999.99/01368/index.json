@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/01368",
-	"AccessionCards" : "056.206, 056.207, 056.731",
-	"State" : "Kerala, Delhi",
-	"Place" : "Trivandrum, Delhi",
-	"Date" : "14-01-1996, 06-12-1974",
-	"Type" : "Brochure"
+    "id": "001/999.99/01368",
+    "AccessionCards": "056.206, 056.207, 056.731",
+    "Date": "14-01-1996, 06-12-1974",
+    "Type": "Brochure",
+    "States": "केरल, दिल्ली",
+    "Places": "Trivandrum, Delhi"
 }

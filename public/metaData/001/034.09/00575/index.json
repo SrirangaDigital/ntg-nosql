@@ -1,9 +1,9 @@
 {
-	"id" : "001/034.09/00575",
-	"AccessionCards" : "054.028, 054.029, 054.134, 054.201, 058.097, 058.163, 063.185, 063.186, 066.092, 067.296, 067.497, 069.487, 069.495, 070.256",
-	"State" : "Assam, Andhra Pradesh, Odisha, Delhi, Maharashtra, West Bengal",
-	"Place" : "Guwahati, Hyderabad, Rourkela, Delhi, Nagpur, Kolkata, Howrah, Kolkata, Hevada",
-	"Date" : "10-07-1977, 04-07-1977, 04-07-1977, 11-07-1977, 10-07-1977, 05-07-1977",
-	"AccessionNumber" : "575(1-8)",
-	"Type" : "Brochure"
+    "id": "001/034.09/00575",
+    "AccessionCards": "054.028, 054.029, 054.134, 054.201, 058.097, 058.163, 063.185, 063.186, 066.092, 067.296, 067.497, 069.487, 069.495, 070.256",
+    "Date": "10-07-1977, 04-07-1977, 04-07-1977, 11-07-1977, 10-07-1977, 05-07-1977",
+    "AccessionNumber": "575(1-8)",
+    "Type": "Brochure",
+    "States": "असम, आंध्र प्रदेश, ओड़िशा, दिल्ली, महाराष्ट्र, पश्चिम बंगाल",
+    "Places": "Guwahati, Hyderabad, Rourkela, Delhi, Nagpur, Kolkata, Howrah, Kolkata, Hevada"
 }

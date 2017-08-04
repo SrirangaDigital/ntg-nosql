@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/01805",
-	"AccessionCards" : "054.022, 054.100, 054.197, 064.267, 064.268, 065.105, 067.459, 069.521, 069.582",
-	"State" : "Assam, Odisha, Delhi, Manipur, West Bengal, Manipur",
-	"Place" : "Guwahati, Lakhimpur, Bhubaneswar, Delhi, Imphal, Kolkata, Imphal",
-	"Date" : "23-10-1986, 25-10-1986, 23-10-1986, 24-10-1986, 27-10-1986",
-	"Type" : "Brochure"
+    "id": "001/999.99/01805",
+    "AccessionCards": "054.022, 054.100, 054.197, 064.267, 064.268, 065.105, 067.459, 069.521, 069.582",
+    "Date": "23-10-1986, 25-10-1986, 23-10-1986, 24-10-1986, 27-10-1986",
+    "Type": "Brochure",
+    "States": "असम, ओड़िशा, दिल्ली, मणिपुर, पश्चिम बंगाल, मणिपुर",
+    "Places": "Guwahati, Lakhimpur, Bhubaneswar, Delhi, Imphal, Kolkata, Imphal"
 }

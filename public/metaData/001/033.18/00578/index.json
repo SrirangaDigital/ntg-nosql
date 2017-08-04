@@ -1,9 +1,9 @@
 {
-	"id" : "001/033.18/00578",
-	"AccessionCards" : "054.007, 054.135, 054.200, 054.202, 057.415, 063.182, 063.183, 063.184, 064.014, 066.423, 067.371, 067.468, 069.464, 069.514",
-	"State" : "Assam, Andhra Pradesh, Odisha, Delhi, Maharashtra, West Bengal, Delhi, West Bengal",
-	"Place" : "Hyderabad, Rourkela, Delhi, Mumbai, Kolkata, Chittaranjan, Delhi, Kolkata",
-	"Date" : "02-05-1976, 02-03-1976, 09-03-1976, 03-05-1976, 06-05-1976",
-	"AccessionNumber" : "578(1-9)",
-	"Type" : "Brochure"
+    "id": "001/033.18/00578",
+    "AccessionCards": "054.007, 054.135, 054.200, 054.202, 057.415, 063.182, 063.183, 063.184, 064.014, 066.423, 067.371, 067.468, 069.464, 069.514",
+    "Date": "02-05-1976, 02-03-1976, 09-03-1976, 03-05-1976, 06-05-1976",
+    "AccessionNumber": "578(1-9)",
+    "Type": "Brochure",
+    "States": "असम, आंध्र प्रदेश, ओड़िशा, दिल्ली, महाराष्ट्र, पश्चिम बंगाल, दिल्ली, पश्चिम बंगाल",
+    "Places": "Hyderabad, Rourkela, Delhi, Mumbai, Kolkata, Chittaranjan, Delhi, Kolkata"
 }

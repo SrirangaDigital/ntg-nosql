@@ -1,9 +1,9 @@
 {
-	"id" : "001/026.24/05029",
-	"AccessionCards" : "057.420, 057.421, 057.424, 057.425, 057.426, 057.428, 057.429",
-	"State" : "Delhi",
-	"Place" : "Delhi",
-	"Date" : "00-00-0000",
-	"AccessionNumber" : "5029(1-3)",
-	"Type" : "Brochure"
+    "id": "001/026.24/05029",
+    "AccessionCards": "057.420, 057.421, 057.424, 057.425, 057.426, 057.428, 057.429",
+    "State": "दिल्ली",
+    "Place": "Delhi",
+    "Date": "00-00-0000",
+    "AccessionNumber": "5029(1-3)",
+    "Type": "Brochure"
 }

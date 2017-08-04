@@ -1,9 +1,9 @@
 {
-	"id" : "001/058.03/01835",
-	"AccessionCards" : "064.180, 065.004",
-	"State" : "Delhi, Manipur",
-	"Place" : "Delhi",
-	"Date" : "00-00-0000",
-	"AccessionNumber" : "1835",
-	"Type" : "Brochure"
+    "id": "001/058.03/01835",
+    "AccessionCards": "064.180, 065.004",
+    "Place": "Delhi",
+    "Date": "00-00-0000",
+    "AccessionNumber": "1835",
+    "Type": "Brochure",
+    "States": "दिल्ली, मणिपुर"
 }

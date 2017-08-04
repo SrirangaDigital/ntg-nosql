@@ -1,9 +1,9 @@
 {
-	"id" : "001/048.05/03245",
-	"AccessionCards" : "058.049, 058.050",
-	"State" : "Delhi",
-	"Place" : "Delhi",
-	"Date" : "17-03-2000",
-	"AccessionNumber" : "3245",
-	"Type" : "Brochure"
+    "id": "001/048.05/03245",
+    "AccessionCards": "058.049, 058.050",
+    "State": "दिल्ली",
+    "Place": "Delhi",
+    "Date": "17-03-2000",
+    "AccessionNumber": "3245",
+    "Type": "Brochure"
 }

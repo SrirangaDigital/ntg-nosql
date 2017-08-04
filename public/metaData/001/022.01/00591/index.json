@@ -1,9 +1,9 @@
 {
-	"id" : "001/022.01/00591",
-	"AccessionCards" : "057.023, 057.024, 066.828, 066-829, 070.083, 070.138",
-	"State" : "Delhi, Delhi",
-	"Place" : "Delhi, Scotland, England, Delhi",
-	"Date" : "20-11-1989",
-	"AccessionNumber" : "591",
-	"Type" : "Brochure"
+    "id": "001/022.01/00591",
+    "AccessionCards": "057.023, 057.024, 066.828, 066-829, 070.083, 070.138",
+    "Date": "20-11-1989",
+    "AccessionNumber": "591",
+    "Type": "Brochure",
+    "States": "दिल्ली, दिल्ली",
+    "Places": "Delhi, Scotland, England, Delhi"
 }

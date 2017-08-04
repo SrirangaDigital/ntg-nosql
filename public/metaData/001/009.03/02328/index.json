@@ -1,9 +1,9 @@
 {
-	"id" : "001/009.03/02328",
-	"AccessionCards" : "054.499.055.049",
-	"State" : "Uttar Pradesh",
-	"Place" : "Ghazipur, Mathura",
-	"Date" : "23-04-1988, 28-09-1984",
-	"AccessionNumber" : "2328",
-	"Type" : "Brochure"
+    "id": "001/009.03/02328",
+    "AccessionCards": "054.499.055.049",
+    "State": "उत्तर प्रदेश",
+    "Date": "23-04-1988, 28-09-1984",
+    "AccessionNumber": "2328",
+    "Type": "Brochure",
+    "Places": "Ghazipur, Mathura"
 }

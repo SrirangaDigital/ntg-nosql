@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/02779",
-	"AccessionCards" : "054.555, 065.667",
-	"State" : "Uttar Pradesh, Madhya Pradesh",
-	"Place" : "Gorakhpur, Bhopal",
-	"Date" : "14-10-1989",
-	"Type" : "Brochure"
+    "id": "001/999.99/02779",
+    "AccessionCards": "054.555, 065.667",
+    "Date": "14-10-1989",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, मध्य प्रदेश",
+    "Places": "Gorakhpur, Bhopal"
 }

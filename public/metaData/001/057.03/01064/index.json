@@ -1,9 +1,9 @@
 {
-	"id" : "001/057.03/01064",
-	"AccessionCards" : "056.267, 064.320, 065.275, 065.334, 066.276, 066.613, 069.631",
-	"State" : "Gujarat, Delhi, Madhya Pradesh, Maharashtra, Rajasthan, Maharashtra",
-	"Place" : "Bagota, Delhi, Jabalpur, Bhopal, Mumbai, Jodhpur, Mumbai",
-	"Date" : "01-02-1990, 11-02-1992, 30-01-1990, 29-01-1990, 30-01-1990",
-	"AccessionNumber" : "1064-(1-5)",
-	"Type" : "Brochure"
+    "id": "001/057.03/01064",
+    "AccessionCards": "056.267, 064.320, 065.275, 065.334, 066.276, 066.613, 069.631",
+    "Date": "01-02-1990, 11-02-1992, 30-01-1990, 29-01-1990, 30-01-1990",
+    "AccessionNumber": "1064-(1-5)",
+    "Type": "Brochure",
+    "States": "गुजरात, दिल्ली, मध्य प्रदेश, महाराष्ट्र, राजस्थान, महाराष्ट्र",
+    "Places": "Bagota, Delhi, Jabalpur, Bhopal, Mumbai, Jodhpur, Mumbai"
 }

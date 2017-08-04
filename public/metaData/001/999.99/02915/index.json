@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/02915",
-	"AccessionCards" : "055.149, 055.438, 055.439, 064.034, 066.056, 066.231, 067.414, 067.582",
-	"State" : "Uttar Pradesh, Delhi, Madhya Pradesh, Maharashtra, West Bengal, Bihar",
-	"Place" : "Lucknow, Delhi, Raipur, Mumbai, Kolkata, Patna",
-	"Date" : "24-09-1986",
-	"Type" : "Brochure"
+    "id": "001/999.99/02915",
+    "AccessionCards": "055.149, 055.438, 055.439, 064.034, 066.056, 066.231, 067.414, 067.582",
+    "Date": "24-09-1986",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, दिल्ली, मध्य प्रदेश, महाराष्ट्र, पश्चिम बंगाल, बिहार",
+    "Places": "Lucknow, Delhi, Raipur, Mumbai, Kolkata, Patna"
 }

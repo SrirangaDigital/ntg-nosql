@@ -1,9 +1,9 @@
 {
-	"id" : "001/058.05/01814",
-	"AccessionCards" : "054.088, 054.192, 065.033, 065.099, 065.100, 067.477, 069.533, 069.534, 069.554, 069.555",
-	"State" : "Assam, Odisha, Manipur, West Bengal, Manipur",
-	"Place" : "North Lakhimpur, Bhubaneswar, Imphal, Murshidabad, Imphal",
-	"Date" : "27-07-1988, 28-07-1988, 27-07-1988, 27-07-1998, 29-07-1988, 27-07-1988",
-	"AccessionNumber" : "1814",
-	"Type" : "Brochure"
+    "id": "001/058.05/01814",
+    "AccessionCards": "054.088, 054.192, 065.033, 065.099, 065.100, 067.477, 069.533, 069.534, 069.554, 069.555",
+    "Date": "27-07-1988, 28-07-1988, 27-07-1988, 27-07-1998, 29-07-1988, 27-07-1988",
+    "AccessionNumber": "1814",
+    "Type": "Brochure",
+    "States": "असम, ओड़िशा, मणिपुर, पश्चिम बंगाल, मणिपुर",
+    "Places": "North Lakhimpur, Bhubaneswar, Imphal, Murshidabad, Imphal"
 }

@@ -1,9 +1,9 @@
 {
-	"id" : "001/061.22/04845",
-	"AccessionCards" : "055.154, 055.155, 056.898",
-	"State" : "Uttar Pradesh, Delhi",
-	"Place" : "Lucknow, Delhi",
-	"Date" : "17-02-1992",
-	"AccessionNumber" : "4845",
-	"Type" : "Brochure"
+    "id": "001/061.22/04845",
+    "AccessionCards": "055.154, 055.155, 056.898",
+    "Date": "17-02-1992",
+    "AccessionNumber": "4845",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, दिल्ली",
+    "Places": "Lucknow, Delhi"
 }

@@ -1,9 +1,9 @@
 {
-	"id" : "001/037.08/00142",
-	"AccessionCards" : "063.528, 066.487",
-	"State" : "Delhi, Rajasthan",
-	"Place" : "Delhi, Jaipur",
-	"Date" : "15-04-1972",
-	"AccessionNumber" : "142",
-	"Type" : "Brochure"
+    "id": "001/037.08/00142",
+    "AccessionCards": "063.528, 066.487",
+    "Date": "15-04-1972",
+    "AccessionNumber": "142",
+    "Type": "Brochure",
+    "States": "दिल्ली, राजस्थान",
+    "Places": "Delhi, Jaipur"
 }

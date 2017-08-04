@@ -1,9 +1,9 @@
 {
-	"id" : "001/005.02/02204",
-	"AccessionCards" : "054.353, 069.181",
-	"State" : "Uttar Pradesh",
-	"Place" : "Kanpur, Khanpur",
-	"Date" : "08-06-1985",
-	"AccessionNumber" : "2204",
-	"Type" : "Brochure"
+    "id": "001/005.02/02204",
+    "AccessionCards": "054.353, 069.181",
+    "State": "उत्तर प्रदेश",
+    "Date": "08-06-1985",
+    "AccessionNumber": "2204",
+    "Type": "Brochure",
+    "Places": "Kanpur, Khanpur"
 }

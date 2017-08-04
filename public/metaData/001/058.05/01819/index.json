@@ -1,9 +1,9 @@
 {
-	"id" : "001/058.05/01819",
-	"AccessionCards" : "054.115, 056.046, 056.194, 056.598, 064.319, 067.816, 069.411",
-	"State" : "Andhra Pradesh, Karnataka, Kerala, Tamil Nadu, Delhi, Bihar, Tamil Nadu",
-	"Place" : "Visakhapatnam, Bangalore, Trivandrum, Madras, Delhi, Purnia, Chennai",
-	"Date" : "22-08-1988, 25-08-1988, 22-08-1988, 04-08-1996, 25-08-1988",
-	"AccessionNumber" : "1819",
-	"Type" : "Brochure"
+    "id": "001/058.05/01819",
+    "AccessionCards": "054.115, 056.046, 056.194, 056.598, 064.319, 067.816, 069.411",
+    "Date": "22-08-1988, 25-08-1988, 22-08-1988, 04-08-1996, 25-08-1988",
+    "AccessionNumber": "1819",
+    "Type": "Brochure",
+    "States": "आंध्र प्रदेश, कर्नाटक, केरल, तमिलनाडु, दिल्ली, बिहार, तमिलनाडु",
+    "Places": "Visakhapatnam, Bangalore, Trivandrum, Madras, Delhi, Purnia, Chennai"
 }

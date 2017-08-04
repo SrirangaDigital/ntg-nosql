@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/02540",
-	"AccessionCards" : "056.079, 056.214, 058.375, 066.201, 066.202, 066.235, 067.355, 067.440, 068.604, 069.518, 069.623",
-	"State" : "Karnataka, Kerala, Delhi, Maharashtra, West Bengal, Maharashtra",
-	"Place" : "Bangalore, Trivandrum, Delhi, Mumbai, Kolkata, Bombay, Kolkata, Mumbai",
-	"Date" : "03-11-1989, 03-01-1989",
-	"Type" : "Brochure"
+    "id": "001/999.99/02540",
+    "AccessionCards": "056.079, 056.214, 058.375, 066.201, 066.202, 066.235, 067.355, 067.440, 068.604, 069.518, 069.623",
+    "Date": "03-11-1989, 03-01-1989",
+    "Type": "Brochure",
+    "States": "कर्नाटक, केरल, दिल्ली, महाराष्ट्र, पश्चिम बंगाल, महाराष्ट्र",
+    "Places": "Bangalore, Trivandrum, Delhi, Mumbai, Kolkata, Bombay, Kolkata, Mumbai"
 }

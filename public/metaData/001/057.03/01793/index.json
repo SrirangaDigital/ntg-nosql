@@ -1,9 +1,9 @@
 {
-	"id" : "001/057.03/01793",
-	"AccessionCards" : "055.172, 056.042, 056.500, 064.258, 064.259, 065.007, 065.010, 065.301, 066.648, 067.205, 069.383, 069.540, 069.543",
-	"State" : "Uttar Pradesh, Karnataka, Jammu and Kashmir, Delhi, Manipur, Madhya Pradesh, Haryana, Punjab, Jammu and Kashmir, Manipur",
-	"Place" : "Lucknow, Bangalore, Jammu, Delhi, Imphal, Bhopal, Amritsar, Jammu, Imphal",
-	"Date" : "15-03-1993, 19-03-1993, 15-03-1993, 21-03-1993, 15-02-1993, 15-03-1993, 16-03-1993, 15-03-1993, 19-03-1993, 21-03-1993, 17-03-1993",
-	"AccessionNumber" : "1793",
-	"Type" : "Brochure"
+    "id": "001/057.03/01793",
+    "AccessionCards": "055.172, 056.042, 056.500, 064.258, 064.259, 065.007, 065.010, 065.301, 066.648, 067.205, 069.383, 069.540, 069.543",
+    "Date": "15-03-1993, 19-03-1993, 15-03-1993, 21-03-1993, 15-02-1993, 15-03-1993, 16-03-1993, 15-03-1993, 19-03-1993, 21-03-1993, 17-03-1993",
+    "AccessionNumber": "1793",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, कर्नाटक, जम्मू और कश्मीर, दिल्ली, मणिपुर, मध्य प्रदेश, हरियाणा, पंजाब, जम्मू और कश्मीर, मणिपुर",
+    "Places": "Lucknow, Bangalore, Jammu, Delhi, Imphal, Bhopal, Amritsar, Jammu, Imphal"
 }

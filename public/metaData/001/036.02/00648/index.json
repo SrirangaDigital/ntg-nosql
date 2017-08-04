@@ -1,9 +1,9 @@
 {
-	"id" : "001/036.02/00648",
-	"AccessionCards" : "063.389, 066.121, 069.597",
-	"State" : "Delhi, Maharashtra",
-	"Place" : "Delhi, Pune",
-	"Date" : "17-02-1979",
-	"AccessionNumber" : "648",
-	"Type" : "Brochure"
+    "id": "001/036.02/00648",
+    "AccessionCards": "063.389, 066.121, 069.597",
+    "Date": "17-02-1979",
+    "AccessionNumber": "648",
+    "Type": "Brochure",
+    "States": "दिल्ली, महाराष्ट्र",
+    "Places": "Delhi, Pune"
 }

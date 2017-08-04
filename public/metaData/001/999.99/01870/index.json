@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/01870",
-	"AccessionCards" : "055.437, 062.579, 062.581",
-	"State" : "Uttar Pradesh, Delhi",
-	"Place" : "Lucknow, Delhi",
-	"Date" : "01-07-1993",
-	"Type" : "Brochure"
+    "id": "001/999.99/01870",
+    "AccessionCards": "055.437, 062.579, 062.581",
+    "Date": "01-07-1993",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, दिल्ली",
+    "Places": "Lucknow, Delhi"
 }

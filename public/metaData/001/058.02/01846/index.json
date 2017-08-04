@@ -1,9 +1,9 @@
 {
-	"id" : "001/058.02/01846",
-	"AccessionCards" : "054.196, 056.083, 056.493, 064.311, 064.454, 069.378, 069.379",
-	"State" : "Odisha, Karnataka, Jammu and Kashmir, Delhi, Jammu and Kashmir",
-	"Place" : "Bhubaneswar, Bangalore, Jammu, Delhi, Jammu",
-	"Date" : "04-02-1995, 04-04-1995, 04-02-1995, 05-02-1995",
-	"AccessionNumber" : "1846",
-	"Type" : "Brochure"
+    "id": "001/058.02/01846",
+    "AccessionCards": "054.196, 056.083, 056.493, 064.311, 064.454, 069.378, 069.379",
+    "Date": "04-02-1995, 04-04-1995, 04-02-1995, 05-02-1995",
+    "AccessionNumber": "1846",
+    "Type": "Brochure",
+    "States": "ओड़िशा, कर्नाटक, जम्मू और कश्मीर, दिल्ली, जम्मू और कश्मीर",
+    "Places": "Bhubaneswar, Bangalore, Jammu, Delhi, Jammu"
 }

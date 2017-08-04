@@ -1,8 +1,8 @@
 {
-	"id" : "001/999.99/00709",
-	"AccessionCards" : "056.200, 064.050, 064.051, 064.090, 065.029, 066.324, 066.416, 067.320, 069.503, 069.551",
-	"State" : "Kerala, Delhi, Manipur, Maharashtra, West Bengal, Manipur",
-	"Place" : "Trivandrum, Delhi, Imphal, Mumbai, Kolkata, Imphal",
-	"Date" : "01-10-1985, 01-08-1985, 01-10-1985, 07-10-1985",
-	"Type" : "Brochure"
+    "id": "001/999.99/00709",
+    "AccessionCards": "056.200, 064.050, 064.051, 064.090, 065.029, 066.324, 066.416, 067.320, 069.503, 069.551",
+    "Date": "01-10-1985, 01-08-1985, 01-10-1985, 07-10-1985",
+    "Type": "Brochure",
+    "States": "केरल, दिल्ली, मणिपुर, महाराष्ट्र, पश्चिम बंगाल, मणिपुर",
+    "Places": "Trivandrum, Delhi, Imphal, Mumbai, Kolkata, Imphal"
 }

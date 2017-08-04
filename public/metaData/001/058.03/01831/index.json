@@ -1,9 +1,9 @@
 {
-	"id" : "001/058.03/01831",
-	"AccessionCards" : "055.491, 056.450, 058.165, 064.256, 066.723, 067.206, 069.129",
-	"State" : "Uttar Pradesh, Jammu and Kashmir, Delhi, Himachal Pradesh, Punjab, Himachal Pradesh",
-	"Place" : "Varanasi, Jammu, Delhi, Shimla, Ambala, Shimla",
-	"Date" : "10-10-1991, 11-10-1991, 14-10-1991, 10-10-1991, 12-10-1991",
-	"AccessionNumber" : "1831",
-	"Type" : "Brochure"
+    "id": "001/058.03/01831",
+    "AccessionCards": "055.491, 056.450, 058.165, 064.256, 066.723, 067.206, 069.129",
+    "Date": "10-10-1991, 11-10-1991, 14-10-1991, 10-10-1991, 12-10-1991",
+    "AccessionNumber": "1831",
+    "Type": "Brochure",
+    "States": "उत्तर प्रदेश, जम्मू और कश्मीर, दिल्ली, हिमाचल प्रदेश, पंजाब, हिमाचल प्रदेश",
+    "Places": "Varanasi, Jammu, Delhi, Shimla, Ambala, Shimla"
 }

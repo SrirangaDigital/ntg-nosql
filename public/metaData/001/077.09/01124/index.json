@@ -1,9 +1,9 @@
 {
-	"id" : "001/077.09/01124",
-	"AccessionCards" : "065.209, 065.213, 065.324",
-	"State" : "Madhya Pradesh",
-	"Place" : "Ujjain, Bhopal",
-	"Date" : "24-06-1982, 27-08-1993",
-	"AccessionNumber" : "1124",
-	"Type" : "Brochure"
+    "id": "001/077.09/01124",
+    "AccessionCards": "065.209, 065.213, 065.324",
+    "State": "मध्य प्रदेश",
+    "Date": "24-06-1982, 27-08-1993",
+    "AccessionNumber": "1124",
+    "Type": "Brochure",
+    "Places": "Ujjain, Bhopal"
 }
