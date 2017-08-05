@@ -49,74 +49,98 @@ class data extends Controller {
 	// Use this method for global changes in json files
 	public function modify() {
 
-		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL . '001/', $pattern = '/index.json$/i');
+		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL . '003/', $pattern = '/index.json$/i');
 		
 		foreach ($jsonFiles as $jsonFile) {
+
+			$parentId = preg_replace('/.*003\/(.*)\/\d{5}\/.*/', "$1", $jsonFile);
+			$parentJsonFile = PHY_METADATA_URL . '003/' . $parentId . '.json';
+			$parentJsonFileOut = PHY_METADATA_URL . 'foreign/' . $parentId . '.json';
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
 
-			$state = $content['State'];
-			$state = str_replace('Assam', 'असम', $state);
-			$state = str_replace('Delhi', 'दिल्ली', $state);
-			$state = str_replace('Manipur', 'मणिपुर', $state);
-			$state = str_replace('Uttarakhand', 'उत्तराखण्ड', $state);
-			$state = str_replace('Odisha', 'ओड़िशा', $state);
-			$state = str_replace('Andhra Pradesh', 'आंध्र प्रदेश', $state);
-			$state = str_replace('Uttar Pradesh', 'उत्तर प्रदेश', $state);
-			$state = str_replace('Kerala', 'केरल', $state);
-			$state = str_replace('Karnataka', 'कर्नाटक', $state);
-			$state = str_replace('Goa', 'गोआ', $state);
-			$state = str_replace('Gujarat', 'गुजरात', $state);
-			$state = str_replace('Puducherry', 'पॉण्डिचेरी', $state);
-			$state = str_replace('Chhattisgarh', 'छत्तीसगढ़', $state);
-			$state = str_replace('Chandigarh', 'चंडीगढ़†', $state);
-			$state = str_replace('Punjab', 'पंजाब', $state);
-			$state = str_replace('Jammu and Kashmir', 'जम्मू और कश्मीर', $state);
-			$state = str_replace('Maharashtra', 'महाराष्ट्र', $state);
-			$state = str_replace('West Bengal', 'पश्चिम बंगाल', $state);
-			$state = str_replace('Tamil Nadu', 'तमिलनाडु', $state);
-			$state = str_replace('Bihar', 'बिहार', $state);
-			$state = str_replace('Rajasthan', 'राजस्थान', $state);
-			$state = str_replace('Madhya Pradesh', 'मध्य प्रदेश', $state);
-			$state = str_replace('Haryana', 'हरियाणा', $state);
-			$state = str_replace('Himachal Pradesh', 'हिमाचल प्रदेश', $state);
-			$state = str_replace('Andaman and Nicobar Islands', 'अंडमान व निकोबार द्वीपसमूह', $state);
-			$state = str_replace('Arunachal Pradesh', 'अरुणाचल प्रदेश', $state);
-			$state = str_replace('Jharkhand', 'झारखंड', $state);
-			$state = str_replace('Meghalaya', 'मेघालय', $state);
-			$state = str_replace('Mizoram', 'मिज़ोरम', $state);
-			$state = str_replace('Sikkim', 'सिक्किम', $state);
-			$state = str_replace('Tripura', 'त्रिपुरा', $state);
+			$parentContentString = file_get_contents($parentJsonFile);
+			$parentContent = json_decode($parentContentString, true);
 
-			if(preg_match('/.*,.*/', $state)) {
+			$content['id'] = '003/' . $parentId . '/' . $content['id'];
 
-				$content['States'] = $state;
-				unset($content['State']);
-			}
-			elseif($state == ''){
+			$content['ColorType'] = $content['type'];
+			unset($content['type']);
 
-				unset($content['State']);
-			}
-			else{
+			$content = array_filter($content);
 
-				$content['State'] = $state;
+			$content['Type'] = 'Photograph';
+			$content['EventID'] = $parentId;
+
+			foreach (array_keys($content) as $key) {
+				
+				if($key != 'id') {
+					
+					$value = $content{$key};
+					unset($content{$key});
+
+					$content{ucwords($key)} = $value;
+				}
 			}
 
-			if(preg_match('/.*,.*/', $content['Place'])) {
+			if(isset($parentContent['state'])){
 
-				$content['Places'] = $content['Place'];
-				unset($content['Place']);
-			}
-			elseif($content['Place'] == ''){
-
-				unset($content['Place']);
+				$content['State'] = $parentContent['state'];
+				unset($parentContent['state']);
 			}
 
-			if($content['Date'] == '00-00-0000'){
+			if(isset($parentContent['State'])){
 
-				unset($content['Date']);
+				$content['State'] = $parentContent['State'];
+				unset($parentContent['State']);
 			}
+
+			if(isset($parentContent['troup'])){
+
+				$content['Troupe'] = $parentContent['troup'];
+				unset($parentContent['troup']);
+			}
+			
+			if(isset($parentContent['troupe'])){
+
+				$content['Troupe'] = $parentContent['troupe'];
+				unset($parentContent['troupe']);
+			}
+
+			if(isset($parentContent['date'])){
+
+				$content['Date'] = $parentContent['date'];
+				unset($parentContent['date']);
+			}
+
+			if(isset($parentContent['Date'])){
+
+				$content['Date'] = $parentContent['Date'];
+				unset($parentContent['Date']);
+			}
+
+			$parentContent['ForeignKeyId'] = $parentContent['albumID'];
+			unset($parentContent['albumID']);
+
+			$parentContent['ForeignKeyType'] = 'EventID';
+			
+			$content['AccessionCards'] = $parentContent['cardList'];
+			unset($parentContent['cardList']);
+
+			foreach (array_keys($parentContent) as $key) {
+				
+				$value = $parentContent{$key};
+				unset($parentContent{$key});
+
+				$parentContent{ucwords($key)} = $value;
+			}
+
+			$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+			$parentJson = json_encode($parentContent, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+
+			file_put_contents($jsonFile, $json);
+			file_put_contents($parentJsonFileOut, $parentJson);
 
 			// $content['Type'] = 'Photograph';
 
@@ -127,9 +151,7 @@ class data extends Controller {
 
 			// // Remove null elements
 			// $content = array_filter($content);
-			$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-			var_dump($jsonFile);
-			// file_put_contents($jsonFile, $json);
+			// var_dump($jsonFile);
 		}
 	}
 }
