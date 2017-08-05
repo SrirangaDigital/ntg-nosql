@@ -7,5 +7,6 @@
     "Light": "राजबिसारिया",
     "Director": "राजबिसारिया",
     "ForeignKeyId": "075.048",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.048"
 }

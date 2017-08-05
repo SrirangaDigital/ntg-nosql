@@ -4,5 +4,6 @@
     "Drama": "नादिरशाह",
     "Director": "शीला भाटिया",
     "ForeignKeyId": "074.315",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.315"
 }

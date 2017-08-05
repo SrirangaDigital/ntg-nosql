@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "शिव पारवती विवाह उर्फ दुष्ट तारक वध, हाथरस, श्याम प्रेस, 1983",
     "ForeignKeyId": "042.200",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.200"
 }

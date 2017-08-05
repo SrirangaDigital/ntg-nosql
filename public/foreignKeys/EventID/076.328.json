@@ -5,5 +5,6 @@
     "Writer": "जयनन्दन",
     "Event": "बिहार आर्ट थिएटर नाट्योत्सव",
     "ForeignKeyId": "076.328",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.328"
 }

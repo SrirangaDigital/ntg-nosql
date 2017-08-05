@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सुदर्शन मजीठिया (हिन्दी नाटककार)",
     "ForeignKeyId": "078.634",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.634"
 }

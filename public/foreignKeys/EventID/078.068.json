@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "लोक नृत्य - महासू",
     "ForeignKeyId": "078.068",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.068"
 }

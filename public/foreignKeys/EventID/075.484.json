@@ -14,5 +14,6 @@
     "Light": "रविन्दर मिश्रा, नरेश",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.484",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.484"
 }

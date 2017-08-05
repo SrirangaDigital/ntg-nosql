@@ -5,5 +5,6 @@
     "Writer": "अखिलेश खन्ना",
     "Director": "अखिलेश खन्न",
     "ForeignKeyId": "075.535",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.535"
 }

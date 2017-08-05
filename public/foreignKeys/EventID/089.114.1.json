@@ -4,5 +4,6 @@
     "Event": "इंटरनेशनल कॉफ्रेंस : पल अकाडेमी ऑफ फैसल",
     "Coordinate": "प्रसन्ना, अमाला अल्लन्ना, फैसल अल्काजी एवं अन्य",
     "ForeignKeyId": "089.114.1",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.114.1"
 }

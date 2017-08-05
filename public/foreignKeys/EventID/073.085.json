@@ -4,5 +4,6 @@
     "Drama": "शैय्या",
     "Writer": "रत्नाकर मतकरी",
     "ForeignKeyId": "073.085",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.085"
 }

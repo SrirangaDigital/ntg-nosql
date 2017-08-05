@@ -3,5 +3,6 @@
     "Place": "जमशेदपुर",
     "Drama": "घाटियाँ गूंजती है",
     "ForeignKeyId": "076.282",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.282"
 }

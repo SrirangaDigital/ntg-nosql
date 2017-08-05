@@ -4,5 +4,6 @@
     "Drama": "अवध्य",
     "Writer": "सी. टी. खानोलकर",
     "ForeignKeyId": "077.168",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.168"
 }

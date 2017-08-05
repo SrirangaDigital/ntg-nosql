@@ -18,5 +18,6 @@
     "Book": "रंगयात्रा-1 (सूचना स्रोत पुस्तक, रा. ना. वि.)",
     "Venue": "रा. ना. वि., दिल्ली",
     "ForeignKeyId": "075.086",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.086"
 }

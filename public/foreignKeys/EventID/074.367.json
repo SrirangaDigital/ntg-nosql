@@ -7,5 +7,6 @@
     "Director": "अनामिका हक्सर",
     "Assistant": "अर्चना शास्त्री (चित्रकार)",
     "ForeignKeyId": "074.367",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.367"
 }

@@ -8,5 +8,6 @@
     "Artist": "सत्यव्रत सिन्हा (राजा), शान्तिस्वरूप प्रधान (मंत्री), पुष्पेन्द्र सिंह (नौकर) व अन्य",
     "Year": "1969",
     "ForeignKeyId": "089.259",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.259"
 }

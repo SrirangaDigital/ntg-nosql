@@ -10,5 +10,6 @@
     "Year": "1957",
     "Photography": "निमाई घोष",
     "ForeignKeyId": "042.446",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.446"
 }

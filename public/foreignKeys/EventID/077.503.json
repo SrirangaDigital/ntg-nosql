@@ -3,5 +3,6 @@
     "Place": "त्रिचूर",
     "Drama": "कुट्टियाट्टम् - कुतम्बलम्",
     "ForeignKeyId": "077.503",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.503"
 }

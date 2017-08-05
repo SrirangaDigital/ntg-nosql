@@ -7,5 +7,6 @@
     "Artist": "जयशंकर सुंदरी एवं बापूलाल नायक",
     "Venue": "गुजरात",
     "ForeignKeyId": "073.598",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.598"
 }

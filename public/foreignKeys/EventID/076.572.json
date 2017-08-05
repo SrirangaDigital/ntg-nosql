@@ -6,5 +6,6 @@
     "Director": "सुनील मुखर्जी",
     "Artist": "स्वप्ना मुखर्जी, अनिता बसु, रमाशंकर त्रिपाठी, शीतल व अन्य",
     "ForeignKeyId": "076.572",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.572"
 }

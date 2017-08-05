@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "मेघदूत",
     "ForeignKeyId": "077.489.29",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.29"
 }

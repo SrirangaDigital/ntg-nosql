@@ -8,5 +8,6 @@
     "Music": "भास्कर चंद्रावरकर",
     "Venue": "स्टूडियो नं. - 2",
     "ForeignKeyId": "074.609",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.609"
 }

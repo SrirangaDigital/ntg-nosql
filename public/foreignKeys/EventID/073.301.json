@@ -5,5 +5,6 @@
     "Writer": "सुरेश खरे",
     "Director": "हेमेन्द्र भाटिया",
     "ForeignKeyId": "073.301",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.301"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "शांता गांधी (शांता गांधी, पुपुल जयकर, इंदिरा गांधी व अन्य लोग डिस्कवरी अॉफ इंडिया प्रदर्शनी देखते हुए)",
     "ForeignKeyId": "078.588",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.588"
 }

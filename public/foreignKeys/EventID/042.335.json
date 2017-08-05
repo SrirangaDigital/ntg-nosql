@@ -4,5 +4,6 @@
     "Subject": "सरसा समर : मलखान का वध, मेरठ",
     "Person": "रंगत मटरूलाल अत्तार",
     "ForeignKeyId": "042.335",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.335"
 }

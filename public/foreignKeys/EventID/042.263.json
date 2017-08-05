@@ -4,5 +4,6 @@
     "Person": "रसिया ब्रजबिहारी",
     "Subject": "छीतरमल",
     "ForeignKeyId": "042.263",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.263"
 }

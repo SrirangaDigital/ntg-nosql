@@ -10,5 +10,6 @@
     "Light": "सितांशु मुखर्जी",
     "Venue": "कमानी समागार",
     "ForeignKeyId": "074.166",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.166"
 }

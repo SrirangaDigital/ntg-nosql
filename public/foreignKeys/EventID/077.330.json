@@ -3,5 +3,6 @@
     "Place": "उदयपुर",
     "Drama": "उल्टा पल्टा (कन्नड़ नाटक)",
     "ForeignKeyId": "077.330",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.330"
 }

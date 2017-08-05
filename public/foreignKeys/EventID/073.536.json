@@ -4,5 +4,6 @@
     "Drama": "पातरगित्ति पक्क (pataragitti pakka)",
     "Director": "के. वी. सुब्बन्न",
     "ForeignKeyId": "073.536",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.536"
 }

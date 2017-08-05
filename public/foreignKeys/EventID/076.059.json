@@ -5,5 +5,6 @@
     "Writer": "द्विजेन्द्र लाल राय",
     "Director": "सुनीति बोस",
     "ForeignKeyId": "076.059",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.059"
 }

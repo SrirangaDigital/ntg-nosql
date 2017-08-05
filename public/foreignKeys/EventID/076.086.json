@@ -5,5 +5,6 @@
     "Director": "सांवली मित्र",
     "Event": "सातवें राष्ट्रीय नाट्य समारोह",
     "ForeignKeyId": "076.086",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.086"
 }

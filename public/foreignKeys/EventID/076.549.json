@@ -6,5 +6,6 @@
     "Director": "बलभद्र सिंह",
     "Artist": "करुणापाठक (पुरुष-१), कु. सरयू कुम्मोजकर (बन्नी), श्रीमती गडकरी (सावित्री) व अन्य",
     "ForeignKeyId": "076.549",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.549"
 }

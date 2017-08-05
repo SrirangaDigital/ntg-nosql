@@ -8,5 +8,6 @@
     "Translation": "जे. एन. कौशल (हिन्दी अनुवाद)",
     "Venue": "मंजर थिएटर",
     "ForeignKeyId": "075.278",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.278"
 }

@@ -3,5 +3,6 @@
     "Place": "दूरदर्शन",
     "Drama": "नवा सीख",
     "ForeignKeyId": "076.827",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.827"
 }

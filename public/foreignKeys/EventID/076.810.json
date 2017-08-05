@@ -7,5 +7,6 @@
     "Director": "सुरेश पाण्डे",
     "Artist": "सुभाष शर्मा (बूढ़ा), कमलाशंकर शुक्ल (सीतानाथ), माया शाह (कनक), राजेन्द्र सक्सेना (विजय) की भूमिका में",
     "ForeignKeyId": "076.810",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.810"
 }

@@ -8,5 +8,6 @@
     "Artist": "माई डग, लन हाँग, थुई फुअॉग, थई हॉग, फुअॉग नम व अन्य",
     "Venue": "अभिमंच सभागार, रा. ना. वि., दिल्ली",
     "ForeignKeyId": "077.746",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.746"
 }

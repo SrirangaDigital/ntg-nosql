@@ -4,5 +4,6 @@
     "Film": "गुनाह (फिल्म)",
     "Artist": "सन्नी देओल, मनोहर सिंह",
     "ForeignKeyId": "077.279",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.279"
 }

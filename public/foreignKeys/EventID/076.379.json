@@ -4,5 +4,6 @@
     "Drama": "नुमित कप्पा (Numitkappa)",
     "Writer": "लोकेन्द्र आरम्बम",
     "ForeignKeyId": "076.379",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.379"
 }

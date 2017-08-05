@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मनोहर सिंह (रघुबीर यादव के साथ मनोहर सिंह)",
     "ForeignKeyId": "078.484",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.484"
 }

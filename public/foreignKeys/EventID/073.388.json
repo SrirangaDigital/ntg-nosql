@@ -4,5 +4,6 @@
     "Drama": "स्वांग सपेड़ा",
     "Artist": "विपिन श्रीवास्तव, कुमकुम धर, मुमताज अली, अरुण द्विवेदी, कुमकुम श्रीवास्तव, विष्णु दत्त गौड़ व अन्य",
     "ForeignKeyId": "073.388",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.388"
 }

@@ -10,5 +10,6 @@
     "Make-up": "के. एम. गोविल",
     "Artist": "वीणा गौर (शीतल), जीत शर्मा (निर्देशक), श्याम बहादुर (श्याम) व अन्य",
     "ForeignKeyId": "075.306",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.306"
 }

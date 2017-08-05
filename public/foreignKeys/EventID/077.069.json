@@ -11,5 +11,6 @@
     "Artist": "शशिकांत कारेकर (जज), विनय पाण्डे (चोर), मधु वगल (पड़ोसी पत्रकार)",
     "Venue": "मंज़र थिएटर, प्रगति मैदान, दिल्ली",
     "ForeignKeyId": "077.069",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.069"
 }

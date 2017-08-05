@@ -4,5 +4,6 @@
     "Photo": "धर्मवीर भारती",
     "Event": "दीक्षांत समारोह",
     "ForeignKeyId": "074.513",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.513"
 }

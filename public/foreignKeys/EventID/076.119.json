@@ -4,5 +4,6 @@
     "Drama": "गौलिलियो (बंग्ला)",
     "Writer": "बर्टोल्ट ब्रेख्त (जर्मन)",
     "ForeignKeyId": "076.119",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.119"
 }

@@ -6,5 +6,6 @@
     "Director": "सुभाष शास (Subhash Shas)",
     "Event": "बड़ौदा वर्कशॉप",
     "ForeignKeyId": "077.319",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.319"
 }

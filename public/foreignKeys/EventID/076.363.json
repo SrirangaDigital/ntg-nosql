@@ -6,5 +6,6 @@
     "Director": "अजय मलकानी",
     "Artist": "राजेश जैस, संजय कुमार लाड",
     "ForeignKeyId": "076.363",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.363"
 }

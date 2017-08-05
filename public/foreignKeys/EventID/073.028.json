@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "बेगम हजरत महल",
     "ForeignKeyId": "073.028",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.028"
 }

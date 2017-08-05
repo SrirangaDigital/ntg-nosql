@@ -4,5 +4,6 @@
     "Drama": "खड़िया का धेरा",
     "Writer": "बर्टोल्ट ब्रैश्ट",
     "ForeignKeyId": "076.319",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.319"
 }

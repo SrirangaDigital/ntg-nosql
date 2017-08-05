@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "नेमिचन्द्र जैन (व्यक्तिगत फोटो)",
     "ForeignKeyId": "078.309",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.309"
 }

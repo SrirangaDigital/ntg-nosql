@@ -4,5 +4,6 @@
     "Event": "ऑडिपस (कलाकार पूर्वाभ्यास करते हुए)",
     "Director": "वीणापाणी चावला",
     "ForeignKeyId": "076.249",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.249"
 }

@@ -11,5 +11,6 @@
     "Artist": "रामगोपाल बजाज, मीना पेठे व अन्य",
     "Venue": "ताल कटोरा",
     "ForeignKeyId": "075.001.1",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.001.1"
 }

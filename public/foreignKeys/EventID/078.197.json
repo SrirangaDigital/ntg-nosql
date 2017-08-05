@@ -3,5 +3,6 @@
     "Person": "के. एस. कारंत",
     "Event": "राष्ट्रीय नाट्य विद्यालय में क्लास लेते हुए",
     "ForeignKeyId": "078.197",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.197"
 }

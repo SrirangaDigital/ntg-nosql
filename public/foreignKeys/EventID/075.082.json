@@ -5,5 +5,6 @@
     "Writer": "रामेश्वर प्रेम",
     "Director": "मनोहर सिंह",
     "ForeignKeyId": "075.082",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.082"
 }

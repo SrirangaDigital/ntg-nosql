@@ -8,5 +8,6 @@
     "Deliberation": "13 वाँ राष्ट्रीय नाट्य समारोह",
     "Venue": "जबलपुर",
     "ForeignKeyId": "076.558",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.558"
 }

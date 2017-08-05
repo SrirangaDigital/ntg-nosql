@@ -6,5 +6,6 @@
     "Writer": "शेक्सपियर",
     "Artist": "बहारूल इस्लाम, राजेशशर्मा, अनूप हज़ारिका, विश्वेश्वर",
     "ForeignKeyId": "074.613",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.613"
 }

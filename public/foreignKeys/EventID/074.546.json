@@ -7,5 +7,6 @@
     "Director": "रंजीत कपूर",
     "Artist": "रमेश मनचंदा (बॉयज़ेक) व अन्य",
     "ForeignKeyId": "074.546",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.546"
 }

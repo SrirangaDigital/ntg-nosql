@@ -5,5 +5,6 @@
     "Writer": "नन्दकिशोर मित्तल",
     "Director": "सुरेन मातर्पेकर",
     "ForeignKeyId": "077.178",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.178"
 }

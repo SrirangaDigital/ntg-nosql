@@ -3,5 +3,6 @@
     "Place": "हिसार",
     "Drama": "हरियाणवी कपल",
     "ForeignKeyId": "077.465",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.465"
 }

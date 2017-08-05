@@ -7,5 +7,6 @@
     "Translation": "सान्त्वना निगम",
     "Director": "राजिंदर नाथ",
     "ForeignKeyId": "089.424",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.424"
 }

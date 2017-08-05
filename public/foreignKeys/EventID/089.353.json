@@ -6,5 +6,6 @@
     "Venue": "हाथरस",
     "Year": "25-27 अक्टू., 1988",
     "ForeignKeyId": "089.353",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.353"
 }

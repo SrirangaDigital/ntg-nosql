@@ -5,5 +5,6 @@
     "Writer": "सोफोक्लीज",
     "Event": "रामनगर नाट्य महोस्तव, रामनगर",
     "ForeignKeyId": "073.229",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.229"
 }

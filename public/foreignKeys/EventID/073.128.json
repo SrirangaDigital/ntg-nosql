@@ -6,5 +6,6 @@
     "Director": "रवि शर्मा",
     "Event": "उत्तर संभागीय नाट्य समारोह, चण्डीगढ़",
     "ForeignKeyId": "073.128",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.128"
 }

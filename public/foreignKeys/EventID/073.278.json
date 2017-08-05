@@ -4,5 +4,6 @@
     "Drama": "चॅू चॅू का मुरब्बा (हिन्दी)",
     "Artist": "आकशवाणी लखनऊ के कलाकारों द्वारा",
     "ForeignKeyId": "073.278",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.278"
 }

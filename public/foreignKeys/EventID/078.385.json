@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "बंसी कौल द्वारा की गई चित्रकारी",
     "ForeignKeyId": "078.385",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.385"
 }

@@ -6,5 +6,6 @@
     "Director": "सीमा मुखर्जी",
     "Photographer": "निमाई घोष",
     "ForeignKeyId": "076.021",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.021"
 }

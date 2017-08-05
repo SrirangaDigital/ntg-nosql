@@ -5,5 +5,6 @@
     "Writer": "निसार नसीम",
     "Event": "उत्तर क्षेत्र नाट्य समारोह, जम्मू",
     "ForeignKeyId": "073.738",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.738"
 }

@@ -6,5 +6,6 @@
     "Artist": "राजेश झा एवं संतोष झा",
     "Cameraman": "आलोक कुमार",
     "ForeignKeyId": "076.268",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.268"
 }

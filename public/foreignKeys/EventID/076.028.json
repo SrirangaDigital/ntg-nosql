@@ -6,5 +6,6 @@
     "Director": "श्यामानन्द जालान",
     "Artist": "श्यामानन्द जालान (कालिदास), सुनीता रल्लीन (मल्लिका) व अन्य",
     "ForeignKeyId": "076.028",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.028"
 }

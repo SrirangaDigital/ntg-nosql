@@ -5,5 +5,6 @@
     "Venue": "साइत्य अकादमी सभागार, दिल्ली",
     "Year": "31 अक्टूबर 1994",
     "ForeignKeyId": "074.332.139",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.139"
 }

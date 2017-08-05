@@ -5,5 +5,6 @@
     "Director": "अरुण कुकरेजा",
     "Artist": "रामगोपाल बजाज एवं सुचित्रा गुप्ता",
     "ForeignKeyId": "075.288",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.288"
 }

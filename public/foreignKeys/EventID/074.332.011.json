@@ -6,5 +6,6 @@
     "Year": "11-14 अप्रैल, 2000",
     "Person": "ग्लेसी सी. एंटिजा",
     "ForeignKeyId": "074.332.011",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.011"
 }

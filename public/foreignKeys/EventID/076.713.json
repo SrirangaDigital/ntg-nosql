@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Event": "अभिनय प्रशिक्षण पद्दति",
     "ForeignKeyId": "076.713",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.713"
 }

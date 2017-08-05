@@ -4,5 +4,6 @@
     "Subject": "निहालदे चौथा भाग उर्फ जोशे परवाना, 1966",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.215",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.215"
 }

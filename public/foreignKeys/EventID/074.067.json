@@ -8,5 +8,6 @@
     "Artist": "ईश्वर (भूपति), संजीव जौहरी (हलदर), दानिश हुसैन, नलिनी कमल, माला कुमार व अन्य",
     "Venue": "इण्डिया इंटरनेशनल सेंटर, दिल्ली",
     "ForeignKeyId": "074.067",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.067"
 }

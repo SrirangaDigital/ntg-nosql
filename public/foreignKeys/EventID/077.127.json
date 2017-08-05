@@ -11,5 +11,6 @@
     "Artist": "शेख सामी, दर्पण मिश्रा, प्रकाश सोनी, रियाज़ अहमद, कजरी बब्बर, संगीता मोदी व अन्य",
     "Venue": "पृथ्वी थियेटर",
     "ForeignKeyId": "077.127",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.127"
 }

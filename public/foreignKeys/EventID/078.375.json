@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "फाम थी थान (Pham Thi Than)",
     "ForeignKeyId": "078.375",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.375"
 }

@@ -5,5 +5,6 @@
     "Writer": "विष्णु प्रभाकर",
     "Director": "मधु आचार्य आशावादी",
     "ForeignKeyId": "077.432",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.432"
 }

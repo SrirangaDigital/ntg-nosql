@@ -6,5 +6,6 @@
     "Director": "राकेश सिंह",
     "Artist": "मुनीम जी की भूमिका में - अम्बिका सिंह वर्मा एवं मंगल माली - रामदीन",
     "ForeignKeyId": "073.147",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.147"
 }

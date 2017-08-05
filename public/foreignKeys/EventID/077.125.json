@@ -5,5 +5,6 @@
     "Originaldrama": "विल एनी जेटंल मैन",
     "Director": "नादिश बब्बर",
     "ForeignKeyId": "077.125",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.125"
 }

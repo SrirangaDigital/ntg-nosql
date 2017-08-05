@@ -11,5 +11,6 @@
     "Light": "सुमित्रा दास गुप्ता",
     "Artist": "आलोक चटर्जी, रुमा बोस, अदर्स",
     "ForeignKeyId": "075.538",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.538"
 }

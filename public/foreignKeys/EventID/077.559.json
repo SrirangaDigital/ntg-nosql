@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Drama": "नाचा - खड़े साज का नाचा (छतीसगढ़) व नाचा कलाकार",
     "ForeignKeyId": "077.559",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.559"
 }

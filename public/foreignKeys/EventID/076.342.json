@@ -3,5 +3,6 @@
     "Place": "बेगूसराय",
     "Artist": "संजय कुमार अम्बष्ठ",
     "ForeignKeyId": "076.342",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.342"
 }

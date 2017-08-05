@@ -3,5 +3,6 @@
     "Place": "बैतुल",
     "Drama": "चाचा मियां (हिन्दी)",
     "ForeignKeyId": "076.578",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.578"
 }

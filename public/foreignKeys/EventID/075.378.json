@@ -7,5 +7,6 @@
     "Event": "राष्ट्रीय नाट्य समारोह 11-12 अक्टूबर 1985",
     "Artist": "प्रतिमा काज़मी व अन्य",
     "ForeignKeyId": "075.378",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.378"
 }

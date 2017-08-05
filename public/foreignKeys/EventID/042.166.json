@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "अन्धी दुलहिंन उर्फ जितेन्द्री जयपाल हाथरस, श्याम प्रेस, 1966",
     "ForeignKeyId": "042.166",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.166"
 }

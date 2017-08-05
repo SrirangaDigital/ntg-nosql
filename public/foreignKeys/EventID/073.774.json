@@ -4,5 +4,6 @@
     "Drama": "शव-नौका",
     "Writer": "हैरल्ड मुलर (जर्मन)",
     "ForeignKeyId": "073.774",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.774"
 }

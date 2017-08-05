@@ -4,5 +4,6 @@
     "Venue": "संचेतना",
     "Drama": "हाथी मर नहीं है (नुक्कड़ नाटक)",
     "ForeignKeyId": "073.192",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.192"
 }

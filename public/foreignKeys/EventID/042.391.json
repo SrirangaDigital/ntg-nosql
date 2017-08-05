@@ -4,5 +4,6 @@
     "Subject": "कलावार्ता",
     "Editor": "श्रीराम तिवारी",
     "ForeignKeyId": "042.391",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.391"
 }

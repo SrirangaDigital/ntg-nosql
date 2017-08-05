@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "गुल सनोवर उर्फ कहरे आस्मानी. हाथरस, श्याम प्रेस, 1985",
     "ForeignKeyId": "042.173",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.173"
 }

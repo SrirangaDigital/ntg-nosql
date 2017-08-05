@@ -6,5 +6,6 @@
     "Writer": "मौलियर (फ्रेंच)",
     "Director": "बी. एम. शाह",
     "ForeignKeyId": "073.327",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.327"
 }

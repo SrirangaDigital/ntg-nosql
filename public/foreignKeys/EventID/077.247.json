@@ -5,5 +5,6 @@
     "Writer": "शंकर शेष",
     "Event": "चतुर्थ वार्षिक हास्यरंग महोत्सव का आयोजन",
     "ForeignKeyId": "077.247",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.247"
 }

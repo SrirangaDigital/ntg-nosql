@@ -4,5 +4,6 @@
     "Writer": "आद्य रंगाचार्य (कन्नड़)",
     "Translator": "नेमिचन्द्र जैन व ब. व. कारंत",
     "ForeignKeyId": "077.489.44",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.44"
 }

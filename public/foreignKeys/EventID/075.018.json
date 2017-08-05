@@ -13,5 +13,6 @@
     "Photography": "एस. त्यागराजन व लक्ष्मण",
     "Venue": "दिल्ली",
     "ForeignKeyId": "075.018",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.018"
 }

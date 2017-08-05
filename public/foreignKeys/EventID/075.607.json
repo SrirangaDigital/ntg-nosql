@@ -6,5 +6,6 @@
     "Director": "कमलेश उप्पल",
     "Artist": "सुमन, लखविन्दर सिंह व अन्य",
     "ForeignKeyId": "075.607",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.607"
 }

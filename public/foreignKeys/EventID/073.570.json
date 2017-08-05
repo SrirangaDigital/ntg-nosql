@@ -8,5 +8,6 @@
     "Information": "K. N. Panikkar: the Theatre of Rase by Udayan Vajpeyi, N.P. Series में उपलब्ध",
     "Venue": "कमानी सभागार, दिल्ली",
     "ForeignKeyId": "073.570",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.570"
 }

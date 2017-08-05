@@ -8,5 +8,6 @@
     "Artist": "लालू शाह (राम), दीपक ज़रीवाला (चन्द्रकेतु, कुश, लव)",
     "Year": "25-03-1955",
     "ForeignKeyId": "042.580",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.580"
 }

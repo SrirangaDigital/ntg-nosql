@@ -3,5 +3,6 @@
     "Event": "Work Shop on Playwright",
     "Photo": "Habib Tanvir (Habib Tanvir with participants)",
     "ForeignKeyId": "078.650",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.650"
 }

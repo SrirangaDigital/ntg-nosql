@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "फोरिदोह मार्टिन (रंगकर्मी, मलेशिया)",
     "ForeignKeyId": "078.378",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.378"
 }

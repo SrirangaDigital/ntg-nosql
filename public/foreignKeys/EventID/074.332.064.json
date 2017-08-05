@@ -8,5 +8,6 @@
     "Venue": "त्रिवेणी सभागार, तानसेन मार्ग, नयी दिल्ली",
     "Year": "16 अगस्त 2005",
     "ForeignKeyId": "074.332.064",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.064"
 }

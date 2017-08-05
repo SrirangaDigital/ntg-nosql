@@ -5,5 +5,6 @@
     "Writer": "कावलम नारायण पणिक्कर",
     "Director": "बंसी कौल",
     "ForeignKeyId": "076.534",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.534"
 }

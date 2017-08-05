@@ -6,5 +6,6 @@
     "Director": "एच. तोम्बा",
     "Artist": "अमूला, ब्रोजेयू व तोम्बा",
     "ForeignKeyId": "076.388",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.388"
 }

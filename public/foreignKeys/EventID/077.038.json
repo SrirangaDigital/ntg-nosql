@@ -7,5 +7,6 @@
     "Director": "दिनेश ठाकुर",
     "Artist": "मीनाक्षी ठाकुर व अन्य",
     "ForeignKeyId": "077.038",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.038"
 }

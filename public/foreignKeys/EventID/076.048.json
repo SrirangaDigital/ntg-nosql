@@ -3,5 +3,6 @@
     "Place": "कलकत्ता",
     "Drama": "विविध",
     "ForeignKeyId": "076.048",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.048"
 }

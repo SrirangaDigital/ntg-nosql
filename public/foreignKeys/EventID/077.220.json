@@ -5,5 +5,6 @@
     "Director": "एम. एस. सथ्यू",
     "Venue": "मंजर थिएटर",
     "ForeignKeyId": "077.220",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.220"
 }

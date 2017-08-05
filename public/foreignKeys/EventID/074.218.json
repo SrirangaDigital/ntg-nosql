@@ -4,5 +4,6 @@
     "Drama": "एक क्लर्क की मौत",
     "Director": "हफीज खान",
     "ForeignKeyId": "074.218",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.218"
 }

@@ -3,5 +3,6 @@
     "Place": "कलकत्ता",
     "Drama": "एक प्याला काफी",
     "ForeignKeyId": "076.222",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.222"
 }

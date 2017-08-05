@@ -5,5 +5,6 @@
     "Writer": "मालविका राजकोटिया और ए. आर. हुसैन",
     "Director": "आमिर रज़ा हाश्मी",
     "ForeignKeyId": "075.593",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.593"
 }

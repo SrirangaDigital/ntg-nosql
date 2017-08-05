@@ -7,5 +7,6 @@
     "Director": "मास्टर फिदा हुसैन `नरसी'",
     "Artist": "मास्टर फिदा हुसैन, सीता देवी, मलिका व अन्य",
     "ForeignKeyId": "042.535",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.535"
 }

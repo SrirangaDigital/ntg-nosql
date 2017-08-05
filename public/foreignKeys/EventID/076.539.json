@@ -6,5 +6,6 @@
     "Director": "विश्वभावन देवलिया",
     "Artist": "पुष्पा पचौरी (वह) और मुकेश उपाध्याय (मैं) की भूमिका में",
     "ForeignKeyId": "076.539",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.539"
 }

@@ -3,5 +3,6 @@
     "Country": "जर्मनी",
     "Drama": "बैरीकेड (क्राइसिस अॉफ इंटलैक्चुअल्स, बर्लिन 1933)",
     "ForeignKeyId": "077.696",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.696"
 }

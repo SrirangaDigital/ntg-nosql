@@ -6,5 +6,6 @@
     "Director": "हबीब तनवीर",
     "Deliberation": "राष्ट्रीय नाट्य समारोह",
     "ForeignKeyId": "076.485",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.485"
 }

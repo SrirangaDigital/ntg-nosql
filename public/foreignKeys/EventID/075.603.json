@@ -4,5 +4,6 @@
     "Drama": "सूर्य की अंतिम किरण से सूर्य की पहली फिरण तक",
     "Writer": "सुरेन्द्र वर्मा",
     "ForeignKeyId": "075.603",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.603"
 }

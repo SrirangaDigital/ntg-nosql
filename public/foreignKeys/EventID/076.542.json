@@ -6,5 +6,6 @@
     "Director": "विश्वनाथ सराफ",
     "Artist": "पुरुषोत्तम शुक्ल (कुन्दन), जितेन्द्र महाराज (किशोर) की भूमिका में",
     "ForeignKeyId": "076.542",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.542"
 }

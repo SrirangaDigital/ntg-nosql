@@ -4,5 +4,6 @@
     "Subject": "सती चिन्ता उर्फ धर्म विजय, 1967",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.330",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.330"
 }

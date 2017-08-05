@@ -3,5 +3,6 @@
     "Place": "जमशेदपुर",
     "Drama": "रामायण में महाभारत",
     "ForeignKeyId": "076.285",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.285"
 }

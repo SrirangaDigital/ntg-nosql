@@ -4,5 +4,6 @@
     "Person": "रामरतन दरक",
     "Subject": "राजा चन्दका अद्भुत नाटिक अर्थात् ख्याल, मुम्बई, लक्ष्मीवेंकटेश्वर",
     "ForeignKeyId": "042.270",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.270"
 }

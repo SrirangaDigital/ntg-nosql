@@ -4,5 +4,6 @@
     "Drama": "कर्म भूमि (हिन्दी)",
     "Director": "ब. व. कारंत",
     "ForeignKeyId": "076.631.1",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.631.1"
 }

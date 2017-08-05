@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "एच. एम. वी. - हिन्दुस्तानी रिकॉर्ड, मुम्बई, एच, एम. वी., 1950",
     "ForeignKeyId": "042.136",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.136"
 }

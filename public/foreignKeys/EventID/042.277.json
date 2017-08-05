@@ -4,5 +4,6 @@
     "Subject": "लज्जावती उर्फ धर्म की देवी, 1984",
     "Person": "नाथाराम शर्मा गौड़",
     "ForeignKeyId": "042.277",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.277"
 }

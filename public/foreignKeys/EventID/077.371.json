@@ -5,5 +5,6 @@
     "Writer": "मोहम्मद हसन",
     "Director": "दलपत परिहार",
     "ForeignKeyId": "077.371",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.371"
 }

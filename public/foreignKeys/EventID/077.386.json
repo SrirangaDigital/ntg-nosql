@@ -5,5 +5,6 @@
     "Writer": "शंकर शेष",
     "Director": "दलपत सिंह परिहार",
     "ForeignKeyId": "077.386",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.386"
 }

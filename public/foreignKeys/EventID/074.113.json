@@ -10,5 +10,6 @@
     "Music": "पीयूष मिश्रा",
     "Venue": "बिपिन चन्द्र पाल ऑडिटोरियम, दिल्ली",
     "ForeignKeyId": "074.113",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.113"
 }

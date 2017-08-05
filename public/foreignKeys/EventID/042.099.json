@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Person": "सोहराब रुस्तम",
     "ForeignKeyId": "042.099",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.099"
 }

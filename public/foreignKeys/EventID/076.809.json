@@ -6,5 +6,6 @@
     "Director": "अनिल शर्मा",
     "Artist": "अजय जैन (किशोर), सुजाता वर्मा (मालती), विभाषा गुजरिया (लल्लू) एवं श्याम पाण्डे (लोटन) की भूमिका में",
     "ForeignKeyId": "076.809",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.809"
 }

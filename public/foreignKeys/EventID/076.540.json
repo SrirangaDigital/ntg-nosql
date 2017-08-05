@@ -6,5 +6,6 @@
     "Director": "आलोक चटर्जी",
     "Artist": "राकेश दीक्षित, सपना सोनी, कुमुद व अन्य",
     "ForeignKeyId": "076.540",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.540"
 }

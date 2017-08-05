@@ -13,5 +13,6 @@
     "Light": "फरीद बज़मी",
     "Artist": "सावन कुमार सौंधिया, वसीम अकरम, राजकुमार रायकवाड़, हर्ष दाण्ड पलकरानी सिंह",
     "ForeignKeyId": "076.748",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.748"
 }

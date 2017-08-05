@@ -6,5 +6,6 @@
     "Writer": "विनोद रस्तोगी",
     "Director": "अभिलाष नारायण",
     "ForeignKeyId": "073.086",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.086"
 }

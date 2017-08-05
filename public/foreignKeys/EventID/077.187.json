@@ -4,5 +4,6 @@
     "Drama": "मंजिल (हिन्दी)",
     "Artist": "पृथ्वीराज कपूर, जमुना, मालिनी देवी व अन्य",
     "ForeignKeyId": "077.187",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.187"
 }

@@ -8,5 +8,6 @@
     "Book": "रंग साक्षी (सूचना स्रोत पुस्तक)",
     "Venue": "मंजर थिएटर, प्रगति मैदान, दिल्ली",
     "ForeignKeyId": "075.412",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.412"
 }

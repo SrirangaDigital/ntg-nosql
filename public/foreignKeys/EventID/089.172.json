@@ -6,5 +6,6 @@
     "Venue": "फाइन आर्ट्स थियेटर",
     "Year": "1982",
     "ForeignKeyId": "089.172",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.172"
 }

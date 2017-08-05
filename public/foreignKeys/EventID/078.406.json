@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "ब. व. कारंत (ब. व. कारंत के साथ जी. पी. देशपाण्डे)",
     "ForeignKeyId": "078.406",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.406"
 }

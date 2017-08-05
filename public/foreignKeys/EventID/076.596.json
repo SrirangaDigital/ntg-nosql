@@ -4,5 +4,6 @@
     "Drama": "कुॅए में कोई गिर गया है (हिन्दी)",
     "Director": "विभा मिश्र",
     "ForeignKeyId": "076.596",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.596"
 }

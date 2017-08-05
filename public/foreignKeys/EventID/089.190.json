@@ -7,5 +7,6 @@
     "Director": "सत्यव्रत सिन्हा एवं शान्तिस्वरूप",
     "Artist": "सुनीति ओबेराय (अमिता), वनिता सेठी (शेफाली राय) की भूमिका में व अन्य",
     "ForeignKeyId": "089.190",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.190"
 }

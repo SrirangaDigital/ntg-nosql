@@ -6,5 +6,6 @@
     "Director": "निखिलेश शर्मा",
     "Music": "मोहन उप्रेती",
     "ForeignKeyId": "075.052",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.052"
 }

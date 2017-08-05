@@ -8,5 +8,6 @@
     "Title": "किंग लियर (अंग्रेजी शीर्षक)",
     "Event": "रजत रंग समारोह 1977",
     "ForeignKeyId": "076.702",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.702"
 }

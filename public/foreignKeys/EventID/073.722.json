@@ -5,5 +5,6 @@
     "Writer": "अजय शुक्ल",
     "Director": "योगेश त्रिपाठी",
     "ForeignKeyId": "073.722",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.722"
 }

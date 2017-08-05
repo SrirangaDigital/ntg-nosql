@@ -3,5 +3,6 @@
     "Photo": "नेमिचन्द्र जैन",
     "Event": "प्रेस कान्फ्रेंस",
     "ForeignKeyId": "078.304",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.304"
 }

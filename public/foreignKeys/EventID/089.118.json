@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - क्लाउन शो",
     "Event": "विदेशी कलाकारों द्वारा क्लाउन (शो)",
     "ForeignKeyId": "089.118",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.118"
 }

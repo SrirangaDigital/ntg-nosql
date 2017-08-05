@@ -4,5 +4,6 @@
     "Person": "श्रीकृष्ण",
     "Subject": "पद्मावती, कानपुर, श्रीकृष्ण खत्री, 1953",
     "ForeignKeyId": "042.303",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.303"
 }

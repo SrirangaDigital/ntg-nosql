@@ -6,5 +6,6 @@
     "Director": "अनिल रंजन भौमिक",
     "Venue": "लोकनाट्य समारोह गोरखपुर में मंचित",
     "ForeignKeyId": "073.088",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.088"
 }

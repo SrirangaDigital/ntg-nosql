@@ -5,5 +5,6 @@
     "Director": "शिवमूरत सिंह",
     "Artist": "जयसूर्यभट्ट, संगीता राय, रमेश पटेल, तौसीफ अख्तर",
     "ForeignKeyId": "073.151",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.151"
 }

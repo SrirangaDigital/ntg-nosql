@@ -2,5 +2,6 @@
     "Aid": "01",
     "Country": "चीन",
     "ForeignKeyId": "077.683",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.683"
 }

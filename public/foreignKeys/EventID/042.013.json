@@ -4,5 +4,6 @@
     "Subject": "औरत",
     "Editor": "रुस्तम सहगल व लाड्लू हमकलम",
     "ForeignKeyId": "042.013",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.013"
 }

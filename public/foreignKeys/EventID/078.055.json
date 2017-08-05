@@ -3,5 +3,6 @@
     "Dance": "शास्त्रीय नृत्य - भरतनाट्यम्",
     "Dancer": "कल्पना रघुराम",
     "ForeignKeyId": "078.055",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.055"
 }

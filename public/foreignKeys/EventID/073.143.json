@@ -4,5 +4,6 @@
     "Drama": "बापू की हत्या हजारवी बार",
     "Writer": "सुशील कुमार सिंह",
     "ForeignKeyId": "073.143",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.143"
 }

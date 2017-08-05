@@ -7,5 +7,6 @@
     "Artist": "बलराज साहनी",
     "Book": "Asides: Themes in Contemporary Indian Theatre-Nemichandra Jain (Writer) (सूचना स्रोत)",
     "ForeignKeyId": "077.217",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.217"
 }

@@ -14,5 +14,6 @@
     "Artist": "मनोज शर्मा (सि. मिर्ज़ा), फ्लोरा बोस (हमीदा बेगम), वाणी सिंह (तन्नो) व अन्य",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.426",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.426"
 }

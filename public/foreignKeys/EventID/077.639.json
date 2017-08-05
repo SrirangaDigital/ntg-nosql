@@ -3,5 +3,6 @@
     "Country": "इंग्लैण्ड",
     "Drama": "द ब्रोकन थाई (अँग्रेजी)",
     "ForeignKeyId": "077.639",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.639"
 }

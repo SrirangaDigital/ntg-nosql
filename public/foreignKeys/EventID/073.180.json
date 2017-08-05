@@ -4,5 +4,6 @@
     "Drama": "परते",
     "Writer": "लंकेश",
     "ForeignKeyId": "073.180",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.180"
 }

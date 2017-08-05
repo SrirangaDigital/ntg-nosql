@@ -5,5 +5,6 @@
     "Event": "छाऊ नृत्य महोत्सव",
     "Venue": "कादम्बरी थियेटर, प्रगति मैदान",
     "ForeignKeyId": "077.540",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.540"
 }

@@ -6,5 +6,6 @@
     "Writer": "नारायण पति",
     "Director": "नारायण पति",
     "ForeignKeyId": "073.021",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.021"
 }

@@ -3,5 +3,6 @@
     "Place": "बंबई",
     "Event": "विविध",
     "ForeignKeyId": "077.298",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.298"
 }

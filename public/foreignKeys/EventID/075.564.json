@@ -13,5 +13,6 @@
     "Artist": "श्रीमोयी दासगुप्ता, अभिनव सव्यसाची एवं इन्द्रजीत दास",
     "Venue": "मुक्तधारा समागार",
     "ForeignKeyId": "075.564",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.564"
 }

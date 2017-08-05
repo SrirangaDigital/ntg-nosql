@@ -3,5 +3,6 @@
     "Drama": "पाँचवाँ सवार",
     "Writer": "बलराज पंडित",
     "ForeignKeyId": "073.618",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.618"
 }

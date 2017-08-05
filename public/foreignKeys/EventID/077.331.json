@@ -4,5 +4,6 @@
     "Drama": "एक था गधा उर्फ़ अलादादा खाँ",
     "Writer": "रारद जोशी",
     "ForeignKeyId": "077.331",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.331"
 }

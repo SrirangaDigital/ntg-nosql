@@ -6,5 +6,6 @@
     "Director": "जितेन्द्र मित्तल",
     "Artist": "गोपाल मिश्र एवं संजू श्री व अन्य",
     "ForeignKeyId": "073.370",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.370"
 }

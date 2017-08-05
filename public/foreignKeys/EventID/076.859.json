@@ -6,5 +6,6 @@
     "Director": "सतीश आलेकर",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "076.859",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.859"
 }

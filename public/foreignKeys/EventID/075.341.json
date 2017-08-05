@@ -9,5 +9,6 @@
     "Artist": "हरीश खन्ना एवं राजेश तेलंग",
     "Venue": "बहुमुख सभागार, दिल्ली",
     "ForeignKeyId": "075.341",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.341"
 }

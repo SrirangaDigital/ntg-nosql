@@ -11,5 +11,6 @@
     "Music": "सचिन उपाध्याय, वसंत काशीकर",
     "Stage": "अभय पाटक",
     "ForeignKeyId": "076.557",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.557"
 }

@@ -4,5 +4,6 @@
     "Drama": "सुनो एक कहानी (डोगरी)",
     "Writer": "बलवंत ठाकुर",
     "ForeignKeyId": "073.724",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.724"
 }

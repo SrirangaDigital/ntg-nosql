@@ -5,5 +5,6 @@
     "Director": "केतन आनंद",
     "Artist": "मनोहर सिंह, प्राण व शत्रुघ्न सिन्हा",
     "ForeignKeyId": "077.295",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.295"
 }

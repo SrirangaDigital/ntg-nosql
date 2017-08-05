@@ -5,5 +5,6 @@
     "Director": "परविंजो",
     "Stage": "एम. एस. सथ्यू एवं गौतम जोशी",
     "ForeignKeyId": "077.105",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.105"
 }

@@ -7,5 +7,6 @@
     "Director": "गजानन बंगेरा",
     "Event": "रागरंग बम्बई द्वारा आयोजित",
     "ForeignKeyId": "077.190",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.190"
 }

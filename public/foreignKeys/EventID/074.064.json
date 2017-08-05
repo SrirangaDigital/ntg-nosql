@@ -6,5 +6,6 @@
     "Director": "राजिन्दर नाथ",
     "Artist": "रश्मि विद्यालिंगम व अन्य",
     "ForeignKeyId": "074.064",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.064"
 }

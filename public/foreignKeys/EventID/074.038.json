@@ -7,5 +7,6 @@
     "Translator": "सांत्वना निगम",
     "Artist": "कुलभूषण खरबंदा, राजेशखट्टर व अन्य",
     "ForeignKeyId": "074.038",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.038"
 }

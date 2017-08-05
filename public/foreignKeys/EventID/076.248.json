@@ -5,5 +5,6 @@
     "Director": "शिवनाथ वोरा",
     "Artist": "बायें से - चौधरी, छन्दा, स्वप्ना, भूपति, संजीव, हलदर, मनोहर",
     "ForeignKeyId": "076.248",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.248"
 }

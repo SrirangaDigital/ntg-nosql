@@ -3,5 +3,6 @@
     "Place": "Natrang Pratishthan",
     "Photo": "Habib Tanvir (Habib Tanvir seeing the material based on Uttra Bavkar, Manohar Singh at the inauguration of exhibition Abhichhaya)",
     "ForeignKeyId": "078.649",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.649"
 }

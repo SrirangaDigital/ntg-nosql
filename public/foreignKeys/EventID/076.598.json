@@ -7,5 +7,6 @@
     "Director": "विभा मिश्र",
     "Artist": "संजीव, अर्चना व अन्य",
     "ForeignKeyId": "076.598",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.598"
 }

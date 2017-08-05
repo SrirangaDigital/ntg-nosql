@@ -4,5 +4,6 @@
     "Subject": "कथकली (अध्ययन), 1994",
     "Person": "कृष्णा पिल्लई, जी.",
     "ForeignKeyId": "042.138",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.138"
 }

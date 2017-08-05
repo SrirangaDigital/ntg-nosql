@@ -3,5 +3,6 @@
     "Drama": "शकुन्तला (बैले)",
     "Writer": "कालिदास (संस्कृत)",
     "ForeignKeyId": "077.489.37",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.37"
 }

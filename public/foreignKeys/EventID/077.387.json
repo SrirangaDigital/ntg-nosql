@@ -4,5 +4,6 @@
     "Drama": "ओबे आदमखोर",
     "Writer": "नुवा सेन्टोन्गो",
     "ForeignKeyId": "077.387",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.387"
 }

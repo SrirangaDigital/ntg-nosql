@@ -7,5 +7,6 @@
     "Music": "संगीत गौड़",
     "Venue": "बिपिन चन्द्र पाल ऑडिटोरियम",
     "ForeignKeyId": "074.135",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.135"
 }

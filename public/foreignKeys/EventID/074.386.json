@@ -8,5 +8,6 @@
     "Event": "भारतेन्दु नाट्य उत्सव - 96",
     "Host": "साहित्य कला परिषद",
     "ForeignKeyId": "074.386",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.386"
 }

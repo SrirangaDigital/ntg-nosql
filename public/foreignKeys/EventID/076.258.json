@@ -3,5 +3,6 @@
     "Place": "पुद्दुचेरी",
     "Drama": "बोझल (पूर्वाभ्यास)",
     "ForeignKeyId": "076.258",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.258"
 }

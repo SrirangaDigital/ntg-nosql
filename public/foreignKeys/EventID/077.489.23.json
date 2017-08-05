@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "Pyppythther",
     "ForeignKeyId": "077.489.23",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.23"
 }

@@ -4,5 +4,6 @@
     "Drama": "शकुंतला",
     "Writer": "कालिदास (संस्कृत)",
     "ForeignKeyId": "077.762",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.762"
 }

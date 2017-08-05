@@ -10,5 +10,6 @@
     "Light": "बिपिन कुमार",
     "Venue": "रोट्री क्लब, रांची",
     "ForeignKeyId": "073.759",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.759"
 }

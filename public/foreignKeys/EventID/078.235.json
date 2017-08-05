@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "जी. वी. मालातम्मा",
     "ForeignKeyId": "078.235",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.235"
 }

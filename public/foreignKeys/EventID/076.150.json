@@ -4,5 +4,6 @@
     "Drama": "इन्स्पेक्टर मातादीन चॉद पर (हिन्दी)",
     "Director": "उषा गांगुली",
     "ForeignKeyId": "076.150",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.150"
 }

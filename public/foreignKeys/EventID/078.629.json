@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सितारा देवी (पारसी थेयेटर अभिनेत्री, कोलकत्ता)",
     "ForeignKeyId": "078.629",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.629"
 }

@@ -6,5 +6,6 @@
     "Director": "प्रवीण जोशी",
     "Stage": "सुवर्ण कपाड़िया",
     "ForeignKeyId": "089.189",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.189"
 }

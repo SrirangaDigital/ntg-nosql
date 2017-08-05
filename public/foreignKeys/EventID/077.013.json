@@ -7,5 +7,6 @@
     "Artist": "दिनेश ठाकुर (पाँचों पुरुषपात्र), प्रीता माथुर (सावित्री)",
     "Venue": "पृथ्वी थिएटर, जुहू, महाराष्ट्र",
     "ForeignKeyId": "077.013",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.013"
 }

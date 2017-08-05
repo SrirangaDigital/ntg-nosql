@@ -12,5 +12,6 @@
     "Artist": "गिरीश जोशी (प्रोफेसर), मुक्ता बर्वे (छात्रा)",
     "Venue": "सम्मुख सभागार, रा. ना. वि., दिल्ली",
     "ForeignKeyId": "076.866",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.866"
 }

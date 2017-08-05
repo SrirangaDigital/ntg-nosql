@@ -8,5 +8,6 @@
     "Book": "उध्वस्त धर्मशाला-गो. पु. देशपाण्डे (सूचना स्रोत पुस्तक)",
     "Venue": "मुम्बई",
     "ForeignKeyId": "077.259",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.259"
 }

@@ -5,5 +5,6 @@
     "Writer": "लक्ष्मीनारायण लाल",
     "Artist": "अब्दुल हफीज़, लोकेन्द्र, सुशीला दसाती",
     "ForeignKeyId": "076.510",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.510"
 }

@@ -4,5 +4,6 @@
     "Subject": "दर्पण दृश्य (मासिक) (अन्तर्देशीय पत्र)",
     "Editor": "उर्मिल कुमार थपलियाल एवं विज्यतिवारी",
     "ForeignKeyId": "042.398",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.398"
 }

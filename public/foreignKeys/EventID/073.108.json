@@ -5,5 +5,6 @@
     "Writer": "बादल सरकार",
     "Director": "ए. एच. थ्योडोर",
     "ForeignKeyId": "073.108",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.108"
 }

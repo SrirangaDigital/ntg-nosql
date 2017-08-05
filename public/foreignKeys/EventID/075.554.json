@@ -10,5 +10,6 @@
     "Costume": "तड़ित मित्र",
     "Artist": "राना मित्रा, कल्पना भावल एण्ड अदर्स",
     "ForeignKeyId": "075.554",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.554"
 }

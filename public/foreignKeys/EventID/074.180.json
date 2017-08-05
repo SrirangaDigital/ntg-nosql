@@ -6,5 +6,6 @@
     "Director": "रेखा जैन",
     "Venue": "दिल्ली पब्लिक स्कूल, ईस्ट ऑफ कैलाश",
     "ForeignKeyId": "074.180",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.180"
 }

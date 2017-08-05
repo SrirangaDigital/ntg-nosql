@@ -4,5 +4,6 @@
     "Event": "सावित्री हेसनाम व कन्हाईलाल श्वास अध्ययन करते हुए",
     "Venue": "रामपुर, असम",
     "ForeignKeyId": "076.427",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.427"
 }

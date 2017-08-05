@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "लोक नृत्य - सेभा नागा",
     "ForeignKeyId": "078.079",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.079"
 }

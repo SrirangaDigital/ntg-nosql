@@ -12,5 +12,6 @@
     "Translation": "रामगोपाल बजाज",
     "Artist": "राजिन्द्र नाथ, चन्द्र सिन्हा, गीताश्री व अन्य",
     "ForeignKeyId": "042.524",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.524"
 }

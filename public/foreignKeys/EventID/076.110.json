@@ -6,5 +6,6 @@
     "Translation": "उमानाथ भट्टाचार्य",
     "Director": "उत्पल दत्त",
     "ForeignKeyId": "076.110",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.110"
 }

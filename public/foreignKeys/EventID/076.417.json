@@ -8,5 +8,6 @@
     "Costume": "गोप कोकगेंग (Kokngang)",
     "Artist": "सावित्री हेसनाम",
     "ForeignKeyId": "076.417",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.417"
 }

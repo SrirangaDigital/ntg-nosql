@@ -3,5 +3,6 @@
     "Photo": "सावित्री हेसनाम (सावित्री हेसनाम नंदीकर सम्मान से सम्मानित होते हुए)",
     "Venue": "कोलकत्ता",
     "ForeignKeyId": "078.624",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.624"
 }

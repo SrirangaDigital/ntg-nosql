@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Dance": "शकुंतला (बैले)",
     "ForeignKeyId": "042.478",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.478"
 }

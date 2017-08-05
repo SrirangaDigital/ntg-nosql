@@ -5,5 +5,6 @@
     "Article": "सीमा मुखर्जी",
     "Director": "दिजेश मुखर्जी",
     "ForeignKeyId": "076.017",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.017"
 }

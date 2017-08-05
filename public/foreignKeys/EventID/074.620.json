@@ -8,5 +8,6 @@
     "Book": "रंग-साक्षी-जयदेव तनेजा (सूचना स्रोत पुस्तक)",
     "Venue": "श्रीराम सेंटर सभागार",
     "ForeignKeyId": "074.620",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.620"
 }

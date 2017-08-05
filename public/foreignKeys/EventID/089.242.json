@@ -6,5 +6,6 @@
     "Venue": "रामलीला मेला, भोपाल",
     "Year": "नवम्बर 1988",
     "ForeignKeyId": "089.242",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.242"
 }

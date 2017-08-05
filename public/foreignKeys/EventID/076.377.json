@@ -5,5 +5,6 @@
     "Writer": "श्रीबीरेन",
     "Director": "श्याम शर्मा",
     "ForeignKeyId": "076.377",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.377"
 }

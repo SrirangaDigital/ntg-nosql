@@ -5,5 +5,6 @@
     "Writer": "प्रेमचंद",
     "Director": "अरविन्द भट्ट",
     "ForeignKeyId": "077.383",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.383"
 }

@@ -9,5 +9,6 @@
     "Presentationcoordinator": "शैली सथ्यू",
     "Venue": "गन्ना संस्थान प्रेक्षागृह, लखनऊ",
     "ForeignKeyId": "077.216",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.216"
 }

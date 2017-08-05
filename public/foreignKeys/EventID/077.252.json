@@ -6,5 +6,6 @@
     "Director": "विजया मेहता (खोटे)",
     "Language": "मराठी",
     "ForeignKeyId": "077.252",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.252"
 }

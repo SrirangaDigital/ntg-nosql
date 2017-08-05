@@ -11,5 +11,6 @@
     "Narrator": "चॉयती घोष",
     "Venue": "बिपिन चन्द्र पाल सभागार, दिल्ली",
     "ForeignKeyId": "074.006",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.006"
 }

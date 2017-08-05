@@ -6,5 +6,6 @@
     "Director": "शांता गांधी",
     "Venue": "सरदार पटेल विद्यालय",
     "ForeignKeyId": "075.573",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.573"
 }

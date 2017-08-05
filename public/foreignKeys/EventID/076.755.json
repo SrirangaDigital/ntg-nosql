@@ -13,5 +13,6 @@
     "Makeup": "फरीद बज़्मी",
     "Artist": "राजकुमार रायकवार, हर्ष दाण्ड, सदानंद पाटील, ज्ञानदेव सिंह व अन्य",
     "ForeignKeyId": "076.755",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.755"
 }

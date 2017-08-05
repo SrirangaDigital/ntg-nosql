@@ -5,5 +5,6 @@
     "Writer": "प्रेमचन्द",
     "Dramatized": "विमल लाठ",
     "ForeignKeyId": "076.029",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.029"
 }

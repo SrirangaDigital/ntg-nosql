@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - चित्रकारी",
     "Event": "बंसी कौल द्वारा की राई चित्रकारी",
     "ForeignKeyId": "089.173",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.173"
 }

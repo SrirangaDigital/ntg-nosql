@@ -5,5 +5,6 @@
     "Writer": "प्रेमचन्द (कहानी)",
     "Artist": "रौनक अली",
     "ForeignKeyId": "076.802",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.802"
 }

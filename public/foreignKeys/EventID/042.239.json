@@ -4,5 +4,6 @@
     "Person": "बाबूलाल",
     "Subject": "द्रोपदी लीला, आगरा, मनवा मूर्तज़ाई प्रेस, छठा संस्क.",
     "ForeignKeyId": "042.239",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.239"
 }

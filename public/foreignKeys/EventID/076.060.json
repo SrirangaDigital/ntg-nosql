@@ -3,5 +3,6 @@
     "Place": "कलकत्ता",
     "Drama": "समुद्र अतल",
     "ForeignKeyId": "076.060",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.060"
 }

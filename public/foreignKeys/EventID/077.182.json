@@ -5,5 +5,6 @@
     "Writer": "राजेन्द्र शर्मा",
     "Director": "प्रदीप गुप्ता",
     "ForeignKeyId": "077.182",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.182"
 }

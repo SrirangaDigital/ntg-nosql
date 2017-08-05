@@ -3,5 +3,6 @@
     "Place": "बम्बई",
     "Drama": "वसंत कवलि",
     "ForeignKeyId": "077.296",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.296"
 }

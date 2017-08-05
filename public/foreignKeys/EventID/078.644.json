@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "सुषमा सेठ के बाल नाटक",
     "ForeignKeyId": "078.644",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.644"
 }

@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Artist": "विभा मिश्र व अन्य",
     "ForeignKeyId": "076.795",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.795"
 }

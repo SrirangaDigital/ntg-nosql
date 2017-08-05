@@ -6,5 +6,6 @@
     "Artist": "गणेश एम., श्रीकांत एन., वी. संतोष कुमार, महादेव व अन्य",
     "Stage": "बहुमुख सभागार, दिल्ली",
     "ForeignKeyId": "073.524",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.524"
 }

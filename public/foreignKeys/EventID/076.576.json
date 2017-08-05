@@ -7,5 +7,6 @@
     "Artist": "(गाँधारी) अनिता दूबे, (युयुत्स) अविनाश देशपाण्डे",
     "Venue": "कलेक्टर निवास, बैतूल",
     "ForeignKeyId": "076.576",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.576"
 }

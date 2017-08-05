@@ -7,5 +7,6 @@
     "Director": "अलखनंदन",
     "Music": "आमोद कृष्ण भट्ट",
     "ForeignKeyId": "076.665",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.665"
 }

@@ -7,5 +7,6 @@
     "Director": "शामु गांगुली",
     "Venue": "विपिन चन्द्र पॉल सभागार, दिल्ली",
     "ForeignKeyId": "075.325",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.325"
 }

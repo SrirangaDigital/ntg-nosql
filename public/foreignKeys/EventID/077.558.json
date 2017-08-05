@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "नाचा खड़े साज",
     "ForeignKeyId": "077.558",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.558"
 }

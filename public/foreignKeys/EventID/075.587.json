@@ -6,5 +6,6 @@
     "Director": "युवराज शर्मा",
     "Music": "राजेश मैथ्यू",
     "ForeignKeyId": "075.587",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.587"
 }

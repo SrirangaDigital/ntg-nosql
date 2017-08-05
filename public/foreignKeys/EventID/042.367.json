@@ -4,5 +4,6 @@
     "Subject": "Nritya Puja : A Tribute to Chitrasena 50 years in the dance 1936 - 1986, 1987",
     "Person": "Chitrasena",
     "ForeignKeyId": "042.367",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.367"
 }

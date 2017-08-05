@@ -5,5 +5,6 @@
     "Artist": "किरण सहगल व अन्य",
     "Event": "व्याख्यान, प्रदर्शन तथा कार्यशाला",
     "ForeignKeyId": "074.538",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.538"
 }

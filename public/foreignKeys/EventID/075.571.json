@@ -5,5 +5,6 @@
     "Writer": "हरिभाऊ वडगावकर",
     "Director": "विश्वदीपक त्रिखा",
     "ForeignKeyId": "075.571",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.571"
 }

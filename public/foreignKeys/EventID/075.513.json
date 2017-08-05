@@ -4,5 +4,6 @@
     "Drama": "सूर्य के वारिस",
     "Director": "कृष्णकांत",
     "ForeignKeyId": "075.513",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.513"
 }

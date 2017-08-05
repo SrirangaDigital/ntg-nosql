@@ -5,5 +5,6 @@
     "Translator": "सुशीला कश्मलकर",
     "Director": "डकबाल हुसैन",
     "ForeignKeyId": "077.435",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.435"
 }

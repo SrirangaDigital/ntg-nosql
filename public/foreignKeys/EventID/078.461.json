@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मणि माधव चाकयार (राम और शूर्पणखा में)",
     "ForeignKeyId": "078.461",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.461"
 }

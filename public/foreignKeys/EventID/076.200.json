@@ -6,5 +6,6 @@
     "Director": "",
     "Artist": "",
     "ForeignKeyId": "076.200",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.200"
 }

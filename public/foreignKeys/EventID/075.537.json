@@ -5,5 +5,6 @@
     "Writer": "यशपाल",
     "Director": "विपिन शर्मा",
     "ForeignKeyId": "075.537",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.537"
 }

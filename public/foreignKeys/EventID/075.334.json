@@ -18,5 +18,6 @@
     "Venue": "श्रीराम सेन्टर",
     "Sponsor": "नटरंग प्रतिष्ठान",
     "ForeignKeyId": "075.334",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.334"
 }

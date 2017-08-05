@@ -8,5 +8,6 @@
     "Venue": "मंजर थियेटर",
     "Host": "ट्रेड फेयर अथोरिटी ऑफ इंडिया",
     "ForeignKeyId": "077.045",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.045"
 }

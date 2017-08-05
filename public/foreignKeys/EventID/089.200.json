@@ -6,5 +6,6 @@
     "Writer": "जयशंकर प्रसाद (उपन्यास)",
     "Artist": "शिप्रा पालीवाल (शैला), राजेश मल्होत्रा (रामनाथ), अमृत कान्ति घोष (मधुबन) एवं बिन्दु अरोड़ा (तितली)",
     "ForeignKeyId": "089.200",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.200"
 }

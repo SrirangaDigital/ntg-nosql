@@ -5,5 +5,6 @@
     "Director": "हबीब तनवीर",
     "Venue": "दिल्ली नुक्कड़ो पर",
     "ForeignKeyId": "074.344",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.344"
 }

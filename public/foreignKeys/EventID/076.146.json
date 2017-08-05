@@ -7,5 +7,6 @@
     "Artist": "उषा गांगुली",
     "Venue": "फाईन आर्ट्स अकादेमी, कोलकाता",
     "ForeignKeyId": "076.146",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.146"
 }

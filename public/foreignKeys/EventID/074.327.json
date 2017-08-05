@@ -6,5 +6,6 @@
     "Director": "ओम शिवपुरी",
     "Artist": "सुधा शिवपुरी व अ",
     "ForeignKeyId": "074.327",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.327"
 }

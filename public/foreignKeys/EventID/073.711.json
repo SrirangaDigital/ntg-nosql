@@ -4,5 +4,6 @@
     "Drama": "चतुरा चोर",
     "Director": "जलील रिज़वी",
     "ForeignKeyId": "073.711",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.711"
 }

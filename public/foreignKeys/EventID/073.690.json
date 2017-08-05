@@ -4,5 +4,6 @@
     "Drama": "जनार्दन का रथ",
     "Director": "के. पी. सिन्हा",
     "ForeignKeyId": "073.690",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.690"
 }

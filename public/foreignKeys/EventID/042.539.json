@@ -9,5 +9,6 @@
     "Art-gallery": "गोवर्धन पांचाल",
     "Year": "9 नव., 1957",
     "ForeignKeyId": "042.539",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.539"
 }

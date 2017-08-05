@@ -7,5 +7,6 @@
     "Director": "सुरेन्द्र कौशिक",
     "Artist": "सुरेन्द्र कौशिक (इडिपस), उषा (एण्टीगनी), उमा (इज़मेनी) व अन्य",
     "ForeignKeyId": "073.262",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.262"
 }

@@ -4,5 +4,6 @@
     "Photo": "नेमिचन्द्र जैन, नटरंग प्रतिष्ठान के आयोजनों में",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "078.333.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.333.0"
 }

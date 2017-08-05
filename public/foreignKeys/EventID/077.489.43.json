@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "सूना सूना सभासद",
     "ForeignKeyId": "077.489.43",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.43"
 }

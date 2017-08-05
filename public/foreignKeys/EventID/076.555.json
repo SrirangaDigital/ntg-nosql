@@ -5,5 +5,6 @@
     "Writer": "हरिशंकर परसाई",
     "Director": "अरुण पांडेय",
     "ForeignKeyId": "076.555",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.555"
 }

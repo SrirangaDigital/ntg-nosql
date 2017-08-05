@@ -5,5 +5,6 @@
     "Director": "ब्रजमोहन शाह",
     "Artist": "मंदाकिनी गोस्वामी, विवेक मिश्रा, सागारिका, सीमा अधिकारी, पारथो बंधोपाध्याय, रूपल पटेल",
     "ForeignKeyId": "074.614",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.614"
 }

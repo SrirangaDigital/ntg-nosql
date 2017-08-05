@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "जी. वी. स्वर्णम्मा",
     "ForeignKeyId": "078.238",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.238"
 }

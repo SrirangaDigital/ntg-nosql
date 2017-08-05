@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "उर्मिल कुमार थपलियाल (हिन्दी नाटककार)",
     "ForeignKeyId": "078.158",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.158"
 }

@@ -12,5 +12,6 @@
     "Controler": "मास्टर प्रेमशंकर `नरसी' (मास्टर फिदा हुसैन `नरसी')",
     "Year": "1951",
     "ForeignKeyId": "042.533",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.533"
 }

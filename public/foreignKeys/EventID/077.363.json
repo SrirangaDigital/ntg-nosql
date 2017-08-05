@@ -6,5 +6,6 @@
     "Director": "मीनाक्षी शर्मा",
     "Event": "कल्चरल सोसायटी ऑफ राजस्थान द्वारा आयोजित पंचम भाषायी नाटक समारोह",
     "ForeignKeyId": "077.363",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.363"
 }

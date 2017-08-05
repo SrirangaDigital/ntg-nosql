@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सलीमा रज़ा",
     "ForeignKeyId": "078.622",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.622"
 }

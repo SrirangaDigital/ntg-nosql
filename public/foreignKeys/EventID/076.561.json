@@ -6,5 +6,6 @@
     "Director": "मन्नुलाल पुजारी",
     "Artist": "सुनीला सलूजा (शांता), राजू (राजेश) की भूमिका में",
     "ForeignKeyId": "076.561",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.561"
 }

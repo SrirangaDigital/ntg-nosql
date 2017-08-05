@@ -10,5 +10,6 @@
     "Light": "अकबर खान",
     "Artist": "कजरी बब्बर/नताशा सहगल (दीपा), जूही बब्बर (बबली) व अन्य",
     "ForeignKeyId": "077.118",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.118"
 }

@@ -9,5 +9,6 @@
     "Makeup": "समूह",
     "Artist": "हर्ष दौण्ड, कन्हैयालाल कैथवास, दरबारी पाल व अन्य",
     "ForeignKeyId": "076.766",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.766"
 }

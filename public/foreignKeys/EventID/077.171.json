@@ -4,5 +4,6 @@
     "Drama": "गिनीपिग",
     "Writer": "मोहित चटर्जी, भोपाल",
     "ForeignKeyId": "077.171",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.171"
 }

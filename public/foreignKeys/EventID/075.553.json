@@ -12,5 +12,6 @@
     "Costume": "तड़ित मित्र",
     "Artist": "राजेश पाण्डे, राना मित्र व अदर्स",
     "ForeignKeyId": "075.553",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.553"
 }

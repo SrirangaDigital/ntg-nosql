@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "पद्मा सुब्रह्मण्यम्, भरतनाट्यम् नृत्यांगना, मद्रास",
     "ForeignKeyId": "078.347",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.347"
 }

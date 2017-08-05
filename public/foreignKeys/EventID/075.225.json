@@ -6,5 +6,6 @@
     "Translation": "वसंत देव",
     "Director": "सत्यदेव दुबे",
     "ForeignKeyId": "075.225",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.225"
 }

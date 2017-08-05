@@ -4,5 +4,6 @@
     "Person": "भारत भूषण अग्रवाल",
     "Subject": "नई कविता का संदर्भ (लेख)",
     "ForeignKeyId": "042.048",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.048"
 }

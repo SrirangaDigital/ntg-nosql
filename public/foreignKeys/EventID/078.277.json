@@ -2,5 +2,6 @@
     "Aid": "02",
     "Photo": "नरेन्द्र शर्मा (कोरियोग्राफर - नर्तक - निर्देशक, भूमिका)",
     "ForeignKeyId": "078.277",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.277"
 }

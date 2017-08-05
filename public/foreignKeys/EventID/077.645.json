@@ -8,5 +8,6 @@
     "Artist": "शांता गाँधी (शकुन्तला), श्रीमती रोज़र, पद्मा, कु. बक्षी, श्रीमती किरण स्वरूप व अन्य",
     "Venue": "लंदन",
     "ForeignKeyId": "077.645",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.645"
 }

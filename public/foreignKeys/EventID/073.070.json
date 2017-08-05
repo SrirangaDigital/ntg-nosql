@@ -6,5 +6,6 @@
     "Director": "सत्यव्रत सिन्ह एवं शान्तिस्वरूप प्रधान",
     "Artist": "सुनीति ओबेराय (अमिता), वनिता सेठी (शेफाली राय) की भूमिका में व अन्य",
     "ForeignKeyId": "073.070",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.070"
 }

@@ -7,5 +7,6 @@
     "Artist": "जयशंकर सुंदरी (रंभा दूधवाली), बापूलाल नायक (ससुर जी विक्रम)",
     "Venue": "गुजरात",
     "ForeignKeyId": "073.599",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.599"
 }

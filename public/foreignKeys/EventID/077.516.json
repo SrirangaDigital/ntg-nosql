@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "कुडिअट्टम् (पारम्परिक नाट्य) (कुडिअट्टम का विदूषक)",
     "ForeignKeyId": "077.516",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.516"
 }

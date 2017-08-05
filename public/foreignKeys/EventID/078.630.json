@@ -3,5 +3,6 @@
     "Photo": "सीमा मुखर्जी (रंगकर्मी, कोलकत्ता)",
     "Photographer": "निमाई घोष",
     "ForeignKeyId": "078.630",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.630"
 }

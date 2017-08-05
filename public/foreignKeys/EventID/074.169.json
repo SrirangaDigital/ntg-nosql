@@ -5,5 +5,6 @@
     "Writer": "बेग़म कुदसिया ज़ैदी",
     "Director": "रेखा जैन",
     "ForeignKeyId": "074.169",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.169"
 }

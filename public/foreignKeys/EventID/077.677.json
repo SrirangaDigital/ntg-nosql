@@ -3,5 +3,6 @@
     "Country": "ग्रीस",
     "Drama": "एण्टीगन",
     "ForeignKeyId": "077.677",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.677"
 }

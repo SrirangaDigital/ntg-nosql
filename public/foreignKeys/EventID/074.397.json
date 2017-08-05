@@ -7,5 +7,6 @@
     "Music": "भागवत उप्रेती",
     "Venue": "लि. थि. ग्रु. सभागार, दिल्ली",
     "ForeignKeyId": "074.397",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.397"
 }

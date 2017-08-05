@@ -4,5 +4,6 @@
     "Dancer": "सत्यभामा बाई परधान पुरकर",
     "Singer": "यमुना बाई वेकर द्वारा गायन",
     "ForeignKeyId": "078.075",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.075"
 }

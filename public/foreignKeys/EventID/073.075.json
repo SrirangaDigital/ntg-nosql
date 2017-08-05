@@ -6,5 +6,6 @@
     "Director": "सत्यव्रत सिन्हा",
     "Artist": "सत्यव्रत सिन्हा एवं रामचन्द्र गुप्त",
     "ForeignKeyId": "073.075",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.075"
 }

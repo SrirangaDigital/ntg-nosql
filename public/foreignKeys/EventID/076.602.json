@@ -4,5 +4,6 @@
     "Drama": "डॉन क्विशाजोट (बाल नाटक)",
     "Director": "विभा मिश्र",
     "ForeignKeyId": "076.602",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.602"
 }

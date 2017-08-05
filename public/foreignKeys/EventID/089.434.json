@@ -6,5 +6,6 @@
     "Writer": "बादल सरकार",
     "Director": "राजिन्दर नाथ",
     "ForeignKeyId": "089.434",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.434"
 }

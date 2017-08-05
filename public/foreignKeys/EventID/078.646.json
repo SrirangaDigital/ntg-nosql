@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सैली जोन्स (Sally Jones-America) (रसिक आर्ट्स टोरन्टो की संस्थापक, कलाकार व निर्देशक (कला-निर्देशक))",
     "ForeignKeyId": "078.646",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.646"
 }

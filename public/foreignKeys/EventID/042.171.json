@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "इन्दल हरण उर्फ बलख बुखारे की लडाई. हाथरस, श्याम प्रेस, 1967",
     "ForeignKeyId": "042.171",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.171"
 }

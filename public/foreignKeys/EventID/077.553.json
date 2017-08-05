@@ -4,5 +4,6 @@
     "Drama": "तेजाजी कथा (पारम्परिक नाट्य)",
     "Photographer": "घनश्याम शर्मा",
     "ForeignKeyId": "077.553",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.553"
 }

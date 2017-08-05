@@ -4,5 +4,6 @@
     "Subject": "हंस प्रगति (मासिक)",
     "Editor": "अमृतराय",
     "ForeignKeyId": "042.484",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.484"
 }

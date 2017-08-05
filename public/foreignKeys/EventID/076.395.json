@@ -10,5 +10,6 @@
     "Dress": "निंगबम यदुमणि",
     "Music": "हेसनाम तोम्बा",
     "ForeignKeyId": "076.395",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.395"
 }

@@ -3,5 +3,6 @@
     "Country": "कोसोवो",
     "Drama": "हिल अॉफ ग्रीक (अल्बेरियन)",
     "ForeignKeyId": "077.675",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.675"
 }

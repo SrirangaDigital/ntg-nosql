@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "रंग संवाद, 2004 में एम. के. रैना के साथ",
     "ForeignKeyId": "078.335",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.335"
 }

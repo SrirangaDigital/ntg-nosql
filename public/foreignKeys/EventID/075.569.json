@@ -12,5 +12,6 @@
     "Music": "बापी राय",
     "Artist": "रुमा बोस, राना मित्र अण्ड अदर्स",
     "ForeignKeyId": "075.569",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.569"
 }

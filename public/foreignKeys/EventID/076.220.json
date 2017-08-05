@@ -3,5 +3,6 @@
     "Place": "कलकत्ता",
     "Drama": "उंगलियों के निशान",
     "ForeignKeyId": "076.220",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.220"
 }

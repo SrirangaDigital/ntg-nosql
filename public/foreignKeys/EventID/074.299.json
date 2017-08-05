@@ -9,5 +9,6 @@
     "Photographer": "एस. त्यागराजन",
     "Artist": "मनोहर सिंह, मोना चावला, सुरेश शेट्टी व अन्य",
     "ForeignKeyId": "074.299",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.299"
 }

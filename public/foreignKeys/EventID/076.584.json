@@ -7,5 +7,6 @@
     "Director": "जी. पी. शर्मा - प्रेम कुमार",
     "Artist": "जी. पी. शर्मा (शाहजहॉ) की भूमिका में व अन्य",
     "ForeignKeyId": "076.584",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.584"
 }

@@ -7,5 +7,6 @@
     "Artist": "जयशंकर सुंदरी (स्त्री वेश में) एवं बापूलाल नायक",
     "Year": "1904",
     "ForeignKeyId": "042.439",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.439"
 }

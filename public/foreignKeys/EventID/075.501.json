@@ -4,5 +4,6 @@
     "Drama": "शनिवार - रविवार",
     "Director": "संजीव सहाय",
     "ForeignKeyId": "075.501",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.501"
 }

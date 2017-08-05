@@ -6,5 +6,6 @@
     "Translation": "सत्यनारायण कविरत्न",
     "Director": "प्रसन्ना",
     "ForeignKeyId": "075.039",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.039"
 }

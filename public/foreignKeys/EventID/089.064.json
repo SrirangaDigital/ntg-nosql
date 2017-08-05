@@ -6,5 +6,6 @@
     "Translator": "मोहन राकेश",
     "Director": "के. पी. सक्सेना",
     "ForeignKeyId": "089.064",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.064"
 }

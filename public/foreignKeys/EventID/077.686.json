@@ -6,5 +6,6 @@
     "Article": "इकरानगारा (Ikranagara)",
     "Director": "इकरानागारा (Ikranagara)",
     "ForeignKeyId": "077.686",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.686"
 }

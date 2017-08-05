@@ -6,5 +6,6 @@
     "Writer": "करुणा दुको",
     "Director": "रमनि बर्मन",
     "ForeignKeyId": "089.079",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.079"
 }

@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "Kuttampalam and Kuttiyattam : The Living Theatre and the Classical Sanskrit Drama of Kerala",
     "ForeignKeyId": "042.114",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.114"
 }

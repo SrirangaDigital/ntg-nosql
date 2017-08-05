@@ -9,5 +9,6 @@
     "Artist": "बचन पचहरा एवं अंजु शर्मा",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "074.377",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.377"
 }

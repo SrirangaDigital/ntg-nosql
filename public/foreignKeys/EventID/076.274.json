@@ -5,5 +5,6 @@
     "Writer": "भिश्वारी ठाकुर",
     "Director": "गौरीशंकर ठाकुर",
     "ForeignKeyId": "076.274",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.274"
 }

@@ -3,5 +3,6 @@
     "Place": "पांडिचेरी",
     "Photo": "वी. अरुमुघम का फोटो",
     "ForeignKeyId": "076.267",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.267"
 }

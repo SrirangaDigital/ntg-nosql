@@ -7,5 +7,6 @@
     "Translator": "सी. एल. जोस चिरामेल",
     "Director": "सी. एल. जोस चिरामेल",
     "ForeignKeyId": "089.059",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.059"
 }

@@ -5,5 +5,6 @@
     "Director": "विधु विनोद चोपड़ा",
     "Artist": "मनोहर सिंह व प्रमोद माउथे",
     "ForeignKeyId": "077.274",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.274"
 }

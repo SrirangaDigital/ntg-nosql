@@ -6,5 +6,6 @@
     "Writer": "आर. के. त्रिपाठी",
     "Director": "जयदेव दास",
     "ForeignKeyId": "073.020",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.020"
 }

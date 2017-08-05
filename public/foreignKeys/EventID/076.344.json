@@ -5,5 +5,6 @@
     "Writer": "मनोज मित्र",
     "Director": "उमेश आदित्य",
     "ForeignKeyId": "076.344",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.344"
 }

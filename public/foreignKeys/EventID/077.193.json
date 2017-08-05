@@ -6,5 +6,6 @@
     "Director": "प्रवीण जोशी",
     "Artist": "सरिता जोशी",
     "ForeignKeyId": "077.193",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.193"
 }

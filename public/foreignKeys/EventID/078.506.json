@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मेहर रुस्तम कॉन्ट्रेक्टर (शैडो पपिट मेकर (डिज़ाइनर))",
     "ForeignKeyId": "078.506",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.506"
 }

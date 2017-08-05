@@ -6,5 +6,6 @@
     "Writer": "गोविंद पुरुषोत्तम देशपांडे",
     "Translation": "वसंत देव",
     "ForeignKeyId": "089.420",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.420"
 }

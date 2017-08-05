@@ -7,5 +7,6 @@
     "Director": "दिनेश ठाकुर",
     "Artist": "दिनेश ठाकुर, प्रीति ठाकुर",
     "ForeignKeyId": "077.032",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.032"
 }

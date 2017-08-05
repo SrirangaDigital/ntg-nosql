@@ -6,5 +6,6 @@
     "Writer": "शूद्रक, संस्कृत नाटक `मृछ्छकटिक' का अनुवाद : अनु हबीब तनवीर",
     "Director": "हबीब तनवीर",
     "ForeignKeyId": "089.473",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.473"
 }

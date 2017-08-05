@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - कुतम्बलम्",
     "Event": "गुरुवायूर का प्रेक्षक-निवेषण",
     "ForeignKeyId": "089.134",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.134"
 }

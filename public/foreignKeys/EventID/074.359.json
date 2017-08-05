@@ -6,5 +6,6 @@
     "Director": "हबीब तनवीर",
     "Venue": "कॅमानि सभागार, दिल्ली",
     "ForeignKeyId": "074.359",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.359"
 }

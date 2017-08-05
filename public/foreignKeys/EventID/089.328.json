@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - वाद्य यंत्र",
     "Instrument": "बीहड़ ड्रम",
     "ForeignKeyId": "089.328",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.328"
 }

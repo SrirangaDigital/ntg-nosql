@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मास्टर फिदा हुसैन (राष्ट्रीय नाट्य विद्यालय के द्वितीय वर्ष के छात्रों के साथ, 1994)",
     "ForeignKeyId": "078.500",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.500"
 }

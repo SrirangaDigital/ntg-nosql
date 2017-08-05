@@ -6,5 +6,6 @@
     "Director": "सरनबाली श्रीवास्तव (शायद)",
     "Artist": "देबी प्रसाद चैटर्जी (भाषा मंत्री), मोहन सप्रू (दासी), उमा सप्रू (रानी) की भूमिका में व अन्य",
     "ForeignKeyId": "073.060",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.060"
 }

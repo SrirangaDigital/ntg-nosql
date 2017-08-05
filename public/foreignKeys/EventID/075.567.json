@@ -9,5 +9,6 @@
     "Costume": "रुमा बोस",
     "Artist": "रुमा बोस, अण्ड अदर्स",
     "ForeignKeyId": "075.567",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.567"
 }

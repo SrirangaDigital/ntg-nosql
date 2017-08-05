@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "तैरयम (पारम्परिक नाट्य)",
     "ForeignKeyId": "077.556.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.556.0"
 }

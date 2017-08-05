@@ -7,5 +7,6 @@
     "Director": "राजबिसारिया",
     "Artist": "पीटर ड्राय, अलिण्डर वार्ड व अन्य",
     "ForeignKeyId": "089.001",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.001"
 }

@@ -4,5 +4,6 @@
     "Film": "किस्सा कुर्सी का (फिल्म)",
     "Artist": "मनोहर सिंह, सुरेखा सीकरी व अन्य साथी कलाकार",
     "ForeignKeyId": "077.276",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.276"
 }

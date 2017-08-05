@@ -5,5 +5,6 @@
     "Writer": "भीस्म साहनी",
     "Director": "अमलेन्दु कुन्डु",
     "ForeignKeyId": "077.308",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.308"
 }

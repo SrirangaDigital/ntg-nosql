@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "पलुस्कर, डी. वी. (गायक)",
     "ForeignKeyId": "078.349",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.349"
 }

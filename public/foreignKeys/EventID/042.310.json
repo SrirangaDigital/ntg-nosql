@@ -4,5 +4,6 @@
     "Person": "श्रीकृष्ण",
     "Subject": "बिल्व मंगल, कानपुर, श्रीकृष्ण खत्री, 1952",
     "ForeignKeyId": "042.310",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.310"
 }

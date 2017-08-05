@@ -4,5 +4,6 @@
     "Photo": "फैसल अल्काज़ी",
     "Venue": "श्री राम सेंटर तलकक्ष",
     "ForeignKeyId": "078.382",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.382"
 }

@@ -7,5 +7,6 @@
     "Stage": "खालिद चौधरी",
     "Artist": "यामा अग्रवाल, प्रतिभा अग्रवाल, कल्याण चटर्जी, किशन कुमार",
     "ForeignKeyId": "076.027",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.027"
 }

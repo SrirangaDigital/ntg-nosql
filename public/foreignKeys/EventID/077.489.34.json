@@ -3,5 +3,6 @@
     "Drama": "याहू",
     "Director": "आर. के. ब्रारू",
     "ForeignKeyId": "077.489.34",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.34"
 }

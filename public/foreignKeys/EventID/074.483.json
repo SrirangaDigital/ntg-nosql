@@ -6,5 +6,6 @@
     "Naatyantar": "गिरीश रस्तोगी",
     "Director": "सुरेन्द्र शर्मा",
     "ForeignKeyId": "074.483",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.483"
 }

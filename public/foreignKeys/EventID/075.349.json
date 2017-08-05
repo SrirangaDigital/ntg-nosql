@@ -11,5 +11,6 @@
     "Choreography": "संगीता शर्मा",
     "Venue": "श्रीराम सेंटर मुख्य सभागार",
     "ForeignKeyId": "075.349",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.349"
 }

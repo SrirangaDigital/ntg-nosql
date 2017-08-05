@@ -8,5 +8,6 @@
     "Artist": "रजनीकान्त, रीतू गुप्ता, मनोज कुमार, रतन कुमार, अंजीत अनन्त एवं वंदना चतुर्वेदी",
     "Cameraman": "प्रभाकरण",
     "ForeignKeyId": "076.324",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.324"
 }

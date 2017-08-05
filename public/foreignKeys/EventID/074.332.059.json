@@ -5,5 +5,6 @@
     "Venue": "साहित्य अकादमी सभागार",
     "Year": "26 मार्च 1997",
     "ForeignKeyId": "074.332.059",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.059"
 }

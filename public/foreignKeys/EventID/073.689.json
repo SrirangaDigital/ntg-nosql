@@ -5,5 +5,6 @@
     "Writer": "रवीन्द्रनाथ टैगोर",
     "Director": "के. पी. सिन्हा",
     "ForeignKeyId": "073.689",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.689"
 }

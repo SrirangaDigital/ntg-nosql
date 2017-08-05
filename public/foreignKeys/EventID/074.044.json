@@ -9,5 +9,6 @@
     "Event": "राष्ट्रीय हिन्दी नाटक समारोह, भोपाल 1980",
     "Venue": "श्रीराम सेंटर सभागार",
     "ForeignKeyId": "074.044",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.044"
 }

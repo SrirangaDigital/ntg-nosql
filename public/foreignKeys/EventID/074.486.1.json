@@ -6,5 +6,6 @@
     "Director": "सुमन कुमार",
     "Venue": "स्टूडियो थिएटर",
     "ForeignKeyId": "074.486.1",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.486.1"
 }

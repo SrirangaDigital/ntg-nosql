@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "जॉन स्टीनबेक",
     "ForeignKeyId": "078.232",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.232"
 }

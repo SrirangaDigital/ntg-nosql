@@ -4,5 +4,6 @@
     "Event": "पाँचवा बाल नाट्योत्सव",
     "Photo": "सुलभा देशपाण्डे",
     "ForeignKeyId": "078.637",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.637"
 }

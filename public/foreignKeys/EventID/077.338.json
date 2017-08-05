@@ -4,5 +4,6 @@
     "Drama": "उल्ट फेर",
     "Writer": "शेक्सपियर",
     "ForeignKeyId": "077.338",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.338"
 }

@@ -9,5 +9,6 @@
     "Event": "उत्तरप्रदेश नाट्य समारोह, जम्मू",
     "Venue": "जम्मू",
     "ForeignKeyId": "073.675",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.675"
 }

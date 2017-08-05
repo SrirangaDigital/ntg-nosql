@@ -6,5 +6,6 @@
     "Director": "सुखेश मिश्रा",
     "Venue": "बी. एम. शाह प्रेक्षागृह, लखनऊ",
     "ForeignKeyId": "073.276",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.276"
 }

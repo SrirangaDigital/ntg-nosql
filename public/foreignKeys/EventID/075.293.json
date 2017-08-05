@@ -8,5 +8,6 @@
     "Artist": "मोना चावला (दादी), सेसिल क़दर (Cecil Qadar) (वुमेन), शॉमू बॉस (लेफ्टिनेंट)",
     "Venue": "बिपिन चन्द्रपाल सभागार, दिल्ली",
     "ForeignKeyId": "075.293",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.293"
 }

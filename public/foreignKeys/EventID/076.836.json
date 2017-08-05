@@ -7,5 +7,6 @@
     "Director": "रमेश लखमापुरे",
     "Artist": "14 अक्टूबर 1990",
     "ForeignKeyId": "076.836",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.836"
 }

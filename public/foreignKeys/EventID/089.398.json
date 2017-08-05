@@ -6,5 +6,6 @@
     "Director": "जयतीर्थ जोशी",
     "Music": "ब. व. कारंत",
     "ForeignKeyId": "089.398",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.398"
 }

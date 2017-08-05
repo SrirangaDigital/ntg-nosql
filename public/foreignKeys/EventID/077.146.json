@@ -6,5 +6,6 @@
     "Director": "विजया मेहता",
     "Language": "मराठी",
     "ForeignKeyId": "077.146",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.146"
 }

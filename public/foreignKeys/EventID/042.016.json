@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "कागज के फूल (तुकबंदी)",
     "ForeignKeyId": "042.016",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.016"
 }

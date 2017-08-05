@@ -10,5 +10,6 @@
     "Artist": "रहीम, वारिक अली, अजहर आलम व अन्य",
     "Venue": "ज्ञानमंच सभागार, कोलकाता",
     "ForeignKeyId": "076.187",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.187"
 }

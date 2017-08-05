@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "शास्त्रीय नृत्य - कथकली",
     "ForeignKeyId": "078.048",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.048"
 }

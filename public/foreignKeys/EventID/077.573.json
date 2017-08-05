@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "प्रहलाद नाटकम् (पारम्परिक नाट्य)",
     "ForeignKeyId": "077.573",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.573"
 }

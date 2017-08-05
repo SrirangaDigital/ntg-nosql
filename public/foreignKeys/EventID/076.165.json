@@ -5,5 +5,6 @@
     "Writer": "मन्नू भंडारी",
     "Director": "उषा गांगुली",
     "ForeignKeyId": "076.165",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.165"
 }

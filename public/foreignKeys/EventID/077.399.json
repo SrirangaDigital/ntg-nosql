@@ -13,5 +13,6 @@
     "Artist": "(बोएं से दाएं) - महेन्द्र पुरोहित, अनीस, अहमद एवं आदिल हुसैन",
     "Venue": "टाउन हॉल, बीकानेर",
     "ForeignKeyId": "077.399",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.399"
 }

@@ -7,5 +7,6 @@
     "Venue": "दिल्ली",
     "Year": "23 दिस., 1957 - 1 जन. 1958 तक",
     "ForeignKeyId": "042.514",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.514"
 }

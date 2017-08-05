@@ -6,5 +6,6 @@
     "Director": "विजय माथुर",
     "Artist": "पृथा खन्ना (नायिका), विजय कुमार (राझस)",
     "ForeignKeyId": "077.390",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.390"
 }

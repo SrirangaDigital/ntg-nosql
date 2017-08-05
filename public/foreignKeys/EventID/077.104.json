@@ -4,5 +4,6 @@
     "Drama": "छको मको (Chhako Mako)",
     "Artist": "भरत, विपुल एवं सिद्धार्थ",
     "ForeignKeyId": "077.104",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.104"
 }

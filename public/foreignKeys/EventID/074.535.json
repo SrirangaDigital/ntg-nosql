@@ -5,5 +5,6 @@
     "Writer": "विशाखदत्त",
     "Director": "रीता गांगुली",
     "ForeignKeyId": "074.535",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.535"
 }

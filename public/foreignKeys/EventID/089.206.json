@@ -13,5 +13,6 @@
     "Artist": "आर. ए. खान (पण्डित घासीराम), रीता श्रीवास्तव (पण्डिताइन), शहजाद सैयद (दुक्की), तृप्ति (झुरिया) व अन्य",
     "Year": "08-08-1993",
     "ForeignKeyId": "089.206",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.206"
 }

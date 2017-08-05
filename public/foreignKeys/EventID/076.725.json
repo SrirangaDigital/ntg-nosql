@@ -4,5 +4,6 @@
     "Drama": "तस्वीर (हिन्दी)",
     "Director": "दरबारी पाल",
     "ForeignKeyId": "076.725",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.725"
 }

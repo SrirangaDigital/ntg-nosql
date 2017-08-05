@@ -7,5 +7,6 @@
     "Director": "भानु भारती",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "075.005",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.005"
 }

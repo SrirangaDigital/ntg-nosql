@@ -14,5 +14,6 @@
     "Artist": "अजय कुमार, अमित नागपाल, लक्ष्मी रावत, मधु स्मृति शुक्ला, संगीता टिपल व अन्य",
     "Venue": "अभिमंच सभागार, दिल्ली",
     "ForeignKeyId": "074.487",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.487"
 }

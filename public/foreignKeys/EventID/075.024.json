@@ -13,5 +13,6 @@
     "Photographer": "एस. त्यागराजन, लक्ष्मण",
     "Artist": "प्रतिमा काज़मी (अम्बिका), सीमा बिस्वास (मल्लिका), अभिजीत लहरी व रोहितस्व गौड़ (कालिदास), रवि कौशल (विलोम), व अन्य",
     "ForeignKeyId": "075.024",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.024"
 }

@@ -10,5 +10,6 @@
     "Year": "25-26 अग. व 1-5 सित.,",
     "Venue": "भारतीय विद्या भवन, मुंबई",
     "ForeignKeyId": "042.543",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.543"
 }

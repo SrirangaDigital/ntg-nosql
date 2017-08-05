@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "मैन इज मैन",
     "ForeignKeyId": "042.066",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.066"
 }

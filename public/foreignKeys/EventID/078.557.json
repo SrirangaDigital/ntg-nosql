@@ -8,5 +8,6 @@
     "Person'sline": "शीतू",
     "Photo": "विजया मेहता",
     "ForeignKeyId": "078.557",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.557"
 }

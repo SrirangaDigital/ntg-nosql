@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मणि माधव चाकयार (एक लड़के का मेकअप करते हुए कुतम्बलम में)",
     "ForeignKeyId": "078.458",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.458"
 }

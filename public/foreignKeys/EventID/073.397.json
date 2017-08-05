@@ -3,5 +3,6 @@
     "Place": "वाराणसी",
     "Event": "विविध",
     "ForeignKeyId": "073.397",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.397"
 }

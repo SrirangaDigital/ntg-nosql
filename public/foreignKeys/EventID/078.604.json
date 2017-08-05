@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "श्याम एच. मनकर (रेडियो टेक्नीशियन)",
     "ForeignKeyId": "078.604",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.604"
 }

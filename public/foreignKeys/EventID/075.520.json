@@ -11,5 +11,6 @@
     "Book": "रंगसाक्षी-जयदेव तनेजा (सूचना स्रोत पुस्तक)",
     "Venue": "श्रीराम सेंटर, तलघर प्रेक्षागृह",
     "ForeignKeyId": "075.520",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.520"
 }

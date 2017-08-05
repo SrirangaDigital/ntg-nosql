@@ -5,5 +5,6 @@
     "Dramatized": "जसपाल सिंह",
     "Director": "जसपाल सिंह",
     "ForeignKeyId": "074.232",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.232"
 }

@@ -4,5 +4,6 @@
     "Stage": "कमलराजा कन्या महाविद्यालय",
     "Dance": "लोक नृत्य - राजस्थानी नृत्य (नृत्य)",
     "ForeignKeyId": "078.072",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.072"
 }

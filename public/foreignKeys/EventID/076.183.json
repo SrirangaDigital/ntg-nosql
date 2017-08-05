@@ -5,5 +5,6 @@
     "Writer": "बर्टोल्ट ब्रेख्त",
     "Director": "उषा गांगुली",
     "ForeignKeyId": "076.183",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.183"
 }

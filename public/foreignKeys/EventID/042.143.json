@@ -4,5 +4,6 @@
     "Person": "कैलाशचन्द्र भटनागर",
     "Subject": "नाट्य सुधा भाग - १ : प्राचीन नाटकों की कथाएॅ, प्रयाग, इण्डियन प्रेस",
     "ForeignKeyId": "042.143",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.143"
 }

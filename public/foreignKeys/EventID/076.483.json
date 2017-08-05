@@ -7,5 +7,6 @@
     "Artist": "मोना विलियम्स (नटी), हफीज खान (नट)",
     "Venue": "उदयपुर",
     "ForeignKeyId": "076.483",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.483"
 }

@@ -14,5 +14,6 @@
     "Stagecontent": "बंसी कौल",
     "Artist": "भानू भारती, बी. जयश्री, रतन थियम, बंसी कौल, नसीरुद्दीन शाह, मनोहर सिंह, नीलम मानसिंह",
     "ForeignKeyId": "075.232",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.232"
 }

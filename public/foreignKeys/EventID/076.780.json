@@ -7,5 +7,6 @@
     "Translation": "जितेन्द्र नाथ कौशल",
     "Director": "बंसी कौल, रश्मि वाजपेयी, कृष्णकांत शिंदे, अब्दुल रज़्ज़ाक सिद्दीकी",
     "ForeignKeyId": "076.780",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.780"
 }

@@ -4,5 +4,6 @@
     "Drama": "टैम्पेस्ट",
     "Director": "जी. रघुनंदन",
     "ForeignKeyId": "074.505",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.505"
 }

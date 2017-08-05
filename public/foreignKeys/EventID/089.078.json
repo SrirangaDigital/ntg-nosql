@@ -6,5 +6,6 @@
     "Writer": "गुनाकर देव गोस्वामी",
     "Director": "गुनाकर देव गोस्वामी",
     "ForeignKeyId": "089.078",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.078"
 }

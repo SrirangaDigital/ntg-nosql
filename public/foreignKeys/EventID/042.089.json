@@ -4,5 +4,6 @@
     "Subject": "वोल्गा से गंगा",
     "Person": "विभा मिश्र",
     "ForeignKeyId": "042.089",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.089"
 }

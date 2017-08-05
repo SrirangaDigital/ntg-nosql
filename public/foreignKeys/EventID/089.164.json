@@ -4,5 +4,6 @@
     "Place": "बेंगलूरु",
     "Event": "ग्रूप फोटो",
     "ForeignKeyId": "089.164",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.164"
 }

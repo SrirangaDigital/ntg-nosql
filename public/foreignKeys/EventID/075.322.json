@@ -9,5 +9,6 @@
     "Stage": "अनु कालरा, शालिनी सक्सेना",
     "Music": "जानकी गणेश, संगीता पंत व अन्य",
     "ForeignKeyId": "075.322",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.322"
 }

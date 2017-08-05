@@ -6,5 +6,6 @@
     "Stage": "सुवर्ण कपाड़िया",
     "Venue": "मुम्बई",
     "ForeignKeyId": "077.108",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.108"
 }

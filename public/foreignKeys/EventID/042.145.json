@@ -4,5 +4,6 @@
     "Subject": "खूने नाहक",
     "Person": "श्रीकृष्ण",
     "ForeignKeyId": "042.145",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.145"
 }

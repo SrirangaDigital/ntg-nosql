@@ -5,5 +5,6 @@
     "Writer": "मृणाल पांडे",
     "Director": "देवकृष्ण व्यास",
     "ForeignKeyId": "077.394",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.394"
 }

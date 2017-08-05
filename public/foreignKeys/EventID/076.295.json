@@ -8,5 +8,6 @@
     "Director": "मानवेन्द्र त्रिपाठी",
     "Venue": "कालिदास रंगालय, पटना",
     "ForeignKeyId": "076.295",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.295"
 }

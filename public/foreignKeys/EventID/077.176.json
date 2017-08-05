@@ -6,5 +6,6 @@
     "Translator": "नेमिचन्द्र जैन",
     "Director": "सत्यदेव दुबे",
     "ForeignKeyId": "077.176",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.176"
 }

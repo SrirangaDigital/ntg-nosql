@@ -4,5 +4,6 @@
     "Drama": "आपस की बात",
     "Director": "दिनेश ठाकुर",
     "ForeignKeyId": "077.014",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.014"
 }

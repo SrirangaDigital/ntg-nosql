@@ -7,5 +7,6 @@
     "Event": "संगीत नाटक अकादमी परिचमी क्षेत्र समारोह",
     "Venue": "जोधपुर",
     "ForeignKeyId": "076.616",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.616"
 }

@@ -7,5 +7,6 @@
     "Artist": "एच. संयुक्ता",
     "Light": "ईरोचोबा",
     "ForeignKeyId": "076.419",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.419"
 }

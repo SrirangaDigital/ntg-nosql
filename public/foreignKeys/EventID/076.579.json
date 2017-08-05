@@ -7,5 +7,6 @@
     "Artist": "बशीरुल हसन (गोरा), अविनाश देशपाण्डे (डाकिया), सुनील सारस्वत (मंझुला) व अन्य",
     "Venue": "मल्टीपर्पस स्कूल प्रेक्शागृह, बैतुल",
     "ForeignKeyId": "076.579",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.579"
 }

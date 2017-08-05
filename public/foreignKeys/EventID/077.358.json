@@ -7,5 +7,6 @@
     "Artist": "श्रद्धा (महिला अनाउन्सर एवं परेशान रमणी), राजेश सेठ (मसरुफ पति), हरीशचन्द्र शर्मा (धका अफसर) व अन्य",
     "Venue": "रवीन्द्र मंच",
     "ForeignKeyId": "077.358",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.358"
 }

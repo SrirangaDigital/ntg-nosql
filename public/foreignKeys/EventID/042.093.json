@@ -4,5 +4,6 @@
     "Subject": "शांत सागर में एक रोज़",
     "Person": "रामेश्वर प्रेम",
     "ForeignKeyId": "042.093",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.093"
 }

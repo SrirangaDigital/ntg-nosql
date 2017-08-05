@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "India's Struggle for Independence Visuals and Documents, 1985",
     "ForeignKeyId": "042.363",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.363"
 }

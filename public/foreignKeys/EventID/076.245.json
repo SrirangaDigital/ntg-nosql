@@ -5,5 +5,6 @@
     "Writer": "सुशील चंद्र राय",
     "Director": "सुशील चंद्र राय",
     "ForeignKeyId": "076.245",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.245"
 }

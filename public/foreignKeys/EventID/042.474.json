@@ -10,5 +10,6 @@
     "Venue": "लंदन",
     "Year": "1936",
     "ForeignKeyId": "042.474",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.474"
 }

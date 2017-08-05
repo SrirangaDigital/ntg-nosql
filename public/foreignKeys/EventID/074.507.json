@@ -17,5 +17,6 @@
     "Book": "भारतीय रंगकोश-प्रतिभा अग्रवाल",
     "Venue": "दिल्ली",
     "ForeignKeyId": "074.507",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.507"
 }

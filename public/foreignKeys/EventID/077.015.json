@@ -7,5 +7,6 @@
     "Artist": "दिनेश ठाकुर, मीनाक्षी ठाकुर, अनन्त महादेव व अन्य",
     "Venue": "मंज़र थियेटर, प्रगति मैदान, दिल्ली",
     "ForeignKeyId": "077.015",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.015"
 }

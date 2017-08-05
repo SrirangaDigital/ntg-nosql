@@ -6,5 +6,6 @@
     "Director": "आर. नरेन्द्र प्रसाद",
     "Event": "राष्ट्रीय नाट्य समारोह",
     "ForeignKeyId": "073.554",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.554"
 }

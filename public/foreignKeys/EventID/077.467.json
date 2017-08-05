@@ -4,5 +4,6 @@
     "Drama": "प्रोमोशन (बाल नाटक)",
     "Writer": "विनोद रस्तोगी",
     "ForeignKeyId": "077.467",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.467"
 }

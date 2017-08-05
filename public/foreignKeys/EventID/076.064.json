@@ -3,5 +3,6 @@
     "Place": "कोलकाता",
     "Drama": "रामायण",
     "ForeignKeyId": "076.064",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.064"
 }

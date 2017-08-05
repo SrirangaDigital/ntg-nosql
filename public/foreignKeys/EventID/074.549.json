@@ -6,5 +6,6 @@
     "Director": "कृष्णा जिना",
     "Artist": "मनोहर सिंह, उत्तरा बावकर व अन्य",
     "ForeignKeyId": "074.549",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.549"
 }

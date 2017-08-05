@@ -10,5 +10,6 @@
     "Costume": "प्रदीप मुले",
     "Artist": "प्रदीप मुले व अन्य",
     "ForeignKeyId": "077.096",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.096"
 }

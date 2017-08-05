@@ -11,5 +11,6 @@
     "Writer": "तुलसीदास",
     "Venue": "फोरोजशाह कोटला ग्राउण्ड, दिल्ली",
     "ForeignKeyId": "042.506",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.506"
 }

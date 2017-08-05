@@ -5,5 +5,6 @@
     "Writer": "मंजुल भारद्वाज",
     "Director": "मंजुल भारद्वाज",
     "ForeignKeyId": "077.136",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.136"
 }

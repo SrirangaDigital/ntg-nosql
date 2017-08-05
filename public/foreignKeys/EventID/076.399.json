@@ -4,5 +4,6 @@
     "Drama": "नुक्कड़ नाटक",
     "Artist": "सावित्री हेसनाम व अन्य",
     "ForeignKeyId": "076.399",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.399"
 }

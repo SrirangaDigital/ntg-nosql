@@ -16,5 +16,6 @@
     "Book": "रंगयात्रा/रा. ना. वि., रंगमंडल (सूचना स्रोत पुस्तक)",
     "Venue": "रवीन्द्र भवन, भोपाल",
     "ForeignKeyId": "075.189",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.189"
 }

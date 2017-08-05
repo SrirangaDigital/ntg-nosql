@@ -14,5 +14,6 @@
     "Venue": "कमानी सभागार, रा. ना. वि., दिल्ली",
     "Year": "08-01-2007",
     "ForeignKeyId": "089.193",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.193"
 }

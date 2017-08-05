@@ -6,5 +6,6 @@
     "Writer": "जी. शंकर पिल्लाई",
     "Director": "एस. रामानुजम",
     "ForeignKeyId": "089.305",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.305"
 }

@@ -4,5 +4,6 @@
     "Drama": "एवम् इन्द्रजित",
     "Writer": "बादल सरकार",
     "ForeignKeyId": "076.218",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.218"
 }

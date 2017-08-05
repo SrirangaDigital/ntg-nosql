@@ -15,5 +15,6 @@
     "Book": "रंगयात्रा, रा. ना. वि., रंगमंडल (सूचना स्रोत पुस्तक)",
     "Venue": "रा. ना. वि.",
     "ForeignKeyId": "075.222",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.222"
 }

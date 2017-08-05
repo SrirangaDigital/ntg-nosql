@@ -6,5 +6,6 @@
     "Event": "दीक्षान्त समारोह",
     "Artist": "नसीरुद्दीन शाह",
     "ForeignKeyId": "078.278",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.278"
 }

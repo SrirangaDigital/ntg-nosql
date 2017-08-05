@@ -4,5 +4,6 @@
     "Drama": "संध्या बीती",
     "Artist": "अजय जैन (श्रीवास्तव), विभाष गुजरया (आसव) एवं चिन्मय (बालक) की भूमिका में",
     "ForeignKeyId": "076.822",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.822"
 }

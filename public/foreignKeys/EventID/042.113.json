@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "Kakyar Kuttu and the Natakshala Literary and Ebigraphical Referances",
     "ForeignKeyId": "042.113",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.113"
 }

@@ -15,5 +15,6 @@
     "Artist": "अनुराग अरोड़ा (तथा जी), सपना खटाना (शरीका), आशीष शर्मा (शीबन), श्रीकांत वर्मा (राज) व अन्य",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.397",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.397"
 }

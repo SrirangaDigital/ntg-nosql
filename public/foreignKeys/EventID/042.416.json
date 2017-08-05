@@ -4,5 +4,6 @@
     "Subject": "लहर (डायरी अंक)",
     "Editor": "प्रकाश जैन : मनमोहिनी",
     "ForeignKeyId": "042.416",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.416"
 }

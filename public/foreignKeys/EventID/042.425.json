@@ -4,5 +4,6 @@
     "Subject": "Sanskrit Drama and Performance",
     "Editor": "V. Raghavan",
     "ForeignKeyId": "042.425",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.425"
 }

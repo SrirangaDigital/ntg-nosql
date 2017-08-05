@@ -6,5 +6,6 @@
     "Director": "मंजुल भारद्वाज",
     "Venue": "हैनोवर, जर्मनी",
     "ForeignKeyId": "077.130",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.130"
 }

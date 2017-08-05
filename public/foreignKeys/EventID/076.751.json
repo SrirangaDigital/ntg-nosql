@@ -5,5 +5,6 @@
     "Writer": "बंसी कौल",
     "Director": "बंसी कौल",
     "ForeignKeyId": "076.751",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.751"
 }

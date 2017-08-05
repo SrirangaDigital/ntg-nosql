@@ -6,5 +6,6 @@
     "Venue": "अभिमंच सभागार",
     "Year": "28 अगस्त 2005",
     "ForeignKeyId": "089.360",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.360"
 }

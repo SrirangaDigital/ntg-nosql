@@ -10,5 +10,6 @@
     "Artist": "विश्वमोहन वडोला (अयूब), दीनानाथ (अब्दुल्ला), भुपिन्दर (नियामत), वीणा मेहता (रीता) व अन्य",
     "Venue": "फाईन आर्ट्स थिएटर, दिल्ली",
     "ForeignKeyId": "074.060",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.060"
 }

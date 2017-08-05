@@ -4,5 +4,6 @@
     "Drama": "16 जनवरी की रात",
     "Director": "सुरेश भारद्वाज",
     "ForeignKeyId": "075.536",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.536"
 }

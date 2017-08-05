@@ -3,5 +3,6 @@
     "Drama": "भवई नाटक",
     "Event": "खेड़ा के वेश में गणपति लाल नायक टकड़ी वाला",
     "ForeignKeyId": "077.588",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.588"
 }

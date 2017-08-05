@@ -4,5 +4,6 @@
     "Artist": "मनोहर सिंह",
     "Photo": "मनोहर सिंह",
     "ForeignKeyId": "078.477",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.477"
 }

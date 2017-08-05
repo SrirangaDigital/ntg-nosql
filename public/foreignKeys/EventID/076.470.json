@@ -6,5 +6,6 @@
     "Director": "पी. खगेन्द्र सिंह",
     "Event": "संगीत नाटक अकादमी समारोह, 1981",
     "ForeignKeyId": "076.470",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.470"
 }

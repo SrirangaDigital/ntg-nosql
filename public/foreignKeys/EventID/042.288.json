@@ -4,5 +4,6 @@
     "Subject": "शंकरगढ़ संग्राम : नवले का ब्याह, मेरठ",
     "Person": "एम. सी. मटरूलाल",
     "ForeignKeyId": "042.288",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.288"
 }

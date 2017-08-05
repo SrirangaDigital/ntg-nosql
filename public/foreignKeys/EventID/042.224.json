@@ -4,5 +4,6 @@
     "Subject": "पद्मावती उर्फ फरियादे बुलबुल, 1983",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.224",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.224"
 }

@@ -4,5 +4,6 @@
     "Dance": "रंगयात्रा प्रदर्शनी",
     "Event": "राष्ट्रीय नाट्य विद्यालय रंगमंडल के 25 वें वर्ष पर रंगयात्रा प्रदर्शनी",
     "ForeignKeyId": "075.198",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.198"
 }

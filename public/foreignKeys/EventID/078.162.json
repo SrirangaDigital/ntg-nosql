@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "ए. मंगई (नाट्य निर्देशक)",
     "ForeignKeyId": "078.162",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.162"
 }

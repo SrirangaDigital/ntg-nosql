@@ -4,5 +4,6 @@
     "Drama": "रामायण",
     "Director": "शांति बर्धन",
     "ForeignKeyId": "076.191",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.191"
 }

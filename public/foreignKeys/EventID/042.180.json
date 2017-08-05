@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "पतिव्रता दमयन्ती उर्फ भाग्य चक्र, हाथरस, श्याम प्रेस, 1985",
     "ForeignKeyId": "042.180",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.180"
 }

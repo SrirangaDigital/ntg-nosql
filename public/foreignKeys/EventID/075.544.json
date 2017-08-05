@@ -6,5 +6,6 @@
     "Director": "देबाशीष चौधरी",
     "Artist": "अशोक घोष, गौतम सेनगुप्ता व अदर्स",
     "ForeignKeyId": "075.544",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.544"
 }

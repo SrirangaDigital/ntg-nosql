@@ -8,5 +8,6 @@
     "Music": "मोहन उप्रेती (शायद)",
     "Artist": "नईमा उप्रेती",
     "ForeignKeyId": "074.392",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.392"
 }

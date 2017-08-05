@@ -7,5 +7,6 @@
     "Venue": "मंज़र थियेटर",
     "Host": "ट्रेड फेयर अथोरिटी ऑफ इंडिया (भारतीय व्यापार मेला प्राधिकरण)",
     "ForeignKeyId": "073.312.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.312.0"
 }

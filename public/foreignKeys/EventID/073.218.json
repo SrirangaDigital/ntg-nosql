@@ -7,5 +7,6 @@
     "Light": "गजेन्द्र शर्मा, तरसेम अग्रवाल",
     "Artist": "मनवर सिंह गोसाई, दुर्गा प्रसाद कुकरेती, सुरेन्द्र भण्डारी, श्रीश डोभाल व अन्य",
     "ForeignKeyId": "073.218",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.218"
 }

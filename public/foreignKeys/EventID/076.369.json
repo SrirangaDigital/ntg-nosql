@@ -4,5 +4,6 @@
     "Drama": "ग्रीन हाउस",
     "Writer": "विद्याशंकर",
     "ForeignKeyId": "076.369",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.369"
 }

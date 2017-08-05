@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "पुटप्पा, के. वी. (व्यक्तिगत फोटोग्राफ)",
     "ForeignKeyId": "078.354",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.354"
 }

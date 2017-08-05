@@ -7,5 +7,6 @@
     "Language": "मराठी",
     "Vyaktirekha": "मावाशी",
     "ForeignKeyId": "077.253",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.253"
 }

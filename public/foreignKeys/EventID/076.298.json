@@ -7,5 +7,6 @@
     "Director": "प्रसाद रत्नेश्वर",
     "Venue": "मोतिहारी",
     "ForeignKeyId": "076.298",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.298"
 }

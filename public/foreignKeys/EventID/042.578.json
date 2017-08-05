@@ -8,5 +8,6 @@
     "Artist": "इन्दुबेन शाह (शकुन्तला), नरलाबेन मेहता (गौतमी), राधाबेन अहिवासी (प्रियंवदा) व अन्य",
     "Year": "25-03-1955",
     "ForeignKeyId": "042.578",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.578"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मणि माधव चाकयार (व्यक्तिगत फोटोग्राफ)",
     "ForeignKeyId": "078.464",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.464"
 }

@@ -4,5 +4,6 @@
     "Drama": "ऑरीजनल फाम",
     "Director": "रविभूषण मुकुल",
     "ForeignKeyId": "076.356",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.356"
 }

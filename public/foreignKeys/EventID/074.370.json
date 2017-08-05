@@ -14,5 +14,6 @@
     "Artist": "रवीन्द्र साहू (बावला), भवीन गोसैन (रोगोज़ीन), हृदयराम (कर्मचारी), व अन्य",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "074.370",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.370"
 }

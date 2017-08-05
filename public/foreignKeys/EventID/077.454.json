@@ -6,5 +6,6 @@
     "Projection": "अर्जुन रैना",
     "Venue": "बहुमुख सभागार, रा. ना. वि., दिल्ली",
     "ForeignKeyId": "077.454",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.454"
 }

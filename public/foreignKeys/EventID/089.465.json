@@ -6,5 +6,6 @@
     "Venue": "इंडिया इंटरनेशनल सेंटर",
     "Year": "24 अक्टूबर 1998",
     "ForeignKeyId": "089.465",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.465"
 }

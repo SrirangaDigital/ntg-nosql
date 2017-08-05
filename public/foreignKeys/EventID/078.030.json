@@ -4,5 +4,6 @@
     "Venue": "विलनियस पपिट थिएटर (Vilnius Puppet Theatre) LELE",
     "Dance": "पपिट शो",
     "ForeignKeyId": "078.030",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.030"
 }

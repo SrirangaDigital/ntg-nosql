@@ -4,5 +4,6 @@
     "Drama": "रामलीला (पारम्परिक नाट्य)",
     "Artist": "हल्लो भैया (शायद)",
     "ForeignKeyId": "077.620",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.620"
 }

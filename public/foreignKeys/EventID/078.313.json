@@ -3,5 +3,6 @@
     "Event": "राष्ट्रीय ड्रामा सेमिनार",
     "Photo": "नेमिचन्द्र जैन (ग्रुप फोटो)",
     "ForeignKeyId": "078.313",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.313"
 }

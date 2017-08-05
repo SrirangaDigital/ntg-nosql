@@ -5,5 +5,6 @@
     "Translation": "रवीन्द्रनाथ ठाकुर",
     "Subject": "चित्रांगदा",
     "ForeignKeyId": "042.055",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.055"
 }

@@ -4,5 +4,6 @@
     "Person": "Adhikari G.",
     "Subject": "First May Day in India (and other articles)",
     "ForeignKeyId": "042.352",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.352"
 }

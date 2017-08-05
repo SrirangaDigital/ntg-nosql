@@ -6,5 +6,6 @@
     "Director": "ओमेन्द्र कुमार",
     "Artist": "करुणेश श्रीवास्तव (बीच में) व अन्य",
     "ForeignKeyId": "077.473",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.473"
 }

@@ -4,5 +4,6 @@
     "Event": "द रिपोर्ट ऑफ द बिहार अकादेमी ऑफ म्यूजिक, डांस एण्ड ड्रामा",
     "Year": "1954",
     "ForeignKeyId": "042.537",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.537"
 }

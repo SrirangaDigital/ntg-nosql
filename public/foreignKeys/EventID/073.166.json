@@ -8,5 +8,6 @@
     "Writer": "प्रेमचन्द",
     "Artist": "आर. ए. खान (पण्डित धासीराम), रीता श्रीवास्तव (पण्डिताइन), शहजाद सैयद (दुक्की), कु. तृप्ति (भुरिया)",
     "ForeignKeyId": "073.166",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.166"
 }

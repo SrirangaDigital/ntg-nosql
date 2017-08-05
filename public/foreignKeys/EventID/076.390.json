@@ -6,5 +6,6 @@
     "Venue": "शिल्ग्राम, गोवाहाटी, असम",
     "Guarding": "डॉ. बिरेन्द्रनाथ दत्ता व कन्हाईलाल",
     "ForeignKeyId": "076.390",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.390"
 }

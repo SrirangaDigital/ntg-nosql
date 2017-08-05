@@ -6,5 +6,6 @@
     "Director": "रामगोपाल बजाज",
     "Music": "भास्कर चन्द्रावरकर",
     "ForeignKeyId": "074.610",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.610"
 }

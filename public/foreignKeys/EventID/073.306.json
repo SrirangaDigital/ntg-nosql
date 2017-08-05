@@ -9,5 +9,6 @@
     "Artist": "विमल बैनर्जी एवं डॉ. बी. सी. गुप्ता व अन्य",
     "Venue": "रवीन्द्रालय, लखनऊ",
     "ForeignKeyId": "073.306",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.306"
 }

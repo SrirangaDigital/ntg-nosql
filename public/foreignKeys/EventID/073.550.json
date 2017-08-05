@@ -9,5 +9,6 @@
     "Venue": "अभिमंच, दिल्ली",
     "Hoster": "रा. ना. वि. एवं नटरंग प्रतिष्टा; पूर्वा",
     "ForeignKeyId": "073.550",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.550"
 }

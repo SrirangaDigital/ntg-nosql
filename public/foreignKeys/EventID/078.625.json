@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सावित्री हेसनाम (सावित्री हेसनाम व एच. कन्हाईलाल बिहार के इप्टा अॉफिस में)",
     "ForeignKeyId": "078.625",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.625"
 }

@@ -4,5 +4,6 @@
     "Subject": "कंजूस",
     "Conversion": "हजरत आवारा मोलियर",
     "ForeignKeyId": "042.014",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.014"
 }

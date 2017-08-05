@@ -9,5 +9,6 @@
     "Artist": "हरीश भाटिया (लेखक), देवेन जोशी (इन्द्रजीत), आलोका मेंहदीरत्ता (मानसी) व अन्य",
     "Venue": "चण्डीगढ़",
     "ForeignKeyId": "073.634",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.634"
 }

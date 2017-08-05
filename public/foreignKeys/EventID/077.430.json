@@ -4,5 +4,6 @@
     "Drama": "बंदर का पंजा",
     "Director": "अफ़सर हुसैन",
     "ForeignKeyId": "077.430",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.430"
 }

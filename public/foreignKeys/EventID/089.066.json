@@ -8,5 +8,6 @@
     "Director": "पी. गंगाधर स्वामी",
     "Music": "ब. व. कारंत",
     "ForeignKeyId": "089.066",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.066"
 }

@@ -4,5 +4,6 @@
     "Drama": "तितुमीर (Titumeer) (बांग्ला)",
     "Artist": "शोबा सेना, सत्य बंधोपाध्याय व अन्य",
     "ForeignKeyId": "076.108",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.108"
 }

@@ -8,5 +8,6 @@
     "Projection": "बिपिन कुमार",
     "Venue": "नवोदय विद्यालय, बिहार",
     "ForeignKeyId": "074.252",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.252"
 }

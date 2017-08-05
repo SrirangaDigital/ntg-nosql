@@ -4,5 +4,6 @@
     "Event": "नटरंग प्रतिष्ठान कार्यालय : कार्यालय के कर्मचारी और उनके क्रिया कलापों से संबंधित",
     "Year": "अक्टू. 1998",
     "ForeignKeyId": "074.332.039",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.039"
 }

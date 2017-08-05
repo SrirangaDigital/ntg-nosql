@@ -3,5 +3,6 @@
     "Drama": "दशकुमार चरित",
     "Director": "बंसी कौल",
     "ForeignKeyId": "076.829",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.829"
 }

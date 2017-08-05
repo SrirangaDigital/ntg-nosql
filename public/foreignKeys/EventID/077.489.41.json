@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "संगीत एकचप्याला (मराठी)",
     "ForeignKeyId": "077.489.41",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.41"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मा इसाबेल लेगार्ढा (Ma. Isabel Legarda) (फिलीपिन्स एजुकेशनल थियेटर एसोसिएशन की कला निर्देशक)",
     "ForeignKeyId": "078.489",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.489"
 }

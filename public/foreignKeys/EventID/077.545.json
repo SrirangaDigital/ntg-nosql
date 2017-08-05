@@ -3,5 +3,6 @@
     "Place": "पुरलिया",
     "Drama": "छाऊ (पारम्परिक नाट्य)",
     "ForeignKeyId": "077.545",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.545"
 }

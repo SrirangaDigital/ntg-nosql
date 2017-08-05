@@ -4,5 +4,6 @@
     "Event": "भुवनेश्वर प्रसाद स्मृति समारोह",
     "Venue": "गांधी भवन, शाहजहाँपुर",
     "ForeignKeyId": "073.412",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.412"
 }

@@ -5,5 +5,6 @@
     "Event": "दशावतार",
     "Writer": "बी. पुट्टस्वाम्य्या",
     "ForeignKeyId": "089.399",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.399"
 }

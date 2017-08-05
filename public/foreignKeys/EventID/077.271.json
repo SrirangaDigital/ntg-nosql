@@ -5,5 +5,6 @@
     "Writer": "दिलीप खांडेकर",
     "Director": "अच्युत देशिगकर",
     "ForeignKeyId": "077.271",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.271"
 }

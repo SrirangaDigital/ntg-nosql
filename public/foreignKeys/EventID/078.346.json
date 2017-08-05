@@ -4,5 +4,6 @@
     "Photo": "पंकज कपूर",
     "Artist": "पंकज कपूर",
     "ForeignKeyId": "078.346",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.346"
 }

@@ -4,5 +4,6 @@
     "Drama": "खेला पोलमपुर का (हिन्दी)",
     "Writer": "मणिमधुकर",
     "ForeignKeyId": "076.789",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.789"
 }

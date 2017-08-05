@@ -5,5 +5,6 @@
     "Writer": "मनोज मित्र",
     "Director": "विभास चक्रवर्ती",
     "ForeignKeyId": "076.074",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.074"
 }

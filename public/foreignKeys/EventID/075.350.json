@@ -10,5 +10,6 @@
     "Light": "रवीन्द्र मिश्रा, नरेश कुमार",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "075.350",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.350"
 }

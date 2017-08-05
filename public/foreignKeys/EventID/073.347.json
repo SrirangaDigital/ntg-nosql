@@ -7,5 +7,6 @@
     "Stage": "राज बिसारिया",
     "Light": "राज बिसारिया",
     "ForeignKeyId": "073.347",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.347"
 }

@@ -5,5 +5,6 @@
     "Event": "जात ही पूध्वे साधु की",
     "Writer": "विजय तेंडुलकर",
     "ForeignKeyId": "089.428",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.428"
 }

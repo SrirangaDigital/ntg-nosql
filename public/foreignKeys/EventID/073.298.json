@@ -6,5 +6,6 @@
     "Director": "रज़ा शीज़वी",
     "Artist": "एम. हफीज़ एवं मो. फरीद व अन्य",
     "ForeignKeyId": "073.298",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.298"
 }

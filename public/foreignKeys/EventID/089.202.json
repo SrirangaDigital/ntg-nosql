@@ -8,5 +8,6 @@
     "Natyanuvad": "रति बार्थोलोम्यु एवं वीरेन्द्र सक्सेना (बांग्ला से हिन्दी)",
     "Director": "अनिल रंजन भौमिक",
     "ForeignKeyId": "089.202",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.202"
 }

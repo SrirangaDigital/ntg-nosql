@@ -3,5 +3,6 @@
     "Place": "उदयपुर",
     "Drama": "कल्पना पिशाच",
     "ForeignKeyId": "077.332",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.332"
 }

@@ -6,5 +6,6 @@
     "Venue": "इंडिया इंटरनेशनल सेंटर, दिल्ली",
     "Year": "11-14 अप्रैल, 2007",
     "ForeignKeyId": "074.332.033",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.033"
 }

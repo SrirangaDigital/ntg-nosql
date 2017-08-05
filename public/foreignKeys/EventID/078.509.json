@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मोहन उप्रैती (मोहन उप्रैती का व्यक्तिगत फोटोग्राफ)",
     "ForeignKeyId": "078.509",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.509"
 }

@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "शास्त्रीय नृत्य - कुचिपुड़ी - भामाकल्पम - नाटिका",
     "ForeignKeyId": "078.052",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.052"
 }

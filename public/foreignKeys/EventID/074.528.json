@@ -4,5 +4,6 @@
     "Drama": "भीष्म विजय (यक्षगान शैली)",
     "Director": "कोटा शिवराम कारंत एवं ब. व. कारंत",
     "ForeignKeyId": "074.528",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.528"
 }

@@ -6,5 +6,6 @@
     "Translation": "यामा अग्रवाल",
     "Director": "अनिल रंजन भौमिक",
     "ForeignKeyId": "073.041",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.041"
 }

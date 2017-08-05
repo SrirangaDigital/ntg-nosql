@@ -10,5 +10,6 @@
     "Artist": "सुधांशु जैन, नीलांजन गुहा, अर्नब दासगुप्ता, श्रीमोयी दासगुप्ता व अन्य",
     "Venue": "मुक्तधारा सभागार, दिल्ली",
     "ForeignKeyId": "075.561",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.561"
 }

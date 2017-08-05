@@ -3,5 +3,6 @@
     "Place": "कनारा",
     "Drama": "यक्षगान (नृत्य नाटक)",
     "ForeignKeyId": "073.447",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.447"
 }

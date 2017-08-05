@@ -8,5 +8,6 @@
     "Director": "अनिल रंजन भौमिक",
     "Event": "भुवनेश्वर स्मृति समारोह",
     "ForeignKeyId": "089.076",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.076"
 }

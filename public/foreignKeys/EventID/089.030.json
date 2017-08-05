@@ -7,5 +7,6 @@
     "Translator": "यामा अग्रवाल",
     "Director": "के. के. सिन्हा",
     "ForeignKeyId": "089.030",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.030"
 }

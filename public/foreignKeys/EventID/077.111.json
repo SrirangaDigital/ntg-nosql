@@ -10,5 +10,6 @@
     "Light": "रवि मिश्रा/अकबर खान",
     "Artist": "दर्पण मिश्रा (मेज़र गायकवाड़), वीरेन्द्र गिरि (हवलदार राठी) व अन्य",
     "ForeignKeyId": "077.111",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.111"
 }

@@ -4,5 +4,6 @@
     "Subject": "Marxism and Poetry, 1945",
     "Person": "Thomson, George",
     "ForeignKeyId": "042.365",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.365"
 }

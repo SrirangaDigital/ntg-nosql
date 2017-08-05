@@ -4,5 +4,6 @@
     "Subject": "पद्मावति उर्फ फरियदे बुलबुल, 1960",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.222",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.222"
 }

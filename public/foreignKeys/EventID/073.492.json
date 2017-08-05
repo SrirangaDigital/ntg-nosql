@@ -12,5 +12,6 @@
     "Music": "सुमति",
     "Venue": "कमानी सभागार, दिल्ली",
     "ForeignKeyId": "073.492",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.492"
 }

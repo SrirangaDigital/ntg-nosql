@@ -6,5 +6,6 @@
     "Director": "अमाल अलाना",
     "Venue": "कमानी सभागार",
     "ForeignKeyId": "074.296",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.296"
 }

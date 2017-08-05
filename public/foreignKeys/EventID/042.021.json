@@ -4,5 +4,6 @@
     "Subject": "कुऍ में कोई गिर गया है",
     "Person": "विजयदेव नारायण साही व अन्य",
     "ForeignKeyId": "042.021",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.021"
 }

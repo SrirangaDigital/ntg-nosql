@@ -3,5 +3,6 @@
     "Place": "तिरुअनंतपुरम्",
     "Dance": "कुट्टियाट्टम् - `मोहिनी' शूर्पणखा अंक",
     "ForeignKeyId": "077.504",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.504"
 }

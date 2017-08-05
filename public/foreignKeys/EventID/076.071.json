@@ -15,5 +15,6 @@
     "Artist": "अनंदिता दास मलिक (नंदिनी), देवाश्री भट्टाचार्य (रक्तकारबी), सुप्रियो पाल (सरदार) व अन्य",
     "Venue": "कमानी सभागार, दिल्ली",
     "ForeignKeyId": "076.071",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.071"
 }

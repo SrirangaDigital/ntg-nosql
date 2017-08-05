@@ -11,5 +11,6 @@
     "Artist": "मोहन महर्षी (धृतराष्ट्र), उत्तरा बावकर (गाँधारी), जाक़िर हुसैन (संजय)",
     "Voice": "ओम पुरी (कृष्ण), गोविन्द नामदेव (व्यास)",
     "ForeignKeyId": "075.591",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.591"
 }

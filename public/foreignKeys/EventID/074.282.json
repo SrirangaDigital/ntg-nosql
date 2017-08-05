@@ -11,5 +11,6 @@
     "Light": "हादी सरमादी (Hadi Sarmadi)",
     "Venue": "एस. एस. एस. आई. सभागार, जवाहर लाल नेहरू यूनिवर्सिटी",
     "ForeignKeyId": "074.282",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.282"
 }

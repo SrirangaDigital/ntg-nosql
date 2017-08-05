@@ -7,5 +7,6 @@
     "Natyantar": "विभा मिश्र",
     "Venue": "भारत भवन, भोपाल",
     "ForeignKeyId": "076.591",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.591"
 }

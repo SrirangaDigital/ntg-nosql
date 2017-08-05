@@ -3,5 +3,6 @@
     "Dance": "कठपुतली : बोम्मलता (तमिल)",
     "Director": "लंका सत्यानंद",
     "ForeignKeyId": "078.009",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.009"
 }

@@ -4,5 +4,6 @@
     "Photo": "रत्ना पाठक शाह",
     "Venue": "अभिमंच",
     "ForeignKeyId": "078.517",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.517"
 }

@@ -12,5 +12,6 @@
     "Costume": "कीर्ति",
     "Venue": "श्रीराम सेंटर मुख्य सभागार",
     "ForeignKeyId": "075.354",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.354"
 }

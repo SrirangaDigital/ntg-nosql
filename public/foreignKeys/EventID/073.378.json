@@ -3,5 +3,6 @@
     "Place": "लखनऊ",
     "Drama": "माँ की लाज",
     "ForeignKeyId": "073.378",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.378"
 }

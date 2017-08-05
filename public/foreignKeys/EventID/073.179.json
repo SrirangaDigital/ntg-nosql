@@ -6,5 +6,6 @@
     "Director": "गिरीश रस्तोगी",
     "Artist": "कु. आ भा छुलिया (युवती), कु. धीरा जोशी (लडकी)",
     "ForeignKeyId": "073.179",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.179"
 }

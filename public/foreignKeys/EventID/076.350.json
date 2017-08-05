@@ -8,5 +8,6 @@
     "Note": "बेगूसराय नगर इकाई की प्रस्तुति, दिनकर भवन बेगूसराय (बिहार) में",
     "Artist": "अवध बालक (बपेही) और परवेज यूसूफ (विदेशी)",
     "ForeignKeyId": "076.350",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.350"
 }

@@ -7,5 +7,6 @@
     "Year": "अक्टू., 1958",
     "Organizer": "अविनाश व्यास, गोवर्धन पांचाल व योगेन्द्र देसाई",
     "ForeignKeyId": "042.567",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.567"
 }

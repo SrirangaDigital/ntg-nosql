@@ -5,5 +5,6 @@
     "Event": "हिन्दुस्तानी रिकॉर्डस, 1949",
     "Year": "मार्च, 1950",
     "ForeignKeyId": "042.606",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.606"
 }

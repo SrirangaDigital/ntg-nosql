@@ -4,5 +4,6 @@
     "Person": "विभा मिश्र",
     "Subject": "कुएॅ में कोई गिर गया है (विजयदेव नारायण साही, भारतेन्दु हरिश्चन्द्र, कुॅवर नारायण आदि की कविताओं पर आधारित",
     "ForeignKeyId": "042.084",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.084"
 }

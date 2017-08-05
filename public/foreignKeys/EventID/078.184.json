@@ -5,5 +5,6 @@
     "Artist": "के. एन. पणिक्कर",
     "Director": "पणिक्कर",
     "ForeignKeyId": "078.184",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.184"
 }

@@ -6,5 +6,6 @@
     "Translation": "यामा अग्रवाल",
     "Director": "गिरीश रस्तोगी",
     "ForeignKeyId": "073.178",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.178"
 }

@@ -9,5 +9,6 @@
     "Artist": "एम. के. रैना, पंकज कपूर, अमिताभ श्रीवास्तव, के. के. रैना, एस. एम. ज़हीर, अनु कपूर व अन्य",
     "Year": "1986",
     "ForeignKeyId": "089.261.1",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.261.1"
 }

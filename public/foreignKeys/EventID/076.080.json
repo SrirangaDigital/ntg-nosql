@@ -4,5 +4,6 @@
     "Drama": "नाट्यकार संधनि छह चरित्र",
     "Director": "अजितेश बन्द्योपाध्याय",
     "ForeignKeyId": "076.080",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.080"
 }

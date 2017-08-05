@@ -6,5 +6,6 @@
     "Director": "कैलाश सक्सेना",
     "Artist": "लता रानी व शमीम बानो",
     "ForeignKeyId": "073.316",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.316"
 }

@@ -7,5 +7,6 @@
     "Artist": "युगल, राजू शर्मा व अन्य",
     "Originaldrama": "SLEUTH",
     "ForeignKeyId": "073.294",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.294"
 }

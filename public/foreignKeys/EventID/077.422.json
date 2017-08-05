@@ -5,5 +5,6 @@
     "Writer": "नन्दकिशोर आचार्य",
     "Director": "कैलाश भारद्वाज",
     "ForeignKeyId": "077.422",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.422"
 }

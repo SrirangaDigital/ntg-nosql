@@ -4,5 +4,6 @@
     "Subject": "अमर सिंह राठौर (सांगीत), 1960",
     "Person": "श्रीकृष्ण",
     "ForeignKeyId": "042.123",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.123"
 }

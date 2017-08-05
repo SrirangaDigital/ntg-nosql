@@ -7,5 +7,6 @@
     "Event": "राष्ट्रीय नाट्य समारोह 1989",
     "Venue": "संगीत नाटक अकादमी",
     "ForeignKeyId": "073.734",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.734"
 }

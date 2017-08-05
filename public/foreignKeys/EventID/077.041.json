@@ -6,5 +6,6 @@
     "Version": "बलराज पण्डित, सुरेखा सीकरी",
     "Venue": "अंक नाट्य समारोह",
     "ForeignKeyId": "077.041",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.041"
 }

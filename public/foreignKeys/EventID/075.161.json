@@ -6,5 +6,6 @@
     "Translation": "श्री वल्लभ व्यास",
     "Director": "रोबिन दास",
     "ForeignKeyId": "075.161",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.161"
 }

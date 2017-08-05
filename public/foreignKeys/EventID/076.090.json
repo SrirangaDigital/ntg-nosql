@@ -6,5 +6,6 @@
     "Director": "श्यामानंद जालान",
     "Artist": "श्यामानंद जालान, चेतना जालान, प्रदीप रॉय व नन्दिनी चैटर्जी व अन्य",
     "ForeignKeyId": "076.090",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.090"
 }

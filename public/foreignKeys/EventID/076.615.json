@@ -5,5 +5,6 @@
     "Writer": "निर्मल वर्मा",
     "Director": "आलोक चटर्जी",
     "ForeignKeyId": "076.615",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.615"
 }

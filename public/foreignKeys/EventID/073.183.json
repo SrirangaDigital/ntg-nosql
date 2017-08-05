@@ -5,5 +5,6 @@
     "Writer": "श्रीकान्त वर्मा",
     "Director": "गिरीश रस्तोगी",
     "ForeignKeyId": "073.183",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.183"
 }

@@ -4,5 +4,6 @@
     "Subject": "नया पथ (लोक साहित्य विशेषांक)",
     "Editor": "श्रीकृष्न दास",
     "ForeignKeyId": "042.403",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.403"
 }

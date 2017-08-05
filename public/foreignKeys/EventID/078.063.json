@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "लोकनृत्य : मडीथेट्टु",
     "ForeignKeyId": "078.063",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.063"
 }

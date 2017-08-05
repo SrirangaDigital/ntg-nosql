@@ -6,5 +6,6 @@
     "Translation": "प्रसन्ना",
     "Director": "प्रसन्ना",
     "ForeignKeyId": "073.521",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.521"
 }

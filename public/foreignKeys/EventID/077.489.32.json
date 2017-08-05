@@ -3,5 +3,6 @@
     "Drama": "रानी दाई",
     "Director": "योगेन्द्र चौबे",
     "ForeignKeyId": "077.489.32",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.32"
 }

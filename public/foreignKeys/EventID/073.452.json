@@ -4,5 +4,6 @@
     "Drama": "सांग्या बाल्या [कन्नड़]",
     "Director": "टी. एस. नागाभरण",
     "ForeignKeyId": "073.452",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.452"
 }

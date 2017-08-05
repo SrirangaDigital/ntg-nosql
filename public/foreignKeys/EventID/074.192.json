@@ -6,5 +6,6 @@
     "Director": "अरुण सिंह",
     "Venue": "नवयुग स्कूल, दिल्ली",
     "ForeignKeyId": "074.192",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.192"
 }

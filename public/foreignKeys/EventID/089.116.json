@@ -4,5 +4,6 @@
     "Place": "कोलकाता",
     "Event": "विशेष कार्यशाला (CAL)",
     "ForeignKeyId": "089.116",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.116"
 }

@@ -5,5 +5,6 @@
     "Venue": "नटरंग प्रतिष्ठान कार्यालय",
     "Year": "11 मई 1993",
     "ForeignKeyId": "074.332.060",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.060"
 }

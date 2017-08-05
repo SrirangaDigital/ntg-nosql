@@ -4,5 +4,6 @@
     "Event": "अमृत महोत्सव",
     "Photo": "नेमिचन्द्र जैन",
     "ForeignKeyId": "078.302",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.302"
 }

@@ -7,5 +7,6 @@
     "Decorater": "ब्रजमोहन शाह",
     "Translation": "आद्याचार्य",
     "ForeignKeyId": "073.478",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.478"
 }

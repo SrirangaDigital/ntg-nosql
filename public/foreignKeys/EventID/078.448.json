@@ -5,5 +5,6 @@
     "Photo": "भुवनेश्वर प्रसाद",
     "Venue": "गांधी भवन, शाहजहांपुर",
     "ForeignKeyId": "078.448",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.448"
 }

@@ -8,5 +8,6 @@
     "Venue": "साहित्य अकादमी सभागार, दिल्ली",
     "Year": "28-07-2003",
     "ForeignKeyId": "074.332.058",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.058"
 }

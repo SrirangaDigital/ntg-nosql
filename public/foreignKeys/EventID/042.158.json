@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "जनकवि कन्हैया की कविताएॅ, 1986 - भारतीय जन नाट्य मंच",
     "ForeignKeyId": "042.158",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.158"
 }

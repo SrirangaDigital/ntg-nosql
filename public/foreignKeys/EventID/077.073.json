@@ -8,5 +8,6 @@
     "Director": "जयदेव हट्टंगडी (ओका)",
     "Artist": "रोहिणी हट्टंगडी, जयदेव हट्टंगडी व अन्य",
     "ForeignKeyId": "077.073",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.073"
 }

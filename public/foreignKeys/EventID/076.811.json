@@ -6,5 +6,6 @@
     "Translation": "महेश जायसवाल",
     "Director": "विवेक दत्त झा या मिहिर चट्टोपाध्याय (?)",
     "ForeignKeyId": "076.811",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.811"
 }

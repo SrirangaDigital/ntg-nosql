@@ -4,5 +4,6 @@
     "Drama": "गिद्व",
     "Director": "बी. एम. शाह",
     "ForeignKeyId": "074.500",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.500"
 }

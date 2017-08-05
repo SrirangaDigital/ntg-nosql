@@ -4,5 +4,6 @@
     "Drama": "दामाद",
     "Writer": "रमेश मेहता",
     "ForeignKeyId": "077.484",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.484"
 }

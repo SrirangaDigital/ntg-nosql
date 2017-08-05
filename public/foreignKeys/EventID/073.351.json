@@ -7,5 +7,6 @@
     "Director": "राजबिसारिया",
     "Artist": "विमल बैनर्जी, मीन राठोर, जितेन चौपड़ा, राजेन्द्र गुप्ता व अन्य",
     "ForeignKeyId": "073.351",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.351"
 }

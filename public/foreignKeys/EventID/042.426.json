@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "कन्नड़ पत्रिकाएॅ",
     "ForeignKeyId": "042.426",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.426"
 }

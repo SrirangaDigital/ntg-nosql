@@ -5,5 +5,6 @@
     "Event": "कमलबारी सत्र",
     "Artist": "रामविजय",
     "ForeignKeyId": "077.490",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.490"
 }

@@ -3,5 +3,6 @@
     "Place": "गोरखपुर",
     "Drama": "परि और गुल्बारे बाला (हिन्दी)",
     "ForeignKeyId": "073.198",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.198"
 }

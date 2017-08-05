@@ -3,5 +3,6 @@
     "Drama": "रामलीला (पारम्परिक नाट्य)",
     "Photographer": "घनश्याम शर्मा",
     "ForeignKeyId": "077.618",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.618"
 }

@@ -3,5 +3,6 @@
     "Place": "दिल्ली",
     "Event": "उमंग कार्यशाला (एँ)",
     "ForeignKeyId": "074.153",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.153"
 }

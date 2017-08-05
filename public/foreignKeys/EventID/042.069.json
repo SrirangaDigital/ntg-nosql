@@ -4,5 +4,6 @@
     "Person": "रघुवीर सहाय",
     "Subject": "विविध गीत (काव्य)",
     "ForeignKeyId": "042.069",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.069"
 }

@@ -6,5 +6,6 @@
     "Writer": "ज्ञान प्रकाश विवेक",
     "Director": "एम. रानी",
     "ForeignKeyId": "089.210",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.210"
 }

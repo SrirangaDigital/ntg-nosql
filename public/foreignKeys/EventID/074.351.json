@@ -7,5 +7,6 @@
     "Translation": "कुदेसिया ज़ैदी, नूर नबी अब्बासी, हबीब तनवीर",
     "Venue": "AIFACS / कॅमानी सभागार, दिल्ली",
     "ForeignKeyId": "074.351",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.351"
 }

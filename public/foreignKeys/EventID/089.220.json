@@ -8,5 +8,6 @@
     "Artist": "सुदामा (गंदगी) की भूमिका में",
     "Photographer": "मुकुल यादव",
     "ForeignKeyId": "089.220",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.220"
 }

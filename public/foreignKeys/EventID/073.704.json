@@ -5,5 +5,6 @@
     "Writer": "सुशील कुमार सिंह",
     "Venue": "महासमुद्रं",
     "ForeignKeyId": "073.704",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.704"
 }

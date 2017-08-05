@@ -5,5 +5,6 @@
     "Writer": "के. गुण्डना",
     "Director": "अनिल ठक्कर",
     "ForeignKeyId": "073.523",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.523"
 }

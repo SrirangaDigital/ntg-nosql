@@ -6,5 +6,6 @@
     "Director": "राजिन्दर नाथ",
     "Translation": "राम गोपाल बजाज",
     "ForeignKeyId": "074.049",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.049"
 }

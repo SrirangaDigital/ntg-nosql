@@ -6,5 +6,6 @@
     "Article": "अरिफीन सी. नूर",
     "Director": "अरिफीन सी. नूर",
     "ForeignKeyId": "077.689",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.689"
 }

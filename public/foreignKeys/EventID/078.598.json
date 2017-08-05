@@ -4,5 +4,6 @@
     "Photo": "शिखा झिंग़न",
     "Venue": "इंडिया इंटरनेशनल सेंटर, दिल्ली",
     "ForeignKeyId": "078.598",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.598"
 }

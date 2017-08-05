@@ -6,5 +6,6 @@
     "Director": "उत्पल दत्त",
     "Venue": "मंजर थियेटर",
     "ForeignKeyId": "076.102",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.102"
 }

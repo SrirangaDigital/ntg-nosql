@@ -4,5 +4,6 @@
     "Drama": "उसके हिस्से का प्रेम (हिन्दी)",
     "Director": "विभा मिश्र",
     "ForeignKeyId": "076.593",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.593"
 }

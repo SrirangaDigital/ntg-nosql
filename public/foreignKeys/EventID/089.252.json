@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - पेन्टिंग",
     "Event": "पूतना वध, पश्चिम बंगाल (मेवाड़ शैली)",
     "ForeignKeyId": "089.252",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.252"
 }

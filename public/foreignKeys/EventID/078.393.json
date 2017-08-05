@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "ब. व. कारंत (ब. व. कारंत के साथ जवाहरलाल नेहरु, मीना विलियम्स, छवि सेन, ब्रजमोहन शाह)",
     "ForeignKeyId": "078.393",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.393"
 }

@@ -6,5 +6,6 @@
     "Director": "आर. नरेन्द्र प्रसाद",
     "Event": "नाट्य समारोह `1985'",
     "ForeignKeyId": "073.553",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.553"
 }

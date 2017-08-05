@@ -4,5 +4,6 @@
     "Drama": "लिसिस्ट्राटा",
     "Director": "रेन्ड्रा",
     "ForeignKeyId": "077.652",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.652"
 }

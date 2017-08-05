@@ -12,5 +12,6 @@
     "Artist": "जयंत गडेकर (सूत्रधार), अवस्थी भट्ट, समरेश राउत्रे (उदयन), इंदु वर्मा (वासबदत्ता) व अन्य",
     "Venue": "अभिमंच सभागार",
     "ForeignKeyId": "074.586",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.586"
 }

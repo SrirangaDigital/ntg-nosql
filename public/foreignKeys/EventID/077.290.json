@@ -4,5 +4,6 @@
     "Drama": "बोर्न थस्टर्डे",
     "Director": "हर्बट भरशक",
     "ForeignKeyId": "077.290",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.290"
 }

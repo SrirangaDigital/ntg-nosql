@@ -6,5 +6,6 @@
     "Director": "ललित मोहन थपल्याल",
     "Artist": "जीतू की भूमिका में देवेन्दर सिंह",
     "ForeignKeyId": "073.426",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.426"
 }

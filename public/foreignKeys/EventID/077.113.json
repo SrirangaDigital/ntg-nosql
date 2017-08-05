@@ -14,5 +14,6 @@
     "Light": "रवि मिश्रा",
     "Artist": "कनुप्रिया (जूही बब्बर), धृतराष्ट्र (दर्पण मिश्रा) व अन्य",
     "ForeignKeyId": "077.113",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.113"
 }

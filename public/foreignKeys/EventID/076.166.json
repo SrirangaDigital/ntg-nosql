@@ -9,5 +9,6 @@
     "Artist": "उषा गांगुली",
     "Venue": "कलकत्ता",
     "ForeignKeyId": "076.166",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.166"
 }

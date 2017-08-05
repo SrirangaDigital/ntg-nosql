@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "कामेश्वर सैगल (नर्तक)",
     "ForeignKeyId": "078.179",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.179"
 }

@@ -7,5 +7,6 @@
     "Director": "ब. व. कारंत",
     "Artist": "नेमिचन्द्र जैन एवं ब. व. कारंत",
     "ForeignKeyId": "074.556",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.556"
 }

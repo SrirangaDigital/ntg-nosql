@@ -6,5 +6,6 @@
     "Writer": "हबीब तनवीर",
     "Artist": "हबीब तनवीर",
     "ForeignKeyId": "089.474",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.474"
 }

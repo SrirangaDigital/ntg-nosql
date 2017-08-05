@@ -3,5 +3,6 @@
     "Place": "उज्जैन",
     "Drama": "रवि शर्मा",
     "ForeignKeyId": "076.496",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.496"
 }

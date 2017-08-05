@@ -6,5 +6,6 @@
     "Director": "सतांषी मियागी",
     "Venue": "कमानी सभागार, दिल्ली",
     "ForeignKeyId": "077.697",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.697"
 }

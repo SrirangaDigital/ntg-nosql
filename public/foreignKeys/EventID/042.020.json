@@ -2,5 +2,6 @@
     "Aid": "03",
     "Card-type": "दुर्लभ डायरी",
     "ForeignKeyId": "042.020",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.020"
 }

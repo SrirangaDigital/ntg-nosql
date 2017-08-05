@@ -7,5 +7,6 @@
     "Version": "अमिताभ श्रीवास्तव",
     "Venue": "श्री राम सेंटर तलधट",
     "ForeignKeyId": "074.112",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.112"
 }

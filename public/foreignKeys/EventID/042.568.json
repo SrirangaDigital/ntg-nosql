@@ -10,5 +10,6 @@
     "Artist": "दादी सरकारी, हिला नरीमन, सोराब मोदी व अन्य",
     "Year": "1958",
     "ForeignKeyId": "042.568",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.568"
 }

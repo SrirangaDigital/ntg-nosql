@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "कुट्टियाट्टम् (पारम्परिक नाट्य) (माणि माधव चाकयार, भी देखिये)",
     "ForeignKeyId": "077.512",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.512"
 }

@@ -3,5 +3,6 @@
     "Place": "इलाहाबाद",
     "Artist": "सतीश चित्रवंशी, अनुपम आनंद, रतन कुमार व अन्य",
     "ForeignKeyId": "073.048",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.048"
 }

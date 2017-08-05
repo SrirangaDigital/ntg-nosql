@@ -12,5 +12,6 @@
     "Artist": "परितोष संद (बैन), राजेश तैलंग (गस)",
     "Venue": "बिपिन चन्द्र पाल ऑडिटोरियम, दिल्ली",
     "ForeignKeyId": "074.276",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.276"
 }

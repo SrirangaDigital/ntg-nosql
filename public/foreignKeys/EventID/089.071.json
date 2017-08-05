@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - अभिनेत्रियाँ",
     "Photo": "बांग्ला थियेटर की पुरानी अभिनेत्रियाँ",
     "ForeignKeyId": "089.071",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.071"
 }

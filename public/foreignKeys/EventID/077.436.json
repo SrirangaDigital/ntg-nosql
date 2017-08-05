@@ -4,5 +4,6 @@
     "Drama": "आया का मुकदमा",
     "Director": "डी. एन. शैली",
     "ForeignKeyId": "077.436",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.436"
 }

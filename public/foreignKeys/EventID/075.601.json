@@ -6,5 +6,6 @@
     "Director": "एम. के. रैना",
     "Venue": "फाइन आर्ट्स अकादमी, कोलकाता",
     "ForeignKeyId": "075.601",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.601"
 }

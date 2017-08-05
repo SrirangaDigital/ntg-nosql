@@ -6,5 +6,6 @@
     "Director": "सत्व्रत सिन्हा",
     "Artist": "सत्यव्रत सिन्हा (राजा), शान्ति-स्वरूप प्रधान (मंत्री), पुष्पेन्द्र सिंह (नौकर) व अन्य",
     "ForeignKeyId": "073.069",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.069"
 }

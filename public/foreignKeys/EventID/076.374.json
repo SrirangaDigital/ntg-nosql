@@ -4,5 +4,6 @@
     "Drama": "इराबोत (Irabot)",
     "Writer": "लोकेन्द्र आरम्बम्",
     "ForeignKeyId": "076.374",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.374"
 }

@@ -11,5 +11,6 @@
     "Artist": "मायाराव",
     "Venue": "बहुमुख सभागार, रा. ना. वि., दिल्ली",
     "ForeignKeyId": "075.343",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.343"
 }

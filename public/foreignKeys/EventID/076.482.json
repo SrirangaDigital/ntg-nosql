@@ -6,5 +6,6 @@
     "Director": "सतीश मेहता",
     "Natyantar": "सरनबाली श्रीवास्तव",
     "ForeignKeyId": "076.482",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.482"
 }

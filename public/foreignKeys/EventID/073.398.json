@@ -6,5 +6,6 @@
     "Director": "प्रेमलता शर्मा, कमलेश दत्त त्रिपाठी",
     "Event": "कालिदास समारोह, उज्जैन",
     "ForeignKeyId": "073.398",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.398"
 }

@@ -7,5 +7,6 @@
     "Translation": "बलराज पण्डित",
     "Director": "एम. के. रैना",
     "ForeignKeyId": "074.417",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.417"
 }

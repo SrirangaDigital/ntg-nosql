@@ -13,5 +13,6 @@
     "Artist": "चिंतामणि (गीता दोशी), सुबुद्ध (दिनकर), कृष्न (वृंदा व्यास), राधा (आशा मुनीम) व अन्य",
     "Year": "9 जु., 1962",
     "ForeignKeyId": "042.596",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.596"
 }

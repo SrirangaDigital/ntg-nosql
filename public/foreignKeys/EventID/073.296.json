@@ -7,5 +7,6 @@
     "Director": "राजबिसारिया",
     "Artist": "मंजरी, युगल, नलिनी व अन्य",
     "ForeignKeyId": "073.296",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.296"
 }

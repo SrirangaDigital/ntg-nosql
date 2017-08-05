@@ -7,5 +7,6 @@
     "Translation": "सत्यनारायण कवि रत्न",
     "Artist": "हबीब तनवीर, मोनिका मिश्र, कुमकुम लाल, आशीष विद्यार्थी, नीलिमा अज़ीम व अन्य",
     "ForeignKeyId": "074.335",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.335"
 }

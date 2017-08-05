@@ -3,5 +3,6 @@
     "Drama": "भवई नाटक",
     "Event": "अमृत शिव जयन्ति में नटवर लाल नायक पंसेर",
     "ForeignKeyId": "077.591",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.591"
 }

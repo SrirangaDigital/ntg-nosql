@@ -4,5 +4,6 @@
     "Place": "भोपाल",
     "Event": "प्रदर्शनी देखते हुए दिग्विजय सिंह व अन्य",
     "ForeignKeyId": "089.257.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.257.0"
 }

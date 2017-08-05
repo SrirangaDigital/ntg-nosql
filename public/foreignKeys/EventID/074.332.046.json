@@ -5,5 +5,6 @@
     "Venue": "दिल्ली",
     "Year": "2 जनवरी 1999",
     "ForeignKeyId": "074.332.046",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.046"
 }

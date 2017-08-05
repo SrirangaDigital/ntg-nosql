@@ -6,5 +6,6 @@
     "Director": "अजय मलकानी",
     "Artist": "जितेन्द्र वदेर, अंकिता चक्रवर्ती, प्रभात लाड",
     "ForeignKeyId": "076.365",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.365"
 }

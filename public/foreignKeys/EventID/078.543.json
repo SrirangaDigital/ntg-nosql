@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "लालन सारंग (रंगकर्मी, फिल्म व टेलिविज़न कलाकार)",
     "ForeignKeyId": "078.543",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.543"
 }

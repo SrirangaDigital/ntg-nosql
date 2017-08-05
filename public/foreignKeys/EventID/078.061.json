@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "लोक नृत्य - भांगड़ा",
     "ForeignKeyId": "078.061",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.061"
 }

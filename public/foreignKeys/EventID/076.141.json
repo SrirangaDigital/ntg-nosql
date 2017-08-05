@@ -10,5 +10,6 @@
     "Light": "जॉय सेन",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "076.141",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.141"
 }

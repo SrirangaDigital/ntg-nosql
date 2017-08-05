@@ -6,5 +6,6 @@
     "Artist": "इलाहाबाद आकाशवाणी के कलाकार (सदस्य)",
     "Year": "02-12-1998",
     "ForeignKeyId": "089.225",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.225"
 }

@@ -4,5 +4,6 @@
     "Drama": "",
     "Venue": "एवान-ए-गालिब सभागार",
     "ForeignKeyId": "075.260",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.260"
 }

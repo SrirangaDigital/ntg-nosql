@@ -3,5 +3,6 @@
     "Country": "हंगरी",
     "Dance": "कठपुतली - विदेश",
     "ForeignKeyId": "078.031",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.031"
 }

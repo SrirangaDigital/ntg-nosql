@@ -8,5 +8,6 @@
     "Version": "रणवीर सिंह",
     "Venue": "भारत भवन, भोपाल",
     "ForeignKeyId": "076.686",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.686"
 }

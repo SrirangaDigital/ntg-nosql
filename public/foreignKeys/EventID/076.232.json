@@ -4,5 +4,6 @@
     "Drama": "रामलीला",
     "Writer": "राकेश",
     "ForeignKeyId": "076.232",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.232"
 }

@@ -5,5 +5,6 @@
     "Artist": "माणि माधव चाक्यार, रावण के रूप में, मार्गी सती नांगयार कुत्तू में",
     "Event": "कालिदास समारोह",
     "ForeignKeyId": "077.520",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.520"
 }

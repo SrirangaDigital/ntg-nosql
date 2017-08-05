@@ -6,5 +6,6 @@
     "Director": "शंकर शेष",
     "Venue": "मंजर थिएटर",
     "ForeignKeyId": "077.215",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.215"
 }

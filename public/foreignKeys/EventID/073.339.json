@@ -14,5 +14,6 @@
     "Voiceandlight": "अरुण त्रिवेदी",
     "Artist": "योगीश चन्द्र द्विवेदी (हश्मत), निशी पाण्डेय (शब्बो), राघव प्रकाश (मुनीर), ललित सिंह पोखरिया (रहमत) व अन्य",
     "ForeignKeyId": "073.339",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.339"
 }

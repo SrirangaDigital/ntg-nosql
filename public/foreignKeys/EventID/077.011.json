@@ -8,5 +8,6 @@
     "Version": "वसंत देव",
     "Artist": "दिनेश ठाकुर, प्रीता माथुर व अन्य",
     "ForeignKeyId": "077.011",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.011"
 }

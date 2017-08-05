@@ -3,5 +3,6 @@
     "Country": "बर्मा",
     "Event": "नर्तक एवं संगीतकार",
     "ForeignKeyId": "077.733",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.733"
 }

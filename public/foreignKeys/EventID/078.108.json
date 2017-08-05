@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "अपर्णा कटारा",
     "ForeignKeyId": "078.108",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.108"
 }

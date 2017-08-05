@@ -4,5 +4,6 @@
     "Drama": "जीतू बगड़वाल",
     "Director": "मोहन उप्रेती",
     "ForeignKeyId": "074.395",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.395"
 }

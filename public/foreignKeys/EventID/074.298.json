@@ -7,5 +7,6 @@
     "Director": "अमाल अल्लाना",
     "Artist": "सलीमा रज़ा, अमित गुप्ता व अन्य",
     "ForeignKeyId": "074.298",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.298"
 }

@@ -5,5 +5,6 @@
     "Writer": "सुभाष चतुर्वेदी",
     "Director": "ओम चतुर्वेदी",
     "ForeignKeyId": "077.302",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.302"
 }

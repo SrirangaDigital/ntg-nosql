@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "किस्सा हीर और रांझा, आगरा, अबुल उलाई प्रेस, 1909",
     "ForeignKeyId": "042.142",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.142"
 }

@@ -6,5 +6,6 @@
     "Writer": "विजय तेंदुलकर (मराठी)",
     "Director": "सी. आर. जाम्बे",
     "ForeignKeyId": "089.035",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.035"
 }

@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "पीटर ब्रुक (व्यक्तिगत चित्र)",
     "ForeignKeyId": "078.351",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.351"
 }

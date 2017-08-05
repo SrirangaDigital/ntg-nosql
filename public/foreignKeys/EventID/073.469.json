@@ -7,5 +7,6 @@
     "Director": "प्रेमा कारंत",
     "Translation": "प्रेमा कारंत",
     "ForeignKeyId": "073.469",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.469"
 }

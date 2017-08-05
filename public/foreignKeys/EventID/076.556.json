@@ -6,5 +6,6 @@
     "Director": "प्रगति पांडेय",
     "Artist": "प्रियंका ठाकुर, सिल्की जैन व अन्य",
     "ForeignKeyId": "076.556",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.556"
 }

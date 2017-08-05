@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Drama": "लोगो, रंगविदूषक, भोपाल",
     "ForeignKeyId": "076.768",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.768"
 }

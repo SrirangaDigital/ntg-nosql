@@ -5,5 +5,6 @@
     "Translation": "मारियो फ्रांती",
     "Subject": "द गिफ्ट",
     "ForeignKeyId": "042.098",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.098"
 }

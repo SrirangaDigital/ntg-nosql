@@ -4,5 +4,6 @@
     "Drama": "कल्लोल",
     "Director": "उत्पल दत्त",
     "ForeignKeyId": "076.105",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.105"
 }

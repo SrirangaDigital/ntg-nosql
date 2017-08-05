@@ -3,5 +3,6 @@
     "Country": "जापान",
     "Drama": "बायक्को शा (जापानी)",
     "ForeignKeyId": "077.705",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.705"
 }

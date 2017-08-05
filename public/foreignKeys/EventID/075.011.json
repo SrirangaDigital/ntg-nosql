@@ -7,5 +7,6 @@
     "Venue": "सीतारंगम, मद्रास",
     "Artist": "3 अक्टूबर 1995",
     "ForeignKeyId": "075.011",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.011"
 }

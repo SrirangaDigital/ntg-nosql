@@ -6,5 +6,6 @@
     "Version": "मोहन महर्षी",
     "Director": "मोहन महर्षी",
     "ForeignKeyId": "074.604",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.604"
 }

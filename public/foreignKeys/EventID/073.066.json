@@ -4,5 +4,6 @@
     "Drama": "रातरानी",
     "Writer": "लक्ष्मीनारायण लाल",
     "ForeignKeyId": "073.066",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.066"
 }

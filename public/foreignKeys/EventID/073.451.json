@@ -4,5 +4,6 @@
     "Drama": "काडु कुद्रे",
     "Writer": "चन्द्रशेखर कंबार",
     "ForeignKeyId": "073.451",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.451"
 }

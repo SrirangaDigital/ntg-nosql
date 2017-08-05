@@ -8,5 +8,6 @@
     "Artist": "राजेश बब्बर, सुमीत कुमार व सोमा",
     "Venue": "इण्डिया हेबिटेट सेंटर, दिल्ली",
     "ForeignKeyId": "077.058",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.058"
 }

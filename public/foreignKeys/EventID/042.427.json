@@ -6,5 +6,6 @@
     "Writer": "बी. मुत्तस्वाम्य्या",
     "Year": "1955",
     "ForeignKeyId": "042.427",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.427"
 }

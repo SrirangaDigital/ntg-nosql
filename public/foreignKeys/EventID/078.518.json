@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "रमाकान्त रथ (बोलते हुए)",
     "ForeignKeyId": "078.518",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.518"
 }

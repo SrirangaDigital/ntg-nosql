@@ -8,5 +8,6 @@
     "Venue": "मंजर थिएटर",
     "Year": "15-16 फर., 1986",
     "ForeignKeyId": "089.296",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.296"
 }

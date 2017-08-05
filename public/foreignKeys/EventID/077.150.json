@@ -7,5 +7,6 @@
     "Language": "मराठी",
     "Vyaktirekha": "डा। मुक्ता",
     "ForeignKeyId": "077.150",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.150"
 }

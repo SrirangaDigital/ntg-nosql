@@ -7,5 +7,6 @@
     "Artist": "बचन पचहरा, चन्द्रकांता नाग, जफर, अंजु शर्मा",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "074.378",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.378"
 }

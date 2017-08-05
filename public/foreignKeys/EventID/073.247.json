@@ -3,5 +3,6 @@
     "Place": "मुरादाबाद",
     "Director": "मास्टर फिदा हुसैन",
     "ForeignKeyId": "073.247",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.247"
 }

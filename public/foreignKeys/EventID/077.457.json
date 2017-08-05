@@ -4,5 +4,6 @@
     "Drama": "सीन : 75 (Scene: 75)",
     "Director": "रमेश नायडू",
     "ForeignKeyId": "077.457",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.457"
 }

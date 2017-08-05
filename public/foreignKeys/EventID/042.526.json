@@ -11,5 +11,6 @@
     "Venue": "फाइन आर्ट्स थियेटर, दिल्ली",
     "Year": "18-20 नव., 1961",
     "ForeignKeyId": "042.526",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.526"
 }

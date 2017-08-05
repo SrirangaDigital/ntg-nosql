@@ -3,5 +3,6 @@
     "Place": "तिरुअनंतपुरम्",
     "Dance": "कुट्टियाट्टम्",
     "ForeignKeyId": "077.507",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.507"
 }

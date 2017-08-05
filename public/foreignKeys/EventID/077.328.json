@@ -6,5 +6,6 @@
     "Director": "चिन् मोदी",
     "Event": "बड़ौदा वर्कशॉप",
     "ForeignKeyId": "077.328",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.328"
 }

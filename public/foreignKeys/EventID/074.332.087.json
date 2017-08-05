@@ -3,5 +3,6 @@
     "Place": "दिल्ली",
     "Event": "परस्पर : अभिच्छाया - उत्तरा बावकर के जीवन व कृतित्व संबंधी",
     "ForeignKeyId": "074.332.087",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.087"
 }

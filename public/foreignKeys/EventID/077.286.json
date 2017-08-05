@@ -3,5 +3,6 @@
     "Place": "बम्बई",
     "Drama": "तिलक आणि आगरकर",
     "ForeignKeyId": "077.286",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.286"
 }

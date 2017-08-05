@@ -7,5 +7,6 @@
     "Translation": "लक्ष्मी नारायण भट्ट",
     "Music": "ब. व. कारंत",
     "ForeignKeyId": "073.473",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.473"
 }

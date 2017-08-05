@@ -5,5 +5,6 @@
     "Writer": "चतुर्भुज",
     "Director": "अशोक प्रियदर्शी",
     "ForeignKeyId": "076.339",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.339"
 }

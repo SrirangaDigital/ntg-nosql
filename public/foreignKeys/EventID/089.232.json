@@ -9,5 +9,6 @@
     "Artist": "शैलेश श्रीवास्तव (अबू हसन), प्रियंवदा मिश्र (अम्मी), शरद (वजीर) व अन्य",
     "Year": "26-09-1993",
     "ForeignKeyId": "089.232",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.232"
 }

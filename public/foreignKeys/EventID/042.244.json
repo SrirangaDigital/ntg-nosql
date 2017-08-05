@@ -4,5 +4,6 @@
     "Person": "भक्त नरसी मेहता",
     "Subject": "कन्हैयालाल क़ातिल",
     "ForeignKeyId": "042.244",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.244"
 }

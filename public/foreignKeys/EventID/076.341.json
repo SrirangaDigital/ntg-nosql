@@ -7,5 +7,6 @@
     "Director": "प्रेम राज वर्मा",
     "Venue": "कालिदास रंगालय, पटना",
     "ForeignKeyId": "076.341",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.341"
 }

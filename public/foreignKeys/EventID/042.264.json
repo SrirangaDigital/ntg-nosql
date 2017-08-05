@@ -4,5 +4,6 @@
     "Subject": "राजा चन्दका अद्भुत नाटिक अर्थात ख्याल",
     "Person": "रामरतन दरक",
     "ForeignKeyId": "042.264",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.264"
 }

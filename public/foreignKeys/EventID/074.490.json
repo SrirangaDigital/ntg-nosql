@@ -13,5 +13,6 @@
     "Book": "रंगसाक्षी-जयदेव तनेजा",
     "Venue": "मुक्ताकाश प्रेक्षागृह, रा. ना. वि., कैलाश कॉलोनी, 15-A, दिल्ली",
     "ForeignKeyId": "074.490",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.490"
 }

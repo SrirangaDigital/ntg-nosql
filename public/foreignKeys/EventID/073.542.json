@@ -8,5 +8,6 @@
     "Director": "चिदम्बर राव जाम्बे",
     "Venue": "मंज़र थियेटर",
     "ForeignKeyId": "073.542",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.542"
 }

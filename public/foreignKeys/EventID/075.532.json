@@ -4,5 +4,6 @@
     "Drama": "महानगर तीन संवाद (हिन्दी)",
     "Director": "देवेन्द्र राज अंकुर",
     "ForeignKeyId": "075.532",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.532"
 }

@@ -6,5 +6,6 @@
     "Translation": "पीयूष मिश्र",
     "Director": "रॉयस्तन एबल `राय'",
     "ForeignKeyId": "075.179",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.179"
 }

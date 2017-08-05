@@ -6,5 +6,6 @@
     "Article": "पुतु विजया (Putu wijaya)",
     "Director": "पुतु विजया (Putu wijaya)",
     "ForeignKeyId": "077.685",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.685"
 }

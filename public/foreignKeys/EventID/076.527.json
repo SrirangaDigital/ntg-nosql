@@ -6,5 +6,6 @@
     "Director": "प्रभात गांगुली",
     "Artist": "वीरेन्द्र पचौरी, रजनी, अमरीक चावला",
     "ForeignKeyId": "076.527",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.527"
 }

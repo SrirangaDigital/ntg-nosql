@@ -7,5 +7,6 @@
     "Director": "अमिताभ श्रीवास्तव",
     "Artist": "सीमा भार्गव, कीर्ति जैन, ज्ञान शिवपुरी व अन्य",
     "ForeignKeyId": "075.527",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.527"
 }

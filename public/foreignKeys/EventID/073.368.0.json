@@ -10,5 +10,6 @@
     "Music": "सौविक चक्रवर्ती/संजू",
     "Artist": "जितेन्द्र श्रीवास्तव (नाटा/ना०.-8), एम. हफीज़ (दूसरा), मो. फरीद (पड़ोसी) व अन्य",
     "ForeignKeyId": "073.368.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.368.0"
 }

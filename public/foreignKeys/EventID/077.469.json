@@ -4,5 +4,6 @@
     "Drama": "मोहणा (पहाड़ी)",
     "Director": "सुरेश शर्मा",
     "ForeignKeyId": "077.469",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.469"
 }

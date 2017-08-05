@@ -3,5 +3,6 @@
     "Place": "लखनऊ",
     "Drama": "नाट्य ग्रुप (लखनऊ यूनिवर्सिटी)",
     "ForeignKeyId": "073.381",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.381"
 }

@@ -4,5 +4,6 @@
     "Subject": "महारानी बीना उर्फ राजेश्वरी लकड़हारा, 1984",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.255",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.255"
 }

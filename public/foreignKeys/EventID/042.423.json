@@ -4,5 +4,6 @@
     "Subject": "Party Life",
     "Editor": "M. Farooqi",
     "ForeignKeyId": "042.423",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.423"
 }

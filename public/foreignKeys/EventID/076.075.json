@@ -4,5 +4,6 @@
     "Drama": "लैबडेफ़",
     "Writer": "चितरंजन घोष",
     "ForeignKeyId": "076.075",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.075"
 }

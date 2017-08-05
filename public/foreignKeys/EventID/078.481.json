@@ -3,5 +3,6 @@
     "Film": "पर्वत पुत्र - गोविन्द वल्लभ पंत पर डाक्यूमेन्टरी फिल्म",
     "Photo": "मनोहर सिंह",
     "ForeignKeyId": "078.481",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.481"
 }

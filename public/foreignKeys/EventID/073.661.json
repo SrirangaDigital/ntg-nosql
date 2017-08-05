@@ -6,5 +6,6 @@
     "Director": "हरीश भाटिया",
     "Event": "उत्तर संभागीय नाट्य समारोह, चणडीगढ़",
     "ForeignKeyId": "073.661",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.661"
 }

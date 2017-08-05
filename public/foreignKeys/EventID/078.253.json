@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "ज़ोहरा सैगल के माता-पिता",
     "ForeignKeyId": "078.253",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.253"
 }

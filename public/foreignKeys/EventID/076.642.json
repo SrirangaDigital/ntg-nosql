@@ -4,5 +4,6 @@
     "Drama": "जज",
     "Director": "अलखनंदन",
     "ForeignKeyId": "076.642",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.642"
 }

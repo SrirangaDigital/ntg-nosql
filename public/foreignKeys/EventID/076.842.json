@@ -4,5 +4,6 @@
     "Drama": "बर्फ की मीनार",
     "Writer": "विनोद रस्तोगी",
     "ForeignKeyId": "076.842",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.842"
 }

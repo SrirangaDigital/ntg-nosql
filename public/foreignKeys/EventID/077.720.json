@@ -10,5 +10,6 @@
     "Light": "Michal Kolodziej",
     "Venue": "सम्मुख सभागार, रा. ना. वि., दिल्ली",
     "ForeignKeyId": "077.720",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.720"
 }

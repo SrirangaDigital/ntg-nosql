@@ -4,5 +4,6 @@
     "Drama": "कर्णभार (हिन्दी)",
     "Writer": "भास (सं.)",
     "ForeignKeyId": "076.502",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.502"
 }

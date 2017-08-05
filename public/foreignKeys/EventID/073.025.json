@@ -6,5 +6,6 @@
     "Writer": "रति मिश्र",
     "Director": "दोल गोविंद रथ",
     "ForeignKeyId": "073.025",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.025"
 }

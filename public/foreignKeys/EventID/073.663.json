@@ -6,5 +6,6 @@
     "Director": "बलवंत गार्गी",
     "Artist": "उमा वाग्ले, मनोहर सिंह",
     "ForeignKeyId": "073.663",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.663"
 }

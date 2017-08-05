@@ -6,5 +6,6 @@
     "Director": "कुणाल",
     "Venue": "विद्यापति भवन, पटना - 800001",
     "ForeignKeyId": "076.333",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.333"
 }

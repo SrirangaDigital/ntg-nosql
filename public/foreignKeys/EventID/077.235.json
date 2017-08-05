@@ -6,5 +6,6 @@
     "Director": "सत्यदेव दुबे",
     "Artist": "नसीरुद्दीन शाह एवं रत्ना पाठ शाह",
     "ForeignKeyId": "077.235",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.235"
 }

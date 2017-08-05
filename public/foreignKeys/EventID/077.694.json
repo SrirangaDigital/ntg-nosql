@@ -11,5 +11,6 @@
     "Dancer": "Rita Aozane Bilibio, Mikel Aristegui, Hsuan Cheng and others",
     "Venue": "सिरी फोर्ट सभागार, दिल्ली",
     "ForeignKeyId": "077.694",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.694"
 }

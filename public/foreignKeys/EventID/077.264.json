@@ -4,5 +4,6 @@
     "Drama": "बैले रामायण",
     "Event": "एड़िनबर्ग महोत्सव में दिखाया गया",
     "ForeignKeyId": "077.264",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.264"
 }

@@ -11,5 +11,6 @@
     "Venue": "बिपिन चन्द्र पाल ऑडिटोरियम",
     "Year": "15-01-2000",
     "ForeignKeyId": "089.441",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.441"
 }

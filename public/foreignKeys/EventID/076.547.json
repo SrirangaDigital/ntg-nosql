@@ -4,5 +4,6 @@
     "Drama": "गिरगिट (बाल नाटक)",
     "Writer": "सर्वेश्वर दयाल सक्सेना",
     "ForeignKeyId": "076.547",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.547"
 }

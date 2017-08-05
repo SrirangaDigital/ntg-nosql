@@ -7,5 +7,6 @@
     "Director": "रॉबिन दास",
     "Venue": "एवान - ए. गालिब सभागार, दिल्ली",
     "ForeignKeyId": "074.627",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.627"
 }

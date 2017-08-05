@@ -7,5 +7,6 @@
     "Translation": "श्रीनिवास रथ",
     "Data": "1978/1979",
     "ForeignKeyId": "076.490",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.490"
 }

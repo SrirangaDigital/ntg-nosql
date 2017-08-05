@@ -4,5 +4,6 @@
     "Drama": "युग-युग की लेपो (मणिपुरी)",
     "Director": "एच. कन्हाईलाल",
     "ForeignKeyId": "076.418",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.418"
 }

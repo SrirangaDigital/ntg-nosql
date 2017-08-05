@@ -4,5 +4,6 @@
     "Place": "मुम्बई",
     "Subject": "दीना गॉधी (पाठक) पर केन्द्रित लेख",
     "ForeignKeyId": "042.548",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.548"
 }

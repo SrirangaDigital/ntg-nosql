@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Event": "गुरु शम्भु महाराज प्रथम प्रधानमंत्री पण्डित जवाहर लाल नेहरू के साथ",
     "ForeignKeyId": "042.440",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.440"
 }

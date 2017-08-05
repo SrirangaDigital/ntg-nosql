@@ -4,5 +4,6 @@
     "Drama": "कर्णभार (संस्कृत)",
     "Director": "प्रभात कुमार भट्टाचार्य",
     "ForeignKeyId": "076.503",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.503"
 }

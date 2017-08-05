@@ -5,5 +5,6 @@
     "Writer": "सर्वेश्वर दयाल सक्सेना",
     "Director": "अनिल पतंग",
     "ForeignKeyId": "076.348",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.348"
 }

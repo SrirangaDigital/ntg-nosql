@@ -4,5 +4,6 @@
     "Drama": "प्रेम संवाद (हिन्दी)",
     "Director": "सुरेश भारद्वाज",
     "ForeignKeyId": "074.138",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.138"
 }

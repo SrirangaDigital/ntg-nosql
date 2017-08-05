@@ -7,5 +7,6 @@
     "Director": "भानु भारती",
     "Book": "भारतीय रंगकोश-प्रतिभा अग्रवाल (संपा.) (सूचना स्रोत पुस्तक)",
     "ForeignKeyId": "077.315",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.315"
 }

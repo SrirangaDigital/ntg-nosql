@@ -7,5 +7,6 @@
     "Director": "सुब्रत बोस",
     "Artist": "श्रीमती बोस (प्रियंवदा), सुब्रत बोस (प्रो. वर्मा), ए. आर खान (पण्डित जी)",
     "ForeignKeyId": "076.580",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.580"
 }

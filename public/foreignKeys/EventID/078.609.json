@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "श्रीडी मनिकय्यम्मा (गायिका)",
     "ForeignKeyId": "078.609",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.609"
 }

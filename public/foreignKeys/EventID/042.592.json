@@ -7,5 +7,6 @@
     "Artist": "कुसुम धीया (वसन्तसेना), लीला जरीवाला (चेटी) व अन्य",
     "Year": "25-03-1955",
     "ForeignKeyId": "042.592",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.592"
 }

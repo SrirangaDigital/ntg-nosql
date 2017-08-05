@@ -4,5 +4,6 @@
     "Drama": "चन्द्रगुप्त",
     "Writer": "जयशंकर प्रसाद",
     "ForeignKeyId": "076.039",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.039"
 }

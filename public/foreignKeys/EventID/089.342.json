@@ -6,5 +6,6 @@
     "Writer": "बोधायन",
     "Director": "गोवर्धन पांचाल",
     "ForeignKeyId": "089.342",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.342"
 }

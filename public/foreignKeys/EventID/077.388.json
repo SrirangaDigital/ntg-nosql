@@ -4,5 +4,6 @@
     "Drama": "गुड बाई स्वामी उर्फ़ गुरू घन्टाल",
     "Writer": "सुशील कुमार सिंह",
     "ForeignKeyId": "077.388",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.388"
 }

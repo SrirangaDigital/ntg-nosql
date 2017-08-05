@@ -8,5 +8,6 @@
     "Stage": "ब्रह्मपुत्र छात्रावास, जे. एन. यू.",
     "Artist": "पशुपति शर्मा एवं सुधा निकेतन रंजनी",
     "ForeignKeyId": "074.217",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.217"
 }

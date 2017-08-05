@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मुद्राराक्षस (हिन्दी नाटककार, कथाकार, कवि, आलोचक)",
     "ForeignKeyId": "078.503",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.503"
 }

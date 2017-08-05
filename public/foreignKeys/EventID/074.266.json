@@ -6,5 +6,6 @@
     "Director": "रेखा जैन",
     "Venue": "मावलंकर हॉल, दिल्ली",
     "ForeignKeyId": "074.266",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.266"
 }

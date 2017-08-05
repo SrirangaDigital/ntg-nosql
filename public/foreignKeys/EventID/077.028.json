@@ -6,5 +6,6 @@
     "Director": "दिनेश ठाकुर",
     "Event": "अंक नाट्य समारोह",
     "ForeignKeyId": "077.028",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.028"
 }

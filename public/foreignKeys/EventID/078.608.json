@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "षन्मुगम, टी. के. (तमिल अभिनेता, निर्देशक)",
     "ForeignKeyId": "078.608",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.608"
 }

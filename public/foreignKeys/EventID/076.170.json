@@ -9,5 +9,6 @@
     "Dress": "सूर्यकांत तिवारी  व सुशील कांती",
     "Artist": "सुशील कांती, राजेश करमाकर, दीपेश रजक व अन्य",
     "ForeignKeyId": "076.170",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.170"
 }

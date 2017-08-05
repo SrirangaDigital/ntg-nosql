@@ -5,5 +5,6 @@
     "Event": "नाट्य शास्त्र सेमिनार",
     "Photo": "ग्रूप फोटो : प्रेम लता शर्मा, गिरीश कारनाड, कमलेश दत्त त्रिपाठी",
     "ForeignKeyId": "089.370",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.370"
 }

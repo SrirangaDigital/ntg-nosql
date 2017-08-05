@@ -3,5 +3,6 @@
     "Country": "थाईलैंड",
     "Photo": "चतुरंग मोनर्टीसर्ट",
     "ForeignKeyId": "078.225",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.225"
 }

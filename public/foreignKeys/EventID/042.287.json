@@ -4,5 +4,6 @@
     "Person": "वृन्दावनलाल वर्मा",
     "Subject": "हंस मथुर (ऎतिहासिक नाटक) झांसी, स्वाधीन प्रेस, तृतूय संख्य, 1949",
     "ForeignKeyId": "042.287",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.287"
 }

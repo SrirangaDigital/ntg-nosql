@@ -5,5 +5,6 @@
     "Writer": "शरद जोशी",
     "Director": "सतीश आनंद",
     "ForeignKeyId": "076.303",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.303"
 }

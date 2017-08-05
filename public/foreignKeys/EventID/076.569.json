@@ -4,5 +4,6 @@
     "Dance": "पंचमढ़ी वसंत' 78",
     "Music": "संतूर वादन : ओमप्रकाश चौरसिया, तबला संगत : सरबत हुसैन",
     "ForeignKeyId": "076.569",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.569"
 }

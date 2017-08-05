@@ -6,5 +6,6 @@
     "Director": "प्रवीन गुह",
     "Event": "राष्ट्रीय नाट्य समारोह",
     "ForeignKeyId": "076.244",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.244"
 }

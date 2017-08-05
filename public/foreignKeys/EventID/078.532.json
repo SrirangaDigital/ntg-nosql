@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "राम गोपाल बजाज (कार्यवाहक निर्देशक राष्ट्रीय नाट्य विद्यालय)",
     "ForeignKeyId": "078.532",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.532"
 }

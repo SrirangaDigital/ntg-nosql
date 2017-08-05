@@ -6,5 +6,6 @@
     "Director": "रमेश शाह",
     "Event": "बड़ौदा वर्कशॉप",
     "ForeignKeyId": "077.317",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.317"
 }

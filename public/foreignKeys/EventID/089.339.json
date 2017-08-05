@@ -6,5 +6,6 @@
     "Writer": "भास",
     "Director": "कावलम नारायण पणिक्कर",
     "ForeignKeyId": "089.339",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.339"
 }

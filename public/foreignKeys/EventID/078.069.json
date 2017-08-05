@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "लोक नृत्य - मारीया",
     "ForeignKeyId": "078.069",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.069"
 }

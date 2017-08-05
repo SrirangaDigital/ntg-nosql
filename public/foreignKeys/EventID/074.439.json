@@ -4,5 +4,6 @@
     "Drama": "नृत्य नाटिका",
     "Director": "नरेन्द्र शर्मा",
     "ForeignKeyId": "074.439",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.439"
 }

@@ -10,5 +10,6 @@
     "Voice": "आशीष धर्माधिकारी व अन्य",
     "Venue": "बहुमुख सभागार, रा. ना. वि. दिल्ली",
     "ForeignKeyId": "074.364",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.364"
 }

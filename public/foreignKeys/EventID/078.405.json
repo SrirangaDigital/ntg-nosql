@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "ब. व. कारंत (ब. व. कारंत के साथ चार्ल्स कोरीया, जे. स्वामिनाथन)",
     "ForeignKeyId": "078.405",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.405"
 }

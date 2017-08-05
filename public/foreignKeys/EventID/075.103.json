@@ -8,5 +8,6 @@
     "Translator": "जे. एन. कौशल",
     "Artist": "सुधा शिवपुरी, रोहिणी हट्टंगणी व अन्य",
     "ForeignKeyId": "075.103",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.103"
 }

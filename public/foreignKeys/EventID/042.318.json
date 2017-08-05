@@ -4,5 +4,6 @@
     "Person": "श्रीकृष्ण",
     "Subject": "सोनी महवाल, कानपुर, श्रीकृष्न खत्री, 1967, छठा संस्क.",
     "ForeignKeyId": "042.318",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.318"
 }

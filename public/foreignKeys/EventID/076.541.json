@@ -7,5 +7,6 @@
     "Director": "विश्वभावन देवलिया",
     "Artist": "दिव्यांशु गांगुली (देवदत्त), पुष्पा श्रीवास्तव (पद्मिनी), कु. निधि (गुड़िया न०. १) कु. अरुणा (गुड़िया न० २)",
     "ForeignKeyId": "076.541",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.541"
 }

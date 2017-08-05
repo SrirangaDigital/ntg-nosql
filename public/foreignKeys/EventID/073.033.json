@@ -4,5 +4,6 @@
     "Drama": "ताले अलीगढ़ के (हिन्दी)",
     "Director": "मुहम्मद पाशा",
     "ForeignKeyId": "073.033",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.033"
 }

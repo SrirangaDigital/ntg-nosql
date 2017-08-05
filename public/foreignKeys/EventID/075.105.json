@@ -9,5 +9,6 @@
     "Light": "दीपक केजरीवाल, रंजीत कपूर",
     "Artist": "राजेश विवेक, सुरेखा सीकरी व अन्य",
     "ForeignKeyId": "075.105",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.105"
 }

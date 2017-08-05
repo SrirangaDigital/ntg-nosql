@@ -4,5 +4,6 @@
     "Dance": "कुट्टियाट्टम्",
     "Artist": "`कुत्त की भूमिका में' माणि माधव चाकयार",
     "ForeignKeyId": "077.510",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.510"
 }

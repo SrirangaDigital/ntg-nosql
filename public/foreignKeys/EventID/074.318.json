@@ -4,5 +4,6 @@
     "Drama": "पीउसी",
     "Director": "गुलशन कपूर",
     "ForeignKeyId": "074.318",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.318"
 }

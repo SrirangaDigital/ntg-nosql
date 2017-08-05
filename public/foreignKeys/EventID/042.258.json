@@ -4,5 +4,6 @@
     "Subject": "माया मच्छिन्द्र उर्फ जादू का पिटारा, 1966",
     "Person": "श्रीकृष्ण",
     "ForeignKeyId": "042.258",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.258"
 }

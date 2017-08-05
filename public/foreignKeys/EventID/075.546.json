@@ -11,5 +11,6 @@
     "Costume": "रुमा बोस, तड़ित मित्र",
     "Artist": "रुमा बोस `इंदुमति' के किरदार में",
     "ForeignKeyId": "075.546",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.546"
 }

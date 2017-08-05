@@ -9,5 +9,6 @@
     "Asst-director": "सांत्वना (निगम)",
     "Artist": "वीणा मेहता (पत्नी), एस. एम. ज़हीर (पति), रश्मि विद्यालिंगम (बकुल) व अन्य",
     "ForeignKeyId": "074.086",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.086"
 }

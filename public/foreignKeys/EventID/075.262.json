@@ -6,5 +6,6 @@
     "Director": "हफीज़ खान",
     "Venue": "शिविर में आयोजित",
     "ForeignKeyId": "075.262",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.262"
 }

@@ -10,5 +10,6 @@
     "Artist": "रुमा बोस",
     "Venue": "बिपिन चन्द्रपाल सभागार, दिल्ली",
     "ForeignKeyId": "075.560",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.560"
 }

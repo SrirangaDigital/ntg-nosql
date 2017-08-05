@@ -2,5 +2,6 @@
     "Aid": "03",
     "Event": "उत्तरा बावकर समूह में इब्राहीम अलकाज़ी के साथ",
     "ForeignKeyId": "078.148",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.148"
 }

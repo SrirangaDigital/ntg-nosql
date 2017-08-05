@@ -12,5 +12,6 @@
     "Artist": "सच्चिदानंद गांगुली (सूत्रधार), सओलत सईद खान (बलदेव), अशोक बुलानी (दुर्योधन), अभय कुमार जैन (अस्वत्थामा)",
     "Venue": "उज्जैन",
     "ForeignKeyId": "076.771",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.771"
 }

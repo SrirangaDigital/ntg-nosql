@@ -6,5 +6,6 @@
     "Dramatized": "अरुण मुखर्जी",
     "Director": "अरुण मुखर्जी",
     "ForeignKeyId": "076.067",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.067"
 }

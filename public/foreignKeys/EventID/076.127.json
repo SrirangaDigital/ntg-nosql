@@ -6,5 +6,6 @@
     "Director": "शंभु मित्र (बांग्ला रूपांतर)",
     "Version": "शंभु मित्र (बांग्ला रूपांतर)",
     "ForeignKeyId": "076.127",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.127"
 }

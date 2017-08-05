@@ -6,5 +6,6 @@
     "Director": "दिनेश दीक्षित",
     "Natyantar": "गिरीश रस्तोगी",
     "ForeignKeyId": "076.532",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.532"
 }

@@ -4,5 +4,6 @@
     "Dance": "कुट्टियाट्टम्",
     "Host": "`शूर्पणखा अंक' आश्चर्य चूड़ामणि मार्गी द्वारा आयोजित",
     "ForeignKeyId": "077.501",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.501"
 }

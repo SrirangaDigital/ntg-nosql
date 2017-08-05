@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "ब. व. कारंत जवाहर लाल नेहरु के साथ नाट्य ग्रुप में (मीना विलियम्स, छवि सेन, सुहैल, ब्रजमोहन शाह)",
     "ForeignKeyId": "078.397",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.397"
 }

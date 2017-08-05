@@ -4,5 +4,6 @@
     "Drama": "पथ अभिलाषी",
     "Artist": "ऊषा रानी (मधुलिका), रागिनी भाटिया (रानी जमादारिन), इन्दुरस्तोगी (रामू जमादार)",
     "ForeignKeyId": "073.362.1.1",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.362.1.1"
 }

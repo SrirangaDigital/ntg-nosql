@@ -13,5 +13,6 @@
     "Make-up": "फ़रीद बज़मी",
     "Artist": "दरवारी पाल, कन्हैयालाल कैथवास, राजकुमार रायकवाड़ व अन्य",
     "ForeignKeyId": "076.752",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.752"
 }

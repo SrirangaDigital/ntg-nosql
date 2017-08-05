@@ -4,5 +4,6 @@
     "Drama": "किराया",
     "Venue": "एवान-ए-गालिब",
     "ForeignKeyId": "075.257",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.257"
 }

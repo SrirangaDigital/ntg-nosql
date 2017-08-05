@@ -8,5 +8,6 @@
     "Artist": "रतिलाल (गरुड़) व अन्य",
     "Year": "25-03-1955",
     "ForeignKeyId": "042.584",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.584"
 }

@@ -5,5 +5,6 @@
     "Writer": "ज्यां पाल सार्त्र",
     "Director": "नीलम मानसिंह चौधरी",
     "ForeignKeyId": "076.664",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.664"
 }

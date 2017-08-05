@@ -4,5 +4,6 @@
     "Subject": "सम्भल की लड़ाई : गजमोतिन सती, मेरठ",
     "Person": "रंगत मटरूलाल अत्तार",
     "ForeignKeyId": "042.334",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.334"
 }

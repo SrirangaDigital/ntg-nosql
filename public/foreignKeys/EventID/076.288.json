@@ -4,5 +4,6 @@
     "Drama": "एक सेल्समैन की मृत्यु",
     "Writer": "आर्थर मिलर",
     "ForeignKeyId": "076.288",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.288"
 }

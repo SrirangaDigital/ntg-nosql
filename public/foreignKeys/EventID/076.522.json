@@ -7,5 +7,6 @@
     "Director": "वीरेन्द्र पचौरी",
     "Artist": "रेखा जैन (नलिनी), दीपक गुप्ता (महिप), की भूमिका में, व अन्य",
     "ForeignKeyId": "076.522",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.522"
 }

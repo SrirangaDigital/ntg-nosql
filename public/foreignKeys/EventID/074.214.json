@@ -7,5 +7,6 @@
     "Director": "रंजीत कपूर",
     "Artist": "ज्ञान शिवपुरी, अमिताभ श्रीवास्तव अ अन्य",
     "ForeignKeyId": "074.214",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.214"
 }

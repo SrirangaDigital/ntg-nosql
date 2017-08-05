@@ -6,5 +6,6 @@
     "Writer": "रतन सिंह हिमेश",
     "Year": "1959-60",
     "ForeignKeyId": "042.467",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.467"
 }

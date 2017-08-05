@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय -कुतम्बलम् ",
     "Event": "अम्बलपुरा कुतम्बलम की रंगशाला",
     "ForeignKeyId": "089.119",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.119"
 }

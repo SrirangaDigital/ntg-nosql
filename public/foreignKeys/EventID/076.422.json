@@ -6,5 +6,6 @@
     "Director": "एच. कन्हाई लाल",
     "Artist": "सावित्री हेसनाम व अन्य",
     "ForeignKeyId": "076.422",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.422"
 }

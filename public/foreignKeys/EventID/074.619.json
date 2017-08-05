@@ -7,5 +7,6 @@
     "Director": "बी. एम. शाह",
     "Venue": "अभिमंच",
     "ForeignKeyId": "074.619",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.619"
 }

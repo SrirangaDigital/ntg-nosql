@@ -4,5 +4,6 @@
     "Drama": "ज़हर",
     "Writer": "कणाद ॠषि भटनागर",
     "ForeignKeyId": "077.378",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.378"
 }

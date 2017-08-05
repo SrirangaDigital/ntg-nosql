@@ -7,5 +7,6 @@
     "Translation": "कृष्ण कुमार",
     "Music": "देवानन्द पासवान",
     "ForeignKeyId": "075.414",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.414"
 }

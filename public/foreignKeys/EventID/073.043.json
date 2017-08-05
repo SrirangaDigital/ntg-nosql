@@ -5,5 +5,6 @@
     "Writer": "लक्ष्मीकाम्त वैष्णव",
     "Artist": "खाड़ा आदमी - राजू रॉड्रिग्स व गाड़ी में बैठा आदमी - राकेश वर्मा",
     "ForeignKeyId": "073.043",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.043"
 }

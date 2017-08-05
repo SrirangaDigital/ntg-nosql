@@ -5,5 +5,6 @@
     "Photo": "लक्ष्मण देशपांडे",
     "Artist": "लक्ष्मण देशपांडे",
     "ForeignKeyId": "078.542",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.542"
 }

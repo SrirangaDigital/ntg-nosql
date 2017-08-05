@@ -8,5 +8,6 @@
     "Artist": "हीबा शाह (रेहाना), ज़मील खान (लेखक), रणदीप हुड्डा",
     "Venue": "अभिमंच सभागार, दिल्ली",
     "ForeignKeyId": "077.241",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.241"
 }

@@ -8,5 +8,6 @@
     "Light": "राजबिसारिया",
     "Artist": "बसंत रावत, सुरेश काला व अन्य",
     "ForeignKeyId": "073.292.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.292.0"
 }

@@ -4,5 +4,6 @@
     "Drama": "बहुत बड़ा सवाल",
     "Writer": "मोहन राकेश",
     "ForeignKeyId": "073.683",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.683"
 }

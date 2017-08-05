@@ -4,5 +4,6 @@
     "Subject": "हिन्दुस्तानी थियेटर्स",
     "Person": "भरत मिलाप",
     "ForeignKeyId": "042.348",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.348"
 }

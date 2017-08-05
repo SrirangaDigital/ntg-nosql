@@ -10,5 +10,6 @@
     "Choriography": "किशोर शर्मा",
     "Venue": "लिटिल थियेटर सभागार, दिल्ली",
     "ForeignKeyId": "074.251",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.251"
 }

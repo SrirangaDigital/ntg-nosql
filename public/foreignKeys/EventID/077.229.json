@@ -4,5 +4,6 @@
     "Drama": "वेधपश्या",
     "Director": "वामन केन्द्रे",
     "ForeignKeyId": "077.229",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.229"
 }

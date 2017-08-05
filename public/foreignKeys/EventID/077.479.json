@@ -3,5 +3,6 @@
     "Place": "शिमला",
     "Drama": "हिन्दोस्तान हमारा",
     "ForeignKeyId": "077.479",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.479"
 }

@@ -6,5 +6,6 @@
     "Director": "कृष्णगोपाल",
     "Artist": "लक्ष्मण की भूमिका में - मंजु मल्ल, सीता की भूमिका में - पूनम, राम - मधु व अत्रि मुनि - आराधना",
     "ForeignKeyId": "073.159",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.159"
 }

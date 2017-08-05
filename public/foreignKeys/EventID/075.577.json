@@ -5,5 +5,6 @@
     "Writer": "ब. व. कारन्त",
     "Director": "ब. व. कारन्त",
     "ForeignKeyId": "075.577",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.577"
 }

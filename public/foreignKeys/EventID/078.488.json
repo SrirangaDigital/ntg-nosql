@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "महेश एलकुंचवार (मराठी नाटककार)",
     "ForeignKeyId": "078.488",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.488"
 }

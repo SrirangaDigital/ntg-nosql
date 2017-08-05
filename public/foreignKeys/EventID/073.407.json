@@ -7,5 +7,6 @@
     "Artist": "दुर्गा (राधिया), कमलाकांत मिश्र (किसन), बलदेव राज शर्मा (रामू) व अन्य",
     "Cinematographer": "एस. अतिबल",
     "ForeignKeyId": "073.407",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.407"
 }

@@ -3,5 +3,6 @@
     "Place": "कलकत्ता",
     "Drama": "सुतरांग",
     "ForeignKeyId": "076.138",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.138"
 }

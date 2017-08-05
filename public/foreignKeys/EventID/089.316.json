@@ -2,5 +2,6 @@
     "Aid": "03",
     "Card-type": "अन्य विषय - मार्शल नृत्य : वेलांकलि",
     "ForeignKeyId": "089.316",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.316"
 }

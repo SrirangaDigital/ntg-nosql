@@ -7,5 +7,6 @@
     "Director": "फिरोज खान",
     "Venue": "कमानी सभागार",
     "ForeignKeyId": "077.210",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.210"
 }

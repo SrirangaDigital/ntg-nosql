@@ -7,5 +7,6 @@
     "Director": "राजिन्दर नाथ",
     "Artist": "स्याम अरोरा, पल्लवी मेहता, टी. वी. जैन व अन्य",
     "ForeignKeyId": "074.031",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.031"
 }

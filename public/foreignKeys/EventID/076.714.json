@@ -7,5 +7,6 @@
     "Director": "फरींद बज़्मी",
     "Asst-translation": "भरत",
     "ForeignKeyId": "076.714",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.714"
 }

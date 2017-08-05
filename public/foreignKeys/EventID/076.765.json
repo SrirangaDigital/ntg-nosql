@@ -6,5 +6,6 @@
     "Article": "श्रीकांत किशोर",
     "Director": "बंसी कौल",
     "ForeignKeyId": "076.765",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.765"
 }

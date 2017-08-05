@@ -11,5 +11,6 @@
     "Music": "तृप्ति दास",
     "Artist": "राणामित्र, दीपांकर खान, रुमा बोस अण्ड अदर्स",
     "ForeignKeyId": "075.547",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.547"
 }

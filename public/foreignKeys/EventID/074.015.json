@@ -12,5 +12,6 @@
     "Artist": "सुचित्रा गुप्ता (सलमा) एवं सुभाष गुप्ता (अभय)",
     "Venue": "लिटिल थिएटर ग्रुप सभागार, दिल्ली",
     "ForeignKeyId": "074.015",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.015"
 }

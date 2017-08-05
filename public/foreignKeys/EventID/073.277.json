@@ -5,5 +5,6 @@
     "Writer": "लक्ष्मीनारायण लाल",
     "Director": "कृष्णमोहन समेला",
     "ForeignKeyId": "073.277",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.277"
 }

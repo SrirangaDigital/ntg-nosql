@@ -4,5 +4,6 @@
     "Person": "Thomson George",
     "Subject": "Marxism and Poetry, ed. by Professor Benjamin Farrington, M. A., London, Lawrence and Wishart Ltd., 1945",
     "ForeignKeyId": "042.374",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.374"
 }

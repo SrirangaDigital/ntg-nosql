@@ -7,5 +7,6 @@
     "Artist": "सुनन्दानायक और सुरिन्दर शर्मा",
     "Cinematographer": "एस. अतिबल",
     "ForeignKeyId": "073.391",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.391"
 }

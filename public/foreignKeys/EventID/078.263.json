@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "त्रिपुरारी शर्मा (व्यक्तिगत फोटोग्राफ)",
     "ForeignKeyId": "078.263",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.263"
 }

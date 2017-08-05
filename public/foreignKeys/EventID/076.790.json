@@ -4,5 +4,6 @@
     "Drama": "गॉधारी (हिन्दी)",
     "Artist": "विभा मिश्र व अन्य",
     "ForeignKeyId": "076.790",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.790"
 }

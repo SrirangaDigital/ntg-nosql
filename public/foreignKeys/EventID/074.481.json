@@ -5,5 +5,6 @@
     "Writer": "प्रेमचन्द",
     "Director": "सुरेन्द्र शर्मा",
     "ForeignKeyId": "074.481",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.481"
 }

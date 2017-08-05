@@ -4,5 +4,6 @@
     "Subject": "कृति (त्रैमासिक)",
     "Editor": "डी. पी. नेमा `दीपक निधि",
     "ForeignKeyId": "042.392",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.392"
 }

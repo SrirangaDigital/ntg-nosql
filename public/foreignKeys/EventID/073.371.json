@@ -11,5 +11,6 @@
     "Artist": "एम. हफीज़ (पण्डित जी), जितेन्द्र मित्तल (बैजनाथ), विजयमिश्रा (यादव), मो. नूर (सुखराम), एम. फरीद (मिर्जा) एवं अन्य",
     "Venue": "लखनऊ",
     "ForeignKeyId": "073.371",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.371"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "बी. जयश्री (बी. जयश्री की व्यक्तिगत फोटोग्राफ्स)",
     "ForeignKeyId": "078.444",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.444"
 }

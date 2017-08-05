@@ -7,5 +7,6 @@
     "Director": "दिनेश खन्ना",
     "Artist": "दिनेश खन्ना व अन्य",
     "ForeignKeyId": "077.035",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.035"
 }

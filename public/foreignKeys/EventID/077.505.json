@@ -3,5 +3,6 @@
     "Place": "तिरुअनंतपुरम्",
     "Dance": "कुट्टियाट्टम् - `लक्ष्मण' शूर्पणखा अंक में",
     "ForeignKeyId": "077.505",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.505"
 }

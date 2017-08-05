@@ -7,5 +7,6 @@
     "Artist": "पूनम दुआ व अशोक गोस्वामी",
     "Event": "डा० शंकर शेष श्रद्धांजलि स्मृति शेष दिवस",
     "ForeignKeyId": "073.144",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.144"
 }

@@ -3,5 +3,6 @@
     "Country": "कोरिया",
     "Event": "मास्क्ड डांस-ड्रामा अॉफ कोरिया",
     "ForeignKeyId": "077.674",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.674"
 }

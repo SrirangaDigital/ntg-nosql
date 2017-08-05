@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "कमला देवी चट्टोपाध्याय",
     "ForeignKeyId": "078.176",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.176"
 }

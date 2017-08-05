@@ -5,5 +5,6 @@
     "Director": "बांग्ला सरकार",
     "Artist": "बादल सरकार",
     "ForeignKeyId": "076.195",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.195"
 }

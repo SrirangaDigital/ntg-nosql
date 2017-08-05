@@ -3,5 +3,6 @@
     "Place": "ग्वालियर",
     "Drama": "दर्पण (हिन्दी)",
     "ForeignKeyId": "076.514",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.514"
 }

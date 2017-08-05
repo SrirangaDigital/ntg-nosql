@@ -5,5 +5,6 @@
     "Venue": "विपिन चन्द्रपाल आडिटोरियम चितरंजन पार्क",
     "Year": "2 जनवरी 1999",
     "ForeignKeyId": "074.332.048",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.048"
 }

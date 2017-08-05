@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "विश्वातीत विलास एवं राधावंशीधर विलास नाटक, साक, 1883",
     "ForeignKeyId": "042.284",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.284"
 }

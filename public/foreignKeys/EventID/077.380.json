@@ -4,5 +4,6 @@
     "Drama": "मैं जिन्दा हूँ",
     "Writer": "हबीब कैफ़ी",
     "ForeignKeyId": "077.380",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.380"
 }

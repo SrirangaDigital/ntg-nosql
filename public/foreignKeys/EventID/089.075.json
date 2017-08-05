@@ -7,5 +7,6 @@
     "Director": "नवीन शर्मा",
     "Host": "संगीत नाटक अकादेमी, दिल्ली तथा भाषा एवं संस्कृति विभाग, हिमाचल प्रदेश, शिमला का संयुक्त आयोजन",
     "ForeignKeyId": "089.075",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.075"
 }

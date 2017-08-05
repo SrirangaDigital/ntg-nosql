@@ -7,5 +7,6 @@
     "Director": "हबीब तनवीर",
     "Artist": "ऊषा गांगुली",
     "ForeignKeyId": "076.186",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.186"
 }

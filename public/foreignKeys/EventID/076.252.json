@@ -5,5 +5,6 @@
     "Director": "वीणापाणी चावला",
     "Artist": "वीणापाणी चावला",
     "ForeignKeyId": "076.252",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.252"
 }

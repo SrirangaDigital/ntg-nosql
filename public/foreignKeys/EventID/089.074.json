@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - अभिनेत्री",
     "Photo": "पुरानी अभिनेत्री",
     "ForeignKeyId": "089.074",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.074"
 }

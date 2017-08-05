@@ -11,5 +11,6 @@
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "Year": "13-14 जून 2008",
     "ForeignKeyId": "089.276",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.276"
 }

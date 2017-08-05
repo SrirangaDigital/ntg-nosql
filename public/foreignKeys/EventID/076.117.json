@@ -4,5 +4,6 @@
     "Drama": "गैंडार",
     "Director": "तृप्ति मित्रा",
     "ForeignKeyId": "076.117",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.117"
 }

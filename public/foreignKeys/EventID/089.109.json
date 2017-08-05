@@ -4,5 +4,6 @@
     "Country": "तजाकिस्तान",
     "Event": "कलाकार मण्डली (संगीत)",
     "ForeignKeyId": "089.109",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.109"
 }

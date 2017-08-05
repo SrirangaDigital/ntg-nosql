@@ -4,5 +4,6 @@
     "Subject": "परीक्षा गुरु",
     "Person": "श्रीनिवास दास",
     "ForeignKeyId": "042.226",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.226"
 }

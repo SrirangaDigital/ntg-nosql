@@ -6,5 +6,6 @@
     "Director": "एस. रामानुजम",
     "Event": "राष्ट्रीय नाट्य समारोह 1983",
     "ForeignKeyId": "073.583",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.583"
 }

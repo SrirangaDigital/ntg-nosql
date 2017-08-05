@@ -4,5 +4,6 @@
     "Drama": "बोम्मलाता (Bommalaata)(तेलुगु)",
     "Venue": "संगित नाटक अकादेमी",
     "ForeignKeyId": "073.011",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.011"
 }

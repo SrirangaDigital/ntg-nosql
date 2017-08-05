@@ -4,5 +4,6 @@
     "Subject": "पुकार उर्फ जहॉगीरी इन्साफ, 1966",
     "Person": "श्रीकृष्ण",
     "ForeignKeyId": "042.228",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.228"
 }

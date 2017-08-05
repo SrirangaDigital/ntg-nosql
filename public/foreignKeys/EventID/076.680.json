@@ -11,5 +11,6 @@
     "Artist": "शुभश्री, द्वारिका प्रसाद, गोपाल, सरोज शर्मा, शोभा व विभा मिश्र",
     "Venue": "भारत भवन रंगमण्डल",
     "ForeignKeyId": "076.680",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.680"
 }

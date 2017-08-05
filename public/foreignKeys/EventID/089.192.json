@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - नर्तक",
     "Event": "चम्बा के लोक नर्तक भारत की प्रधानमंत्री श्री मती इंदिरा गॉधी के साथ",
     "ForeignKeyId": "089.192",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.192"
 }

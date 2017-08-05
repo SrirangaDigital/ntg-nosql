@@ -15,5 +15,6 @@
     "Venue": "सम्मुख सभागार, दिल्ली",
     "Photographer": "त्यागराजन",
     "ForeignKeyId": "075.035",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.035"
 }

@@ -7,5 +7,6 @@
     "Event": "उत्तर संभागीय नाट्य समारोह चण्डीगढ़",
     "Venue": "चण्डीगढ़",
     "ForeignKeyId": "074.309",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.309"
 }

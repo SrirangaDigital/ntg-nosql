@@ -6,5 +6,6 @@
     "Director": "अजय मलकानी एवं श्याम लाल",
     "Artist": "अजय मलकानी, धर्मेन्द्र कश्यप, सुनील राय, बलराज आनन्द",
     "ForeignKeyId": "076.364",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.364"
 }

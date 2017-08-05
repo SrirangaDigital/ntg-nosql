@@ -7,5 +7,6 @@
     "Artist": "फैयाज आहवेद एवं अर्चना रावल",
     "Host": "साहित्य कला परिषद्",
     "ForeignKeyId": "074.421",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.421"
 }

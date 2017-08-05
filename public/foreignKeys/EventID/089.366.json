@@ -4,5 +4,6 @@
     "Place": "नागपुर",
     "Event": "सांस्कृतिक कार्यक्रम",
     "ForeignKeyId": "089.366",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.366"
 }

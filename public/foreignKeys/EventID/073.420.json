@@ -6,5 +6,6 @@
     "Director": "विजेश जोशी",
     "Artist": "उमेश (बंसी का पिता), रीता कालरा (मॉ)",
     "ForeignKeyId": "073.420",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.420"
 }

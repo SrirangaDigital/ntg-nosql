@@ -6,5 +6,6 @@
     "Director": "ज्ञान जौरसिया",
     "Artist": "सुनयना (मल्लिका), आरती दयाल (अम्बिका), राजीव रायज़ादा (कालिदास) व अन्य",
     "ForeignKeyId": "075.598",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.598"
 }

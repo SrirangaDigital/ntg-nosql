@@ -9,5 +9,6 @@
     "Artist": "सूरज नांबियार (पुरर्वसु), कपिला नांबियार (ऊर्वशी)",
     "Venue": "अभिमंच सभागार, रा. ना. वि.; दिल्ली",
     "ForeignKeyId": "073.584",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.584"
 }

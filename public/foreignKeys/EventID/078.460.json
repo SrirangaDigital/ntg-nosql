@@ -3,5 +3,6 @@
     "Photo": "मणि माधव चाकयार (कुतम्बलम में व्यायाम करते हुए)",
     "Venue": "इरिंजालकुडा, त्रिचूर",
     "ForeignKeyId": "078.460",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.460"
 }

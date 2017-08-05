@@ -5,5 +5,6 @@
     "Writer": "प्रभाकर श्रोत्रिय",
     "Director": "सुरेन्द्र शर्मा",
     "ForeignKeyId": "074.480",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.480"
 }

@@ -2,5 +2,6 @@
     "Aid": "99",
     "Event": "वेलाकालि (विद्या)",
     "ForeignKeyId": "077.608",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.608"
 }

@@ -4,5 +4,6 @@
     "Event": "ग्रामीण महोत्सव",
     "Photographer": "वी. करुणानिधि",
     "ForeignKeyId": "089.308",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.308"
 }

@@ -13,5 +13,6 @@
     "Light": "बृज भूषण सहाणे",
     "Artist": "नरेश सूरी (सुशील साहनी), ज्योत्सना (विद्या साहनी), उत्तरा बावकर (शशि साहनी), जैमिनी कुमार (सूरज) व अन्य",
     "ForeignKeyId": "075.310",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.310"
 }

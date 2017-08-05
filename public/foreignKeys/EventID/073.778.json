@@ -11,5 +11,6 @@
     "Artist": "अरुण कोलाटकर (धृतमन चटर्जी), पत्रकार (अमृता शेट्टी), व अ",
     "Venue": "सम्मुख सभागार, रा. ना. वि. दिल्ली",
     "ForeignKeyId": "073.778",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.778"
 }

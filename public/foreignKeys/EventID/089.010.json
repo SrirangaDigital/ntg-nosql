@@ -8,5 +8,6 @@
     "Director": "सत्यव्रत सिन्हा",
     "Artist": "सत्यव्रत सिन्हा, सोमनाथ मिश्र एवं पुष्पेन्द्र सिंह व अन्य",
     "ForeignKeyId": "089.010",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.010"
 }

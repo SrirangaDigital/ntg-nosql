@@ -4,5 +4,6 @@
     "Subject": "गुल सनोवर उर्फ कहरे आस्मानी, 1985",
     "Person": "नथाराम शर्मा गौड़, 1985",
     "ForeignKeyId": "042.147",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.147"
 }

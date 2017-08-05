@@ -5,5 +5,6 @@
     "Host": "नटरंग प्रतिष्ठान द्वारा",
     "Venue": "रवीन्द्र भवन सभागार, साहित्य अकादमी",
     "ForeignKeyId": "078.314",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.314"
 }

@@ -5,5 +5,6 @@
     "Director": "राजेन्द्र सिंह",
     "Artist": "कुमार गिरी के चरित्र में `विमल बलानी', बीजगुप्ता - `पियूष विध्यासागर' व चित्रलेखा - `सीमा शमा'",
     "ForeignKeyId": "073.149",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.149"
 }

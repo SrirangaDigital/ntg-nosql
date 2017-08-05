@@ -4,5 +4,6 @@
     "Drama": "लाइफ ही तो है (हिन्दी)",
     "Director": "उत्कर्ष मारवाह",
     "ForeignKeyId": "075.303",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.303"
 }

@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "The Bihar Theatre : Journal of Bihar Academy of Music, Dance and Drama",
     "ForeignKeyId": "042.419",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.419"
 }

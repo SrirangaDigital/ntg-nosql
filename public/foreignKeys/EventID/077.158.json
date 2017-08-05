@@ -8,5 +8,6 @@
     "Event": "राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''",
     "Venue": "कमानी सभागार",
     "ForeignKeyId": "077.158",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.158"
 }

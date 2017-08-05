@@ -3,5 +3,6 @@
     "Drama": "भवाई नाटक",
     "Event": "ब्राह्मण वेश में लालभाई नायक",
     "ForeignKeyId": "077.587",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.587"
 }

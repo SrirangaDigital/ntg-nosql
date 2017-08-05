@@ -15,5 +15,6 @@
     "Venue": "बिड़ला मातुश्री सभागार, मुम्बई",
     "Time": "1 घण्टा 20 मि०",
     "ForeignKeyId": "077.066",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.066"
 }

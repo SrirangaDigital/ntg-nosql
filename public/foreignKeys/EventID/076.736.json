@@ -7,5 +7,6 @@
     "Projection": "राजेश जोशी व बंसीकौल",
     "Director": "बंसी कौल",
     "ForeignKeyId": "076.736",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.736"
 }

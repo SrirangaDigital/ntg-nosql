@@ -4,5 +4,6 @@
     "Subject": "थीम की घुटन",
     "Person": "मणि मधुकर",
     "ForeignKeyId": "042.032",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.032"
 }

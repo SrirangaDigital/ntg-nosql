@@ -5,5 +5,6 @@
     "Writer": "शरद जोशी",
     "Director": "सुरेश गोडाले",
     "ForeignKeyId": "076.582",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.582"
 }

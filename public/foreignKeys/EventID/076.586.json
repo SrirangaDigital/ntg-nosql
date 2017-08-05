@@ -6,5 +6,6 @@
     "Photographer": "विजय रोहतगी",
     "Artist": "आलाक चटर्जी (कर्ण), उदय शहाणे (दुर्योधन)",
     "ForeignKeyId": "076.586",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.586"
 }

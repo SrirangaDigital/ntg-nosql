@@ -10,5 +10,6 @@
     "Musicconcept": "ब. व. कारन्त",
     "Venue": "ब्रिटिश काउंसिल, नई दिल्ली",
     "ForeignKeyId": "073.665",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.665"
 }

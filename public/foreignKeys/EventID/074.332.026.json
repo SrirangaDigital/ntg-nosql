@@ -4,5 +4,6 @@
     "Event": "एशियन सेमिनार ऑन डॉक्यूमेंटिंग यियेटर",
     "Person": "प्रतिभा अग्रवाल",
     "ForeignKeyId": "074.332.026",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.026"
 }

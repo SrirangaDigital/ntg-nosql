@@ -4,5 +4,6 @@
     "Drama": "अजगर आणि गंधर्व",
     "Writer": "विजय तेंडुलकर",
     "ForeignKeyId": "077.272",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.272"
 }

@@ -4,5 +4,6 @@
     "Drama": "बाल नाट्यशाला",
     "Director": "अजय मनचंदा",
     "ForeignKeyId": "075.258",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.258"
 }

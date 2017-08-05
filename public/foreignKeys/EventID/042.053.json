@@ -4,5 +4,6 @@
     "Person": "भारत भूषण अग्रवाल",
     "Subject": "मधुरिमा (काव्य संग्रह)",
     "ForeignKeyId": "042.053",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.053"
 }

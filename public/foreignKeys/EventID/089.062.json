@@ -6,5 +6,6 @@
     "Translator": "नेमिचन्द्र जैन एवं ब. व. कारंत",
     "Director": "नवीनचंद्र ठाकुर",
     "ForeignKeyId": "089.062",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.062"
 }

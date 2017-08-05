@@ -3,5 +3,6 @@
     "Place": "इलाहाबाद",
     "Drama": "किसान",
     "ForeignKeyId": "073.061",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.061"
 }

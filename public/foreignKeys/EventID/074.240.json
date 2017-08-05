@@ -4,5 +4,6 @@
     "Drama": "पिस्तौल का निशाना (हिन्दी)",
     "Venue": "बिपिन चन्द्र आडिटोरियम",
     "ForeignKeyId": "074.240",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.240"
 }

@@ -6,5 +6,6 @@
     "Director": "हरीश भाटिया",
     "Artist": "हरीश भाटिया, वंदना प्रकाश",
     "ForeignKeyId": "073.652",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.652"
 }

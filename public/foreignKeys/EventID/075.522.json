@@ -5,5 +5,6 @@
     "Writer": "मोहन राकेश",
     "Director": "सुरेश भारद्वाज",
     "ForeignKeyId": "075.522",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.522"
 }

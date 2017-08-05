@@ -15,5 +15,6 @@
     "Venue": "रा. ना. वि.",
     "Photography": "एस. त्यागराजन व लक्ष्मण",
     "ForeignKeyId": "074.568",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.568"
 }

@@ -8,5 +8,6 @@
     "Venue": "साहित्य अकादेमी सभागार, रवीन्द्र भवन, फिरोजशाह मार्ग, नयी दिल्ली",
     "Year": "16 अगस्त 2006",
     "ForeignKeyId": "074.332.066",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.066"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "नेमिचन्द्र जैन, पुरस्कार से सम्मानित होते हुए",
     "ForeignKeyId": "078.318",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.318"
 }

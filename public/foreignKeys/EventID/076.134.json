@@ -8,5 +8,6 @@
     "Book": "बादल सरकार-अशोक भौमिक, ले. (सूचना स्रोत पुस्तक)",
     "Venue": "फाइन आर्ट्स अकादेमी, कलकत्ता",
     "ForeignKeyId": "076.134",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.134"
 }

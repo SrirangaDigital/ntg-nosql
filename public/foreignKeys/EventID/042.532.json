@@ -8,5 +8,6 @@
     "Artist": "मास्टर फिदा हुसैन",
     "Venue": "कलकत्ता",
     "ForeignKeyId": "042.532",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.532"
 }

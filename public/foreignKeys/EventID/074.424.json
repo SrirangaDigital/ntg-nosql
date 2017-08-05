@@ -6,5 +6,6 @@
     "Director": "शांता गांधी",
     "Venue": "बाल भवन",
     "ForeignKeyId": "074.424",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.424"
 }

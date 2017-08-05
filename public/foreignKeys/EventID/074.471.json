@@ -4,5 +4,6 @@
     "Drama": "ओथेलो",
     "Director": "प्रकाश भाटिया",
     "ForeignKeyId": "074.471",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.471"
 }

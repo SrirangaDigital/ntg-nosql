@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "फिदा बाई मरकाम (अभिनेत्री-हिन्दी, छत्तीसगढ़ी)",
     "ForeignKeyId": "078.376",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.376"
 }

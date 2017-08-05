@@ -8,5 +8,6 @@
     "Year": "17 फर., 1985",
     "Host": "ट्रेड फेयर अथोरिटी ऑफ इंडिया",
     "ForeignKeyId": "089.301",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.301"
 }

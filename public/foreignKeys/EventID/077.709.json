@@ -3,5 +3,6 @@
     "Country": "थाइलैण्ड",
     "Drama": "मनोरा (Manora)",
     "ForeignKeyId": "077.709",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.709"
 }

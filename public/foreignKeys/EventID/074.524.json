@@ -5,5 +5,6 @@
     "Writer": "बोधायन",
     "Director": "ब. व. कारंत",
     "ForeignKeyId": "074.524",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.524"
 }

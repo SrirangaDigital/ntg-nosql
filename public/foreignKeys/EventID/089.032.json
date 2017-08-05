@@ -7,5 +7,6 @@
     "Translator": "प्रतिभा अग्रवाल",
     "Director": "विजय कपूर",
     "ForeignKeyId": "089.032",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.032"
 }

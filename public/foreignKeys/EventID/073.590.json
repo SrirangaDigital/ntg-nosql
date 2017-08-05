@@ -5,5 +5,6 @@
     "Writer": "भास",
     "Director": "गोवर्धन पांचाल",
     "ForeignKeyId": "073.590",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.590"
 }

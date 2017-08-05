@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - कुतम्बलम्",
     "Event": "कोतपड़ि का कुतम्बलम्",
     "ForeignKeyId": "089.133",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.133"
 }

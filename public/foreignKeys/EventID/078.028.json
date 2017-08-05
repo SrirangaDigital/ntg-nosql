@@ -3,5 +3,6 @@
     "Country": "तुर्की",
     "Dance": "कठपुतली",
     "ForeignKeyId": "078.028",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.028"
 }

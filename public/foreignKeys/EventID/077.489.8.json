@@ -4,5 +4,6 @@
     "Writer": "असग़र वजाहत",
     "Artist": "जितेन्द्र रघुवंशी (दरोगा)",
     "ForeignKeyId": "077.489.8",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.8"
 }

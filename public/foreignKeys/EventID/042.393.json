@@ -4,5 +4,6 @@
     "Subject": "त्रिवेणी कला केन्द्र (सांस्कृतिक समाचार) (मासिक)",
     "Editor": "डी. डी. गोयल",
     "ForeignKeyId": "042.393",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.393"
 }

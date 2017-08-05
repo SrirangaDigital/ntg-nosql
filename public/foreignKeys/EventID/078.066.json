@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "लोक नृत्य - मणिपुरी नृत्य",
     "ForeignKeyId": "078.066",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.066"
 }

@@ -4,5 +4,6 @@
     "Country": "उत्तर कोरिया (डेमोक्रेटिक पिपल्स रिपब्लिक ऑफ कोरिया)",
     "Event": "Pyongyang Cireus (एकोबेटिक ग्रूप)",
     "ForeignKeyId": "089.365",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.365"
 }

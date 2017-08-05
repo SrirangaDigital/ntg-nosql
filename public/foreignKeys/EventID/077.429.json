@@ -7,5 +7,6 @@
     "Director": "रेणुका इसरानी",
     "Event": "संकल्प द्वारा आयोजित नाट्य शिविर",
     "ForeignKeyId": "077.429",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.429"
 }

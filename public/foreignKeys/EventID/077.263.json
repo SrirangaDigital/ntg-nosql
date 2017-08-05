@@ -6,5 +6,6 @@
     "Director": "चेतन दातार",
     "Venue": "कमानी सभागार, दिल्ली",
     "ForeignKeyId": "077.263",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.263"
 }

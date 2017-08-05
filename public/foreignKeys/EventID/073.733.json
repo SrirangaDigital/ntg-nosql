@@ -6,5 +6,6 @@
     "Director": "बलवन्त ठाकुर",
     "Event": "जम्मू नाट्य शिविर - 1989 में प्रस्तुत",
     "ForeignKeyId": "073.733",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.733"
 }

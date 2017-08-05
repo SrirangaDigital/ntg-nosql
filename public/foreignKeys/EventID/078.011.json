@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "कठपुतली - रेड पपिट",
     "ForeignKeyId": "078.011",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.011"
 }

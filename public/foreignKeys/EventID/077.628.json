@@ -10,5 +10,6 @@
     "Artist": "माया कुलकर्णी (शकुंतला), बिहारी शर्मा (दुष्यंत)",
     "Venue": "न्यूयॉर्क, टैगोर सोसायटी",
     "ForeignKeyId": "077.628",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.628"
 }

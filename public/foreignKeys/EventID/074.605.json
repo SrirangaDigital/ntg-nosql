@@ -5,5 +5,6 @@
     "Director": "बैरी जॉन",
     "Artist": "विभा मिश्रा, गोपाल कृष्ण और हरेन्द्र मोहन भट्टाचार्य, सुन्दर जी",
     "ForeignKeyId": "074.605",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.605"
 }

@@ -7,5 +7,6 @@
     "Music": "श्रीनिवास भट्ट, ब. व. कारंत",
     "Artist": "रघु तथा मंगला",
     "ForeignKeyId": "073.515",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.515"
 }

@@ -6,5 +6,6 @@
     "Director": "राजीव दूबे",
     "Stage": "उ. प्र. संगीत नाटक अकादेमी, लखनऊ",
     "ForeignKeyId": "073.233",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.233"
 }

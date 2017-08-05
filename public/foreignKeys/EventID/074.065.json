@@ -9,5 +9,6 @@
     "Light": "सीतांशु मुखर्जी",
     "Stage": "अशोक भट्टाचार्य",
     "ForeignKeyId": "074.065",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.065"
 }

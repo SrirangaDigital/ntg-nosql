@@ -3,5 +3,6 @@
     "Drama": "पंडवानी",
     "Artist": "तीजन बाई",
     "ForeignKeyId": "077.572.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.572.0"
 }

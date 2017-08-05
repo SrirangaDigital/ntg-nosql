@@ -3,5 +3,6 @@
     "Drama": "स्मारिका डिजाइन",
     "Designer": "महेन्द्र",
     "ForeignKeyId": "073.696",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.696"
 }

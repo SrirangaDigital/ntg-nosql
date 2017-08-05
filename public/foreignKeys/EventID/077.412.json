@@ -5,5 +5,6 @@
     "Writer": "सर्वेश्वर दयाल सक्सेना",
     "Director": "इकबाल हुसैन",
     "ForeignKeyId": "077.412",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.412"
 }

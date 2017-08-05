@@ -2,5 +2,6 @@
     "Aid": "03",
     "Card-type": "अन्य विषय - कुतम्बलम्",
     "ForeignKeyId": "089.132",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.132"
 }

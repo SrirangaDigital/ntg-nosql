@@ -8,5 +8,6 @@
     "Director": "सी. आर. जाम्बे",
     "Stage": "बी. एम. शाह प्रेक्षागृह, लखनऊ",
     "ForeignKeyId": "073.345",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.345"
 }

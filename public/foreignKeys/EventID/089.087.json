@@ -8,5 +8,6 @@
     "Director": "राज बिसारिया",
     "Artist": "जीत जरधारी, मीनू राठौर व अन्य",
     "ForeignKeyId": "089.087",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.087"
 }

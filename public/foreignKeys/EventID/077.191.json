@@ -11,5 +11,6 @@
     "Artist": "रेशमा शेट्टी, मंदार गोखल, गौरव सैनी, अभय कुलकर्णी, सीमा अधिकारी व अन्य",
     "Venue": "सम्मुख सभागार, रा. ना. वि., दिल्ली",
     "ForeignKeyId": "077.191",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.191"
 }

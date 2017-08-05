@@ -2,5 +2,6 @@
     "Aid": "03",
     "Event": "उत्तरा बावकर स्नातक की डिग्री लिए हुए",
     "ForeignKeyId": "078.149",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.149"
 }

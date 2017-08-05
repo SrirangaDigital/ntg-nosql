@@ -5,5 +5,6 @@
     "Writer": "बोधायन (संस्कृत)",
     "Artist": "सरोज कपूर, गीता मिश्रा, आशीष चटर्जी, कॅवलजीत सिंह (बाएं से दाएं)",
     "ForeignKeyId": "073.275",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.275"
 }

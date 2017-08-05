@@ -4,5 +4,6 @@
     "Drama": "अंधायुग",
     "Artist": "विभा मिश्र व अन्य",
     "ForeignKeyId": "076.786",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.786"
 }

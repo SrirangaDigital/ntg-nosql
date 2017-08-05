@@ -8,5 +8,6 @@
     "Venue": "शैले हाल (नैनीताल क्लब)",
     "Artist": "दीपा साह (मौसी), कल्पना त्रिपाठी (मानसी), दया कृष्ण सनवाल (लेखक) व अन्य",
     "ForeignKeyId": "073.227",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.227"
 }

@@ -11,5 +11,6 @@
     "Venue": "बिपिन चन्द्रपाल सभागार, दिल्ली",
     "Photography": "अजय शर्मा",
     "ForeignKeyId": "074.409",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.409"
 }

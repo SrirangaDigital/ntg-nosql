@@ -4,5 +4,6 @@
     "Dance": "लोक नृत्य (Folk Dance)",
     "Director": "Igor Moiseen",
     "ForeignKeyId": "078.099",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.099"
 }

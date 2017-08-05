@@ -6,5 +6,6 @@
     "Director": "कुणाल",
     "Venue": "कालिदास रंगालय, पटना",
     "ForeignKeyId": "076.296",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.296"
 }

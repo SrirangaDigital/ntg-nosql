@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "रामायण बाल काण्ड उर्फ श्री जानकी जन्म, हाथरस, श्याम प्रेस, 1967",
     "ForeignKeyId": "042.193",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.193"
 }

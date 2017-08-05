@@ -4,5 +4,6 @@
     "Place": "गोरखपुर",
     "Drama": "हाथी मरा नहीं (हिन्दी)",
     "ForeignKeyId": "089.217",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.217"
 }

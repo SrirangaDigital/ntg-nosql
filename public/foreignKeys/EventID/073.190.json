@@ -13,5 +13,6 @@
     "Artist": "नलिनी श्रीवास्तव (नटी), राजीव राज (सूत्रधार), रजनी श्रीवास्तव",
     "Venue": "चित्रगुप्त मन्दिर प्रेक्षागृह, गोरखपुर",
     "ForeignKeyId": "073.190",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.190"
 }

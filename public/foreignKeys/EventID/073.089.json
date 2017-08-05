@@ -6,5 +6,6 @@
     "Projection": "अनिल रंजन भौमिक",
     "Director": "अनिल रंजन भौमिक",
     "ForeignKeyId": "073.089",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.089"
 }

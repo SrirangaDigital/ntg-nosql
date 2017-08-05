@@ -4,5 +4,6 @@
     "Drama": "अजनबी",
     "Writer": "कामू",
     "ForeignKeyId": "075.519",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.519"
 }

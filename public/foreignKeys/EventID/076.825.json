@@ -5,5 +5,6 @@
     "Event": "पॉचवां बाल नाट्योत्सव",
     "Venue": "मुंबइ",
     "ForeignKeyId": "076.825",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.825"
 }

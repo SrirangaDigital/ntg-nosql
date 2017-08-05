@@ -3,5 +3,6 @@
     "Dance": "लोक नृत्य",
     "Music": "भगोरिया (मांदल तथा थाली वादक)",
     "ForeignKeyId": "078.060",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.060"
 }

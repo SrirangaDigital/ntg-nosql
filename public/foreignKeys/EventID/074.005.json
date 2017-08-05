@@ -6,5 +6,6 @@
     "Director": "आशीष घोष",
     "Venue": "विपिन चन्द्र पाल सभागार",
     "ForeignKeyId": "074.005",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.005"
 }

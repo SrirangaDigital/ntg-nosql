@@ -6,5 +6,6 @@
     "Writer": "विजयदान देथा",
     "Director": "एस. ए. श्याम सुन्दर",
     "ForeignKeyId": "089.184",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.184"
 }

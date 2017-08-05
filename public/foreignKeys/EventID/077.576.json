@@ -3,5 +3,6 @@
     "Place": "पटना",
     "Drama": "बिदेसिया (पारम्परिक नाट्य)",
     "ForeignKeyId": "077.576",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.576"
 }

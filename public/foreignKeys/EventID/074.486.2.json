@@ -11,5 +11,6 @@
     "Music": "ज्ञान शिवपुरी",
     "Light": "सुरेश शेट्टी",
     "ForeignKeyId": "074.486.2",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.486.2"
 }

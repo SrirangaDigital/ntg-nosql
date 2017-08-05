@@ -10,5 +10,6 @@
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "Host": "रा. ना. वि. एवं नटरंग प्रतिष्ठान, पूर्वा",
     "ForeignKeyId": "075.346",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.346"
 }

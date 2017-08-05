@@ -5,5 +5,6 @@
     "Writer": "शूद्रक (संस्कृत)",
     "Director": "एस. थानिनलेमा",
     "ForeignKeyId": "076.461",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.461"
 }

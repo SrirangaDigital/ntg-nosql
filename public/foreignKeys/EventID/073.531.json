@@ -5,5 +5,6 @@
     "Writer": "हबीब ततवीर",
     "Director": "सी. आर. जाम्बे",
     "ForeignKeyId": "073.531",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.531"
 }

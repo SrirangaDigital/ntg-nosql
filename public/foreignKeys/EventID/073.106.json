@@ -9,5 +9,6 @@
     "Artist": "अम्बिका सिंह वर्मा (जानकीदास), विजय शंकर आज़मी (गोपीनाथ) (परि. सं. 2053 न. की फोटो में) व अन्य",
     "Drama": "जय बाबा गोपीनाथ (हिन्दी)",
     "ForeignKeyId": "073.106",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.106"
 }

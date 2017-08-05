@@ -5,5 +5,6 @@
     "Writer": "धर्मवीर भारती",
     "Director": "उमेश आदित्य",
     "ForeignKeyId": "076.343",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.343"
 }

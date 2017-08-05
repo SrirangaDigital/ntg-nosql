@@ -8,5 +8,6 @@
     "Director": "इब्राहिम अल्काजी",
     "Artist": "उषा बैनर्जी व गोविन्द प्रसाद",
     "ForeignKeyId": "074.521",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.521"
 }

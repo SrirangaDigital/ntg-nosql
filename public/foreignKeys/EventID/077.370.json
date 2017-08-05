@@ -6,5 +6,6 @@
     "Director": "दलपत परिहार",
     "Version": "मुद्राराक्षस",
     "ForeignKeyId": "077.370",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.370"
 }

@@ -8,5 +8,6 @@
     "Venue": "श्रीराम सेंटर",
     "Year": "22 दिस. 1997",
     "ForeignKeyId": "089.178",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.178"
 }

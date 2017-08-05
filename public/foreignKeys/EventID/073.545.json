@@ -5,5 +5,6 @@
     "Writer": "के. वी. अक्षरा",
     "Director": "के. वी. अक्षरा",
     "ForeignKeyId": "073.545",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.545"
 }

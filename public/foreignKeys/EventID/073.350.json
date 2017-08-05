@@ -6,5 +6,6 @@
     "Director": "राजबिसारिया",
     "Artist": "सुनीता सिंह, राजबिसारिया",
     "ForeignKeyId": "073.350",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.350"
 }

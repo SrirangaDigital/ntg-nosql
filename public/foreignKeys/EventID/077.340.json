@@ -6,5 +6,6 @@
     "Director": "एस. वासुदेव",
     "Artist": "सुरेश सिंधु, वासुदेव भट्ट व अर्चना शर्मा",
     "ForeignKeyId": "077.340",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.340"
 }

@@ -4,5 +4,6 @@
     "Drama": "द आयरलैण्ड (हिन्दी)",
     "Artist": "आलोक चटर्जी",
     "ForeignKeyId": "076.787",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.787"
 }

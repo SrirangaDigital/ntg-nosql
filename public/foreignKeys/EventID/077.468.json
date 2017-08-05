@@ -5,5 +5,6 @@
     "Director": "गौताम सौगात",
     "Venue": "श्री युवक साहित्य सदन, सिरसा, हरियाण",
     "ForeignKeyId": "077.468",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.468"
 }

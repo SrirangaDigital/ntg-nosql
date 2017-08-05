@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "Marcel Marceau (फ्रेंच कलाकार)",
     "ForeignKeyId": "078.494",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.494"
 }

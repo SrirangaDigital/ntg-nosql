@@ -15,5 +15,6 @@
     "Mask": "सतीश दवे एवं समूह",
     "Artist": "आनन्द जैन, दरबारी पाल, दुष्यंत सिंह, कन्हैयालाल कैथवास, विनोद राय व अन्य",
     "ForeignKeyId": "076.762",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.762"
 }

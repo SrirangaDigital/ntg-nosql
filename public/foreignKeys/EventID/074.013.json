@@ -10,5 +10,6 @@
     "Stage": "अशोक भट्टाचार्य",
     "Artist": "एस. एम. जहीर (दीपेश), सुचित्रा गुप्ता (सुनंदा), शिप्रा दास (अहाना), सुभाष गुप्ता (डॉ बर्मन) व अन्य",
     "ForeignKeyId": "074.013",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.013"
 }

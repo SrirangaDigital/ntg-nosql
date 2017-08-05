@@ -7,5 +7,6 @@
     "Photo": "आशीष विद्यार्थी",
     "Venue": "अभिमंच",
     "ForeignKeyId": "078.122",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.122"
 }

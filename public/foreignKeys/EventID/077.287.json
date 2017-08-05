@@ -4,5 +4,6 @@
     "Film": "दीक्षा (फिल्म)",
     "Artist": "मनोहर सिंह",
     "ForeignKeyId": "077.287",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.287"
 }

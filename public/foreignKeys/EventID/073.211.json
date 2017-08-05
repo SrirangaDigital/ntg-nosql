@@ -12,5 +12,6 @@
     "Photographer": "अरविन्द शर्मा",
     "Venue": "पर्यावरण रंग शिविर में प्रस्तुत",
     "ForeignKeyId": "073.211",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.211"
 }

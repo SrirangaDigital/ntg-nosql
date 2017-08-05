@@ -3,5 +3,6 @@
     "Event": "दीक्षान्त समारोह",
     "Photo": "राम गोपाल बजाज (राम गोपाल बजाज दीक्षांत समारोह में बोलते हुए)",
     "ForeignKeyId": "078.533",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.533"
 }

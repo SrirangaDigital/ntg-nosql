@@ -1,5 +1,6 @@
 {
     "Aid": "01",
     "ForeignKeyId": "077.768",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.768"
 }

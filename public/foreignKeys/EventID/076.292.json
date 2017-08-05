@@ -3,5 +3,6 @@
     "Place": "पटना",
     "Drama": "मुक्ति संग्ताम",
     "ForeignKeyId": "076.292",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.292"
 }

@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "ब. व. कारंत (राष्ट्रीय नुक्कड़ नाटक नाट्य समारोह 1983)",
     "ForeignKeyId": "078.416",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.416"
 }

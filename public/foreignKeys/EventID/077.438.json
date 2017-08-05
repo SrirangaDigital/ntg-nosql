@@ -3,5 +3,6 @@
     "Place": "बीकानेर",
     "Drama": "नागपाश",
     "ForeignKeyId": "077.438",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.438"
 }

@@ -4,5 +4,6 @@
     "Drama": "जरासन्ध वध (यक्षगान)",
     "Director": "शम्भु हेगड़े",
     "ForeignKeyId": "073.446",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.446"
 }

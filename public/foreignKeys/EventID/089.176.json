@@ -4,5 +4,6 @@
     "Serial": "राग दरबारी",
     "Artist": "मनोहर सिंह, सुधीर पांडे व अन्य",
     "ForeignKeyId": "089.176",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.176"
 }

@@ -7,5 +7,6 @@
     "Music": "भास्कर चन्दावरकर",
     "Artist": "मोहन अगाशे (नाना फडनवीस), रमेश तिलेकर‌(घासीराम)",
     "ForeignKeyId": "076.854",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.854"
 }

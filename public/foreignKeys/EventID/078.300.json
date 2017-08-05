@@ -4,5 +4,6 @@
     "Event": "मुक्तिबोध प्रसंग",
     "Photo": "नेमिचन्द्र जैन",
     "ForeignKeyId": "078.300",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.300"
 }

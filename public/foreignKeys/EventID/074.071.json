@@ -9,5 +9,6 @@
     "Artist": "सुषमां सेठ (मंजुला नायक), नलिनी कमल (उद्घोषक), रश्मि विद्यालिंगम (बिम्ब)",
     "Venue": "इण्डिया हेबिटेट सेंटर, दिल्ली",
     "ForeignKeyId": "074.071",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.071"
 }

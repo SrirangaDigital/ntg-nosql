@@ -4,5 +4,6 @@
     "Person": "सुन्दरलाल जी वैद्य",
     "Subject": "हरिश्चन्द्र लीला, श्याम काशी प्रेस",
     "ForeignKeyId": "042.338",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.338"
 }

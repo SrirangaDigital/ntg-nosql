@@ -4,5 +4,6 @@
     "Drama": "मर्सिया",
     "Director": "एन. के. शर्मा",
     "ForeignKeyId": "074.204",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.204"
 }

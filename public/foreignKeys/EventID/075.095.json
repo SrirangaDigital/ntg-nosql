@@ -14,5 +14,6 @@
     "Book": "रंगयात्रा-1, रा. ना. वि. व रंगसाक्षी-जयदेव तनेजा, ले. (सूचना स्रोत पुस्तकों)",
     "Venue": "श्रीराम कला केन्द्र, दिल्ली",
     "ForeignKeyId": "075.095",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.095"
 }

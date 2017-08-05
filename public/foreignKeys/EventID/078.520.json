@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "रविशंकर, पं. (सितार वादक)",
     "ForeignKeyId": "078.520",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.520"
 }

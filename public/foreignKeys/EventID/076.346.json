@@ -6,5 +6,6 @@
     "Director": "प्रवीण कुमार `गुंजन'",
     "Venue": "दिनकर भवन, बेगूसराय",
     "ForeignKeyId": "076.346",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.346"
 }

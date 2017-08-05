@@ -6,5 +6,6 @@
     "Translation": "एन. मुत्तुस्वामी",
     "Director": "बी. अस्मुगम",
     "ForeignKeyId": "073.777",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.777"
 }

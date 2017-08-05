@@ -4,5 +4,6 @@
     "Drama": "एक सपने की मौत",
     "Director": "भानु भारती",
     "ForeignKeyId": "075.380",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.380"
 }

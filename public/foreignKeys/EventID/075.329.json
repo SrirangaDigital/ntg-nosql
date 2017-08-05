@@ -5,5 +5,6 @@
     "Writer": "विलायत जाफरी",
     "Director": "पंचानन पाठक",
     "ForeignKeyId": "075.329",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.329"
 }

@@ -4,5 +4,6 @@
     "Drama": "झांसी की रानी",
     "Writer": "चतुर्भुज",
     "ForeignKeyId": "076.337",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.337"
 }

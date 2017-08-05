@@ -4,5 +4,6 @@
     "Drama": "पंचवटी",
     "Writer": "मैथिलीशरण गुप्ता",
     "ForeignKeyId": "073.279",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.279"
 }

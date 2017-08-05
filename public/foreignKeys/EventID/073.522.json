@@ -8,5 +8,6 @@
     "Music": "ब. व. कारंत, फिलिप",
     "Artist": "मंगला",
     "ForeignKeyId": "073.522",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.522"
 }

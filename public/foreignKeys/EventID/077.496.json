@@ -4,5 +4,6 @@
     "Dance": "कुट्टियाट्टम्",
     "Artist": "`प्रतिज्ञा योगन्धरायण' राजा उदयन व विदुषक",
     "ForeignKeyId": "077.496",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.496"
 }

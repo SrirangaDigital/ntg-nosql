@@ -9,5 +9,6 @@
     "Music": "सन्तू-गीता रोहतगी",
     "Artist": "तृप्ता अरोरा (शीला) एवं संतोष श्रीवास्तव (अनिल)",
     "ForeignKeyId": "073.123",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.123"
 }

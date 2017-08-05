@@ -13,5 +13,6 @@
     "Light": "जी. एन. दासगुप्ता",
     "Artist": "ओम शिवपुरी (मिर्ज़ा), राम गोपाल बजाज (आल्फु), मोहन महर्षि (पिता) व अन्य",
     "ForeignKeyId": "075.049",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.049"
 }

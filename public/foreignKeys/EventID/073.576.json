@@ -8,5 +8,6 @@
     "Director": "अभिलाष पिल्लई",
     "Venue": "तिरुअनंतपुरम",
     "ForeignKeyId": "073.576",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.576"
 }

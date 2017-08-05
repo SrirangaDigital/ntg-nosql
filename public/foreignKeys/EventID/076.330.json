@@ -6,5 +6,6 @@
     "Director": "नीरज कुमार",
     "Artist": "बुल्लु कुमार, शम्भुकुमार व नीरज कुमार",
     "ForeignKeyId": "076.330",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.330"
 }

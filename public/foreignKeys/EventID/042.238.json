@@ -4,5 +4,6 @@
     "Subject": "बांसुरी वाली यानी बेवफा माशूक, 1966",
     "Person": "श्रीकृष्ण",
     "ForeignKeyId": "042.238",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.238"
 }

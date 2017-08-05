@@ -6,5 +6,6 @@
     "Director": "मदन मोहन श्रीवास्तव",
     "Artist": "मदन मोहन श्रीवास्तव (जुनेजो), पुष्पलता दास (बिन्नी) व अन्य",
     "ForeignKeyId": "076.277",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.277"
 }

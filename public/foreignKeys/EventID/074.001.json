@@ -4,5 +4,6 @@
     "Drama": "फेसिंग नाइटमेअर एलोन (Facing Nightmare Alone)",
     "Venue": "इंडिया इंटरनेशनल सेंटर",
     "ForeignKeyId": "074.001",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.001"
 }

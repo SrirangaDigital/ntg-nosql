@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय",
     "Event": "पेन्टिंग : केव पेन्टिंग",
     "ForeignKeyId": "089.250",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.250"
 }

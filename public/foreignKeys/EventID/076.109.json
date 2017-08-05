@@ -5,5 +5,6 @@
     "Writer": "उत्पल दत्त",
     "Artist": "उत्पल दत्त, शोबा सेन",
     "ForeignKeyId": "076.109",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.109"
 }

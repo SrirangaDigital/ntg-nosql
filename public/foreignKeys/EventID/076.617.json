@@ -7,5 +7,6 @@
     "Director": "आलोक चटर्जी",
     "Artist": "विभा मिश्र, आलोक चटर्जी व अन्य",
     "ForeignKeyId": "076.617",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.617"
 }

@@ -4,5 +4,6 @@
     "Drama": "बुरे फँसे मोहब्बत में",
     "Artist": "उत्तरा बावकर (रज्जी), सविता बजाज (रीता), कमलाकर सोनटक्के (मनहर)",
     "ForeignKeyId": "074.523",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.523"
 }

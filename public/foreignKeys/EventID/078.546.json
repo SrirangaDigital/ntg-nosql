@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "विजय तेंदुलकर (विजय तेंदुलकर का व्यक्तिगत चित्र ।)",
     "ForeignKeyId": "078.546",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.546"
 }

@@ -4,5 +4,6 @@
     "Writer": "शंभु मित्र",
     "Photo": "शंभु मित्र",
     "ForeignKeyId": "078.564",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.564"
 }

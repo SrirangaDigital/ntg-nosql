@@ -10,5 +10,6 @@
     "Artist": "अतुलवीर अरोड़ा (टॉम), मीता वसिष्ठ (लॉरा), मीना अरोड़ा (अमेण्डा), जिम (अर्नेस्ट एलबर्ल्ट) व अन्य",
     "Venue": "टैगोर थिएटर, चण्डीगढ़",
     "ForeignKeyId": "073.636",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.636"
 }

@@ -5,5 +5,6 @@
     "Writer": "हमीदुल्ला",
     "Director": "सतीश शर्मा",
     "ForeignKeyId": "077.339",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.339"
 }

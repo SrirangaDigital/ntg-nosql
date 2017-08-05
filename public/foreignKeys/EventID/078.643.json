@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सुलभा देशपाण्डे (1937-मराठी-हिन्दी नाट्य कलाकार व निर्देशक)",
     "ForeignKeyId": "078.643",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.643"
 }

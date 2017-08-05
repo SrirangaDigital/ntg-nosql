@@ -9,5 +9,6 @@
     "Dramatized": "बादल सरकार (बांग्ला)",
     "Translation": "रति बार्थोलोम्यु एवं वीरेन्द्र सक्सेना (बांग्ला से हिन्दी)",
     "ForeignKeyId": "089.016",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.016"
 }

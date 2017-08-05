@@ -7,5 +7,6 @@
     "Natyantar": "सुरेन्द्र कौशिक",
     "Artist": "सुरेन्द्र कौशिक (लहना सिंह)",
     "ForeignKeyId": "089.211",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.211"
 }

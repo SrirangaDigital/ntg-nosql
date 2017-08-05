@@ -4,5 +4,6 @@
     "Subject": "अभिनय (पाक्षिक) (अन्तर्देशीय नाट्य पत्र)",
     "Editor": "आनन्द गुप्त और जयदेव तनेजा",
     "ForeignKeyId": "042.375",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.375"
 }

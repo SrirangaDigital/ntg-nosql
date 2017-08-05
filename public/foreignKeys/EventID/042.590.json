@@ -7,5 +7,6 @@
     "Artist": "जयानन्द दवे (चाणक्य), प्रभाकर साणे (अमात्य) साणे, के. पी. जोग (चन्द्रगुप्त) व अन्य",
     "Year": "25-03-1955",
     "ForeignKeyId": "042.590",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.590"
 }

@@ -5,5 +5,6 @@
     "Writer": "विष्णुशर्मा",
     "Artist": "निशा त्रिवेदी (सांप), किरणदीप (रानी)",
     "ForeignKeyId": "074.259",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.259"
 }

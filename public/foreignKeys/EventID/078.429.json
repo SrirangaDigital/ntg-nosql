@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "ब. व. कारंत (पी. एन. देशपांडे से संगीत नाटक अकादमी पुरस्कार प्राप्त करते हुए)",
     "ForeignKeyId": "078.429",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.429"
 }

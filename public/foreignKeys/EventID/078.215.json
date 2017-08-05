@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "गिरीश रस्तोगी",
     "ForeignKeyId": "078.215",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.215"
 }

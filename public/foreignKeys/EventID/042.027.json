@@ -4,5 +4,6 @@
     "Subject": "भ्रमर गीत - महाकवियों की वाणी के आधार पर एक रूपक",
     "Person": "गोपालदत्त शर्मा",
     "ForeignKeyId": "042.027",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.027"
 }

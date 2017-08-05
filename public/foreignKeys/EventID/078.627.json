@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सितारा देवी (कथक-नृत्य मुद्रा में)",
     "ForeignKeyId": "078.627",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.627"
 }

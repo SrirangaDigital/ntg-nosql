@@ -5,5 +5,6 @@
     "Writer": "देवाशीष मजूमदार",
     "Translator": "सान्त्वना",
     "ForeignKeyId": "076.213",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.213"
 }

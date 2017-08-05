@@ -4,5 +4,6 @@
     "Drama": "हिन्दोस्तान हमारा",
     "Writer": "रतन सिंह हिमेश",
     "ForeignKeyId": "077.480",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.480"
 }

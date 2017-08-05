@@ -4,5 +4,6 @@
     "Drama": "सन्ध्या छाया",
     "Director": "सुवर्ण रावत",
     "ForeignKeyId": "073.442",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.442"
 }

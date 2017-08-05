@@ -4,5 +4,6 @@
     "Drama": "हजार चौरासी की मॉ (हिन्दी)",
     "Director": "राजिन्दर नाथ",
     "ForeignKeyId": "074.094",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.094"
 }

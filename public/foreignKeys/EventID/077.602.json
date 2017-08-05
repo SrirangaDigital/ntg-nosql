@@ -3,5 +3,6 @@
     "Place": "उज्जैन",
     "Drama": "माच मेला (पारम्परिक नाट्य)",
     "ForeignKeyId": "077.602",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.602"
 }

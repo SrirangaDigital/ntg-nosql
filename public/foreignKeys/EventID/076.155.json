@@ -7,5 +7,6 @@
     "Artist": "असित मुखोपाध्याय, उषा गांगुली व अन्य",
     "Venue": "कलकत्ता",
     "ForeignKeyId": "076.155",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.155"
 }

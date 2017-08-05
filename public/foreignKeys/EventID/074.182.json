@@ -7,5 +7,6 @@
     "Translation": "उत्तरा बाउकर, अग्निदत्त",
     "Artist": "मनोहर सिंह",
     "ForeignKeyId": "074.182",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.182"
 }

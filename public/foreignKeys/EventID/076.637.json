@@ -17,5 +17,6 @@
     "Book": "Here I cannot stay, there I can not go (सूचना स्रोत पुस्तक)",
     "Venue": "भारत भवन रंगमंडल",
     "ForeignKeyId": "076.637",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.637"
 }

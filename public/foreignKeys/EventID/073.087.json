@@ -6,5 +6,6 @@
     "Director": "लक्ष्मीनारायण लाल",
     "Artist": "दयाप्रकाश सिन्हा (हेरूप) एवं गोपाल माथुर (तांत्रिक) की भूमिका में",
     "ForeignKeyId": "073.087",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.087"
 }

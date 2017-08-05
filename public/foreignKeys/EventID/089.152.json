@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - कुतम्बलम्",
     "Place": "वड़क्कूनाथन मंदिर",
     "ForeignKeyId": "089.152",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.152"
 }

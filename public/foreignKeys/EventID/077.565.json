@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Drama": "नाट-भतरा (बस्तर)",
     "ForeignKeyId": "077.565",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.565"
 }

@@ -3,5 +3,6 @@
     "Drama": "जिस लाहौर नहीं देख्या",
     "Writer": "असगर वजाहत",
     "ForeignKeyId": "077.489.17",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.17"
 }

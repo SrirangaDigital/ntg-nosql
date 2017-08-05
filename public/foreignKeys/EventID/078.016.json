@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "कठपुतली",
     "ForeignKeyId": "078.016",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.016"
 }

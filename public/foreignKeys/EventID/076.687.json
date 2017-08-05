@@ -6,5 +6,6 @@
     "Director": "अलखनन्दन",
     "Music": "ओमप्रकाश चौरसिया",
     "ForeignKeyId": "076.687",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.687"
 }

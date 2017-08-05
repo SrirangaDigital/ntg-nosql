@@ -4,5 +4,6 @@
     "Person": "हरिप्रसाद भगीरथजी",
     "Subject": "लैला मजनू को ख्याल, मुम्बई, नेटीव ओपिनियन, 1917",
     "ForeignKeyId": "042.346",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.346"
 }

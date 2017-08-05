@@ -10,5 +10,6 @@
     "Venue": "अंगन मंच, कोलकाता",
     "Informationsource": "भारतीय रंगकोश - खण्ड-1/प्रतिभा अग्रवाल, संपा. व नटरंग अंक 37",
     "ForeignKeyId": "073.606",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.606"
 }

@@ -11,5 +11,6 @@
     "Artist": "एस. एम. ज़हीर (नाथ देवालीकर), वीणा मेहता (ज्योति), सुचित्रा गुप्ता (सेवा) व अन्य",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "074.024",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.024"
 }

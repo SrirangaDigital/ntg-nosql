@@ -4,5 +4,6 @@
     "Subject": "Theatre in Sri Lanka, Sri Lanka Department of Cultural Affaires, 1976",
     "Person": "Gunawardana A. J.",
     "ForeignKeyId": "042.373",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.373"
 }

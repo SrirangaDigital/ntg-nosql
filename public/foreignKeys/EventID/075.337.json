@@ -11,5 +11,6 @@
     "Venue": "बहुमुख सभागार, दिल्ली",
     "Host": "रा. ना. वि. एवं नटरंग प्रतिष्ठान : पूर्वा",
     "ForeignKeyId": "075.337",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.337"
 }

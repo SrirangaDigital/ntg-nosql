@@ -9,5 +9,6 @@
     "Venue": "प्रयाग संगीत समिति, इलाहाबाद",
     "Photograph": "नरेन्द्र यादव",
     "ForeignKeyId": "073.099",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.099"
 }

@@ -6,5 +6,6 @@
     "Director": "रमेश उपाध्याय",
     "Artist": "अशोक बुलानी एवं के. सी. वर्मा (सेठ जी एवं मैनेजर) की भूमिका में व अन्य",
     "ForeignKeyId": "076.520",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.520"
 }

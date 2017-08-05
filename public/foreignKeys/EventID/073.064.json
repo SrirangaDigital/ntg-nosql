@@ -10,5 +10,6 @@
     "Light": "श्री मिस्त्री",
     "Artist": "लक्ष्मीनारायण लाल (कमल), पुष्पा योगेश्वर (अमृता), कपिल (दरबान) व अन्य",
     "ForeignKeyId": "073.064",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.064"
 }

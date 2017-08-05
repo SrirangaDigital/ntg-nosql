@@ -6,5 +6,6 @@
     "Director": "हीरा चड्डा",
     "Artist": "कमल सकलानी, अतुल सकलानी व अन्य",
     "ForeignKeyId": "073.057",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.057"
 }

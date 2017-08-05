@@ -4,5 +4,6 @@
     "Drama": "मुद्राराक्षस",
     "Writer": "विशाखदत्त",
     "ForeignKeyId": "076.676",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.676"
 }

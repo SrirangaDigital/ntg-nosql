@@ -5,5 +5,6 @@
     "Writer": "मणि मधुकर",
     "Director": "ब. व. कारन्त",
     "ForeignKeyId": "076.779",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.779"
 }

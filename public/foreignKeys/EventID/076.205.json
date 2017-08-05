@@ -6,5 +6,6 @@
     "Director": "बादल सरकार",
     "Artist": "ज्योति, मुरारी चक्रवर्ती, देबेन गांगुली वैद्यनाथ दुलाल",
     "ForeignKeyId": "076.205",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.205"
 }

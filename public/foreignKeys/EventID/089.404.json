@@ -6,5 +6,6 @@
     "Director": "एन. सी. ठाकुर एवं वीरेन्द्र मेहन्दोस्ता",
     "Year": "1981",
     "ForeignKeyId": "089.404",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.404"
 }

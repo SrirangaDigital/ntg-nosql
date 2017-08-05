@@ -4,5 +4,6 @@
     "Drama": "तीन बहने",
     "Writer": "अंतोन चेखव",
     "ForeignKeyId": "075.106",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.106"
 }

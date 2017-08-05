@@ -6,5 +6,6 @@
     "Director": "सतीश आलेकर",
     "Venue": "मंजर थिएटर",
     "ForeignKeyId": "076.860",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.860"
 }

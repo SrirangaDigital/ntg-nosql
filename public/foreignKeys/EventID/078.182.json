@@ -3,5 +3,6 @@
     "Person": "कावलम नारायण पणिक्कर",
     "Event": "कावलम नारायण पणिक्कर, संगीत नाटक अकादेमी अवार्ड के अवसर पर",
     "ForeignKeyId": "078.182",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.182"
 }

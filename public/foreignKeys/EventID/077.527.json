@@ -4,5 +4,6 @@
     "Drama": "कुचामनि ख्याल",
     "Event": "पारम्परिक थिएटर समारोह",
     "ForeignKeyId": "077.527",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.527"
 }

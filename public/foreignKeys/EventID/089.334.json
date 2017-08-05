@@ -4,5 +4,6 @@
     "Place": "हाथरस",
     "Event": "ब्रज कला केन्द्र अधिवेशन विचार गोष्ठी",
     "ForeignKeyId": "089.334",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.334"
 }

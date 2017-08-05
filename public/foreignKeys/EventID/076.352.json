@@ -4,5 +4,6 @@
     "Drama": "आधे - अधूरे",
     "Writer": "मोहन राकेश",
     "ForeignKeyId": "076.352",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.352"
 }

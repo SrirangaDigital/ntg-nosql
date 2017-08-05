@@ -4,5 +4,6 @@
     "Person": "लालचन्द्र बिस्मिल",
     "Subject": "आहुति, बम्बई, पृथ्वी थियेटर्स, प्रथम संस्क. 1950",
     "ForeignKeyId": "042.281",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.281"
 }

@@ -7,5 +7,6 @@
     "Event": "राष्ट्रीय नाट्य समारोह",
     "Venue": "दिल्ली",
     "ForeignKeyId": "077.213",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.213"
 }

@@ -6,5 +6,6 @@
     "Translation": "रघुवीर सहाय",
     "Director": "विभा मिश्र",
     "ForeignKeyId": "076.604",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.604"
 }

@@ -8,5 +8,6 @@
     "Artist": "दिनेश ठाकुर एवं",
     "Venue": "मंजर थियेटर, दिल्ली",
     "ForeignKeyId": "077.039",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.039"
 }

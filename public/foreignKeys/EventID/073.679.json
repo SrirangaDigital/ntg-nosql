@@ -8,5 +8,6 @@
     "Decorater": "सुमन्त जयकृष्णन",
     "Artist": "रमनजीत कौर (सिबो), वजीन्द्र कुमार, हितेन्द्र कुमार, अमरजीत, बहादुर देशराज",
     "ForeignKeyId": "073.679",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.679"
 }

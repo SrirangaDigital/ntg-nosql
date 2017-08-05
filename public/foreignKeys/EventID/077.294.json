@@ -3,5 +3,6 @@
     "Place": "बम्बई",
     "Drama": "रुस्तम सोहराब",
     "ForeignKeyId": "077.294",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.294"
 }

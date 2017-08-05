@@ -4,5 +4,6 @@
     "Drama": "दुलारी बाई",
     "Writer": "माणी मधुकर",
     "ForeignKeyId": "077.437",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.437"
 }

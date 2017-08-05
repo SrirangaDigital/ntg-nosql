@@ -6,5 +6,6 @@
     "Director": "सूर्य मोहन कुलश्रेष्ठ",
     "Venue": "मंज़र थियेटर",
     "ForeignKeyId": "073.363",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.363"
 }

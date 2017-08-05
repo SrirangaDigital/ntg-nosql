@@ -7,5 +7,6 @@
     "Artist": "रंगकर्मी के कलाकार",
     "Venue": "कलकत्ता",
     "ForeignKeyId": "076.171",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.171"
 }

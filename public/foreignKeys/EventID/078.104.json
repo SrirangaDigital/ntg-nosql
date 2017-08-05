@@ -3,5 +3,6 @@
     "Person": "अरुण सिंह (निर्देशक)",
     "Photography": "कल्याण रंजन",
     "ForeignKeyId": "078.104",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.104"
 }

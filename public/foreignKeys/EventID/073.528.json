@@ -4,5 +4,6 @@
     "Drama": "कोकानकोटे मस्ती",
     "Director": "सी. आर. जाम्बे",
     "ForeignKeyId": "073.528",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.528"
 }

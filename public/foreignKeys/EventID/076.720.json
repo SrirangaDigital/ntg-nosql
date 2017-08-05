@@ -13,5 +13,6 @@
     "Mask": "सत्यव्रत राउत",
     "Artist": "हर्ष दाण्ड, ज्ञानदेव सिंह, राजकुमार रायकवार, अवध ठाकुर, अमलान ज्योतिमिश्र व अन्य",
     "ForeignKeyId": "076.720",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.720"
 }

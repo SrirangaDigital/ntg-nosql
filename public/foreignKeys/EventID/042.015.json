@@ -4,5 +4,6 @@
     "Subject": "कवि कचहरी",
     "Person": "गोपालदत्त शर्मा",
     "ForeignKeyId": "042.015",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.015"
 }

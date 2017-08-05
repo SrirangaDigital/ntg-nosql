@@ -4,5 +4,6 @@
     "Drama": "जुलूस",
     "Writer": "बादल सरकार",
     "ForeignKeyId": "075.572",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.572"
 }

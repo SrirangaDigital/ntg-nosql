@@ -4,5 +4,6 @@
     "Drama": "एण्टीगन",
     "Writer": "सोफोक्लीज़",
     "ForeignKeyId": "077.757",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.757"
 }

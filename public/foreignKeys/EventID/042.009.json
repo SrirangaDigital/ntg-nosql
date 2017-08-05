@@ -4,5 +4,6 @@
     "Person": "रत्नाकर मतकरी",
     "Subject": "इन्द्र का आसन नारद की चोरी",
     "ForeignKeyId": "042.009",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.009"
 }

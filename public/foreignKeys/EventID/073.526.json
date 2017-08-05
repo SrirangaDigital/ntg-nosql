@@ -5,5 +5,6 @@
     "Writer": "चन्द्रशेखर कम्बार",
     "Director": "के. वी. अक्षर",
     "ForeignKeyId": "073.526",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.526"
 }

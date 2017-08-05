@@ -5,5 +5,6 @@
     "Writer": "भारत भूषण अग्रवाल",
     "Director": "बंसी कौल",
     "ForeignKeyId": "076.700",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.700"
 }

@@ -5,5 +5,6 @@
     "Writer": "राम कुमार वर्मा",
     "Director": "हिमाँशु बी. जोशी",
     "ForeignKeyId": "073.232",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.232"
 }

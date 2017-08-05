@@ -6,5 +6,6 @@
     "Writer": "बादल सरकार",
     "Director": "बंशी कौल",
     "ForeignKeyId": "089.392",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.392"
 }

@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - स्मारिका डिजाइन",
     "Disigner": "महेन्द्र",
     "ForeignKeyId": "089.377",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.377"
 }

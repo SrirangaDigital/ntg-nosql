@@ -19,5 +19,6 @@
     "Artist": "मानवेन्द्र कुमार त्रिपाठी (मजीद), ॠतु शर्मा (सुहरा), दुर्वेश, शाहजहॉ (अध्यापक) व अन्य",
     "Venue": "अभिमंच सभागार, दिल्ली",
     "ForeignKeyId": "074.628",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.628"
 }

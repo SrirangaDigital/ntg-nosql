@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "जयशंकर सुंदरी (व्यक्तिगत)",
     "ForeignKeyId": "078.231",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.231"
 }

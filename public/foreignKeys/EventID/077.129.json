@@ -5,5 +5,6 @@
     "Originaldrama": "बोर्जुआ जेंटिल मैन",
     "Writer": "मोलियर",
     "ForeignKeyId": "077.129",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.129"
 }

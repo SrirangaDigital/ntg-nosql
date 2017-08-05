@@ -10,5 +10,6 @@
     "Venue": "तिरुअनंतपुरम्",
     "Year": "1994-1995",
     "ForeignKeyId": "089.304",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.304"
 }

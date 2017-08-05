@@ -3,5 +3,6 @@
     "Place": "इम्फाल",
     "Event": "Exercise for animal flow in the body",
     "ForeignKeyId": "076.387",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.387"
 }

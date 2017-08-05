@@ -5,5 +5,6 @@
     "Writer": "मोहन राकेश",
     "Director": "गिरीश रस्तोगी",
     "ForeignKeyId": "073.160",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.160"
 }

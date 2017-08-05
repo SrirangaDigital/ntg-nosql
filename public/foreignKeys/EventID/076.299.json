@@ -3,5 +3,6 @@
     "Place": "पटना",
     "Drama": "क्या से क्या होगया (हिन्दी)",
     "ForeignKeyId": "076.299",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.299"
 }

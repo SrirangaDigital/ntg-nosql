@@ -11,5 +11,6 @@
     "Costume": "वी. एस. आठवले",
     "Artist": "पृथ्वीराज कपूर (शेरखान), जोहरा सैहगल (उल-निसा), सजमन (वज़ीरचंद) व अन्य",
     "ForeignKeyId": "077.199",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.199"
 }

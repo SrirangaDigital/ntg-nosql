@@ -7,5 +7,6 @@
     "Director": "शैल चोयल एवं क़य्यूम अली बोह",
     "Event": "सेवा मंदिर अभिनय गोष्ठी",
     "ForeignKeyId": "077.329",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.329"
 }

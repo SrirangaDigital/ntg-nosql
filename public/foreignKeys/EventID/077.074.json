@@ -12,5 +12,6 @@
     "Artist": "प्रमोद पवार (प्रो. बोद्धिसेन काम्बले), चेतन दातार (वेदाचार्य नाना गुर्जरी)",
     "Venue": "मराठी भाषा एवं साहित्य भवन, विद्यानगरी",
     "ForeignKeyId": "077.074",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.074"
 }

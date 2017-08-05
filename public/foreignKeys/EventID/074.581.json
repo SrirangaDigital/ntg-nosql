@@ -6,5 +6,6 @@
     "Director": "बी. एम. शाह",
     "Artist": "आशीष विद्यार्थी व अन्य",
     "ForeignKeyId": "074.581",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.581"
 }

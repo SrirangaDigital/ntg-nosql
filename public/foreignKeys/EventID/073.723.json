@@ -4,5 +4,6 @@
     "Drama": "ऐह जम्मू एन (डोगरी)",
     "Writer": "बलवंत ठाकुर",
     "ForeignKeyId": "073.723",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.723"
 }

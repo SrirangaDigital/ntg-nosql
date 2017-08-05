@@ -3,5 +3,6 @@
     "Place": "नागपुर",
     "Dance": "युवा संगीत नृत्य महोत्सव",
     "ForeignKeyId": "076.837",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.837"
 }

@@ -7,5 +7,6 @@
     "Photo": "विजया मेहता",
     "Artist": "विजया मेहता",
     "ForeignKeyId": "078.556",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.556"
 }

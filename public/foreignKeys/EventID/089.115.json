@@ -6,5 +6,6 @@
     "Group-photo": "हबीब तनवीर अपने सहभागियों के साथ",
     "Year": "मार्च 1995",
     "ForeignKeyId": "089.115",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.115"
 }

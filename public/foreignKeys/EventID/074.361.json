@@ -5,5 +5,6 @@
     "Writer": "हबीब तनवीर",
     "Director": "हबीब तनवीर",
     "ForeignKeyId": "074.361",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.361"
 }

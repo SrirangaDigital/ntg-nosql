@@ -7,5 +7,6 @@
     "Artist": "हेमा सिंह, वागीश कुमार सिंह",
     "Venue": "समुदाय थिएटर महोत्सव बंगलोर",
     "ForeignKeyId": "075.525",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.525"
 }

@@ -4,5 +4,6 @@
     "Drama": "मैं मण्टो हूँ",
     "Director": "मुश्ताक काक",
     "ForeignKeyId": "075.487",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.487"
 }

@@ -6,5 +6,6 @@
     "Stage": "अभिलाष पिल्लई",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "074.571",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.571"
 }

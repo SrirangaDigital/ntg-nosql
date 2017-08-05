@@ -4,5 +4,6 @@
     "Drama": "गोलापजान (बांग्ला)",
     "Director": "एस. एम. सुलेमान",
     "ForeignKeyId": "077.729",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.729"
 }

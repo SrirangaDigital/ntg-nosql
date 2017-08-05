@@ -6,5 +6,6 @@
     "Director": "अखिलेश खन्ना",
     "Venue": "श्रीराम सेंटर सभा, दिल्ली",
     "ForeignKeyId": "074.171",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.171"
 }

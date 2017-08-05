@@ -7,5 +7,6 @@
     "Director": "कमलेश दत्त त्रिपाठी",
     "Artist": "प्रमीला बंधु (उर्वशी), धीरेन्द्र कुमार (पुरुरवा) की भूमिका में",
     "ForeignKeyId": "076.498",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.498"
 }

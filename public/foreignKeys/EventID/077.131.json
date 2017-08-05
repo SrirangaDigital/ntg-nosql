@@ -4,5 +4,6 @@
     "Event": "नाट्य कार्यशाला (2006)",
     "Venue": "अंडमान निकोबार द्वीप",
     "ForeignKeyId": "077.131",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.131"
 }

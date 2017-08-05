@@ -6,5 +6,6 @@
     "Director": "रेखा जैन",
     "Venue": "त्रिवेणी कला केन्द्र, आगरा",
     "ForeignKeyId": "074.185",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.185"
 }

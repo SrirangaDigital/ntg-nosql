@@ -3,5 +3,6 @@
     "Drama": "इतिहास चक्र (हिन्दी)",
     "Writer": "दयाप्रकाश सिन्हा",
     "ForeignKeyId": "077.489.6",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.6"
 }

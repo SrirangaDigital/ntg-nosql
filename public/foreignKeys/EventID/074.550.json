@@ -7,5 +7,6 @@
     "Event": "कालिदास समारोह",
     "Venue": "उज्जैन",
     "ForeignKeyId": "074.550",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.550"
 }

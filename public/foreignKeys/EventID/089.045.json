@@ -8,5 +8,6 @@
     "Translator": "उषा बैनर्जी",
     "Director": "हरीश चन्द्र माथुर",
     "ForeignKeyId": "089.045",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.045"
 }

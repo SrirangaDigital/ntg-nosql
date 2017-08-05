@@ -7,5 +7,6 @@
     "Event": "कालिदास समारोह `1982'",
     "Artist": "जयराज, मोहिनी व अन्य",
     "ForeignKeyId": "073.558",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.558"
 }

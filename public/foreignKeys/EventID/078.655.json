@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "हबीब तनवीर (हबीब तनवीर का व्यक्तिगत फोटोग्राफ 50 से 60वें दशक के)",
     "ForeignKeyId": "078.655",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.655"
 }

@@ -4,5 +4,6 @@
     "Drama": "बिना दीवारों के घर (हिन्दी)",
     "Writer": "मन्नू भण्डारी",
     "ForeignKeyId": "076.511",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.511"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "बी. जयश्री (कन्नड़ अभिनेत्री, बंगलुरु)",
     "ForeignKeyId": "078.445",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.445"
 }

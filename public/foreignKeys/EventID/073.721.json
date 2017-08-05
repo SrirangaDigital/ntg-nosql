@@ -4,5 +4,6 @@
     "Drama": "हरिश्चन्द्र की लड़ाई",
     "Director": "मिर्ज़ा मसूद",
     "ForeignKeyId": "073.721",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.721"
 }

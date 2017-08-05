@@ -5,5 +5,6 @@
     "Writer": "कृष्ण अम्बष्ठ",
     "Venue": "कालिदास रंगालय, पटना",
     "ForeignKeyId": "076.336",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.336"
 }

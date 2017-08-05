@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "प्रेमा कारंत (बाल नाट्य निर्देशक ब. व. कारंत की पत्नी)",
     "ForeignKeyId": "078.371",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.371"
 }

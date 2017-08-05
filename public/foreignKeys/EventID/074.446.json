@@ -7,5 +7,6 @@
     "Music": "जानदीप",
     "Venue": "मिरांडा हाउस",
     "ForeignKeyId": "074.446",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.446"
 }

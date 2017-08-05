@@ -4,5 +4,6 @@
     "Subject": "रामायण बाल काण्ड उर्फ राम जन्मोत्सव, 1965",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.273",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.273"
 }

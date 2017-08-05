@@ -5,5 +5,6 @@
     "Writer": "राजेश जोशी, राजकमल नायक",
     "Director": "राजकमल नायक",
     "ForeignKeyId": "073.714",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.714"
 }

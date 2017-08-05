@@ -4,5 +4,6 @@
     "Person": "नाथराम शर्मा गौड़",
     "Subject": "हरिश्चन्द्र उर्फ गुलशन का नाग. हाथरस, श्याम प्रेस, 1987",
     "ForeignKeyId": "042.210",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.210"
 }

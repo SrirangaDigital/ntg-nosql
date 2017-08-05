@@ -8,5 +8,6 @@
     "Music": "ब. व. कारन्त",
     "Venue": "जुमीरा बीच होटल, कान्फेंस सेन्टर",
     "ForeignKeyId": "073.668",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.668"
 }

@@ -4,5 +4,6 @@
     "Drama": "उषा नांगियार",
     "Venue": "के. पी. ए.",
     "ForeignKeyId": "076.251",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.251"
 }

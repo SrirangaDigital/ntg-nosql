@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - पारम्परिक नाट्य : रामायण",
     "Place": "रूस",
     "ForeignKeyId": "089.245",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.245"
 }

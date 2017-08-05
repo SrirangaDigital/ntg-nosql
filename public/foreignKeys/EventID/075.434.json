@@ -7,5 +7,6 @@
     "Venue": "श्रीराम सेंटर",
     "Light": "गिरधारी लाल",
     "ForeignKeyId": "075.434",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.434"
 }

@@ -4,5 +4,6 @@
     "Drama": "स्वप्न संतति",
     "Writer": "देवाशीष मजूमदार",
     "ForeignKeyId": "076.217",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.217"
 }

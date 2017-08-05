@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "भवाई नाटक - फूल कन्या",
     "ForeignKeyId": "077.592",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.592"
 }

@@ -5,5 +5,6 @@
     "Writer": "मोलियर",
     "Director": "पूरन शंखनाथ",
     "ForeignKeyId": "076.526",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.526"
 }

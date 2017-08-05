@@ -6,5 +6,6 @@
     "Director": "मोहन महर्षि",
     "Venue": "भारतीय नाटक विभाग, पंजाब विश्वविद्यालय चण्डीगढ़",
     "ForeignKeyId": "073.686",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.686"
 }

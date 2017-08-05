@@ -6,5 +6,6 @@
     "Translation": "बी. आर. नारायण",
     "Artist": "चित्रा गोरे (चित्रलेखा), पियूष विद्यासागर (ययाति), सोविरा कपूर (स्वर्णा) व अन्य",
     "ForeignKeyId": "073.132",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.132"
 }

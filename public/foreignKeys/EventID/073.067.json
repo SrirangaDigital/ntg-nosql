@@ -6,5 +6,6 @@
     "Artist": "लक्ष्मीनारायण लाल (पण्डित जी) एवं जीवन बनर्जी",
     "Venue": "कलकत्ता",
     "ForeignKeyId": "073.067",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.067"
 }

@@ -8,5 +8,6 @@
     "Director": "अनुकूल बनर्जी",
     "Artist": "अनुकूल बनर्जी, साधिका सरन व अन्य",
     "ForeignKeyId": "089.024",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.024"
 }

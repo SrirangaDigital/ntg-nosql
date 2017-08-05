@@ -7,5 +7,6 @@
     "Director": "राजबिसारिया",
     "Artist": "जीत जरधारी, मीनू राठौर व अन्य",
     "ForeignKeyId": "073.285",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.285"
 }

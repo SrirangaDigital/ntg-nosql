@@ -4,5 +4,6 @@
     "Drama": "मिडसमर नाइट ड्रीम (अँग्रेजी)",
     "Writer": "सलमान रुश्दी",
     "ForeignKeyId": "077.644",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.644"
 }

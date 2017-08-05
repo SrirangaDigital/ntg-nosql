@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "दांग त माई (वियतनाम)",
     "ForeignKeyId": "078.268",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.268"
 }

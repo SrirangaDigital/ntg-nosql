@@ -4,5 +4,6 @@
     "Drama": "सरकार प्यादै लाल की अमर कहानी",
     "Director": "प्रसाद वामरस",
     "ForeignKeyId": "075.512",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.512"
 }

@@ -8,5 +8,6 @@
     "Director": "सुशील कुमार सिंह",
     "Venue": "राय उमानाथ बली प्रेक्षागृह, लखनऊ",
     "ForeignKeyId": "089.027",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.027"
 }

@@ -6,5 +6,6 @@
     "Version": "अरुण कुकरेजा",
     "Director": "अरुण कुकरेजा",
     "ForeignKeyId": "075.267",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.267"
 }

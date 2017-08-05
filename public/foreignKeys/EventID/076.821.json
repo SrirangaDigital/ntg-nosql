@@ -4,5 +4,6 @@
     "Drama": "मुक्तधारा",
     "Artist": "श्याम मिश्र, सुरेश पाण्डे इंदर कौल, अनिल पाण्डे व अन्य",
     "ForeignKeyId": "076.821",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.821"
 }

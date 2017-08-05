@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सरजू बाला देवी",
     "ForeignKeyId": "078.620",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.620"
 }

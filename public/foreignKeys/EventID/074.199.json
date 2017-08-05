@@ -6,5 +6,6 @@
     "Director": "शीला भाटिया",
     "Venue": "श्रीराम सेंटर सभागार",
     "ForeignKeyId": "074.199",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.199"
 }

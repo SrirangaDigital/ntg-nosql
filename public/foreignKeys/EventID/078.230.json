@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "जयशंकर सुंदरी (30 जन. 1889 - 22 जन. 1975)",
     "ForeignKeyId": "078.230",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.230"
 }

@@ -7,5 +7,6 @@
     "Translation": "उषा बैनर्जी",
     "Director": "मोहन अगासी",
     "ForeignKeyId": "075.252",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.252"
 }

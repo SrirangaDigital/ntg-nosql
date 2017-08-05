@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "कमलाकर सोनटक्के",
     "ForeignKeyId": "078.177",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.177"
 }

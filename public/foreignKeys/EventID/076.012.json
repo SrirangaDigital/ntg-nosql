@@ -4,5 +4,6 @@
     "Drama": "दान सागर",
     "Writer": "प्रेमचन्द",
     "ForeignKeyId": "076.012",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.012"
 }

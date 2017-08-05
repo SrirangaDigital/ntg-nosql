@@ -6,5 +6,6 @@
     "Director": "आर. पी. तरुण",
     "Venue": "नाट्योत्सव",
     "ForeignKeyId": "076.327",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.327"
 }

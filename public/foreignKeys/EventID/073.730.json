@@ -5,5 +5,6 @@
     "Writer": "शिवराम दीप",
     "Director": "मुश्ताक काक",
     "ForeignKeyId": "073.730",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.730"
 }

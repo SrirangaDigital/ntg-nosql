@@ -6,5 +6,6 @@
     "Director": "ब. व. कारन्त",
     "Event": "ग्रीष्म बाल नाट्य कार्यशाला",
     "ForeignKeyId": "076.636",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.636"
 }

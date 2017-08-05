@@ -4,5 +4,6 @@
     "Person": "Stalin J. V.",
     "Subject": "Concerning Marxism in Linguistics, India, The Tass Representative in India",
     "ForeignKeyId": "042.369",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.369"
 }

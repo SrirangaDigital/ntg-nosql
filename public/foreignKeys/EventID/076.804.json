@@ -7,5 +7,6 @@
     "Song": "हरिओम राजौरिया",
     "Artist": "विजेता पंथी, आकाश गुप्ता, शांतनु दुबे, अमन जैन व अन्य",
     "ForeignKeyId": "076.804",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.804"
 }

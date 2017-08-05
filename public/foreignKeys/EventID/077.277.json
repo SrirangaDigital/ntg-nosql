@@ -3,5 +3,6 @@
     "Place": "बम्बई",
     "Drama": "कृष्णार्जुन युद्ध",
     "ForeignKeyId": "077.277",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.277"
 }

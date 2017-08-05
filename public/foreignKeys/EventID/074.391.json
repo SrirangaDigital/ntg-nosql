@@ -6,5 +6,6 @@
     "Director": "एम. के. रैना",
     "Venue": "लिटिल थिएटर ग्रूप, सभागार",
     "ForeignKeyId": "074.391",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.391"
 }

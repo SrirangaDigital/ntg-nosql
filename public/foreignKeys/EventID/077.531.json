@@ -3,5 +3,6 @@
     "Dance": "चन्दैनी (लोकनाट्य)",
     "Cinematographer": "घनश्याम शर्मा",
     "ForeignKeyId": "077.531",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.531"
 }

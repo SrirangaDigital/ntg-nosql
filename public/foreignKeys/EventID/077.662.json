@@ -5,5 +5,6 @@
     "Director": "सलीमा रज़ा",
     "Artist": "सलीमा रज़ा व अन्य",
     "ForeignKeyId": "077.662",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.662"
 }

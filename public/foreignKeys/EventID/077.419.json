@@ -5,5 +5,6 @@
     "Writer": "रिज़वान ज़हीर उस्मान",
     "Director": "हनुमान पारिक",
     "ForeignKeyId": "077.419",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.419"
 }

@@ -7,5 +7,6 @@
     "Director": "राजिन्दर नाथ",
     "Artist": "नलिनी कमल, रश्मि विद्यालिंगम, जगदीश कनोजिया, संजीव जौहरी व अन्य",
     "ForeignKeyId": "074.081",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.081"
 }

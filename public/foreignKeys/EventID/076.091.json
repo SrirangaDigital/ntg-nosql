@@ -6,5 +6,6 @@
     "Director": "श्यामानंद जालान",
     "Artist": "श्यामानंद जालान, चेतना जालान व अन्य",
     "ForeignKeyId": "076.091",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.091"
 }

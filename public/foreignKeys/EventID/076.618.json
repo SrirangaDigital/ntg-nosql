@@ -7,5 +7,6 @@
     "Event": "भारतभवन में भोपाल नाट्योत्सव, 1990",
     "Venue": "भारतभवन",
     "ForeignKeyId": "076.618",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.618"
 }

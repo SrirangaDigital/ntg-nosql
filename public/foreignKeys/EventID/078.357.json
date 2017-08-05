@@ -4,5 +4,6 @@
     "Photo": "प्रतिभा अग्रवाल",
     "Venue": "इंडिया इन्टरनेशनल सेंटर, दिल्ली",
     "ForeignKeyId": "078.357",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.357"
 }

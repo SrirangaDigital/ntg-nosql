@@ -6,5 +6,6 @@
     "Director": "रश्मि चतुर्वेदी",
     "Event": "हिन्दी नाट्य प्रतियोगिता",
     "ForeignKeyId": "077.354",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.354"
 }

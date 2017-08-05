@@ -16,5 +16,6 @@
     "Stage": "फरीद बज़्मी, विजय गौड़",
     "Book": "अनथक रंगयात्रा-रंगविदूषक के सात नाटक (सूचना स्रोत पुस्तक)",
     "ForeignKeyId": "076.757",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.757"
 }

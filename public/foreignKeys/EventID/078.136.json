@@ -5,5 +5,6 @@
     "Event": "रंग संवाद",
     "Venue": "श्री राम सेन्टर तलकक्ष",
     "ForeignKeyId": "078.136",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.136"
 }

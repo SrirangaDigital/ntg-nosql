@@ -7,5 +7,6 @@
     "Director": "तड़ितमित्र",
     "Artist": "अनिर्बेन चौधरी, राना मित्र, अंजन बोस अण्ड अदर्स",
     "ForeignKeyId": "075.563",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.563"
 }

@@ -6,5 +6,6 @@
     "Translator": "कमलेश्वर",
     "Director": "अनिरुद्द पाठक",
     "ForeignKeyId": "076.314",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.314"
 }

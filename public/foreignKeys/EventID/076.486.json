@@ -7,5 +7,6 @@
     "Translation": "ज्योति व्यास",
     "Artist": "अनिमेष चतुर्वेदी, राजराजेश मित्र, विलास पुराणिक, निशा भांगड़े, चंचला राजू एवं अनिल शर्मा",
     "ForeignKeyId": "076.486",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.486"
 }

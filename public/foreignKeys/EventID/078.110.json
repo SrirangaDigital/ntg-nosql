@@ -3,5 +3,6 @@
     "Person": "अनामिका हक्सर (पर समाचार कतरन)",
     "Event": "वर्ष 1994 के लिए रंगकर्मी अनामिका हक्सर को संस्कृति सम्मान से सम्मानित किया गया",
     "ForeignKeyId": "078.110",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.110"
 }

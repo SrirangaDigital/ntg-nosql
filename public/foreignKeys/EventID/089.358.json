@@ -7,5 +7,6 @@
     "Venue": "IICD कैम्पस",
     "Year": "5 नवम्बर 2011",
     "ForeignKeyId": "089.358",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.358"
 }

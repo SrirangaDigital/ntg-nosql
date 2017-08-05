@@ -6,5 +6,6 @@
     "Version": "कन्हैयालाल कैथवास",
     "Director": "कन्हैयालाल कैथवास",
     "ForeignKeyId": "076.729",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.729"
 }

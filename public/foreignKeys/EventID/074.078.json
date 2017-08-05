@@ -12,5 +12,6 @@
     "Event": "रजत रंग महोत्सव, भोपाल 1977",
     "Venue": "भोपाल, म. प्र.",
     "ForeignKeyId": "074.078",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.078"
 }

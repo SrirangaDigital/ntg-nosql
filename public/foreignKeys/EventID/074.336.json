@@ -7,5 +7,6 @@
     "Photo": "मुकुल यादव",
     "Deliberation": "चौथा राष्ट्रीय नाट्य समारोह",
     "ForeignKeyId": "074.336",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.336"
 }

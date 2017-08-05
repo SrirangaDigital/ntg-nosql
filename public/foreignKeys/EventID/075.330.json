@@ -4,5 +4,6 @@
     "Drama": "पाँच चोरों का स्वांग",
     "Director": "पंचानन पाठक",
     "ForeignKeyId": "075.330",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.330"
 }

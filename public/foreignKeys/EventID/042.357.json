@@ -4,5 +4,6 @@
     "Person": "D.Mello, Lawrence",
     "Subject": "East Indian Folk Songs and Dances in Seven Scenes : Musical Notation, Bandra, Lawrence D'Mello, 1956",
     "ForeignKeyId": "042.357",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.357"
 }

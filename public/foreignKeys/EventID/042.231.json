@@ -4,5 +4,6 @@
     "Subject": "पूरनमल उर्फ बाल ब्रह्मचारी, 1957",
     "Person": "श्रीकृष्ण",
     "ForeignKeyId": "042.231",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.231"
 }

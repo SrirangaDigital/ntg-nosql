@@ -2,5 +2,6 @@
     "Aid": "99",
     "Event": "कुट्टियाट्टम् (एटक्का (डमरु जैसा वाद्य) बजाने वाला)",
     "ForeignKeyId": "077.495",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.495"
 }

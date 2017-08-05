@@ -4,5 +4,6 @@
     "Person": "राम लाल जी",
     "Subject": "फुलादे केशर सिंह को ख्याल, मुम्बई, जगदर्शक छापाखाना, 1899",
     "ForeignKeyId": "042.271",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.271"
 }

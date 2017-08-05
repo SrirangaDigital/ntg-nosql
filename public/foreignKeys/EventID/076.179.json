@@ -8,5 +8,6 @@
     "Director": "बिभाश चक्रवर्ती",
     "Venue": "कलकत्ता",
     "ForeignKeyId": "076.179",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.179"
 }

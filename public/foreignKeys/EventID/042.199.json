@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "शकुन्तला उर्फ मतवाला मुनि, हाथरस, श्याम प्रेस, 1962",
     "ForeignKeyId": "042.199",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.199"
 }

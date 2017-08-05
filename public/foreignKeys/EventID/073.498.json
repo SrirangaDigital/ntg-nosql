@@ -8,5 +8,6 @@
     "Artist": "बी. जयश्री व अन्य",
     "Venue": "बेंगलुरु",
     "ForeignKeyId": "073.498",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.498"
 }

@@ -4,5 +4,6 @@
     "Person": "मैक्सिम गोर्की",
     "Subject": "मॉ",
     "ForeignKeyId": "042.065",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.065"
 }

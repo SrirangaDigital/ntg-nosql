@@ -4,5 +4,6 @@
     "Person": "कन्हैयालाल क़ातिल",
     "Subject": "भक्त नरसी मेहता, कलकत्ता, रत्नाकर प्रेस",
     "ForeignKeyId": "042.140",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.140"
 }

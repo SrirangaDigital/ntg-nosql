@@ -9,5 +9,6 @@
     "Dance-director": "पीटर गुम्स",
     "Dress": "बादल गांगुली, मनि मित्र व अन्य",
     "ForeignKeyId": "042.530",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.530"
 }

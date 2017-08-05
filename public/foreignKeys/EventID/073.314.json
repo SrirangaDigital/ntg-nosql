@@ -4,5 +4,6 @@
     "Drama": "नौटंकी आजादी के दीवाने",
     "Artist": "लालचन्द्र, रामकुमार",
     "ForeignKeyId": "073.314",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.314"
 }

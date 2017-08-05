@@ -9,5 +9,6 @@
     "Artist": "श्रीमोयी दासगुप्ता",
     "Venue": "बिपिन चन्द्रपाल सभागार, दिल्ली",
     "ForeignKeyId": "075.566",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.566"
 }

@@ -5,5 +5,6 @@
     "Writer": "चन्द्रशेखर कम्बार",
     "Director": "प्रेमा कारंत",
     "ForeignKeyId": "073.471",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.471"
 }

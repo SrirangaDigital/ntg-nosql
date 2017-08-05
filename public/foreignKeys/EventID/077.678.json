@@ -3,5 +3,6 @@
     "Country": "चीन",
     "Drama": "पपिट थियेटर",
     "ForeignKeyId": "077.678",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.678"
 }

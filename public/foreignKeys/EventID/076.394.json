@@ -5,5 +5,6 @@
     "Writer": "रवीन्द्रनाथ टैगोर",
     "Director": "एच. कन्हाईलाल",
     "ForeignKeyId": "076.394",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.394"
 }

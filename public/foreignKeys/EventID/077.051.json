@@ -7,5 +7,6 @@
     "Director": "दिनेश ठाकुर",
     "Artist": "राजा बुन्देला व अन्य",
     "ForeignKeyId": "077.051",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.051"
 }

@@ -11,5 +11,6 @@
     "Artist": "सुरेश शर्मा (क्लर्क-1), नरेश सूरी (क्लर्क-2), अशोक गंगवानी (चपरासी), जैमिनी कुमार (डिस्पैचर्स)",
     "Venue": "दिल्ली",
     "ForeignKeyId": "075.320",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.320"
 }

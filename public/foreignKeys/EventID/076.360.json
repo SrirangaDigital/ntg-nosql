@@ -3,5 +3,6 @@
     "Place": "रांची",
     "Drama": "लाश जिसे दफ़नाया जाना बाकी है",
     "ForeignKeyId": "076.360",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.360"
 }

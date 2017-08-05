@@ -4,5 +4,6 @@
     "Subject": "नन्द भौजाई का झगड़ा",
     "Person": "भेदीराम",
     "ForeignKeyId": "042.211",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.211"
 }

@@ -4,5 +4,6 @@
     "Drama": "सिकंदर",
     "Director": "राजेश सेठ",
     "ForeignKeyId": "077.357",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.357"
 }

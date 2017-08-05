@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "भवई नाटक - गुजरात",
     "ForeignKeyId": "077.582",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.582"
 }

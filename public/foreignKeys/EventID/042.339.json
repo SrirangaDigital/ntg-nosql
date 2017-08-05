@@ -4,5 +4,6 @@
     "Subject": "सुल्ताना डाकू उर्फ हाय रे पैसा, 1965",
     "Person": "श्रीकृष्ण",
     "ForeignKeyId": "042.339",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.339"
 }

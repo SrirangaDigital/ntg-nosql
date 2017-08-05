@@ -5,5 +5,6 @@
     "Director": "दिनेश ठाकुर",
     "Artist": "प्रिया तेंदुलकर व अन्य",
     "ForeignKeyId": "077.026",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.026"
 }

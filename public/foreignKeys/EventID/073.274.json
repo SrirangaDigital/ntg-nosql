@@ -7,5 +7,6 @@
     "Translation": "परिमल दत्ता",
     "Venue": "बी. एम. शाह प्रेक्षगृह, लखनऊ",
     "ForeignKeyId": "073.274",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.274"
 }

@@ -4,5 +4,6 @@
     "Subject": "श्रीमती मंजरी उर्फ ग़मज़दा क़ैदी, 1985",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.323",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.323"
 }

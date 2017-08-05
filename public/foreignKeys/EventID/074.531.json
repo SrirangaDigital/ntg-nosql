@@ -7,5 +7,6 @@
     "Translator": "नेमिचन्द्र जैन, उर्मि गुप्ता",
     "Artist": "अनामिका हक्सर (खड़ी हुई)",
     "ForeignKeyId": "074.531",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.531"
 }

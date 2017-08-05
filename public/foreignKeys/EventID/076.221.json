@@ -5,5 +5,6 @@
     "Writer": "शंकर शेष",
     "Director": "बद्रीप्रसाद तिवारी",
     "ForeignKeyId": "076.221",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.221"
 }

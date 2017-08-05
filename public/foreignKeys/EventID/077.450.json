@@ -6,5 +6,6 @@
     "Version": "जावेद खाँ सरोहा",
     "Director": "जावेद खाँ सरोहा",
     "ForeignKeyId": "077.450",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.450"
 }

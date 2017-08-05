@@ -4,5 +4,6 @@
     "Drama": "ई. नगोबा नात्ते (Ei Nagoba Natte) (मणिपुरी)",
     "Director": "एस. थानिनलेमा",
     "ForeignKeyId": "076.454",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.454"
 }

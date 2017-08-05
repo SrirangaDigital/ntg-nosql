@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "प्रसन्ना (प्रसन्ना का व्यक्तिगत फोटोग्राफ)",
     "ForeignKeyId": "078.365",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.365"
 }

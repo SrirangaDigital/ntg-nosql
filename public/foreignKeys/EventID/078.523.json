@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "राकेश वर्मा (हिन्दी अभिनेता)",
     "ForeignKeyId": "078.523",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.523"
 }

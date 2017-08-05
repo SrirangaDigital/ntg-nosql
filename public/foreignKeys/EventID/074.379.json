@@ -8,5 +8,6 @@
     "Artist": "सोहन प्रसाद, श्याम कुमार, प्रदीप और रतन डे",
     "Venue": "रूस विजान एवं संम्कृति केन्द्र, दिल्ली",
     "ForeignKeyId": "074.379",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.379"
 }

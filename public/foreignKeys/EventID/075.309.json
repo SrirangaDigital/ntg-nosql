@@ -6,5 +6,6 @@
     "Director": "मोहन उप्रेती",
     "Artist": "रश्मि वाजपेयी (नीलम परी), नईमा उप्रेती (आइफैफस), पन्नालाल (इन्द्र)",
     "ForeignKeyId": "075.309",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.309"
 }

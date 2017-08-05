@@ -8,5 +8,6 @@
     "Artist": "संयुक्ता हेसनाम, अमूबीअसम व अन्य",
     "Music": "तोम्बा हेसनाम",
     "ForeignKeyId": "076.398",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.398"
 }

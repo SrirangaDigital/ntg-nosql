@@ -16,5 +16,6 @@
     "Book": "रंगयात्रा-II, रा. ना. वि., रंगमंडल (सूचना स्रोत)",
     "Venue": "दिल्ली",
     "ForeignKeyId": "075.128",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.128"
 }

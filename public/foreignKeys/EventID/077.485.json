@@ -5,5 +5,6 @@
     "Writer": "सुरेन्द्र वर्मा",
     "Director": "कैलाश आहलुवालिया तथा रोशन लाल शर्मा",
     "ForeignKeyId": "077.485",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.485"
 }

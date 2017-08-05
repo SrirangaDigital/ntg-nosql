@@ -4,5 +4,6 @@
     "Subject": "Manumenta Nipponica : Studies in Japenese Culture",
     "Editor": "Michael Cooper",
     "ForeignKeyId": "042.422",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.422"
 }

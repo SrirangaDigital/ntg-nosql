@@ -6,5 +6,6 @@
     "Director": "कमलेश्वर",
     "Speaker": "अनुभा, कमलेश्वर, बनवारी तनेजा",
     "ForeignKeyId": "089.224.1",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.224.1"
 }

@@ -9,5 +9,6 @@
     "Light": "अजय आठले",
     "Stage": "उषा आठले, व अन्य",
     "ForeignKeyId": "073.705",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.705"
 }

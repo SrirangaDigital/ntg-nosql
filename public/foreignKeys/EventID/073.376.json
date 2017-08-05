@@ -5,5 +5,6 @@
     "Director": "चन्दन गोपाल",
     "Artist": "चन्दन गोपाल (पागल की भूमिका में)",
     "ForeignKeyId": "073.376",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.376"
 }

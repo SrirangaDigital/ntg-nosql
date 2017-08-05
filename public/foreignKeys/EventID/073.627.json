@@ -4,5 +4,6 @@
     "Drama": "अन्त नहीं",
     "Director": "एन. सी. ठाकुर",
     "ForeignKeyId": "073.627",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.627"
 }

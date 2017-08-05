@@ -11,5 +11,6 @@
     "Lyrics": "राकेश, राजेश सिंह",
     "Venue": "श्रीराम सेंटर मुख्य सभागार",
     "ForeignKeyId": "075.425",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.425"
 }

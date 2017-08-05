@@ -4,5 +4,6 @@
     "Drama": "दूसरी दुनिया (हिन्दी)",
     "Director": "राजिन्दर नाथ",
     "ForeignKeyId": "075.444",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.444"
 }

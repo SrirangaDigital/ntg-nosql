@@ -3,5 +3,6 @@
     "Place": "कलकत्ता",
     "Drama": "छपते - छपते",
     "ForeignKeyId": "076.040",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.040"
 }

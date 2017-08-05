@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "महाभारत विराट पर्व उर्फ कीचक वध, हाथरस, श्याम प्रेस, 1985",
     "ForeignKeyId": "042.187",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.187"
 }

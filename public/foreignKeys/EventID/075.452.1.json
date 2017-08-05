@@ -4,5 +4,6 @@
     "Drama": "प्रेमचन्द (हिन्दी)",
     "Artist": "जगदीश कनौजिया व अन्य",
     "ForeignKeyId": "075.452.1",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.452.1"
 }

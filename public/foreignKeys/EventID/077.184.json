@@ -4,5 +4,6 @@
     "Drama": "टैम्ट मी नॉट (अंग्रेजी)",
     "Director": "वामन केन्द्रे",
     "ForeignKeyId": "077.184",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.184"
 }

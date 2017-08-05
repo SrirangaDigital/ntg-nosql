@@ -6,5 +6,6 @@
     "Director": "ब. व. कारन्त",
     "Artist": "ओमपुरी, प्रेमा कारन्त, ब. व. कारन्त",
     "ForeignKeyId": "077.282",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.282"
 }

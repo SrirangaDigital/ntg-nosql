@@ -5,5 +5,6 @@
     "Writer": "बादल सरकार",
     "Director": "भास्कर शिवालकी",
     "ForeignKeyId": "073.017",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.017"
 }

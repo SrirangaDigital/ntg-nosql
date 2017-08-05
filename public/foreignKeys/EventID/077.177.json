@@ -4,5 +4,6 @@
     "Drama": "हयवदन",
     "Writer": "गिरीश कारनाड",
     "ForeignKeyId": "077.177",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.177"
 }

@@ -6,5 +6,6 @@
     "Year": "11-14 अप्रैल, 2000",
     "Person": "कीर्ति जैन, रश्मि वाजपेयी",
     "ForeignKeyId": "074.332.005",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.005"
 }

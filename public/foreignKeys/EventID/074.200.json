@@ -5,5 +5,6 @@
     "Writer": "स्वयं प्रकाश",
     "Director": "एन. के. शर्मा",
     "ForeignKeyId": "074.200",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.200"
 }

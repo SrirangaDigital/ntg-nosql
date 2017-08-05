@@ -7,5 +7,6 @@
     "Director": "राजबिसारिया",
     "Artist": "युगल किशोर, अजीज, मंजरी शंकर व ॠषि वैश्य व अन्य",
     "ForeignKeyId": "073.288",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.288"
 }

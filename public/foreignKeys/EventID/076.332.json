@@ -3,5 +3,6 @@
     "Place": "पटना",
     "Drama": "लोहे की दीवार",
     "ForeignKeyId": "076.332",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.332"
 }

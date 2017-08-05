@@ -11,5 +11,6 @@
     "Book": "नसीरुद्दीन शाह (सूचना स्रोत न. प्र. स्क्रैप बुक)",
     "Venue": "कमानी सभागार, रा. ना. वि., दिल्ली",
     "ForeignKeyId": "077.208",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.208"
 }

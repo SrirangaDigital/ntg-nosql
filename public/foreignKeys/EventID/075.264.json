@@ -6,5 +6,6 @@
     "Director": "कृष्णा जिना",
     "Artist": "उत्तरा बाउकर, मनोहर सिंह",
     "ForeignKeyId": "075.264",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.264"
 }

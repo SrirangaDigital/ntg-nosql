@@ -4,5 +4,6 @@
     "Venue": "भारत भवन",
     "Person": "इब्राहिम अल्काजी",
     "ForeignKeyId": "078.124",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.124"
 }

@@ -11,5 +11,6 @@
     "Artist": "सीमा भार्गव (मल्लिका), प्रतिमा काज़मी (अम्बिका), मनोज शर्मा (कालिदास)",
     "Venue": "श्रीराम सेंटर सभागार",
     "ForeignKeyId": "075.370",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.370"
 }

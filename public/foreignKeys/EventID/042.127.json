@@ -4,5 +4,6 @@
     "Person": "आल्हा",
     "Subject": "मलखान का ब्याह : गढ़ कॉसों की लड़ाई, रंगत मटरुलाल अत्तार",
     "ForeignKeyId": "042.127",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.127"
 }

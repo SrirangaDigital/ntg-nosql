@@ -2,5 +2,6 @@
     "Aid": "03",
     "Event": "उत्तरा बावकर महिला संगीत मंडली में",
     "ForeignKeyId": "078.142",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.142"
 }

@@ -5,5 +5,6 @@
     "Writer": "अस़गर वजाहत",
     "Director": "कविरतन शर्मा, जम्मू",
     "ForeignKeyId": "073.737",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.737"
 }

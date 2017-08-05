@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "ब. व. कारंत (ब. व. कारंत के साथ शंभु मित्रा)",
     "ForeignKeyId": "078.410",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.410"
 }

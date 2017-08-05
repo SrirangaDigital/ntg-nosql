@@ -3,5 +3,6 @@
     "Country": "अमेरिका",
     "Drama": "स्वप्नवासवदत्ता",
     "ForeignKeyId": "077.634",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.634"
 }

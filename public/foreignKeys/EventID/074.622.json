@@ -18,5 +18,6 @@
     "Venue": "अभिमंच सभागार, दिल्ली",
     "Photographer": "एस. त्यागराजन एवं दीपक कुमार",
     "ForeignKeyId": "074.622",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.622"
 }

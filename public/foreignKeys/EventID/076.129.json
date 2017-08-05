@@ -6,5 +6,6 @@
     "Director": "शम्भु मित्र",
     "Artist": "कुमार, देबातोष रॉय घोष, कालिप्रसाद घोष, सांति दास",
     "ForeignKeyId": "076.129",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.129"
 }

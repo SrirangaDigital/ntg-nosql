@@ -4,5 +4,6 @@
     "Drama": "भामा गंगनाथ (कुमाउंनी)",
     "Director": "मोहन उप्रेती",
     "ForeignKeyId": "074.398",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.398"
 }

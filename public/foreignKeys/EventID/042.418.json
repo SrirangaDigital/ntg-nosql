@@ -4,5 +4,6 @@
     "Subject": "हंस (मासिक)",
     "Editor": "श्रीपदराय",
     "ForeignKeyId": "042.418",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.418"
 }

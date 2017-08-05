@@ -4,5 +4,6 @@
     "Venue": "पदातिक डांस सेन्टर",
     "Dance": "नृत्य - समानान्तर",
     "ForeignKeyId": "076.100",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.100"
 }

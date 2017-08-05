@@ -9,5 +9,6 @@
     "Dancer": "कृष्णा देवानन्दन, प्रीति अथरेजा, अशिवनी भट्ट व अन्य",
     "Venue": "श्रीराम सेंटर, दिल्ली",
     "ForeignKeyId": "077.660",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.660"
 }

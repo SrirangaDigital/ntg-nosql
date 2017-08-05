@@ -7,5 +7,6 @@
     "Director": "फ्रिट्ज़ बेनेविट्ज़",
     "Music": "ब. व. कारंत",
     "ForeignKeyId": "076.651",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.651"
 }

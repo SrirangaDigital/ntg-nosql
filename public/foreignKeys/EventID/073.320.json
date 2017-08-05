@@ -5,5 +5,6 @@
     "Writer": "नागार्जुन",
     "Director": "विनय राय",
     "ForeignKeyId": "073.320",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.320"
 }

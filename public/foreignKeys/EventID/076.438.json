@@ -12,5 +12,6 @@
     "Artist": "पी. सोमो, सुषमा, उमाबती, लीमातोम्बी व अन्य",
     "Venue": "कमानी सभागार, रा. ना. वि., दिल्ली",
     "ForeignKeyId": "076.438",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.438"
 }

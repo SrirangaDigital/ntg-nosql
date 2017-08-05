@@ -4,5 +4,6 @@
     "Drama": "जनशत्रु",
     "Director": "शैलेन्द्र मिश्र",
     "ForeignKeyId": "073.413",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.413"
 }

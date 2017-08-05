@@ -4,5 +4,6 @@
     "Drama": "गुड वुमेन ऑफ सेतजुअॉन",
     "Writer": "बर्टोल्ट ब्रैश्ट",
     "ForeignKeyId": "074.339",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.339"
 }

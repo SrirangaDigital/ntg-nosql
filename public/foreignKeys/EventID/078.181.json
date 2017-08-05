@@ -4,5 +4,6 @@
     "Event": "रवीन्द्र उत्सव उद्घाटन समारोह, कोलकाता में कावलमं नारायण पणिक्कर कन्हाई लाल व अन्य के साथ",
     "Place": "कोलकाता",
     "ForeignKeyId": "078.181",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.181"
 }

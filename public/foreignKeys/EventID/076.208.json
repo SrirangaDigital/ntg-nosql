@@ -7,5 +7,6 @@
     "Lecture": "गौर किशोर घोष",
     "Artist": "बादल सरकार, देबाशीष चक्रवर्ती तथा अन्य",
     "ForeignKeyId": "076.208",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.208"
 }

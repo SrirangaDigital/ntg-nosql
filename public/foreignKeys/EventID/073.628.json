@@ -5,5 +5,6 @@
     "Writer": "धर्मवीर भारती",
     "Director": "एन. सी. ठाकुर और वीरेन्द्र मेंहदीरत्ता",
     "ForeignKeyId": "073.628",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.628"
 }

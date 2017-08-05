@@ -4,5 +4,6 @@
     "Drama": "संत ज्ञानेश्वर",
     "Director": "प्रताप जायसवाल",
     "ForeignKeyId": "076.235",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.235"
 }

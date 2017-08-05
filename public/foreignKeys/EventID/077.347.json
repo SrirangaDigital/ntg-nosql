@@ -3,5 +3,6 @@
     "Place": "जयपुर",
     "Drama": "चेहरे (हिन्दी)",
     "ForeignKeyId": "077.347",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.347"
 }

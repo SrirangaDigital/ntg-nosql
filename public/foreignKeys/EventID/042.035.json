@@ -4,5 +4,6 @@
     "Subject": "राजा का न्याय/न्याय का तराजू",
     "Conversion": "नीलेश रघुवंशी",
     "ForeignKeyId": "042.035",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.035"
 }

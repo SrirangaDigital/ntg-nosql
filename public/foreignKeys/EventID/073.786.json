@@ -7,5 +7,6 @@
     "Translation": "एस. बी. रामास्वामी",
     "Director": "एम. रामास्वामी",
     "ForeignKeyId": "073.786",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.786"
 }

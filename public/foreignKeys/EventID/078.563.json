@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "गुरु शम्भु महाराज प्रथम प्रधानमंत्री पंडित जवाहर लाल नेहरु के साथ (संगीत नाटक अकादेमी सम्मान समारोह में)",
     "ForeignKeyId": "078.563",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.563"
 }

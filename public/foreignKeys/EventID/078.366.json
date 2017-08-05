@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "प्रसन्ना (नाट्य निर्देशक प्रसन्ना अपने परिवार व दोस्तों के साथ)",
     "ForeignKeyId": "078.366",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.366"
 }

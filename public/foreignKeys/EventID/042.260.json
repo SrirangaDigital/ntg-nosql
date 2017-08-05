@@ -4,5 +4,6 @@
     "Subject": "मैश्ती जागोई खौतेक",
     "Person": "एच. थम्बल शर्मा",
     "ForeignKeyId": "042.260",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.260"
 }

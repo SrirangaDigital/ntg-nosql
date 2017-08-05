@@ -6,5 +6,6 @@
     "Writer": "मोहित चटर्जी",
     "Translation": "सान्तवना निगम",
     "ForeignKeyId": "089.419",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.419"
 }

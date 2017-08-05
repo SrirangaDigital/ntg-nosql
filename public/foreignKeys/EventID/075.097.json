@@ -9,5 +9,6 @@
     "Light": "निसार अल्लाना",
     "Artist": "सुभाष चन्द्र (मुबारक), जगत सिंह रावत (हसन), टीकम जोशी (हिस्सामुद्दीन) व अन्य",
     "ForeignKeyId": "075.097",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.097"
 }

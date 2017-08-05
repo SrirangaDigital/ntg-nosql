@@ -10,5 +10,6 @@
     "Book": "Shyamanand Jalan: A Pictorial, Tribute-Dr. Madhuchhandra Chatterjee (सूचना पुस्तक)",
     "Venue": "कलकत्ता",
     "ForeignKeyId": "076.042",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.042"
 }

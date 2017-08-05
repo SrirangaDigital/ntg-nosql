@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय",
     "Event": "पेंन्टिंग पटुआ",
     "ForeignKeyId": "089.251",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.251"
 }

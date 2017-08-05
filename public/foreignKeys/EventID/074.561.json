@@ -7,5 +7,6 @@
     "Director": "अभिलाष पिल्लई",
     "Translation": "विपिन कुमार/अमृत राय",
     "ForeignKeyId": "074.561",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.561"
 }

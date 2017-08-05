@@ -14,5 +14,6 @@
     "Light": "बापी बोस",
     "Artist": "श्रीवल्लभ व्यास (जोसेफ के), अनुपम श्याम (इंसपेक्टर व अंकल), अशोक लोखण्डे (लंगडा व जज), हेमा सिंह (औरत) व अन्य",
     "ForeignKeyId": "075.101",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.101"
 }

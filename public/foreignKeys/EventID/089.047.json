@@ -7,5 +7,6 @@
     "Translator": "वसंत देव",
     "Director": "रवि शंकर केमू",
     "ForeignKeyId": "089.047",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.047"
 }

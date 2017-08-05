@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "शायद तीन अलग-अलग नाटक",
     "ForeignKeyId": "077.489.48",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.48"
 }

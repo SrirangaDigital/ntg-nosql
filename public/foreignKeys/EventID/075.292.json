@@ -4,5 +4,6 @@
     "Drama": "वन कूल कैट (ॲग्रेजी)",
     "Director": "फैसल अल्काजी",
     "ForeignKeyId": "075.292",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.292"
 }

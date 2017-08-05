@@ -12,5 +12,6 @@
     "Light": "संदीप भट्टाचार्य",
     "Artist": "अखिलेश खन्ना (मैकाले), संदेश वाहक (हिमांशु बी. जोशी), मुकेश तिवारी (प्राणनाथ पण्डित) आदि",
     "ForeignKeyId": "075.205",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.205"
 }

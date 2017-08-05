@@ -6,5 +6,6 @@
     "Director": "आर. कौलाशचन्द्र मालवीय",
     "Artist": "एम. जे. खान (मदन की भूमिका में) एवं अमरनाथ कुमुद (अरविन्द की भूमिका में)",
     "ForeignKeyId": "076.546",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.546"
 }

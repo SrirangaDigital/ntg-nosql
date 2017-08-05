@@ -6,5 +6,6 @@
     "Director": "उत्पल दत्त",
     "Artist": "उत्पल दत्त (बेनीमाधब चट्टोपाध्याय)",
     "ForeignKeyId": "076.107",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.107"
 }

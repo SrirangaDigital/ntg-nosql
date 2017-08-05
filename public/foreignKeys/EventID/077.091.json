@@ -12,5 +12,6 @@
     "Artist": "रोमा जोशी, सुहीता थाटे (आई), मंगेश भिंडे, संदेश जाधव (भास्कर) व अन्य",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "077.091",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.091"
 }

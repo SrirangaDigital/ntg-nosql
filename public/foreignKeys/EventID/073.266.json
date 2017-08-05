@@ -4,5 +4,6 @@
     "Drama": "द्दूूटि गडल अंचरा के दाग",
     "Artist": "राजेश्वर नाथ मधुकर व हरिभानसिंह",
     "ForeignKeyId": "073.266",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.266"
 }

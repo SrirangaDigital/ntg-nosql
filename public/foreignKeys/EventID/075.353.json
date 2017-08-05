@@ -10,5 +10,6 @@
     "Music": "सैण्डी",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "075.353",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.353"
 }

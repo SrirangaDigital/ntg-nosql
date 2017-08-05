@@ -7,5 +7,6 @@
     "Translation": "जयंतीराम पटेल (गुजराती अनुवाद)",
     "Director": "यशवंत केलकर",
     "ForeignKeyId": "073.611",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.611"
 }

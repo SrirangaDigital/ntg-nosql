@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - कुतम्बलम्",
     "Event": "गुरुवायूर कुतम्बलम् के मंच का छज्जा और कलश",
     "ForeignKeyId": "089.137",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.137"
 }

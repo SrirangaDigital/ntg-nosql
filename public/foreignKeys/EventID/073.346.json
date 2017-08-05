@@ -9,5 +9,6 @@
     "Light": "अरुण त्रिवेदी",
     "Translation": "ब. व. कारंत (शायद)",
     "ForeignKeyId": "073.346",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.346"
 }

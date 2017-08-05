@@ -6,5 +6,6 @@
     "Director": "सूर्यमोहन कुलश्रेष्ठ",
     "Event": "उत्तरसंभागीय नाट्य समारोह, चण्डीगढ़",
     "ForeignKeyId": "073.364",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.364"
 }

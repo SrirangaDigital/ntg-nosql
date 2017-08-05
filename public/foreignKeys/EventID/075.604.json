@@ -3,5 +3,6 @@
     "Place": "पटियाला",
     "Drama": "तीतर खम्भी जूह का",
     "ForeignKeyId": "075.604",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.604"
 }

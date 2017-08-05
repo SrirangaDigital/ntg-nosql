@@ -7,5 +7,6 @@
     "Event": "संगीत नाटक अकादमी नाट्य समारोह, 1991",
     "Artist": "13-03-1992",
     "ForeignKeyId": "076.865",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.865"
 }

@@ -5,5 +5,6 @@
     "Writer": "रत्नाकर त्रिपाठी",
     "Director": "सीताराय पाँचाल",
     "ForeignKeyId": "075.062",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.062"
 }

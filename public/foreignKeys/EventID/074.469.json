@@ -12,5 +12,6 @@
     "Artist": "मनोहर सिंह, सुरेखा सीकरी, उत्तरा बावकर, भानू भारती व अन्य",
     "Venue": "युनिटी थिएटर",
     "ForeignKeyId": "074.469",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.469"
 }

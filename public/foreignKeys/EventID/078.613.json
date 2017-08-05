@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "सत्यदेव दुबे (सत्यदेव दुबे का व्यक्तिगत चित्र ।)",
     "ForeignKeyId": "078.613",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.613"
 }

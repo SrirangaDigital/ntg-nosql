@@ -6,5 +6,6 @@
     "Director": "बादल सरकार",
     "Artist": "बादल सरकार व अन्य",
     "ForeignKeyId": "076.201",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.201"
 }

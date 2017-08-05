@@ -6,5 +6,6 @@
     "Director": "नरसेम कुमार अग्रवाल",
     "Artist": "गिरीश पॉयरी (कल्लू), शैलजा शर्मा (चैती), अशिवनी जैन (सुखलाल) व अन्य",
     "ForeignKeyId": "073.208",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.208"
 }

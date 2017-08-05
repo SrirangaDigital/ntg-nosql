@@ -6,5 +6,6 @@
     "Version": "राजकुमार श्रीवास्तव",
     "Director": "सतीश चित्रवंशी",
     "ForeignKeyId": "073.100",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.100"
 }

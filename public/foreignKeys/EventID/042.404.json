@@ -4,5 +4,6 @@
     "Subject": "नया पथ (नाटक विशेषांक)",
     "Editor": "राजीव सक्सेना यशपाल, व शिव वर्मा, कैसरवाड़ा, लखनऊ, अधिकार प्रेस",
     "ForeignKeyId": "042.404",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.404"
 }

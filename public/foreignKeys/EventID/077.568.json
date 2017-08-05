@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "नौटंकी (पारम्परिक नाट्य)",
     "ForeignKeyId": "077.568",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.568"
 }

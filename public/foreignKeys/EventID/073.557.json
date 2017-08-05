@@ -6,5 +6,6 @@
     "Director": "के. कलाधरन",
     "Event": "राष्ट्रीय नाट्य समारोह 1989",
     "ForeignKeyId": "073.557",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.557"
 }

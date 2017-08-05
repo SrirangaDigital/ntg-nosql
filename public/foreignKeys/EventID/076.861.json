@@ -3,5 +3,6 @@
     "Place": "पुणे",
     "Drama": "शतखंड",
     "ForeignKeyId": "076.861",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.861"
 }

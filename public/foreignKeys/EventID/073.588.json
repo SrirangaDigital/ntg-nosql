@@ -12,5 +12,6 @@
     "Artist": "दीप्ती जोशी, डॉली भट्ट, रूपा मेहता, लोपा नामदार व अन्य",
     "Venue": "श्रीराम सेंटर सभागार",
     "ForeignKeyId": "073.588",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.588"
 }

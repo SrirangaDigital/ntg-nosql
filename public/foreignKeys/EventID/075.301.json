@@ -3,5 +3,6 @@
     "Place": "दिल्ली",
     "Drama": "किताबें करती हैं बाते (हिन्दी)",
     "ForeignKeyId": "075.301",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.301"
 }

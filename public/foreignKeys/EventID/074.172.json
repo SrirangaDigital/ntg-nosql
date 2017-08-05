@@ -6,5 +6,6 @@
     "Translation": "किरण मोदी",
     "Venue": "नोएडा",
     "ForeignKeyId": "074.172",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.172"
 }

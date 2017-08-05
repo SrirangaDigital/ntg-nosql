@@ -4,5 +4,6 @@
     "Drama": "तलघर",
     "Writer": "मौम्सिम गोर्की",
     "ForeignKeyId": "074.457",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.457"
 }

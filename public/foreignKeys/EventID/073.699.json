@@ -4,5 +4,6 @@
     "Drama": "नंगा आदमी",
     "Director": "कँवल विद्रोही",
     "ForeignKeyId": "073.699",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.699"
 }

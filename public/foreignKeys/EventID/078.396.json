@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "ब. व. कारंत जयतीर्थ जोशी से बातचीत करते हुए",
     "ForeignKeyId": "078.396",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.396"
 }

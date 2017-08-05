@@ -5,5 +5,6 @@
     "Writer": "शंकर शेष",
     "Director": "राजकमल नायक",
     "ForeignKeyId": "073.712",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.712"
 }

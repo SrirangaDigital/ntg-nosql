@@ -6,5 +6,6 @@
     "Translator": "सफ़दर हाशमी",
     "Director": "हबीब तनवीर",
     "ForeignKeyId": "075.127",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.127"
 }

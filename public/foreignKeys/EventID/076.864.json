@@ -4,5 +4,6 @@
     "Drama": "संगीत एकच प्याला",
     "Director": "जयराम शिलेदार",
     "ForeignKeyId": "076.864",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.864"
 }

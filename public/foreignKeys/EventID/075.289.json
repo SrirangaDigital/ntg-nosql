@@ -9,5 +9,6 @@
     "Artist": "स्मिता वत्स, संजीव भार्गव",
     "Venue": "बिपिनचन्द्रपाल सभागार, दिल्ली",
     "ForeignKeyId": "075.289",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.289"
 }

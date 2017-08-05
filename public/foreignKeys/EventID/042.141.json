@@ -4,5 +4,6 @@
     "Subject": "हिन्दू पंच : बलिदान अंक, दिल्ली, स्वर्ण जयन्ती, 1997",
     "Editor": "कमलादत्त पाण्डेय",
     "ForeignKeyId": "042.141",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.141"
 }

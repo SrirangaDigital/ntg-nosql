@@ -4,5 +4,6 @@
     "Subject": "हिन्दुस्तानी रिकॉर्ड, 1950",
     "Person": "एच. एम. वी.",
     "ForeignKeyId": "042.349",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.349"
 }

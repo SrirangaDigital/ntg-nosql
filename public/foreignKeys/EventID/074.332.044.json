@@ -6,5 +6,6 @@
     "Venue": "इंडियन विमेन प्रेस कोर कान्फ्रेंस हाल, 5 विंडसर प्लेस",
     "Year": "14 दिसंबर 1998",
     "ForeignKeyId": "074.332.044",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.044"
 }

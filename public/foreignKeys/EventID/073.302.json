@@ -5,5 +5,6 @@
     "Director": "बलराज पंडित",
     "Artist": "हरिकृष्ण अरोड़ा",
     "ForeignKeyId": "073.302",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.302"
 }

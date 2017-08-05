@@ -3,5 +3,6 @@
     "Place": "दुर्गा",
     "Drama": "दहकते सवाल (हिन्दी)",
     "ForeignKeyId": "076.566",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.566"
 }

@@ -8,5 +8,6 @@
     "Venue": "साहित्य अकादेमी सभागार, रवीन्द्र भवन, दिल्ली",
     "Year": "26-03-2015",
     "ForeignKeyId": "074.332.132",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.132"
 }

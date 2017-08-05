@@ -3,5 +3,6 @@
     "Drama": "कृष्णा गारुडी (कन्नड़)",
     "Director": "आर. नागरत्नम्मा",
     "ForeignKeyId": "073.443",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.443"
 }

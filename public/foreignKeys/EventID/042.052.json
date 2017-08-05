@@ -4,5 +4,6 @@
     "Person": "भारत भूषण अग्रवाल",
     "Subject": "हंसों की मौत",
     "ForeignKeyId": "042.052",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.052"
 }

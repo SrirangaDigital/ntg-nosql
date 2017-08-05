@@ -5,5 +5,6 @@
     "Writer": "कृष्णचंद",
     "Director": "अपराजिता",
     "ForeignKeyId": "073.199",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.199"
 }

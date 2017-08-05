@@ -6,5 +6,6 @@
     "Director": "पुनीत के. त्रिवेदी",
     "Venue": "स्टूडियो थिएटर",
     "ForeignKeyId": "074.612",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.612"
 }

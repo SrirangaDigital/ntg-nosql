@@ -6,5 +6,6 @@
     "Artist": "बाबा डिके, निर्मला वाजी",
     "Cinematographer": "नवल जायसवाल",
     "ForeignKeyId": "076.475",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.475"
 }

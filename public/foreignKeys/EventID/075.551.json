@@ -11,5 +11,6 @@
     "Costume": "तड़ितमित्र, रुमा बोस",
     "Artist": "इन्द्रजीत दास, देबाशीश चौधरी, प्रणव गांगुली अण्ड अदर्स",
     "ForeignKeyId": "075.551",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.551"
 }

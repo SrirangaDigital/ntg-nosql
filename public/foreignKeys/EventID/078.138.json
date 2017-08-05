@@ -2,5 +2,6 @@
     "Aid": "03",
     "Event": "उत्तरा बावकर की प्रारंभिक रुचि पारंपरिक लोक कला में",
     "ForeignKeyId": "078.138",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.138"
 }

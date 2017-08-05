@@ -5,5 +5,6 @@
     "Event": "नागपुर के डी. ए. ए. पी. अण्ड टी कार्यालय के जुबली महोत्सव पर मंचित",
     "Artist": "16 फरवरी 1965",
     "ForeignKeyId": "076.841",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.841"
 }

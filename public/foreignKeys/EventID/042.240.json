@@ -4,5 +4,6 @@
     "Subject": "बिरियलगढ़ की लड़ाई : बिजयभान, जौहरसिंह का ब्याह, मेरठ",
     "Person": "एम. सी. मटरूलाल",
     "ForeignKeyId": "042.240",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.240"
 }

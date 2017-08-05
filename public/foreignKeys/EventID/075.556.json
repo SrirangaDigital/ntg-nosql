@@ -13,5 +13,6 @@
     "Artist": "रुमा बोस, रूबी दासगुप्ता, राना मित्रा, निलांजन गुहा एवं अन्य",
     "Venue": "लिटिल थियेटर समागार, दिल्ली",
     "ForeignKeyId": "075.556",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.556"
 }

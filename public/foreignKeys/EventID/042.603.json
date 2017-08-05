@@ -12,5 +12,6 @@
     "Venue": "The Coolidge Auditorium",
     "Year": "18-20 नव., 1963",
     "ForeignKeyId": "042.603",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.603"
 }

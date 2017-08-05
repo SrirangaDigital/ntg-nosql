@@ -7,5 +7,6 @@
     "Director": "अमरेन्द्र सहाय",
     "Artist": "जलाल सिद्दीकी, विनोद अग्निहोत्री, सुप्रिय लखनपाल, रवि वर्मा व अन्य",
     "ForeignKeyId": "089.218",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.218"
 }

@@ -4,5 +4,6 @@
     "Drama": "स्वप्न वासवदत्ता",
     "Writer": "भास",
     "ForeignKeyId": "074.559",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.559"
 }

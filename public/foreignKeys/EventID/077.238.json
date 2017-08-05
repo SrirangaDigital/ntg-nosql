@@ -6,5 +6,6 @@
     "Director": "नसीरुद्दीन शाह",
     "Artist": "रत्ना पाठक शाह",
     "ForeignKeyId": "077.238",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.238"
 }

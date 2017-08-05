@@ -3,5 +3,6 @@
     "Place": "त्रिचूर",
     "Drama": "कुट्टियाट्टम-कुतम्बलम (पारम्परिक नाट्य)",
     "ForeignKeyId": "077.497",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.497"
 }

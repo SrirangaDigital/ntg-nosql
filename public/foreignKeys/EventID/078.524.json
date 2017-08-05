@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "राजन (हिन्दी निर्देशक)",
     "ForeignKeyId": "078.524",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.524"
 }

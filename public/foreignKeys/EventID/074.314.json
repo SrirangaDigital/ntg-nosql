@@ -5,5 +5,6 @@
     "Director": "शीला भाटिया",
     "Artist": "प्रो. परबिंदर सिंह",
     "ForeignKeyId": "074.314",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.314"
 }

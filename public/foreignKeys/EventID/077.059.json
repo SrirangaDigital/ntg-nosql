@@ -5,5 +5,6 @@
     "Director": "जी. वी. अय्यर",
     "Music": "बाल मुरलिकृष्ण, व ब. व. कारंत",
     "ForeignKeyId": "077.059",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.059"
 }

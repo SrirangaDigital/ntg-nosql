@@ -4,5 +4,6 @@
     "Drama": "संतु रंगीली (पिगमेलियन)",
     "Stage": "एम. एस. सथ्यू",
     "ForeignKeyId": "077.110",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.110"
 }

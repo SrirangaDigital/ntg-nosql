@@ -4,5 +4,6 @@
     "Drama": "मधुचक्रम",
     "Artist": "देवकुमार भट्टाचार्य, देवदत्त ममता चटर्जी, कुमार रॉय, काजल मुखर्जी",
     "ForeignKeyId": "076.018",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.018"
 }

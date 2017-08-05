@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सत्यदेव दुबे के फोटोग्राफ",
     "ForeignKeyId": "078.614",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.614"
 }

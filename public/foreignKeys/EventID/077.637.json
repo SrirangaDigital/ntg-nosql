@@ -6,5 +6,6 @@
     "Director": "माया राव",
     "Light": "अभिलाष पिल्लई",
     "ForeignKeyId": "077.637",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.637"
 }

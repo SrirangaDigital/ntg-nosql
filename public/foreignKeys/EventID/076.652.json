@@ -14,5 +14,6 @@
     "Light": "संजय मेहता",
     "Venue": "भारत भवन",
     "ForeignKeyId": "076.652",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.652"
 }

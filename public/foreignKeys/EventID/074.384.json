@@ -11,5 +11,6 @@
     "Artist": "मनीष चौधरी",
     "Venue": "बहुमुख सभागार, रा. ना. वी. दिल्ली",
     "ForeignKeyId": "074.384",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.384"
 }

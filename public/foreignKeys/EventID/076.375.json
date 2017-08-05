@@ -6,5 +6,6 @@
     "Editor": "एन. प्रेमचन्द",
     "Director": "एन. प्रेमचन्द",
     "ForeignKeyId": "076.375",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.375"
 }

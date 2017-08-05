@@ -7,5 +7,6 @@
     "Artist": "हबीब तनवीर",
     "Venue": "ए. आई. एफ. ए. सी. एस. हॉल, दिल्ली",
     "ForeignKeyId": "074.338",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.338"
 }

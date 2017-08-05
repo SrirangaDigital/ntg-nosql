@@ -4,5 +4,6 @@
     "Light": "अभिलाष पिल्लई",
     "Soundassistant": "अभिलाष पिल्लई",
     "ForeignKeyId": "077.489.47",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.47"
 }

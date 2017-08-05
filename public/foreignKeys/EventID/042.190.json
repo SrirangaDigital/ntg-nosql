@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "माधवानल कामकन्दला उर्फ मुहब्बत का तमंचा, हाथरस, श्याम प्रेस",
     "ForeignKeyId": "042.190",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.190"
 }

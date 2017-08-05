@@ -4,5 +4,6 @@
     "Drama": "कस्तूरी मृग",
     "Director": "मुश्ताक काक",
     "ForeignKeyId": "075.394",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.394"
 }

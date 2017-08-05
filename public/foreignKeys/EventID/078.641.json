@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सुरेन्द्र शर्मा द्वारा निर्देशित नाटकों के पोस्टर",
     "ForeignKeyId": "078.641",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.641"
 }

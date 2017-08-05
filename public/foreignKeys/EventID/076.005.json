@@ -3,5 +3,6 @@
     "Place": "कोलकत्ता",
     "Artist": "सीमा मुखर्जी",
     "ForeignKeyId": "076.005",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.005"
 }

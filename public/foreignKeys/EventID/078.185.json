@@ -4,5 +4,6 @@
     "Photo": "के. एन. पणिक्कर",
     "Venue": "भारत भवन",
     "ForeignKeyId": "078.185",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.185"
 }

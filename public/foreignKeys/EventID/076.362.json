@@ -6,5 +6,6 @@
     "Director": "अजय मलकानी",
     "Artist": "रजनि मल्लिक, प्रभात प्रभाकर, जीतेन्द्र वदेर",
     "ForeignKeyId": "076.362",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.362"
 }

@@ -3,5 +3,6 @@
     "Place": "बेगुसराय",
     "Dance": "लोक नृत्य",
     "ForeignKeyId": "078.087",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.087"
 }

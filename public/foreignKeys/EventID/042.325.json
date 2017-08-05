@@ -4,5 +4,6 @@
     "Person": "श्रीराम शम्मी",
     "Subject": "मनमोहिनी और राजकुमार, आगरा, बम्बई प्रेस",
     "ForeignKeyId": "042.325",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.325"
 }

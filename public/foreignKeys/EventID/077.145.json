@@ -7,5 +7,6 @@
     "Language": "मराठी",
     "Vyaktirekha": "सोनिया",
     "ForeignKeyId": "077.145",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.145"
 }

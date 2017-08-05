@@ -5,5 +5,6 @@
     "Writer": "एम. रामास्वामी",
     "Translator": "एस. रामास्वामी",
     "ForeignKeyId": "073.787",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.787"
 }

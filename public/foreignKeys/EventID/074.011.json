@@ -9,5 +9,6 @@
     "Photographer": "अविनाश पसरीचा",
     "Venue": "दिल्ली",
     "ForeignKeyId": "074.011",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.011"
 }

@@ -4,5 +4,6 @@
     "Drama": "हीर रांझा",
     "Director": "शीला भाटिया",
     "ForeignKeyId": "074.321",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.321"
 }

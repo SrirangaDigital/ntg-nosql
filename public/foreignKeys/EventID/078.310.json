@@ -4,5 +4,6 @@
     "Photo": "नेमिचन्द्र जैन",
     "Venue": "साहित्य अकादमी सभागार, रवीन्द्र भवन, दिल्ली",
     "ForeignKeyId": "078.310",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.310"
 }

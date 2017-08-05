@@ -4,5 +4,6 @@
     "Drama": "लोरिक चंदा",
     "Director": "महासिंग चद्राकर",
     "ForeignKeyId": "073.710",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.710"
 }

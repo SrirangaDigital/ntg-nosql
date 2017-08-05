@@ -5,5 +5,6 @@
     "Venue": "इंडियन विमेन प्रेस कोर कान्फ्रेंस हाल, 5 विंडसर प्लेस",
     "Year": "14 दिसम्बर",
     "ForeignKeyId": "074.332.043",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.043"
 }

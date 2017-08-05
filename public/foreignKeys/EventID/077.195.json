@@ -8,5 +8,6 @@
     "Book": "थियेटर के गछार (सूचना स्रोत पुस्तक)",
     "Venue": "रॉयल अॉपेरा हाउस, मुम्बई",
     "ForeignKeyId": "077.195",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.195"
 }

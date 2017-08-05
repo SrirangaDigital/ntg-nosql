@@ -6,5 +6,6 @@
     "Director": "के. बी. चन्द्रा",
     "Artist": "अशोक शर्मा (समीर), मेहरु ज़फर (मजर्था) की भूमिका में",
     "ForeignKeyId": "073.383",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.383"
 }

@@ -3,5 +3,6 @@
     "Place": "बम्बई",
     "Drama": "हित चिन्तक",
     "ForeignKeyId": "077.254",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.254"
 }

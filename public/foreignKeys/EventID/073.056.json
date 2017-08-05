@@ -2,5 +2,6 @@
     "Aid": "99",
     "Place": "इलाहाबाद",
     "ForeignKeyId": "073.056",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.056"
 }

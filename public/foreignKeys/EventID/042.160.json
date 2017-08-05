@@ -4,5 +4,6 @@
     "Subject": "जागन का ब्याह : उडम बिहार की लड़ाई, मेरठ",
     "Person": "एम. सी. मटरूलाल",
     "ForeignKeyId": "042.160",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.160"
 }

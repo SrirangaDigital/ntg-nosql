@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "माधव मलांची केन्या",
     "ForeignKeyId": "077.489.28",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.28"
 }

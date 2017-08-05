@@ -4,5 +4,6 @@
     "Subject": "थियेटर (लघु पत्र)",
     "Editor": "बिसुनपुरी",
     "ForeignKeyId": "042.395",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.395"
 }

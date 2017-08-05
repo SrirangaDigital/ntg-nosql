@@ -6,5 +6,6 @@
     "Venue": "आल इण्डिया फाइन आर्ट्स एण्ड क्राफ्ट्स हॉल, दिल्ली",
     "Year": "नव. 1965",
     "ForeignKeyId": "042.502",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.502"
 }

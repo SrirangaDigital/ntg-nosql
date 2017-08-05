@@ -4,5 +4,6 @@
     "Drama": "चलो बदुकजीना देश मा",
     "Artist": "मंजरी एवं पुष्यमित्र",
     "ForeignKeyId": "077.103",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.103"
 }

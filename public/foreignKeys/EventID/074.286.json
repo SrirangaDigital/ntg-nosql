@@ -4,5 +4,6 @@
     "Drama": "लंकालक्ष्मी (मलयालम)",
     "Director": "विजयन",
     "ForeignKeyId": "074.286",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.286"
 }

@@ -3,5 +3,6 @@
     "Dance": "शास्त्रीय नृत्य - कथकली (द मर्डर ऑफ हेक्टर)",
     "Photographer": "के. के. गोपालकृष्णन",
     "ForeignKeyId": "078.046",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.046"
 }

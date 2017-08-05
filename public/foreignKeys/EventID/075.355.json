@@ -12,5 +12,6 @@
     "Stage": "प्रतीक परमार",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.355",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.355"
 }

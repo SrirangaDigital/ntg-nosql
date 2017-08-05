@@ -6,5 +6,6 @@
     "Year": "11-14 अप्रैल, 2000",
     "Person": "ओम प्रकाश जैन",
     "ForeignKeyId": "074.332.004",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.004"
 }

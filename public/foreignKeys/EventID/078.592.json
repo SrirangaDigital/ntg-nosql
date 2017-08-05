@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "शांता गांधी (सिक्किम में जस्मा ओडन के पात्र पुरुस्कार प्राप्त करते हुए)",
     "ForeignKeyId": "078.592",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.592"
 }

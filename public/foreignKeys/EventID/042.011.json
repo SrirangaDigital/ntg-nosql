@@ -4,5 +4,6 @@
     "Subject": "उरुभंगम्",
     "Translation": "भारत भूषण अग्रवाल भास",
     "ForeignKeyId": "042.011",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.011"
 }

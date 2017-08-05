@@ -12,5 +12,6 @@
     "Artist": "गुलशन कुमार (ज्योतिषाचार्य), स्नेहिल (गेरू), अमिता मिश्रा (शेफाली) व अन्य",
     "Venue": "श्रीराम सेंटर, बेसमेंट, दिल्ली",
     "ForeignKeyId": "074.008",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.008"
 }

@@ -6,5 +6,6 @@
     "Translation": "मुद्राराक्षस",
     "Director": "मुहम्मद पाशा",
     "ForeignKeyId": "073.031",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.031"
 }

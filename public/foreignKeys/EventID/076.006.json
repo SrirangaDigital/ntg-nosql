@@ -4,5 +4,6 @@
     "Drama": "एखोन माझरात (बांग्ला)",
     "Director": "प्रोबीर गुहा",
     "ForeignKeyId": "076.006",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.006"
 }

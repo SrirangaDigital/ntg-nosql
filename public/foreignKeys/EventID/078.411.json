@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "ब. व. कारंत (ब. व. कारंत के साथ रुद्र प्रसाद)",
     "ForeignKeyId": "078.411",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.411"
 }

@@ -3,5 +3,6 @@
     "Place": "किन्नौर",
     "Dance": "लोक नृत्य - रारिंग",
     "ForeignKeyId": "078.073",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.073"
 }

@@ -4,5 +4,6 @@
     "Subject": "समीरणु घर, 1947",
     "Person": "शांता गॉधी",
     "ForeignKeyId": "042.333",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.333"
 }

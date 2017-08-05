@@ -6,5 +6,6 @@
     "Drushyankalan": "हेमेन्द्र भाटिया",
     "Director": "शशंक बहुगुणा",
     "ForeignKeyId": "089.186",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.186"
 }

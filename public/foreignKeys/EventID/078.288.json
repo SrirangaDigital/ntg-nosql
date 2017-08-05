@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "नारायण मिस्त्री",
     "ForeignKeyId": "078.288",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.288"
 }

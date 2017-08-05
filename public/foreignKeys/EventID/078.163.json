@@ -4,5 +4,6 @@
     "Event": "कन्हाईलाल पद्मश्री अवार्ड की संध्या पर",
     "Venue": "राष्ट्रपति भवन",
     "ForeignKeyId": "078.163",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.163"
 }

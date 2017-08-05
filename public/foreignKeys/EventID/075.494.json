@@ -4,5 +4,6 @@
     "Drama": "राहुल (हिन्दी)",
     "Director": "संजय उपाध्याय",
     "ForeignKeyId": "075.494",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.494"
 }

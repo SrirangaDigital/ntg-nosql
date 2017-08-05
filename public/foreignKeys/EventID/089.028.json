@@ -7,5 +7,6 @@
     "Translator": "यामा सरांफ",
     "Director": "जितेन्द्र मित्तल",
     "ForeignKeyId": "089.028",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.028"
 }

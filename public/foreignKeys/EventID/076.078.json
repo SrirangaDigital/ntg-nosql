@@ -6,5 +6,6 @@
     "Translator": "वसी खान/स्वाति सेन गुप्ता/इंदुजा अवस्थी/भवानी प्रसाद मिश्र (कोई एल.)",
     "Director": "रुद्र प्रसाद सेनगुप्ता",
     "ForeignKeyId": "076.078",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.078"
 }

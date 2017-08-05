@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मुश्ताक हुसैन खाँ (गायक)",
     "ForeignKeyId": "078.504",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.504"
 }

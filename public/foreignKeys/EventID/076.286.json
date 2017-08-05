@@ -3,5 +3,6 @@
     "Place": "जमशेदपुर",
     "Drama": "स्नेह का सिपाही",
     "ForeignKeyId": "076.286",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.286"
 }

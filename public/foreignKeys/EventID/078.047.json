@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "शास्त्रीय नृत्य - कथकली (दुर्योधन वध, कीचक वध)",
     "ForeignKeyId": "078.047",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.047"
 }

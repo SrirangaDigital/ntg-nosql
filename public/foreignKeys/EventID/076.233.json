@@ -3,5 +3,6 @@
     "Place": "कलकत्ता",
     "Drama": "रासलीला",
     "ForeignKeyId": "076.233",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.233"
 }

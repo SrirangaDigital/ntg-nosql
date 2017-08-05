@@ -7,5 +7,6 @@
     "Director": "हबीब तनवीर",
     "Venue": "श्रीराम सेन्टर, दिल्ली",
     "ForeignKeyId": "074.346",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.346"
 }

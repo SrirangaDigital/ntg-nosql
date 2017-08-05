@@ -6,5 +6,6 @@
     "Translation": "प्रतिभा अग्रवाल",
     "Director": "प्रतिभा अग्रवाल",
     "ForeignKeyId": "076.052",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.052"
 }

@@ -7,5 +7,6 @@
     "Director": "प्रदीप गोस्वामी",
     "Artist": "प्रदीप, गौतम व अन्य",
     "ForeignKeyId": "076.512",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.512"
 }

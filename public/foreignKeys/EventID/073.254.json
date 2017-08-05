@@ -4,5 +4,6 @@
     "Drama": "कंजूस",
     "Writer": "मोलियर",
     "ForeignKeyId": "073.254",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.254"
 }

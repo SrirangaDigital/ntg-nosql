@@ -8,5 +8,6 @@
     "Venue": "सैयद मोदी रेलवे स्टेडियम प्रेक्षागृह, गोरखपुर",
     "Artist": "सैयद मोदी रेलवे स्टेडियम प्रेक्षागृह, गोरखपुर",
     "ForeignKeyId": "073.171",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.171"
 }

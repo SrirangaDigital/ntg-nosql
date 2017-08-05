@@ -4,5 +4,6 @@
     "Drama": "राजा",
     "Writer": "रवीन्द्रनाथ टैगोर",
     "ForeignKeyId": "076.089",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.089"
 }

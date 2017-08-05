@@ -4,5 +4,6 @@
     "Drama": "नमस्कार आज शुक्रवार है",
     "Writer": "रिज़वान ज़हीर अस्मान",
     "ForeignKeyId": "077.416",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.416"
 }

@@ -6,5 +6,6 @@
     "Artist": "राजीव यादव",
     "Venue": "मध्यप्रदेश नाट्य विद्यालय",
     "ForeignKeyId": "076.703",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.703"
 }

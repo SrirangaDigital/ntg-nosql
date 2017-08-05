@@ -6,5 +6,6 @@
     "Director": "के. एन. पणिक्कर",
     "Artist": "केनथ देसाई, सुवर्ण रावत, वाणी सिंह",
     "ForeignKeyId": "074.637",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.637"
 }

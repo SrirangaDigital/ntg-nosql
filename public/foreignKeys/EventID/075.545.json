@@ -4,5 +4,6 @@
     "Drama": "गोपार आभिशाप (सोलो)",
     "Artist": "श्रीमोई दासगुप्ता",
     "ForeignKeyId": "075.545",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.545"
 }

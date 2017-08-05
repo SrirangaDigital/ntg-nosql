@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "जनकवि कन्हैया की कविताएॅ, बिहार, बिहार राज्य परिषद्, 1986",
     "ForeignKeyId": "042.246",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.246"
 }

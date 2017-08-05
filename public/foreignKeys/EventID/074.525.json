@@ -4,5 +4,6 @@
     "Drama": "भगवदज्जुकम्",
     "Writer": "बोधायन",
     "ForeignKeyId": "074.525",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.525"
 }

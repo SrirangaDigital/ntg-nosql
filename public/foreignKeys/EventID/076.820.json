@@ -5,5 +5,6 @@
     "Director": "विवेक दत्त झा",
     "Artist": "विवेक दत्त झा, सुनीला वर्मा (समर और सुचेता की भूमिका में)",
     "ForeignKeyId": "076.820",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.820"
 }

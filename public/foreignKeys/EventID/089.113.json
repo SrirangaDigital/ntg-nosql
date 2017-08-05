@@ -4,5 +4,6 @@
     "Place": "भोपाल",
     "Event": "कॉफ्रेंस/सम्मेलन (नुक्कड़ रंग मेला कार्यक्रम में)",
     "ForeignKeyId": "089.113",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.113"
 }

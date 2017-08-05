@@ -7,5 +7,6 @@
     "Version": "सैदूर रहमान लियन",
     "Venue": "लमानी सभागार",
     "ForeignKeyId": "077.730",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.730"
 }

@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - कुतम्बलम्",
     "Event": "किटंगुर, नक्काशी का भाग",
     "ForeignKeyId": "089.128",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.128"
 }

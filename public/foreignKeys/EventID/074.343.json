@@ -6,5 +6,6 @@
     "Director": "हबीब तनवीर",
     "Venue": "छत्तीसगढ़ी",
     "ForeignKeyId": "074.343",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.343"
 }

@@ -6,5 +6,6 @@
     "Artist": "नाओ संदाब, रोज़ नेवी, क़ाइ आन एवं सेंग पोनाराग",
     "Venue": "अभिमंच सभागार, दिल्ली",
     "ForeignKeyId": "077.673",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.673"
 }

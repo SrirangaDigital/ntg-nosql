@@ -6,5 +6,6 @@
     "Director": "अनिल रंजन भौमिक",
     "Translation": "अशोक भौमिक",
     "ForeignKeyId": "073.044",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.044"
 }

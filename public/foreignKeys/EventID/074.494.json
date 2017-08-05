@@ -6,5 +6,6 @@
     "Director": "दोलत वैद्य",
     "Artist": "नवाब (प्रदीप), पानवाला (सचिन), जुग्गन धोबी (राजीव), कोतवाल (अविनाश), चिन्तक (मरूगंधा)",
     "ForeignKeyId": "074.494",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.494"
 }

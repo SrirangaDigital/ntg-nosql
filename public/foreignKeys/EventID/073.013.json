@@ -6,5 +6,6 @@
     "Director": "ए. आर. कृष्णा",
     "Artist": "आर. सर्वभौम राव (इंसपेक्टर), ए. आर. कृष्णा",
     "ForeignKeyId": "073.013",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.013"
 }

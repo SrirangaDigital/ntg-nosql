@@ -11,5 +11,6 @@
     "Photographer": "अविनाश पसरीचा",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "074.022",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.022"
 }

@@ -4,5 +4,6 @@
     "Subject": "खुले मैदान में (कविता संग्रह)",
     "Editor": "सत्यपाल सहगल हमकलम",
     "ForeignKeyId": "042.024",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.024"
 }

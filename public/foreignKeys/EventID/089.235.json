@@ -7,5 +7,6 @@
     "Director": "उर्मिल कुमार थपलियाल",
     "Year": "दिसम्बर 1984",
     "ForeignKeyId": "089.235",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.235"
 }

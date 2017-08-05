@@ -6,5 +6,6 @@
     "Director": "ललित मोहन थपल्याल",
     "Artist": "श्याम राजन, भानु द्दाबड़ा",
     "ForeignKeyId": "073.423",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.423"
 }

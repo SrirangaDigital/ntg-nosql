@@ -4,5 +4,6 @@
     "Drama": "मशीन",
     "Writer": "सफ़दर हाशमी",
     "ForeignKeyId": "074.270",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.270"
 }

@@ -5,5 +5,6 @@
     "Training": "अनिल मिश्रा",
     "Venue": "मध्यप्रदेश नाट्य विद्यालय, प्रथम वर्ष",
     "ForeignKeyId": "076.710",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.710"
 }

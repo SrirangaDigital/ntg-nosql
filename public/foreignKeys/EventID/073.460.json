@@ -6,5 +6,6 @@
     "Director": "आद्य रंगाचार्य व ब. व. कारंत (शायद)",
     "Photographer": "वी. राममूर्ति",
     "ForeignKeyId": "073.460",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.460"
 }

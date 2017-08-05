@@ -3,5 +3,6 @@
     "Place": "कलकत्ता",
     "Dance": "अग्नि",
     "ForeignKeyId": "076.096",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.096"
 }

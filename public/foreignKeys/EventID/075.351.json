@@ -10,5 +10,6 @@
     "Costume": "सुहास पाठक व अन्य",
     "Venue": "श्रीराम सेंटर मुख्य सभागार",
     "ForeignKeyId": "075.351",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.351"
 }

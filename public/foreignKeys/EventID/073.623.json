@@ -4,5 +4,6 @@
     "Writer": "मोहन राकेश",
     "Artist": "के. के. रैना",
     "ForeignKeyId": "073.623",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.623"
 }

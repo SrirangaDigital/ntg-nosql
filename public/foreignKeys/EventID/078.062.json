@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "भामाकलायम् (नृत्य नाटिका)",
     "ForeignKeyId": "078.062",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.062"
 }

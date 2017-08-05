@@ -15,5 +15,6 @@
     "Venue": "खुला मंच, रा. ना. वि.",
     "Year": "अक्टू. - नव., 1969",
     "ForeignKeyId": "042.517",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.517"
 }

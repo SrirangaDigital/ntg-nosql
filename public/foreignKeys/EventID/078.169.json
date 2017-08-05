@@ -5,5 +5,6 @@
     "Venue": "एशियन सेमिनार ऑफ डाक्यूमेंटिंग थियेटर",
     "Stage": "इंडिया इन्टरनेशनल सेंटर, दिल्ली",
     "ForeignKeyId": "078.169",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.169"
 }

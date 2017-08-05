@@ -6,5 +6,6 @@
     "Article": "सुवर्ण रावत",
     "Director": "सुवर्ण रावत",
     "ForeignKeyId": "073.438",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.438"
 }

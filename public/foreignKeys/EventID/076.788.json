@@ -5,5 +5,6 @@
     "Artist": "विभा मिश्र व अन्य",
     "Venue": "मॉरिशस",
     "ForeignKeyId": "076.788",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.788"
 }

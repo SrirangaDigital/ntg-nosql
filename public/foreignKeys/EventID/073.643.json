@@ -6,5 +6,6 @@
     "Director": "वीरेन्द्र मेंहदीरत्ता",
     "Artist": "`शर्मिष्ठा' की भूमिका में प्रीति गुप्ता एवं `मंगल' की भूमिका में उमा तरफदार",
     "ForeignKeyId": "073.643",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.643"
 }

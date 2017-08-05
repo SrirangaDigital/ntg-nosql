@@ -4,5 +4,6 @@
     "Drama": "अब्दुल्ला दीवाना",
     "Writer": "लक्ष्मीनारायण लाल",
     "ForeignKeyId": "077.377",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.377"
 }

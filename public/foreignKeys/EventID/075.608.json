@@ -7,5 +7,6 @@
     "Artist": "महेन्दर सिंह (रामदीन), रवीन्दर सोढ़ी (अविनाश), जीवन नील (वर्मा जी) व अन्य",
     "Venue": "पटियाला",
     "ForeignKeyId": "075.608",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.608"
 }

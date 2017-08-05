@@ -8,5 +8,6 @@
     "Artist": "रोहिणी हट्टंगडी",
     "Venue": "कर्नाटक संघ मांटुंगा (प)",
     "ForeignKeyId": "077.095",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.095"
 }

@@ -4,5 +4,6 @@
     "Drama": "एंडगेम",
     "Director": "नवीनचन्द्र ठाकुर",
     "ForeignKeyId": "073.632",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.632"
 }

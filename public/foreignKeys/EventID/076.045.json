@@ -4,5 +4,6 @@
     "Drama": "बयान एक बुद्दू का",
     "Director": "विमल लाठ",
     "ForeignKeyId": "076.045",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.045"
 }

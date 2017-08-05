@@ -4,5 +4,6 @@
     "Drama": "अग्निको कथा (नेपाली)",
     "Director": "सुनील पोखरेल",
     "ForeignKeyId": "077.711",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.711"
 }

@@ -6,5 +6,6 @@
     "Director": "बादल सरकार",
     "Artist": "देबेन गांगूली, मुरारी चक्रवर्ती, छाया मंडल, अपूर्वा",
     "ForeignKeyId": "076.199",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.199"
 }

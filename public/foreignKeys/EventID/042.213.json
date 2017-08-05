@@ -4,5 +4,6 @@
     "Subject": "नवजीवनेर गान",
     "Person": "ज्योतिरिन्द्र मैत्र एवं ज्ञान प्रकाश, 1945",
     "ForeignKeyId": "042.213",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.213"
 }

@@ -6,5 +6,6 @@
     "Director": "सांबली मित्र",
     "Venue": "रविन्द्र सदन, कोलकाता",
     "ForeignKeyId": "076.084",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.084"
 }

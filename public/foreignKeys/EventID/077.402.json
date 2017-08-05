@@ -5,5 +5,6 @@
     "Writer": "राजानंद",
     "Director": "इकबाल हुसैन, आलोक नन्द",
     "ForeignKeyId": "077.402",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.402"
 }

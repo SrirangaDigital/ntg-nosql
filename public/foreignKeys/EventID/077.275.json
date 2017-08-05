@@ -4,5 +4,6 @@
     "Drama": "काला वज़ीर पंढरा राजा (मराठी)",
     "Director": "वामन केन्द्रे",
     "ForeignKeyId": "077.275",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.275"
 }

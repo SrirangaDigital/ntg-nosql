@@ -3,5 +3,6 @@
     "Place": "कलकत्ता",
     "Dance": "शास्त्रीय नृत्य - कथक (पदातिक कथक ग्रूप)",
     "ForeignKeyId": "076.097",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.097"
 }

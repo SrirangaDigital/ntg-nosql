@@ -10,5 +10,6 @@
     "Artist": "वनलता मेहता, विष्णु व्यास, प्रताप ओझा व अन्य",
     "Venue": "गुजरात",
     "ForeignKeyId": "042.594",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.594"
 }

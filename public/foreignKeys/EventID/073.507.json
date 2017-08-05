@@ -3,5 +3,6 @@
     "Place": "मैसूर",
     "Drama": "विविध",
     "ForeignKeyId": "073.507",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.507"
 }

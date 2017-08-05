@@ -4,5 +4,6 @@
     "Drama": "अभिज्ञान शाकुंतला (कन्नड़)",
     "Writer": "कालिदास",
     "ForeignKeyId": "073.477",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.477"
 }

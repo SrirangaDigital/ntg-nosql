@@ -3,5 +3,6 @@
     "Place": "चण्डीगढ़",
     "Drama": "बाबा बोलदा है",
     "ForeignKeyId": "073.664",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.664"
 }

@@ -9,5 +9,6 @@
     "Artist": "स्वाति, प्रतिमा, रोशन व अन्य",
     "Venue": "भारत भवन, भोपाल",
     "ForeignKeyId": "073.234",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.234"
 }

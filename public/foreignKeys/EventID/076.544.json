@@ -6,5 +6,6 @@
     "Director": "विश्वनाथ सराफ",
     "Artist": "रोहिनी वर्मा (मोना की भूमिका में), राजेन्द्र दानी (अल्बर्ट की भूमिका में) तथा श्रीमती अशोक (ममी की भूमिका में)",
     "ForeignKeyId": "076.544",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.544"
 }

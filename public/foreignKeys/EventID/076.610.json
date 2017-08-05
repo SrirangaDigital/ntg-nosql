@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Drama": "विविध नाटक",
     "ForeignKeyId": "076.610",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.610"
 }

@@ -6,5 +6,6 @@
     "Director": "यशवंत केलकर",
     "Artist": "ज्योति देशपाण्डे (उषा), यशवंत केलकर (काकाजी), शरद दांडेकर (श्याम)",
     "ForeignKeyId": "073.609",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.609"
 }

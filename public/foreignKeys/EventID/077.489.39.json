@@ -6,5 +6,6 @@
     "Artist": "अशोक बुलानी व रीता वर्मा",
     "Venue": "भारत भवन, भोपाल",
     "ForeignKeyId": "077.489.39",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.39"
 }

@@ -3,5 +3,6 @@
     "Place": "इम्फाल",
     "Drama": "चक्रव्यूह (मणिपुरी)",
     "ForeignKeyId": "076.437",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.437"
 }

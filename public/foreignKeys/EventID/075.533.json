@@ -4,5 +4,6 @@
     "Drama": "महाभोज",
     "Writer": "मन्नू भंडारी",
     "ForeignKeyId": "075.533",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.533"
 }

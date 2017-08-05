@@ -6,5 +6,6 @@
     "Director": "रौशन तकी",
     "Event": "वाराणसी छात्र संघ द्वारा आयोजित हिन्दी नाट्य समारोह",
     "ForeignKeyId": "073.395",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.395"
 }

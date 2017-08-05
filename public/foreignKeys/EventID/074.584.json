@@ -4,5 +4,6 @@
     "Drama": "विरासत",
     "Director": "बैरी जॉन",
     "ForeignKeyId": "074.584",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.584"
 }

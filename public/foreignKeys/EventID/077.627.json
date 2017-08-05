@@ -6,5 +6,6 @@
     "Director": "जोला सिंकटिस एवं खालिद तैयबजी",
     "Venue": "बहुमुख सभागार, रा. ना. वि., दिल्ली",
     "ForeignKeyId": "077.627",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.627"
 }

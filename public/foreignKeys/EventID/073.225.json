@@ -6,5 +6,6 @@
     "Director": "ज़हुर आलम",
     "Artist": "मुक्ता शाह (मोना), राकेश चन्द्र दुआ (संजय), दयाकिशन सनवाल (मधेरा) की भूमिका मे",
     "ForeignKeyId": "073.225",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.225"
 }

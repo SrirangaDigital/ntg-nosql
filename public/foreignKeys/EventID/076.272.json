@@ -4,5 +4,6 @@
     "Drama": "ऑथेलो",
     "Writer": "शेक्सपियर",
     "ForeignKeyId": "076.272",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.272"
 }

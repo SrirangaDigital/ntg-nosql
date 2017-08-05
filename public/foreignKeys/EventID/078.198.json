@@ -4,5 +4,6 @@
     "Venue": "भारत भवन",
     "Person": "के. सच्चिदानन्दन",
     "ForeignKeyId": "078.198",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.198"
 }

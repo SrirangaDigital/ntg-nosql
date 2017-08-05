@@ -6,5 +6,6 @@
     "Director": "प्रवीण जोशी",
     "Artist": "प्रवीण जोशी, सरिता जोशी, टिक्कू तलसानिया व अन्य",
     "ForeignKeyId": "073.600",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.600"
 }

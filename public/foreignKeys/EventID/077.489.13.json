@@ -3,5 +3,6 @@
     "Drama": "क्यूपिड ब्रोकन परो",
     "Director": "प्रसन्ना",
     "ForeignKeyId": "077.489.13",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.13"
 }

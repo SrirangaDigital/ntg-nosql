@@ -4,5 +4,6 @@
     "Drama": "तीन पैसाचा तमाशा (मराठी)",
     "Director": "वामन केन्द्रे",
     "ForeignKeyId": "077.159",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.159"
 }

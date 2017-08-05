@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "मणि मधुकर (हिन्दी नाटककार, कवि, उपन्यासकार)",
     "ForeignKeyId": "078.457",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.457"
 }

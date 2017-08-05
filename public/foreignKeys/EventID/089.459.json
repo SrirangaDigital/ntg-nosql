@@ -5,5 +5,6 @@
     "Event": "कमलेश्वर दत्त त्रिपाठी का व्याख्यान : संस्कृत नाटक पाठ्य एवं वाचिक अभिनय",
     "Year": "31-10-1994",
     "ForeignKeyId": "089.459",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.459"
 }

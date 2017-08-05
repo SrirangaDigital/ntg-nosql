@@ -4,5 +4,6 @@
     "Drama": "डॉक्टर (हिन्दी)",
     "Artist": "अर्चना झा (डॉ. केशव), अलका अग्निहोत्री (डॉ. अनीला)",
     "ForeignKeyId": "076.806",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.806"
 }

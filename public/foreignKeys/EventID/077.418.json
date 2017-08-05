@@ -4,5 +4,6 @@
     "Drama": "यार ! तुम पानी क्यों नहीं बेचते",
     "Writer": "रिज़वान ज़हीर उस्मान",
     "ForeignKeyId": "077.418",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.418"
 }

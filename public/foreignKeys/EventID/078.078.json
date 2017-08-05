@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "लोक नृत्य - वीरधासे नृत्य (Veeraghase dance)",
     "ForeignKeyId": "078.078",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.078"
 }

@@ -12,5 +12,6 @@
     "Artist": "नयन झवेरी (आम्रपाली), रंजन झवेरी (सखी) व अन्य",
     "Year": "1954-1955",
     "ForeignKeyId": "042.496",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.496"
 }

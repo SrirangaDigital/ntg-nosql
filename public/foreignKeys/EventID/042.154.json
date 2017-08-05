@@ -4,5 +4,6 @@
     "Subject": "चन्द्रावलि का झाला उर्फ छिपा कटार, 1966",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.154",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.154"
 }

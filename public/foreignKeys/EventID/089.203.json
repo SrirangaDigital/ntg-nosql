@@ -7,5 +7,6 @@
     "Natyantar": "अशोक भौमिक",
     "Director": "अनिल रंजन भौमिक",
     "ForeignKeyId": "089.203",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.203"
 }

@@ -4,5 +4,6 @@
     "Subject": "",
     "Coordinator": "ब्रजेश",
     "ForeignKeyId": "042.408",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.408"
 }

@@ -6,5 +6,6 @@
     "Writer": "मोहन राकेश",
     "Director": "जॉय माइकेल",
     "ForeignKeyId": "077.631",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.631"
 }

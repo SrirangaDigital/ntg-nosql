@@ -4,5 +4,6 @@
     "Drama": "मिट्टी की गाड़ी",
     "Writer": "शूद्रक",
     "ForeignKeyId": "074.534",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.534"
 }

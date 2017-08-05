@@ -17,5 +17,6 @@
     "Host": "ट्रेड फेथर अथोरिटी ऑफ इंडिया (भारतीय व्यापार मेला प्राधिकरण)",
     "Venue": "मंज़र थियेटर, प्रगति मैदान, दिल्ली",
     "ForeignKeyId": "075.172",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.172"
 }

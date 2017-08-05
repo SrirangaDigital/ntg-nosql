@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "रेखा जैन",
     "ForeignKeyId": "078.538",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.538"
 }

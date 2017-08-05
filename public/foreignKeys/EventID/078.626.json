@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "सावित्री हेसनाम (रंगकर्मी-कलाक्षेत्र, इम्फाल, मणिपुर)",
     "ForeignKeyId": "078.626",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.626"
 }

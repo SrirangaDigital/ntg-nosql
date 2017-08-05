@@ -6,5 +6,6 @@
     "Director": "अर्जुन देव चारण",
     "Event": "संगीत नाटक अकादमी नाट्य समारोह - 1981",
     "ForeignKeyId": "077.379",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.379"
 }

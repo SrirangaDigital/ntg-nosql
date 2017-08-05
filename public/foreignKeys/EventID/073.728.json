@@ -7,5 +7,6 @@
     "Event": "राष्ट्रीय कला परिषद द्वारा आयोजित मोहन राकेश सम्मान, 1997",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "073.728",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.728"
 }

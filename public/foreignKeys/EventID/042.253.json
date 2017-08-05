@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "महारानी तारा प्रथम भाग उर्फ मालिन की बेटी, 1964",
     "ForeignKeyId": "042.253",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.253"
 }

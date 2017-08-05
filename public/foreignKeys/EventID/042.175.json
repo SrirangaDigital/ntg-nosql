@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "चन्द्रावलि का झूला उर्फ छिपा कटार, हाथरस, श्याम प्रेस, 1966",
     "ForeignKeyId": "042.175",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.175"
 }

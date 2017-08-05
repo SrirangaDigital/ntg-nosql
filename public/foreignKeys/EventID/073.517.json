@@ -6,5 +6,6 @@
     "Director": "रघुनंदन",
     "Music": "श्रीनिवास भट्ट",
     "ForeignKeyId": "073.517",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.517"
 }

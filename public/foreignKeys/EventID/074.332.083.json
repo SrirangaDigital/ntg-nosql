@@ -5,5 +5,6 @@
     "Venue": "एल. टी. जी. गैलरी",
     "Year": "2-7 अप्रैल, 1994",
     "ForeignKeyId": "074.332.083",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.083"
 }

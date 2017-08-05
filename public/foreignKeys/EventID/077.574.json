@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "बराक कथा (पारम्परिक नाट्य)",
     "ForeignKeyId": "077.574",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.574"
 }

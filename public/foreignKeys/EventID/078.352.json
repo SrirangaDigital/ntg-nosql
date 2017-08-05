@@ -4,5 +4,6 @@
     "Photo": "पीयूष मिश्र",
     "Artist": "पीयूष मिश्र",
     "ForeignKeyId": "078.352",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.352"
 }

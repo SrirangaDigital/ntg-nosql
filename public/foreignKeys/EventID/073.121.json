@@ -10,5 +10,6 @@
     "Artist": "तृप्ता अरोरा (शीला) एवं संतोष श्रीवास्तव (अनिल)",
     "Venue": "मर्चेन्ट चैम्बर, कानपुर",
     "ForeignKeyId": "073.121",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.121"
 }

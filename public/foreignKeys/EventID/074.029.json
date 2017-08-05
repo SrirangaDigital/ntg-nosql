@@ -10,5 +10,6 @@
     "Artist": "कुलभूषण खरबंदा, कीर्ति जैन, इला पाण्डे (अरुण), कीमती आनंद, पल्लवी मेहता व अन्य",
     "Lyricstranslation": "सांत्वना निगम",
     "ForeignKeyId": "074.029",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.029"
 }

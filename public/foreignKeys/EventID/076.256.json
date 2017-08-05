@@ -4,5 +4,6 @@
     "Drama": "ट्रोजन बुमेन",
     "Director": "वीणापाणी चावला",
     "ForeignKeyId": "076.256",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.256"
 }

@@ -5,5 +5,6 @@
     "Director": "रोशन अल्काजी",
     "Artist": "रघुवीर यादव व मनोहर सिंह",
     "ForeignKeyId": "089.175",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.175"
 }

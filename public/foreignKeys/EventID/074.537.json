@@ -6,5 +6,6 @@
     "Director": "स्वानंद किरकरे",
     "Venue": "स्टुडियो थिएटर",
     "ForeignKeyId": "074.537",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.537"
 }

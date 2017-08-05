@@ -7,5 +7,6 @@
     "Director": "जयन्त देशमुख",
     "Music": "आमोद भट्ट",
     "ForeignKeyId": "076.588",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.588"
 }

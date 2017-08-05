@@ -6,5 +6,6 @@
     "Venue": "रवीन्द्र भवन सभागर",
     "Year": "11 नवम्बर 1997",
     "ForeignKeyId": "089.460",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.460"
 }

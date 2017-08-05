@@ -6,5 +6,6 @@
     "Director": "सुधीर महाजन",
     "Venue": "अदबी कुंज, जम्मू",
     "ForeignKeyId": "073.744",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.744"
 }

@@ -6,5 +6,6 @@
     "Director": "कुमुद नागर",
     "Artist": "आर. एस. पंकज तथा सत्येन्द्र शर्मा, चाँद नारायण व वर्मा की भूमिका में",
     "ForeignKeyId": "073.269",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.269"
 }

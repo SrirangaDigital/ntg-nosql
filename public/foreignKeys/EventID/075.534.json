@@ -3,5 +3,6 @@
     "Place": "दिल्ली",
     "Drama": "यह आदमी यह चाहे",
     "ForeignKeyId": "075.534",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.534"
 }

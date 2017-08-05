@@ -7,5 +7,6 @@
     "Translator": "नेमिचन्द्र जैन",
     "Director": "भारत भूषण (शायद)",
     "ForeignKeyId": "089.025",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.025"
 }

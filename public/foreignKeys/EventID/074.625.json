@@ -7,5 +7,6 @@
     "Director": "रामगोपाल बजाज",
     "Venue": "स्टुडियो-2",
     "ForeignKeyId": "074.625",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.625"
 }

@@ -12,5 +12,6 @@
     "Artist": "जैमिनी पाठक",
     "Venue": "सम्मुख सभागार, दिल्ली",
     "ForeignKeyId": "077.265",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.265"
 }

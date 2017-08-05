@@ -8,5 +8,6 @@
     "Translation": "शंकर वैद्य / द. ग. गोडसे",
     "Artist": "अर्चना जोगलेकर (शकुंतला) व अन्य",
     "ForeignKeyId": "077.152",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.152"
 }

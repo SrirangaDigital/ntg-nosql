@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - कॉफ्रेंस",
     "Event": "कॉफ्रेंस/सम्मेलन",
     "ForeignKeyId": "089.114.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.114.0"
 }

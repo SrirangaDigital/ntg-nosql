@@ -5,5 +5,6 @@
     "Writer": "रूप तिवारी",
     "Director": "ज्योतीन्द्र सोहल",
     "ForeignKeyId": "073.389",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.389"
 }

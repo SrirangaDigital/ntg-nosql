@@ -5,5 +5,6 @@
     "Person": "अशोक वाजपेयी",
     "Event": "दीक्षांत समारोह",
     "ForeignKeyId": "078.102",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.102"
 }

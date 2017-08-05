@@ -3,5 +3,6 @@
     "Place": "बम्बई",
     "Drama": "बिर्हाड बाजल",
     "ForeignKeyId": "077.289",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.289"
 }

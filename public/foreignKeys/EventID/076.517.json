@@ -6,5 +6,6 @@
     "Director": "बृजमोहन शाह",
     "Artist": "अशोक बुलानी (बचीया), गोविन्द पारीक (नरिया), रजनी वैश्य (इला मॉ), राजकुमार (पुजारी), किशन सिंह (सुधीर सरीन) आदि",
     "ForeignKeyId": "076.517",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.517"
 }

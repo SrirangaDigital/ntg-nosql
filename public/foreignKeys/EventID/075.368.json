@@ -7,5 +7,6 @@
     "Artist": "",
     "Venue": "",
     "ForeignKeyId": "075.368",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.368"
 }

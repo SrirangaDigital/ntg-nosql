@@ -6,5 +6,6 @@
     "Translation": "रंजीत कपूर",
     "Director": "रंजीत कपूर",
     "ForeignKeyId": "074.206",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.206"
 }

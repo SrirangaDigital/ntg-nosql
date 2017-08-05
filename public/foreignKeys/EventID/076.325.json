@@ -5,5 +5,6 @@
     "Writer": "श्रीकांत किशोर",
     "Director": "परवेज़ अख़्तर",
     "ForeignKeyId": "076.325",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.325"
 }

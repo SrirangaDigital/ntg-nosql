@@ -6,5 +6,6 @@
     "Director": "रेखा जैन",
     "Music": "रवि घोष",
     "ForeignKeyId": "074.173",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.173"
 }

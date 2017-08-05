@@ -9,5 +9,6 @@
     "Music": "ब. व. कारन्त",
     "Artist": "राजकुमार कामले",
     "ForeignKeyId": "076.640",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.640"
 }

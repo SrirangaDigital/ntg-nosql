@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - कुतम्बलम्",
     "Event": "त्रिचूर के कुतम्बलम् का वह दृश्य जिसे प्रस्तुति के पहले सज़ाया वाय है ।",
     "ForeignKeyId": "089.140",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.140"
 }

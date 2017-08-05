@@ -8,5 +8,6 @@
     "Venue": "कमानी सभागार",
     "Year": "4 अप्रैल 2002",
     "ForeignKeyId": "089.302",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.302"
 }

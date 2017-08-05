@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "ब. व. कारंत (ब. व. कारंत के साथ अनुपम खेर)",
     "ForeignKeyId": "078.402",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.402"
 }

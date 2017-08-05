@@ -4,5 +4,6 @@
     "Person": "गोवर्धन पांचाल",
     "Subject": "कुतुम्पलम अध्ययन",
     "ForeignKeyId": "042.479",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.479"
 }

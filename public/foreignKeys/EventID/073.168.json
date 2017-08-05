@@ -9,5 +9,6 @@
     "Director": "उर्मिल कुमार थपलियाल",
     "Artist": "शैलश श्रीवास्तव (अबू हसन), प्रियंवदा मिश्रा (अम्मी), शरद (वजीर) व अन्य",
     "ForeignKeyId": "073.168",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.168"
 }

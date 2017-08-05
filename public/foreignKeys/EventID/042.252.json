@@ -4,5 +4,6 @@
     "Subject": "महाभारत विराट पर्व उर्फ कीचक वध, 1985",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.252",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.252"
 }

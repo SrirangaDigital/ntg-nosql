@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "राम चाकयार (शूर्पणखा के सर की सज्जा की तैयारी में कुतम्बलम में)",
     "ForeignKeyId": "078.534",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.534"
 }

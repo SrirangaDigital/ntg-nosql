@@ -4,5 +4,6 @@
     "Person": "रामेश्वर प्रेम",
     "Subject": "संज्ञा पुत्र",
     "ForeignKeyId": "042.076",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.076"
 }

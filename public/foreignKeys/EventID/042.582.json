@@ -8,5 +8,6 @@
     "Artist": "जयानन्द दवे, प्रभाकर साणे व अन्य",
     "Year": "25-03-1955",
     "ForeignKeyId": "042.582",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.582"
 }

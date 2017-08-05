@@ -6,5 +6,6 @@
     "Director": "अरुण मुखर्जी",
     "Venue": "कलकत्ता",
     "ForeignKeyId": "076.068",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.068"
 }

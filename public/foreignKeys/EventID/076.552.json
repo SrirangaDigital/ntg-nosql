@@ -6,5 +6,6 @@
     "Director": "अरुण पांडे",
     "Photographer": "बसंत मिश्रा",
     "ForeignKeyId": "076.552",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.552"
 }

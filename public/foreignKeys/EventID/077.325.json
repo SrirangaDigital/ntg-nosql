@@ -5,5 +5,6 @@
     "Writer": "लईक हुसैन",
     "Director": "लईक हुसैन",
     "ForeignKeyId": "077.325",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.325"
 }

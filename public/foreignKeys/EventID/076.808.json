@@ -7,5 +7,6 @@
     "Artist": "अनिल शर्मा (व्यक्ति), संतोष खन्ना (किट्टी), धर्मवीर कोहली (कठी) व रामलाल सिंह (बिट्टी)",
     "Translation": "ब. व. कारंत",
     "ForeignKeyId": "076.808",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.808"
 }

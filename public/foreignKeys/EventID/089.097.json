@@ -6,5 +6,6 @@
     "Writer": "चन्द्रशेखर कम्बार",
     "Director": "ब. व. कारंत",
     "ForeignKeyId": "089.097",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.097"
 }

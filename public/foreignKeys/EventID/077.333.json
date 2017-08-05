@@ -3,5 +3,6 @@
     "Place": "उदयपुर",
     "Drama": "ज्याच काम त्यानी कराव (मराठी नाटक)",
     "ForeignKeyId": "077.333",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.333"
 }

@@ -4,5 +4,6 @@
     "Dance": "सावित्री (बैले) (मणिपुरी)",
     "Choriography": "सिंहजीत सिंह",
     "ForeignKeyId": "074.290",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.290"
 }

@@ -5,5 +5,6 @@
     "Writer": "गोपालदास",
     "Artist": "गीता (सुधा), किरण (बॉबी), व अराधना (राधा)",
     "ForeignKeyId": "076.563",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.563"
 }

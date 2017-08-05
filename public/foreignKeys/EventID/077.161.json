@@ -6,5 +6,6 @@
     "Director": "ज्योति सुभाष",
     "Artist": "पूर्वा केसकर, ज्योति सुभाष, देवेन्द्र सारलकर, गजानन परांजपे",
     "ForeignKeyId": "077.161",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.161"
 }

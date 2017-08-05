@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "फैयाज़ (कलाकार-मराठी रंगभूमि)",
     "ForeignKeyId": "078.380",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.380"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Event": "उत्तरा बावकर गुलदस्ता लेते हुए",
     "ForeignKeyId": "078.139",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.139"
 }

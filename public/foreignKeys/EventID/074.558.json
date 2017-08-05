@@ -5,5 +5,6 @@
     "Artist": "रघुवीर यादव, वीरेन्द्र सक्सेना व अन्य",
     "Photographer": "टी. विश्वनाथ",
     "ForeignKeyId": "074.558",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.558"
 }

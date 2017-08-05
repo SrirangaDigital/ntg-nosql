@@ -3,5 +3,6 @@
     "Drama": "बरीड चाइल्ड",
     "Artist": "एमी वैन नोस्ट्रेण्ड व फोई रेनी",
     "ForeignKeyId": "077.764",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.764"
 }

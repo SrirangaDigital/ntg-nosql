@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय",
     "Event": "संगीत",
     "ForeignKeyId": "089.332",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.332"
 }

@@ -5,5 +5,6 @@
     "Writer": "मणि मधुकर",
     "Director": "अलखनन्दन",
     "ForeignKeyId": "076.551",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.551"
 }

@@ -15,5 +15,6 @@
     "Venue": "चित्रगुप्त मन्दिर प्रेक्षागृह, गोरखपुर",
     "Year": "31-07-1983",
     "ForeignKeyId": "089.207",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.207"
 }

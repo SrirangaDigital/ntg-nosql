@@ -5,5 +5,6 @@
     "Writer": "प्रसन्ना",
     "Director": "प्रसन्ना",
     "ForeignKeyId": "073.534",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.534"
 }

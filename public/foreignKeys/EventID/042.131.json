@@ -4,5 +4,6 @@
     "Subject": "इन्दल हरण उर्फ बलख बुखोर की लड़ाई, 1967",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.131",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.131"
 }

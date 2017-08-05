@@ -6,5 +6,6 @@
     "Writer": "मनोज पटनायक",
     "Director": "विजय मोहांती",
     "ForeignKeyId": "073.022",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.022"
 }

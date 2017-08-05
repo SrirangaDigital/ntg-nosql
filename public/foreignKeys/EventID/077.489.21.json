@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "ना जाने किन्ही बेश में (हिन्दी)",
     "ForeignKeyId": "077.489.21",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.21"
 }

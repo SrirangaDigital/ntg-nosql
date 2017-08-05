@@ -7,5 +7,6 @@
     "Version": "उषा गांगुली",
     "Director": "बिभास चक्रवर्ती",
     "ForeignKeyId": "076.172",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.172"
 }

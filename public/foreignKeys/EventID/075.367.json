@@ -9,5 +9,6 @@
     "Asstdirector": "भूपेन जोशी व अन्य",
     "Venue": "श्रीराम सेंटर मुख्य सभागार",
     "ForeignKeyId": "075.367",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.367"
 }

@@ -15,5 +15,6 @@
     "Book": "सूचना स्रोत पुस्तक - रंगयात्रा-1, रा. ना. वि., रंगमंडल व पुस्तक-रंगसाक्षी-जयदेव तनेजा, ले.",
     "Venue": "कमानी सभागार, दिल्ली",
     "ForeignKeyId": "075.056",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.056"
 }

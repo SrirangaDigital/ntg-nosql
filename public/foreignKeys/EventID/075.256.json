@@ -4,5 +4,6 @@
     "Drama": "किराया",
     "Director": "वाणी त्रिपाटी",
     "ForeignKeyId": "075.256",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.256"
 }

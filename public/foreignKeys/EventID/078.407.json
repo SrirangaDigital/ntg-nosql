@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Photo": "ब. व. कारंत (ब. व. कारंत के साथ पीटर बुर्क, श्यामानंद जालान, गिरीश कार्नाड, कीर्ति जैन)",
     "ForeignKeyId": "078.407",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.407"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "रति बार्योलोम्यू (यात्रिक संस्था की संस्थापक, निर्देशक)",
     "ForeignKeyId": "078.516",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.516"
 }

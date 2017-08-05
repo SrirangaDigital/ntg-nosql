@@ -5,5 +5,6 @@
     "Writer": "बर्टोल्ट ब्रैश्ट",
     "Version": "चि. त्र्यं खानोलकर",
     "ForeignKeyId": "077.225",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.225"
 }

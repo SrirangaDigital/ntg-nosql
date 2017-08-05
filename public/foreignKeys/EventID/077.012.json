@@ -7,5 +7,6 @@
     "Dramatized": "वसंत देव",
     "Artist": "प्रीति ठाकुर व अन्य",
     "ForeignKeyId": "077.012",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.012"
 }

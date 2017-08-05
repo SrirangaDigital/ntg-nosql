@@ -12,5 +12,6 @@
     "Artist": "मोहम्मद शहादत हुसैन, शमिमा अख़्तर, शिप्रा दास, विप्लव सरकार, अहसान रज़ा व अन्य",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "077.731",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.731"
 }

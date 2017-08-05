@@ -3,5 +3,6 @@
     "Place": "मंडी",
     "Drama": "बाल भवन कार्यक्रम",
     "ForeignKeyId": "077.471",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.471"
 }

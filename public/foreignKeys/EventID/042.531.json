@@ -8,5 +8,6 @@
     "Music": "सुबोध भौमिक, मोहन सिंह",
     "Dance-director": "पीटर गोम्स",
     "ForeignKeyId": "042.531",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.531"
 }

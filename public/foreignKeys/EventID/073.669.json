@@ -7,5 +7,6 @@
     "Version": "सुरजीत पातर (पंजाबी रूपान्तरण)",
     "Music": "ब. व. कारन्त",
     "ForeignKeyId": "073.669",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.669"
 }

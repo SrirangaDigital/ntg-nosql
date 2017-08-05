@@ -7,5 +7,6 @@
     "Director": "वीरेन्द्र शर्मा",
     "Artist": "नम्रता सेठी, कोमल जैन, विजय मोडक, वीरेन्द्र शर्मा, अजय जैन व अन्य",
     "ForeignKeyId": "076.530",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.530"
 }

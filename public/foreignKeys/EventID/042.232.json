@@ -4,5 +4,6 @@
     "Subject": "पूरनमल प्रथम भाग उर्फ जोशे परवाना, 1967",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.232",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.232"
 }

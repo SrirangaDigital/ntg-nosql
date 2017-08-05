@@ -3,5 +3,6 @@
     "Country": "सर्बिया",
     "Drama": "कर्सिंग द पिपल इन टू पार्ट्स",
     "ForeignKeyId": "077.754",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.754"
 }

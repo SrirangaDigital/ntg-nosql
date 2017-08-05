@@ -5,5 +5,6 @@
     "Writer": "प्रेमचन्द",
     "Director": "गिरिराज प्रसाद",
     "ForeignKeyId": "073.243",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.243"
 }

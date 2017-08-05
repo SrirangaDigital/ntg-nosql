@@ -4,5 +4,6 @@
     "Drama": "राजा सलेहश",
     "Director": "जयधर पासवान",
     "ForeignKeyId": "076.357",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.357"
 }

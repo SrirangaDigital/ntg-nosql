@@ -7,5 +7,6 @@
     "Director": "देवेन्द्र राज अंकुर",
     "Artist": "प्रतिमा काजमी, हेमा सहाय व अन्य",
     "ForeignKeyId": "075.013",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.013"
 }

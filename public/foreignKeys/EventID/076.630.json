@@ -7,5 +7,6 @@
     "Director": "रुद्रप्रसाद सेनगुप्ता",
     "Artist": "विभा मिश्र व अन्य",
     "ForeignKeyId": "076.630",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.630"
 }

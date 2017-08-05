@@ -4,5 +4,6 @@
     "Person": "श्रीकृष्ण",
     "Subject": "गुलबदन उर्फ जन्नत की शादी, कानपुर श्रीकृष्ण खत्री, 1966",
     "ForeignKeyId": "042.302",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.302"
 }

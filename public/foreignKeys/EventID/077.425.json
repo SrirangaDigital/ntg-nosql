@@ -6,5 +6,6 @@
     "Translator": "इन्द्रनारायण मूथा",
     "Director": "रूपा पारीक",
     "ForeignKeyId": "077.425",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.425"
 }

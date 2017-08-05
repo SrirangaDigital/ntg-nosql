@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "पद्मावती उर्फ फरियादे बुलबुल, हाथरस, श्याम प्रेस, 1960",
     "ForeignKeyId": "042.181",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.181"
 }

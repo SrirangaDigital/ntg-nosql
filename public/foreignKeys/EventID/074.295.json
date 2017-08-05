@@ -7,5 +7,6 @@
     "Director": "नीरज शर्मा",
     "Venue": "बिपिन चन्द्र पाल ऑडिटोरियम",
     "ForeignKeyId": "074.295",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.295"
 }

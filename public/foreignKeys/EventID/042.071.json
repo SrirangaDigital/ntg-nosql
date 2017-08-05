@@ -4,5 +4,6 @@
     "Person": "रमेश दवे",
     "Subject": "एक नहीं था अफलातून",
     "ForeignKeyId": "042.071",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.071"
 }

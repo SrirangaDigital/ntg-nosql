@@ -6,5 +6,6 @@
     "Director": "प्रयाग वर्मा",
     "Venue": "रवीन्द्रालय, लखनऊ",
     "ForeignKeyId": "073.382",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.382"
 }

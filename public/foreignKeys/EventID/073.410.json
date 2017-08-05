@@ -6,5 +6,6 @@
     "Director": "कमल वशिष्ठ",
     "Artist": "करुणा गुप्ता (मलका), चन्द्रमोहन दिनेश (इन्ना), श्याम किशोर (अंगरक्षक) व अन्य",
     "ForeignKeyId": "073.410",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.410"
 }

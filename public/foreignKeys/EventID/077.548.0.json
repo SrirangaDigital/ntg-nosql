@@ -2,5 +2,6 @@
     "Aid": "99",
     "Subject": "जात्रा",
     "ForeignKeyId": "077.548.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.548.0"
 }

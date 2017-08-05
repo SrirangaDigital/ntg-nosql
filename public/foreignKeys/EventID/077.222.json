@@ -7,5 +7,6 @@
     "Venue": "दिल्ली",
     "Host": "रा. ना. वि. एवं नटरंग प्रतिष्ठान",
     "ForeignKeyId": "077.222",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.222"
 }

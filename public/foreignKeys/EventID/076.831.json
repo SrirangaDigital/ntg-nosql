@@ -3,5 +3,6 @@
     "Drama": "बेटी का बोझ",
     "Director": "हफीज़ खान",
     "ForeignKeyId": "076.831",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.831"
 }

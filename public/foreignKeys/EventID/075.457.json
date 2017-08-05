@@ -4,5 +4,6 @@
     "Drama": "बलि का बकरा",
     "Director": "राजिन्दर नाथ",
     "ForeignKeyId": "075.457",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.457"
 }

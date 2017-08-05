@@ -6,5 +6,6 @@
     "Editor": "ह्रशिकेश सुलभ",
     "Director": "सतीश आनंद",
     "ForeignKeyId": "076.311",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.311"
 }

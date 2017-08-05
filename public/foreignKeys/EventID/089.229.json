@@ -11,5 +11,6 @@
     "Year": "07-07-1994",
     "Photographer": "नरेन्द्र यादव",
     "ForeignKeyId": "089.229",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.229"
 }

@@ -11,5 +11,6 @@
     "Artist": "मोहम्मद (अकमल शाह), घनश्याम दास गुप्ता (जलालुद्दीन), अखिलेश खन्ना (सुल्तान) व अन्य",
     "Venue": "निगम रंगशाला, चाँदनी चौक",
     "ForeignKeyId": "075.317",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.317"
 }

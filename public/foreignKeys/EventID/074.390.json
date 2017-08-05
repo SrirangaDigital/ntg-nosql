@@ -6,5 +6,6 @@
     "Director": "इब्राहिम अल्काजी",
     "Artist": "एम. के. रैना, नईमा उप्रेती, मनोहर सिंह व अन्य",
     "ForeignKeyId": "074.390",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.390"
 }

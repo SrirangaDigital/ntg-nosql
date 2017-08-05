@@ -5,5 +5,6 @@
     "Writer": "सोफोक्लीज",
     "Venue": "मनोहर सिंह व अन्य",
     "ForeignKeyId": "075.045",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.045"
 }

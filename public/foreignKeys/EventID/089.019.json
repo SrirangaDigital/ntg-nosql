@@ -8,5 +8,6 @@
     "Translator": "रति बार्थोलोम्यु एवं वीरेन्द्र सक्सेना",
     "Director": "अनिल रंजन भौमिक",
     "ForeignKeyId": "089.019",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.019"
 }

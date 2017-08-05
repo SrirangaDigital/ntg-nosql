@@ -6,5 +6,6 @@
     "Translator": "ॠषिकेश सुलभ",
     "Director": "सतीश आनंद",
     "ForeignKeyId": "076.310",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.310"
 }

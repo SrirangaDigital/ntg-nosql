@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - अभिनेत्रियाँ",
     "Photo": "बांग्ला रंगमंच की प्रमुख अभिनेत्रियाँ",
     "ForeignKeyId": "089.068",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.068"
 }

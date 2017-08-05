@@ -4,5 +4,6 @@
     "Drama": "अँधेर नगरी (हिन्दी)",
     "Writer": "भारतेन्दु हरीश्चन्द्र",
     "ForeignKeyId": "077.384",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.384"
 }

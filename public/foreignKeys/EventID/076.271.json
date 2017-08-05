@@ -4,5 +4,6 @@
     "Drama": "पागल",
     "Writer": "प्रबोध जोशी",
     "ForeignKeyId": "076.271",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.271"
 }

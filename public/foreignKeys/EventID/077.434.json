@@ -5,5 +5,6 @@
     "Writer": "रामानंद राठी",
     "Director": "मधु आचार्य आशावादी",
     "ForeignKeyId": "077.434",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.434"
 }

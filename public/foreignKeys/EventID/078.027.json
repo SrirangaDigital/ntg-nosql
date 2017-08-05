@@ -3,5 +3,6 @@
     "Country": "जापान",
     "Dance": "कठपुतली",
     "ForeignKeyId": "078.027",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.027"
 }

@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Drama": "तीन छोटे नाटक (हिन्दी)",
     "ForeignKeyId": "076.776",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.776"
 }

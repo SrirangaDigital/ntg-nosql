@@ -6,5 +6,6 @@
     "Director": "विजय बैरागी",
     "Artist": "सलीम मुल्तानी, श्याम सालवी व अन्य",
     "ForeignKeyId": "076.799",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.799"
 }

@@ -12,5 +12,6 @@
     "Artist": "बालकृष्णन, अनुराधा, लास्या, नम्रता, शालिनी, वैष्णवी व अन्य",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "073.780",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.780"
 }

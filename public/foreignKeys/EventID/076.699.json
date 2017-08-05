@@ -7,5 +7,6 @@
     "Director": "राजीव गोहिल",
     "Venue": "अंतरंग, भारत भवन",
     "ForeignKeyId": "076.699",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.699"
 }

@@ -6,5 +6,6 @@
     "Director": "बाबा डिके",
     "Venue": "रवीन्द्र नाट्य गृह, इंदौर",
     "ForeignKeyId": "076.477",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.477"
 }

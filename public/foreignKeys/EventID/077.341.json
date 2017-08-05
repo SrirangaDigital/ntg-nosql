@@ -5,5 +5,6 @@
     "Writer": "मोहन राकेश",
     "Director": "मोहन महर्षि",
     "ForeignKeyId": "077.341",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.341"
 }

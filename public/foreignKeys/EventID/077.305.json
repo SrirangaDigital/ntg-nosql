@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "कालोखाच्या गर्भात (अंधेरे की गर्त में)",
     "ForeignKeyId": "077.305",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.305"
 }

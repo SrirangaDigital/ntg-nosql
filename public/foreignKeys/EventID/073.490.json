@@ -5,5 +5,6 @@
     "Writer": "शेक्सपियर",
     "Director": "प्रसन्ना",
     "ForeignKeyId": "073.490",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.490"
 }

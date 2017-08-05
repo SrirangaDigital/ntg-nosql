@@ -10,5 +10,6 @@
     "Stage": "सत्यव्रत राउत",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.466",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.466"
 }

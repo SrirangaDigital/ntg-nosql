@@ -6,5 +6,6 @@
     "Director": "एस. एबोटोम्बी",
     "Venue": "एवानेगालिब आडिटोरियम",
     "ForeignKeyId": "074.564",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.564"
 }

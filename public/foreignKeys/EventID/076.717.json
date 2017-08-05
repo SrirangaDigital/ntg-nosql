@@ -13,5 +13,6 @@
     "Stage": "हर्ष दाण्ड",
     "Artist": "वसीम खान, शबीना बी., शीतल, अमित रिछारिया, हर्ष दाण्ड व अन्य",
     "ForeignKeyId": "076.717",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.717"
 }

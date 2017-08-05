@@ -4,5 +4,6 @@
     "Drama": "अबु हुसैन",
     "Director": "बादल सरकार",
     "ForeignKeyId": "076.193",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.193"
 }

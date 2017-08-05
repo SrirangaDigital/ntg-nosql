@@ -5,5 +5,6 @@
     "Writer": "विजय तेंदुलकर",
     "Artist": "अनुराग, बेबी लूबा तथा राजेन्द्र सिंह",
     "ForeignKeyId": "077.466",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.466"
 }

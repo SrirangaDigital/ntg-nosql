@@ -11,5 +11,6 @@
     "Artist": "कमलाकर सोनटक्के (होरी), उषा साठे (धनिया), नईमा खान (उप्रंती), (रूपा), रैना (भोला) व अन्य",
     "Venue": "रा. ना. वि. दिल्ली",
     "ForeignKeyId": "075.246",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.246"
 }

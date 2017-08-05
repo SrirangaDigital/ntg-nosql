@@ -7,5 +7,6 @@
     "Translator": "यामा अग्रवाल",
     "Director": "विजय कपूर",
     "ForeignKeyId": "073.432",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.432"
 }

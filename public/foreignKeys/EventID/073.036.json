@@ -7,5 +7,6 @@
     "Director": "रमेश मेहता",
     "Artist": "जितेन्द्र रघुवंशी (ताहिर अली), शैलेन्द्र (प्रभु सेवक), गुरचरण मेहता (जॉन सेवक) तथा स्नेहलता (सोफिया)",
     "ForeignKeyId": "073.036",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.036"
 }

@@ -7,5 +7,6 @@
     "Director": "मधु शिरालकर",
     "Artist": "बिमल बालानी (बबना), तृप्ता अरोड़ा (पूतय), रवि वैद्य (महीपत) की भूमिका में व अन्य",
     "ForeignKeyId": "076.535",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.535"
 }

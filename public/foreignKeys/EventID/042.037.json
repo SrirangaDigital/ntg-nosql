@@ -4,5 +4,6 @@
     "Subject": "बच्चों के लिए नज़में (उर्द-हिन्दी)",
     "Person": "अल्लामा इकबाल",
     "ForeignKeyId": "042.037",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.037"
 }

@@ -9,5 +9,6 @@
     "Venue": "मंजर थियेटर",
     "Year": "27-02-1987",
     "ForeignKeyId": "089.106",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.106"
 }

@@ -7,5 +7,6 @@
     "Translator": "सरोजिनी वर्मा",
     "Director": "जीवन लाल गुप्त (शायद)",
     "ForeignKeyId": "089.039",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.039"
 }

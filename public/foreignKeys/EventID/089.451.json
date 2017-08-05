@@ -8,5 +8,6 @@
     "Venue": "उत्तर संभागीय नाट्य समारोह, चण्डीगढ",
     "Year": "22-26 सितम्बर 1985",
     "ForeignKeyId": "089.451",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.451"
 }

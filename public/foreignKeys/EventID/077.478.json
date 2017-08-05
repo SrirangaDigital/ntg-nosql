@@ -3,5 +3,6 @@
     "Place": "शिमला",
     "Venue": "मनोहर सिंह पृथ्वीराज कपूर के साथ शिमला में",
     "ForeignKeyId": "077.478",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.478"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "प्रसन्ना जी द्वारा बनाए गए स्कैचिज़",
     "ForeignKeyId": "078.369",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.369"
 }

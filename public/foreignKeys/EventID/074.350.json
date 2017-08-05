@@ -4,5 +4,6 @@
     "Drama": "बहादुर कलारिन",
     "Writer": "हबीब तनवीर",
     "ForeignKeyId": "074.350",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.350"
 }

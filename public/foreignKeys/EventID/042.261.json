@@ -4,5 +4,6 @@
     "Subject": "यशवन्तसिंह रासो उर्फ रामसिंह का ब्याह (हिन्दु मुस्लिम याराना), 1961",
     "Person": "श्रीकृष्ण",
     "ForeignKeyId": "042.261",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.261"
 }

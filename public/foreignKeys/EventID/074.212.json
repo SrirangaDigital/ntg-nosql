@@ -6,5 +6,6 @@
     "Writer": "गिरीश करनाड़",
     "Director": "प्रभाकर",
     "ForeignKeyId": "074.212",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.212"
 }

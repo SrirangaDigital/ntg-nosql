@@ -6,5 +6,6 @@
     "Artist": "सावित्री हेसनाम व अन्य",
     "Venue": "रामपुर, असम",
     "ForeignKeyId": "076.393",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.393"
 }

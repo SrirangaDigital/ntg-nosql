@@ -6,5 +6,6 @@
     "Director": "कविता नागपाल",
     "Venue": "अभिमंच सभागार",
     "ForeignKeyId": "074.288",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.288"
 }

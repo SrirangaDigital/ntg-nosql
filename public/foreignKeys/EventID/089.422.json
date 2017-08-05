@@ -5,5 +5,6 @@
     "Event": "कन्यादान",
     "Writer": "विजय तेंडुलकर",
     "ForeignKeyId": "089.422",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.422"
 }

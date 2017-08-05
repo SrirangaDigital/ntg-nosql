@@ -5,5 +5,6 @@
     "Drama": "जिस दिन चोर आया",
     "Year": "15 मई - 13 जून, 2004",
     "ForeignKeyId": "089.272",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.272"
 }

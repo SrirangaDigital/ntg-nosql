@@ -4,5 +4,6 @@
     "Subject": "इन्द्रसभा अमानत और मदारी लाल की प्रति फ़ारसी अक्षर की शुद्दता और स्वच्छता पूर्वक बनाई गई, 1906",
     "Person": "आगा हसन अमानत",
     "ForeignKeyId": "042.130",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.130"
 }

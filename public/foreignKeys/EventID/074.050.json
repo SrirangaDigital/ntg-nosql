@@ -9,5 +9,6 @@
     "Host": "नटरंग प्रतिष्ठान : नटरंग रंगनिरंतर : साप्ताहिक रंगमंच के अन्तर्गत",
     "Venue": "विपिन चन्द्र पाल सभागार",
     "ForeignKeyId": "074.050",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.050"
 }

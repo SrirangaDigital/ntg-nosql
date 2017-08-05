@@ -5,5 +5,6 @@
     "Writer": "विपिन अग्रवाल",
     "Director": "सत्यव्रत सिन्हा",
     "ForeignKeyId": "073.072",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.072"
 }

@@ -6,5 +6,6 @@
     "Venue": "साहित्य अकादेमी सभागार, रवीन्द्र भवन, दिल्ली",
     "Year": "22-23 मार्च 2011",
     "ForeignKeyId": "074.332.129",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.129"
 }

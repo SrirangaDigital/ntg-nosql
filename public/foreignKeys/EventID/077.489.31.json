@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "मैं राही मासूम रज़ा",
     "ForeignKeyId": "077.489.31",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.31"
 }

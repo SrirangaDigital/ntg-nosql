@@ -6,5 +6,6 @@
     "Writer": "अजमेर सिंह औलख",
     "Director": "कंवल विद्रोही",
     "ForeignKeyId": "089.224.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.224.0"
 }

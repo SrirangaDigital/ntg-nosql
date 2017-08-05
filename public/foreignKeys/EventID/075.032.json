@@ -7,5 +7,6 @@
     "Music": "चितरंजन त्रिपाठी",
     "Artist": "चितरंजन त्रिपाठी, पराग सरहाह, ज्ञान प्रकाश, झिलमिल हजारिका, हरविंदर कौर, मंदाकिनी गोस्वामी व अन्य",
     "ForeignKeyId": "075.032",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.032"
 }

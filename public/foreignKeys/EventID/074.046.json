@@ -7,5 +7,6 @@
     "Director": "राजिन्दर नाथ",
     "Artist": "एस. एम. ज़हीर, वीणा मेहता व अन्य",
     "ForeignKeyId": "074.046",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.046"
 }

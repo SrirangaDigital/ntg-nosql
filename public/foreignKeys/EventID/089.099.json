@@ -13,5 +13,6 @@
     "Light": "आनन्द राजू",
     "Venue": "रवीन्द्र नाट्य मन्दिर, मुम्बई, कमानी सभागार, दिल्ली",
     "ForeignKeyId": "089.099",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.099"
 }

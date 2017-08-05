@@ -3,5 +3,6 @@
     "Country": "तजाकिस्तान",
     "Dance": "ताजिक नृत्य",
     "ForeignKeyId": "078.092",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.092"
 }

@@ -12,5 +12,6 @@
     "Venue": "रविन्द्रालय, लखनऊ तथा 28, 29 अगस्त एवं 11 सितम्बर, 1971 मर्चेण्ट चैंबर, कानपुर",
     "Year": "24-08-1971",
     "ForeignKeyId": "089.379",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.379"
 }

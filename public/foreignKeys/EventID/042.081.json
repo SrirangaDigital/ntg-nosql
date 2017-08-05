@@ -5,5 +5,6 @@
     "Person": "बेन जॉन्सन",
     "Translation": "रामेश्वर प्रेम",
     "ForeignKeyId": "042.081",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.081"
 }

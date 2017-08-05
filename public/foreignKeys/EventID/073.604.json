@@ -5,5 +5,6 @@
     "Version": "भरत दवे",
     "Director": "भरत दवे",
     "ForeignKeyId": "073.604",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.604"
 }

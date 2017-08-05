@@ -4,5 +4,6 @@
     "Person": "श्रीकृष्ण",
     "Subject": "माया मच्छिन्द्र उर्फ जादू का पिटारा, कानपुर, श्रीकृष्ण खत्री, 1966",
     "ForeignKeyId": "042.312",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.312"
 }

@@ -8,5 +8,6 @@
     "Artist": "राशिद (हानुश), विभा चौधरी (कात्या-हानुश की पत्नी), दीपक ओछानी (राजा) व अन्य",
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "074.136",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.136"
 }

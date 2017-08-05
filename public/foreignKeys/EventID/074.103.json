@@ -9,5 +9,6 @@
     "Event": "उत्तर संभागीय नाट्य समारोह",
     "Venue": "लखनऊ",
     "ForeignKeyId": "074.103",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.103"
 }

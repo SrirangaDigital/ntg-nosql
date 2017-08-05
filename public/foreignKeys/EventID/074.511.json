@@ -6,5 +6,6 @@
     "Director": "देवेन्द्र राज अंकुर",
     "Story": "कोलाज-4",
     "ForeignKeyId": "074.511",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.511"
 }

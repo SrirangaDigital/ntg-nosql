@@ -4,5 +4,6 @@
     "Drama": "ट्रोजन वूमन (जापानी)",
     "Director": "तादाशी सजुकी",
     "ForeignKeyId": "077.704",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.704"
 }

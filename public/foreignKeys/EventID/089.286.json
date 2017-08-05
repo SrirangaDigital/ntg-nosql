@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - मंच परिकल्पना",
     "Event": "वेटिंग फॉर गोडो",
     "ForeignKeyId": "089.286",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.286"
 }

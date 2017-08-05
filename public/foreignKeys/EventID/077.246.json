@@ -6,5 +6,6 @@
     "Translator": "विजय बापट",
     "Director": "रेनू होरा",
     "ForeignKeyId": "077.246",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.246"
 }

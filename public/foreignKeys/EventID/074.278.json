@@ -5,5 +5,6 @@
     "Director": "गुरुदत्त पाण्डे",
     "Venue": "इण्डिया हैबिटेट सेंटर",
     "ForeignKeyId": "074.278",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.278"
 }

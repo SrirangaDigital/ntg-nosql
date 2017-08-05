@@ -7,5 +7,6 @@
     "Language": "मराठी",
     "Vyaktirekha": "गौरी",
     "ForeignKeyId": "077.248",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.248"
 }

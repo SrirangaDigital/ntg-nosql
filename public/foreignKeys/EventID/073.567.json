@@ -6,5 +6,6 @@
     "Director": "कावालम नारायण पणिक्कर",
     "Event": "प्रथम भास समारोह `1987'",
     "ForeignKeyId": "073.567",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.567"
 }

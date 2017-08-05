@@ -4,5 +4,6 @@
     "Subject": "सुपरिमो",
     "Person": "रामेश्वर प्रेम",
     "ForeignKeyId": "042.097",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.097"
 }

@@ -4,5 +4,6 @@
     "Drama": "रैमिनिसेंसेज़ अॉफ कृष्णा",
     "Director": "अनामिका हकसर",
     "ForeignKeyId": "077.741",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.741"
 }

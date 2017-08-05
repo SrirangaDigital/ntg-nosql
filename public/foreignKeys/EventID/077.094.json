@@ -6,5 +6,6 @@
     "Director": "सत्यदेव दुबे",
     "Artist": "प्रेमा साखरदांडे, शिल्पा नवलकर, सुप्रिया मतकरी",
     "ForeignKeyId": "077.094",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.094"
 }

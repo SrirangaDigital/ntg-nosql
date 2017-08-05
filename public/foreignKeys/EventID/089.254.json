@@ -4,5 +4,6 @@
     "Place": "दिल्ली",
     "Event": "नटरंग (पत्रिका) अंक 79 में प्रकाशित फोटो",
     "ForeignKeyId": "089.254",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.254"
 }

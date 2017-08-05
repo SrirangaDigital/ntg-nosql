@@ -4,5 +4,6 @@
     "Dance": "नृत्य-छाऊ - पुरुलिया",
     "Venue": "छाऊ नृत्य महोत्सव",
     "ForeignKeyId": "077.542",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.542"
 }

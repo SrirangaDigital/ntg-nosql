@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "लोक नृत्य - लामा विवाह नृत्य",
     "ForeignKeyId": "078.076",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.076"
 }

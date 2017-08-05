@@ -4,5 +4,6 @@
     "Person": "भारत भूषण अग्रवाल",
     "Subject": "काव्य संग्रह",
     "ForeignKeyId": "042.046",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.046"
 }

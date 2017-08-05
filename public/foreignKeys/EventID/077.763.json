@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "किंग उदयन",
     "ForeignKeyId": "077.763",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.763"
 }

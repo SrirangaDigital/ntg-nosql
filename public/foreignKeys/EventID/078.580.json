@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "शमशेर बहादुर सिंह से संबंधित फोटोग्राफ",
     "ForeignKeyId": "078.580",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.580"
 }

@@ -4,5 +4,6 @@
     "Subject": "गोपीचन्द उर्फ जोग का उपदेश, 1985",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.149",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.149"
 }

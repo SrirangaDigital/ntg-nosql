@@ -4,5 +4,6 @@
     "Drama": "सन्ध्यार रंग",
     "Artist": "कनिष्क रॉय, मास्टर नारायण, आसिफ डे एवं अपर्णा चक्रवर्ती",
     "ForeignKeyId": "076.023",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.023"
 }

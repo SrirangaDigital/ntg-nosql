@@ -3,5 +3,6 @@
     "Country": "फीजी",
     "Drama": "अपने अपने दॉव (हिन्दी)",
     "ForeignKeyId": "077.723",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.723"
 }

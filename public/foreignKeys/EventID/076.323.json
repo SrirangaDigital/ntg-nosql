@@ -4,5 +4,6 @@
     "Drama": "विदेसिया",
     "Writer": "भिश्वारी ठाकुर",
     "ForeignKeyId": "076.323",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.323"
 }

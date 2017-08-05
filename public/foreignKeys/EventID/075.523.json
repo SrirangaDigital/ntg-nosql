@@ -4,5 +4,6 @@
     "Drama": "एक फिल्मी प्रेम कहानी",
     "Director": "अखिलेश खन्ना",
     "ForeignKeyId": "075.523",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.523"
 }

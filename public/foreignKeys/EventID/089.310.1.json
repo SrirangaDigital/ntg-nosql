@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - मॉडल",
     "Event": "विकृष्ट थोयेटर के प्ले हाउस का मॉडल",
     "ForeignKeyId": "089.310.1",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.310.1"
 }

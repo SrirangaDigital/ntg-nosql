@@ -8,5 +8,6 @@
     "Translation": "रणवीर सिंह",
     "Artist": "पिंकी वैश्य (अख्तरी), सुनीता लोंणकर (मुश्तरी), एवं आनन्द गुप्त (खॉ साहब)",
     "ForeignKeyId": "076.536",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.536"
 }

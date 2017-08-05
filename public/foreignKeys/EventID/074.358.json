@@ -7,5 +7,6 @@
     "Writer": "प्रेमचन्द",
     "Venue": "जामिया",
     "ForeignKeyId": "074.358",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.358"
 }

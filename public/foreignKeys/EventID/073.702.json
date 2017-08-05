@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "जी. एस. चन्नी (थियेटर वर्क)",
     "ForeignKeyId": "073.702",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.702"
 }

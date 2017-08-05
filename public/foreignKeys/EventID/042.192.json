@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "रामायण बालकाण्ड उर्फ राम जन्मोत्सव, हाथरस, श्याम प्रेस, 1965",
     "ForeignKeyId": "042.192",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.192"
 }

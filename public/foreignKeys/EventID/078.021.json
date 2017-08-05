@@ -4,5 +4,6 @@
     "Dance": "कथपुतली - विदेश",
     "Sponsor": "कठपुतली प्रस्तुती",
     "ForeignKeyId": "078.021",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.021"
 }

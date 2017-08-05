@@ -6,5 +6,6 @@
     "Translator": "जयंती राम पटेल",
     "Director": "यशवंत केलकर",
     "ForeignKeyId": "089.067",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.067"
 }

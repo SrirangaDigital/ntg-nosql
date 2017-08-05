@@ -6,5 +6,6 @@
     "Translation": "अर्चना वर्मा",
     "Director": "विभा मिश्र",
     "ForeignKeyId": "076.606",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.606"
 }

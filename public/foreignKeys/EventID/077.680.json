@@ -7,5 +7,6 @@
     "Artdirector": "शांग शेग यू (Chang Cheng-Yu)",
     "Artist": "पाईशान (Pai Shan) (शकुंतला), मी हसी (Mei Hsi) (दुष्यंत) व अन्य",
     "ForeignKeyId": "077.680",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.680"
 }

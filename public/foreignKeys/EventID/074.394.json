@@ -7,5 +7,6 @@
     "Music": "मोहन उप्रेती",
     "Venue": "लि. थि. ग्रु. सभागार",
     "ForeignKeyId": "074.394",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.394"
 }

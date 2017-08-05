@@ -6,5 +6,6 @@
     "Director": "नीलकमल चटर्जी",
     "Artist": "नीलकमल चटर्जी (खुना), गणेश सिंह (गोयल), तथा नन्दिनी मेहता (पाला मिताली) व अन्य",
     "ForeignKeyId": "073.400",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.400"
 }

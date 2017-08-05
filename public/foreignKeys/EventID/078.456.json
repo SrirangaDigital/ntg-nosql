@@ -3,5 +3,6 @@
     "Photo": "मंजुल भारद्वाज (रंगकर्मी मंजुल भारद्वाज बाल मजदूरों के समूह के साथ शिक्षा कार्य में)",
     "Venue": "चारकोप, मुम्बई",
     "ForeignKeyId": "078.456",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.456"
 }

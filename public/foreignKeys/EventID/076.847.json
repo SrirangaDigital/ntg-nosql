@@ -6,5 +6,6 @@
     "Director": "उमाकांत खेडेकर",
     "Event": "महाराष्ट्र राज्य हिन्दी नाट्य महोत्सव",
     "ForeignKeyId": "076.847",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.847"
 }

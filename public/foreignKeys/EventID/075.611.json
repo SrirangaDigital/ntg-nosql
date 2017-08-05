@@ -4,5 +4,6 @@
     "Drama": "एक था गधा",
     "Writer": "शरद जोशी",
     "ForeignKeyId": "075.611",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.611"
 }

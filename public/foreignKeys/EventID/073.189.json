@@ -7,5 +7,6 @@
     "Roopantaran": "अमरनाथ श्रीवास्तव",
     "Director": "अमरनाथ श्रीवास्तव",
     "ForeignKeyId": "073.189",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.189"
 }

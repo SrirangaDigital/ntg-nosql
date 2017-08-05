@@ -5,5 +5,6 @@
     "Writer": "हरीश वर्मा",
     "Director": "हरीश वर्मा",
     "ForeignKeyId": "074.177",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.177"
 }

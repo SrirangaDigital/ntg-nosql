@@ -6,5 +6,6 @@
     "Version": "सिद्देश्वर अवस्थी",
     "Director": "त्रिपुरारी शर्मा",
     "ForeignKeyId": "073.120",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.120"
 }

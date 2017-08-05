@@ -5,5 +5,6 @@
     "Writer": "विष्ग्णुशर्मा (संस्कृत)",
     "Director": "शांति बर्धन",
     "ForeignKeyId": "076.190",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.190"
 }

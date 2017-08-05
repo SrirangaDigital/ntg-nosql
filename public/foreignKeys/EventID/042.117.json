@@ -4,5 +4,6 @@
     "Person": "Shastri, Harprasad and others",
     "Subject": "The origin of Indian Drama",
     "ForeignKeyId": "042.117",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.117"
 }

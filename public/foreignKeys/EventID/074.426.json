@@ -7,5 +7,6 @@
     "Director": "बिपिन कुमार",
     "Artist": "राजेन्द्र गुप्ता, श्रीवर्धन त्रिवेदी, जी. पी. नामदेव, भारती शर्मा",
     "ForeignKeyId": "074.426",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.426"
 }

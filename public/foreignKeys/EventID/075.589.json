@@ -5,5 +5,6 @@
     "Director": "रमेश नायडू",
     "Event": "छठा बाल नाट्योत्सव",
     "ForeignKeyId": "075.589",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.589"
 }

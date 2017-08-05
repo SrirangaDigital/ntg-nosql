@@ -6,5 +6,6 @@
     "Director": "योगेश पन्त",
     "Venue": "बी. एम. शाह प्रेक्षागृह, लखनऊ",
     "ForeignKeyId": "073.361",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.361"
 }

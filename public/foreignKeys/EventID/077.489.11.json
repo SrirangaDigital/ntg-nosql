@@ -6,5 +6,6 @@
     "Director": "बासू चटर्जी",
     "Artist": "एम. के. रैना, पंकज कपूर, अमिताभ श्रीवास्तव, के. के. रैना, एस. एम. ज़हीर अनु कपूर व अन्य",
     "ForeignKeyId": "077.489.11",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.11"
 }

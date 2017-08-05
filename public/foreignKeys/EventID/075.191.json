@@ -6,5 +6,6 @@
     "Director": "एम. के. रैना",
     "Artist": "सौरव शुक्ला, हेमा सिंह, सीमा भार्गव",
     "ForeignKeyId": "075.191",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.191"
 }

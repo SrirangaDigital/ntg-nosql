@@ -3,5 +3,6 @@
     "Country": "क्रोशिया",
     "Drama": "BARB",
     "ForeignKeyId": "077.676",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.676"
 }

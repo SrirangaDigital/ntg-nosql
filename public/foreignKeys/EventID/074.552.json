@@ -6,5 +6,6 @@
     "Director": "शांता गांधी",
     "Artist": "ओम शिवपुरी",
     "ForeignKeyId": "074.552",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.552"
 }

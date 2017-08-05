@@ -4,5 +4,6 @@
     "Drama": "इगलू-इगलू",
     "Director": "माया कृष्ण राव",
     "ForeignKeyId": "075.249",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.249"
 }

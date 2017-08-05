@@ -8,5 +8,6 @@
     "Venue": "समुख सभागार, राष्ट्रीय नाट्य विद्यालय",
     "Year": "30 जुलाई 2003",
     "ForeignKeyId": "074.332.057",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.057"
 }

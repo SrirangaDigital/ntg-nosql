@@ -9,5 +9,6 @@
     "Light": "राज बिसारिया",
     "Artist": "युगल, गुंजन खरे, राजू व अन्य",
     "ForeignKeyId": "073.293",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.293"
 }

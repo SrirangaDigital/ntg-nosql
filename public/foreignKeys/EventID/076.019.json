@@ -5,5 +5,6 @@
     "Director": "केतकी दत्त",
     "Artist": "केतकी दत्त व अन्य",
     "ForeignKeyId": "076.019",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.019"
 }

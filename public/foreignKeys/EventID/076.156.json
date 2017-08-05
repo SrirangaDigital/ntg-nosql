@@ -7,5 +7,6 @@
     "Director": "तृप्ति मित्रा",
     "Artist": "उषा गांगुली व अन्य",
     "ForeignKeyId": "076.156",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.156"
 }

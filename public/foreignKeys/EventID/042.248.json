@@ -5,5 +5,6 @@
     "Subject": "प्रेममूर्ति राधिका",
     "Editor": "मधुकर राहेरिया",
     "ForeignKeyId": "042.248",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.248"
 }

@@ -3,5 +3,6 @@
     "Drama": "अजुवा बफौल",
     "Artist": "ब्रज मोहन वडोला",
     "ForeignKeyId": "077.489.2",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.2"
 }

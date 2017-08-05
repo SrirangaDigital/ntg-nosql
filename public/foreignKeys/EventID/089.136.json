@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - कुतम्बलम्",
     "Event": "गुरुवायूर कुतम्बलम्, दीपस्तंभ",
     "ForeignKeyId": "089.136",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.136"
 }

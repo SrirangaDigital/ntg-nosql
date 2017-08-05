@@ -4,5 +4,6 @@
     "Place": "न्यूयार्क",
     "Event": "प्राचीन भारतीय रंगमंच का पुनर्निमाण (विकृष्ट नाट्यशास्त्र)",
     "ForeignKeyId": "077.630",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.630"
 }

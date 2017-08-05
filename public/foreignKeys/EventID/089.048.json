@@ -8,5 +8,6 @@
     "Translator": "मुद्राराक्षस",
     "Director": "मुहम्मद पाशा",
     "ForeignKeyId": "089.048",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.048"
 }

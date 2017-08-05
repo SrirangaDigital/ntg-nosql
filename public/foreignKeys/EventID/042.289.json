@@ -4,5 +4,6 @@
     "Subject": "शकुन्तला उर्फ मतवाला मुनि, 1962",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.289",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.289"
 }

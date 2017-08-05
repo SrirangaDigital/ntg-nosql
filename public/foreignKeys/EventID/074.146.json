@@ -6,5 +6,6 @@
     "Director": "राजिन्दर नाथ",
     "Artist": "सुधा चौपड़ा, श्याम अरोड़ा एवं अन्य",
     "ForeignKeyId": "074.146",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.146"
 }

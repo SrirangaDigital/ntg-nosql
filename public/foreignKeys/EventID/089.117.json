@@ -7,5 +7,6 @@
     "Venue": "भारत भवन, भोपाल",
     "Year": "11-12 अप्रैल 1995",
     "ForeignKeyId": "089.117",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.117"
 }

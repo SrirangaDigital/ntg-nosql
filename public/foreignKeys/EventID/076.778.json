@@ -8,5 +8,6 @@
     "Artist": "एन. बी. दास, मंदिरा मुखर्जी",
     "Dance": "रश्मि वाजपेयी",
     "ForeignKeyId": "076.778",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.778"
 }

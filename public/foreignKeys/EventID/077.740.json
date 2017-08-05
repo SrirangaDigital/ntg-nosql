@@ -5,5 +5,6 @@
     "Director": "Gedryus Matzkyavi Chus",
     "Venue": "मॉस्को",
     "ForeignKeyId": "077.740",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.740"
 }

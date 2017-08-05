@@ -5,5 +5,6 @@
     "Subject": "कंजूस",
     "Conversion": "हजरत आवारा",
     "ForeignKeyId": "042.064",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.064"
 }

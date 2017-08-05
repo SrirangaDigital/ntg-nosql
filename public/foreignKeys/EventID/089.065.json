@@ -8,5 +8,6 @@
     "Artist": "रमनजीत (यर्मा)",
     "Music": "ब. व. कारंत",
     "ForeignKeyId": "089.065",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.065"
 }

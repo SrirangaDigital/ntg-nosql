@@ -4,5 +4,6 @@
     "Drama": "अनोखा वरदान (हिन्दी)",
     "Writer": "रेखा जैन",
     "ForeignKeyId": "077.385",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.385"
 }

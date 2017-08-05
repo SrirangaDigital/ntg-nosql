@@ -4,5 +4,6 @@
     "Place": "मथुरा",
     "Event": "चन्दनज़ी चतुर्वेदी शताब्दी का पूरक ध्रुवपद बानी परिसंवाद समारो",
     "ForeignKeyId": "089.350",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.350"
 }

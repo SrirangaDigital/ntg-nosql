@@ -4,5 +4,6 @@
     "Drama": "बाबा जित्तो (डोगरी)",
     "Director": "बलवंत ठाकुर",
     "ForeignKeyId": "073.732",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.732"
 }

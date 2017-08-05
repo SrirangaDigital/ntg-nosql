@@ -6,5 +6,6 @@
     "Venue": "त्रिवेणी सभागार, दिल्ली",
     "Year": "16 अगस्त 1994",
     "ForeignKeyId": "089.326",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.326"
 }

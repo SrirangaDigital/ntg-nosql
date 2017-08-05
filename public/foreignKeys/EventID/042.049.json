@@ -4,5 +4,6 @@
     "Person": "भारत भूषण अग्रवाल",
     "Subject": "लौटती लहरों की  बॉसुरी - भाग - 3",
     "ForeignKeyId": "042.049",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.049"
 }

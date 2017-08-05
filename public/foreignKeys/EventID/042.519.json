@@ -6,5 +6,6 @@
     "Camp-director": "बंसी कौल",
     "Editor": "प्रभात कुमार भट्टाचार्य",
     "ForeignKeyId": "042.519",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.519"
 }

@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Drama": "गम्मत (निमाड़ी) (पारम्परिक नाट्य)",
     "ForeignKeyId": "077.530",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.530"
 }

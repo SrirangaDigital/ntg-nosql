@@ -7,5 +7,6 @@
     "Director": "राजकमल नायक",
     "Venue": "रवीन्द्र भवन, भोपाल",
     "ForeignKeyId": "076.585",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.585"
 }

@@ -4,5 +4,6 @@
     "Subject": "फुलादे केशर सिंह को ख्याल, 1899",
     "Person": "रामलाल जी",
     "ForeignKeyId": "042.236",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.236"
 }

@@ -5,5 +5,6 @@
     "Director": "भास्कर शिवालकर",
     "Venue": "मैक्समूलर भवन, हैदराबाद",
     "ForeignKeyId": "073.015",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.015"
 }

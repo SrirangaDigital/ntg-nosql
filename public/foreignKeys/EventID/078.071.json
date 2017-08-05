@@ -3,5 +3,6 @@
     "Place": "ग्वालियर",
     "Dance": "लोक नृत्य - राजस्थानी नृत्य",
     "ForeignKeyId": "078.071",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.071"
 }

@@ -8,5 +8,6 @@
     "Stage": "मुरारी लाल",
     "Artist": "लुईस सिंह (कुबेर), शिवमूर्ति चतुर्वेदी (बाबू), जयश्री भट्टाचार्य (पत्नी) व अवधेश चन्द्र (सूत्रधार)",
     "ForeignKeyId": "073.077",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.077"
 }

@@ -4,5 +4,6 @@
     "Person": "श्रीकृष्ण",
     "Subject": "पूरनमल उर्फ बाल ब्रह्मचारी, कानपुर, श्रीकृष्ण खत्री, 1957",
     "ForeignKeyId": "042.307",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.307"
 }

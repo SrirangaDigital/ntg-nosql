@@ -8,5 +8,6 @@
     "Director": "शशांक बहुगुणा",
     "Book": "भारतीय रंगकोश-प्रतिभा अग्रवाल (अनु. व निर्देशीय सूचना)",
     "ForeignKeyId": "089.008",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.008"
 }

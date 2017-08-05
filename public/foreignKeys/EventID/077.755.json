@@ -2,5 +2,6 @@
     "Aid": "99",
     "Event": "साऊथ ईस्ट एशिया नाट्य प्रस्तुति",
     "ForeignKeyId": "077.755",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.755"
 }

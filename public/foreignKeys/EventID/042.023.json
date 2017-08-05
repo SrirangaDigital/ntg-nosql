@@ -4,5 +4,6 @@
     "Person": "खन्ना",
     "Subject": "इन प्रश्न का उत्तर दो",
     "ForeignKeyId": "042.023",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.023"
 }

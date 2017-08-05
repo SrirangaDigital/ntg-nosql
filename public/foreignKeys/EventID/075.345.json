@@ -5,5 +5,6 @@
     "Writer": "माया कृष्ण राव",
     "Director": "माया कृष्ण राव",
     "ForeignKeyId": "075.345",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.345"
 }

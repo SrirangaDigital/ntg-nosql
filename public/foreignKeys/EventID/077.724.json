@@ -10,5 +10,6 @@
     "Venue": "अभिमंच सभागार, दिल्ली",
     "Host": "नटरंग प्रतिष्ठान एवं रा. ना. वि. द्वार आयोजित `पूर्वा' में मंचित नाटक ।",
     "ForeignKeyId": "077.724",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.724"
 }

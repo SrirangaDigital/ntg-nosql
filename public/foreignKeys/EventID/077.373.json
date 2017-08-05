@@ -4,5 +4,6 @@
     "Dance": "महान सम्यताओं का पतन बाहरी आक्रमणों से नहीं होगा",
     "Event": "भाषायी नाट्य समारोह",
     "ForeignKeyId": "077.373",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.373"
 }

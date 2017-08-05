@@ -5,5 +5,6 @@
     "Photo": "ग्रुप फोटो",
     "Venue": "ग्लोब थियेटर, लंदन",
     "ForeignKeyId": "077.641",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.641"
 }

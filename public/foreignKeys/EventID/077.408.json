@@ -7,5 +7,6 @@
     "Translator": "यामा अग्रवाल",
     "Director": "वागीश कुमार सिंह",
     "ForeignKeyId": "077.408",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.408"
 }

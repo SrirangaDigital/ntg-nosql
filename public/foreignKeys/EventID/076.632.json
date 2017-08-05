@@ -5,5 +5,6 @@
     "Writer": "अंतोन चेखव",
     "Director": "अलखनंदन",
     "ForeignKeyId": "076.632",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.632"
 }

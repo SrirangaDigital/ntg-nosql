@@ -8,5 +8,6 @@
     "Costume": "(Ingrid Rahaus)",
     "Choreography": "गुरु कृष्णन कुट्टी",
     "ForeignKeyId": "077.690",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.690"
 }

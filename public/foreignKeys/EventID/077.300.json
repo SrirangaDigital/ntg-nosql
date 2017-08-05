@@ -4,5 +4,6 @@
     "Drama": "श्रीमंत (मराठी)",
     "Artist": "विजया मेहता",
     "ForeignKeyId": "077.300",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.300"
 }

@@ -4,5 +4,6 @@
     "Drama": "नटी बिनोदिनी (बांग्ला) (जात्रा शैली में)",
     "Writer": "चितरंजन घोष",
     "ForeignKeyId": "076.014",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.014"
 }

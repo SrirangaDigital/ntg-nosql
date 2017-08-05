@@ -15,5 +15,6 @@
     "Book": "रंगयात्रा-II (सूचना स्रोत पुस्तक)",
     "Venue": "दिल्ली",
     "ForeignKeyId": "075.113.0",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.113.0"
 }

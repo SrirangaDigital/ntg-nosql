@@ -4,5 +4,6 @@
     "Drama": "एक गुनाह मेरा",
     "Director": "ए. जी. खान",
     "ForeignKeyId": "077.376",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.376"
 }

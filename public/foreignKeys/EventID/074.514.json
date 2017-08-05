@@ -4,5 +4,6 @@
     "Photo": "रामगोपाल बजाज",
     "Event": "दीक्षान्त समारोह",
     "ForeignKeyId": "074.514",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.514"
 }

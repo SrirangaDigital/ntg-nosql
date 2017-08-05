@@ -5,5 +5,6 @@
     "Event": "नाटक पोलमपुर का",
     "Writer": "मणि मधुकर",
     "ForeignKeyId": "089.430",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.430"
 }

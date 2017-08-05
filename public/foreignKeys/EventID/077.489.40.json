@@ -4,5 +4,6 @@
     "Writer": "सतीश आलेकर (मराठी)",
     "Translation": "प्रकाश भाटनेडकर - प्रकाश मातम्बेकर (इस प्रस्तुति के लिए काई एक हैं)",
     "ForeignKeyId": "077.489.40",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.40"
 }

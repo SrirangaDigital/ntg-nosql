@@ -6,5 +6,6 @@
     "Translation": "कल्पना धिमिरे",
     "Director": "सुनील पोखरेल",
     "ForeignKeyId": "077.715",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.715"
 }

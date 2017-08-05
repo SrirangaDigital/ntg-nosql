@@ -6,5 +6,6 @@
     "Director": "राज बिसारिया",
     "Artist": "राज बिसारिया, सुनीता सूर्या, फरहत कुमार व अ",
     "ForeignKeyId": "073.272",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.272"
 }

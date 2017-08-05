@@ -6,5 +6,6 @@
     "Artist": "लक्ष्मण देशपांडे",
     "Venue": "अभिमंच सभागार, रा. ना. वि.",
     "ForeignKeyId": "074.545",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.545"
 }

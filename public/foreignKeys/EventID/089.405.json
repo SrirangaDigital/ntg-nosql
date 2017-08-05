@@ -6,5 +6,6 @@
     "Director": "हरीश भाटिया",
     "Year": "1984",
     "ForeignKeyId": "089.405",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.405"
 }

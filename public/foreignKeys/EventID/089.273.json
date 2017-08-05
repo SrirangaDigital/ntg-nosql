@@ -6,5 +6,6 @@
     "Writer": "ललित मोहन थपल्याल",
     "Director": "ललित मोहन थपल्याल",
     "ForeignKeyId": "089.273",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.273"
 }

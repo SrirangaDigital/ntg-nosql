@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "विजय तेंदुलकर की व्यक्तिगत तस्वीरें",
     "ForeignKeyId": "078.548",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.548"
 }

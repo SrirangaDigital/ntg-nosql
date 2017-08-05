@@ -7,5 +7,6 @@
     "Director": "ब. व. कारन्त",
     "Artist": "सरदार पटेल विद्यालय के शिक्षकीं के साथ",
     "ForeignKeyId": "075.576",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.576"
 }

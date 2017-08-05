@@ -3,5 +3,6 @@
     "Place": "भिलाई",
     "Drama": "नाट्य कार्यशाला",
     "ForeignKeyId": "076.583",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.583"
 }

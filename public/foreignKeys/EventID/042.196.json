@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "लज्जावती उर्फ धर्म की देवी, हाथरस, श्याम प्रेस, 1984",
     "ForeignKeyId": "042.196",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.196"
 }

@@ -4,5 +4,6 @@
     "Drama": "रायगडाला जेव्हां जाग चेते",
     "Director": "यशवंत केलकर",
     "ForeignKeyId": "073.612",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.612"
 }

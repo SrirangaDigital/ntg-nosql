@@ -4,5 +4,6 @@
     "Drama": "गोर्की की नजर से (चेखव कटघरे में)",
     "Director": "सुब्रो भट्टाचार्य",
     "ForeignKeyId": "075.408",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.408"
 }

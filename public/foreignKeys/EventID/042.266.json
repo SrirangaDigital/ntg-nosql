@@ -4,5 +4,6 @@
     "Subject": "राजा हरिश्चन्द्र, 1955",
     "Person": "चेतराम सिंह",
     "ForeignKeyId": "042.266",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.266"
 }

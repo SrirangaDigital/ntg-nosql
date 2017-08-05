@@ -4,5 +4,6 @@
     "Drama": "अंधायुग",
     "Writer": "धर्मवीर भारती",
     "ForeignKeyId": "077.344",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.344"
 }

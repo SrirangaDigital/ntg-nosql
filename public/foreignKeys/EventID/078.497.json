@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "माया राव (रंगकर्मी) (न. प्र. के आयोजन, रंगलोचन में तैयार फोटो)",
     "ForeignKeyId": "078.497",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.497"
 }

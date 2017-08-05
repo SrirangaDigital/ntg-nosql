@@ -4,5 +4,6 @@
     "Editor": "रामचन्द्र शर्मा `महारथी' एवं अन्य",
     "Subject": "खूने लाजपत. दिल्ली, स्वर्ण जयंती, 1928",
     "ForeignKeyId": "042.268",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.268"
 }

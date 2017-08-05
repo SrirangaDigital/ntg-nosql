@@ -3,5 +3,6 @@
     "Drama": "मृच्छकटिकम्",
     "Writer": "शूद्रक (संस्कृत)",
     "ForeignKeyId": "076.832",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.832"
 }

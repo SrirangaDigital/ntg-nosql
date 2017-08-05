@@ -15,5 +15,6 @@
     "Director": "राजबिसारिया",
     "Artist": "सुरेश काला (मारलस), सुशील भोले (फ्लेवियस), योगेश पाठक (सीज़र), योगेश त्रिवेदी (ब्रूटस) व अन्य",
     "ForeignKeyId": "073.335",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.335"
 }

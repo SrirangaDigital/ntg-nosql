@@ -2,5 +2,6 @@
     "Aid": "02",
     "Dance": "कठपुतली - तोगलु गोम्बेयाट (पारम्परिक शैडो पपिट थियेटर)",
     "ForeignKeyId": "078.004",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.004"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "बाल गंधर्व (26 जून 1888-15 जुलाई 1968) (रंगकर्मी व कलाकार)",
     "ForeignKeyId": "078.437",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.437"
 }

@@ -12,5 +12,6 @@
     "Artist": "दीना गाँधी (मेना गुर्जरी) व अन्य",
     "Venue": "अहमदाबाद",
     "ForeignKeyId": "073.596",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.596"
 }

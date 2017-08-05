@@ -5,5 +5,6 @@
     "Translation": "कामिल बुल्के",
     "Director": "पहलाद अग्रवा",
     "ForeignKeyId": "073.646",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.646"
 }

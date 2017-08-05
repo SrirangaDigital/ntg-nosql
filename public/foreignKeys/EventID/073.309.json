@@ -6,5 +6,6 @@
     "Director": "बंसी कौल",
     "Artist": "विजय वास्तव (राजा), विमल बनर्जी (असहाय पति) तथा शोभना अग्रवाल (मजबूर औरत)",
     "ForeignKeyId": "073.309",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.309"
 }

@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "विजय तेंदुलकर",
     "ForeignKeyId": "078.547",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.547"
 }

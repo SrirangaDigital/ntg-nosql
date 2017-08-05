@@ -6,5 +6,6 @@
     "Director": "प्रेमा कारंत",
     "Music": "ब. व. कारंत",
     "ForeignKeyId": "073.472",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.472"
 }

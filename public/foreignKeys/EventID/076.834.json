@@ -6,5 +6,6 @@
     "Translation": "विंदा करंदीकर (मराठी)",
     "Director": "शरद भुयाड़िया",
     "ForeignKeyId": "076.834",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.834"
 }

@@ -4,5 +4,6 @@
     "Drama": "चावेरप्पाडा (मलयालम)",
     "Director": "कनकथ पदमनाभन् और सी. के. थॉमस",
     "ForeignKeyId": "074.285",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.285"
 }

@@ -6,5 +6,6 @@
     "Director": "सच्चिदानंद जोशी",
     "Cinematographer": "डी. पी. मिश्रा",
     "ForeignKeyId": "076.613",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.613"
 }

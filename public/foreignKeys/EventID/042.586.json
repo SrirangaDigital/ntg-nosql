@@ -8,5 +8,6 @@
     "Artist": "जयनन्द दवे, रमा देसाई, मधुबेन शाह, नयना झवेरी, रतिलाल, लालू शाह, जयानन्द ... आदि",
     "Year": "25-03-1955",
     "ForeignKeyId": "042.586",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.586"
 }

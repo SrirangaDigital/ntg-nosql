@@ -4,5 +4,6 @@
     "Drama": "चार यारेर पाला (बांग्ला)",
     "Director": "आलोक बैनर्जी",
     "ForeignKeyId": "076.246",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.246"
 }

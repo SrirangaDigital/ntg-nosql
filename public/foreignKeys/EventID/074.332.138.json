@@ -6,5 +6,6 @@
     "Venue": "त्रिवेणी सभागार",
     "Year": "5 अगस्त 1993",
     "ForeignKeyId": "074.332.138",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.138"
 }

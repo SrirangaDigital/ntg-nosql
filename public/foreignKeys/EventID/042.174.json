@@ -4,5 +4,6 @@
     "Person": "नथाराम शर्मा गौड़",
     "Subject": "गोपीचन्द उर्फ जोग का उपदेश, हाथरस, नथाराम मार्ग, श्याम प्रेस, 1985",
     "ForeignKeyId": "042.174",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.174"
 }

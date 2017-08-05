@@ -6,5 +6,6 @@
     "Director": "कौशिक सेन",
     "Artist": "चित्रा सेन व अन्य",
     "ForeignKeyId": "076.147",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.147"
 }

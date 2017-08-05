@@ -3,5 +3,6 @@
     "Country": "ओमान",
     "Drama": "सुर का सफर",
     "ForeignKeyId": "077.665",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.665"
 }

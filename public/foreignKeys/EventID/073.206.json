@@ -4,5 +4,6 @@
     "Drama": "बड़े आदमी",
     "Writer": "रमेश मेहता",
     "ForeignKeyId": "073.206",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.206"
 }

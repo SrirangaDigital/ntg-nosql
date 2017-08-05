@@ -8,5 +8,6 @@
     "Music": "मोहन उप्रेती",
     "Artist": "राम गोपाल बजाज, रवि कौशल, अखिलेश खन्ना",
     "ForeignKeyId": "075.078",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.078"
 }

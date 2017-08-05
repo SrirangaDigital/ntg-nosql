@@ -5,5 +5,6 @@
     "Writer": "इल्मर राइस",
     "Director": "बैरी जॉन",
     "ForeignKeyId": "074.496",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.496"
 }

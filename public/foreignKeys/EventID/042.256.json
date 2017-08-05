@@ -4,5 +4,6 @@
     "Subject": "माड़ौ की लड़ाई, मेरठ",
     "Person": "एम. सी. मटरूलाल",
     "ForeignKeyId": "042.256",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.256"
 }

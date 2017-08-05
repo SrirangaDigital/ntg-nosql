@@ -5,5 +5,6 @@
     "Writer": "रमेश बक्षी",
     "Director": "देवकान्त शुक्ल",
     "ForeignKeyId": "073.624",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.624"
 }

@@ -4,5 +4,6 @@
     "Drama": "गोदान",
     "Writer": "प्रेमचन्द्र",
     "ForeignKeyId": "076.035",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.035"
 }

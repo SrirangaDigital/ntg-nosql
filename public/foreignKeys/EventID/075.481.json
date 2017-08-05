@@ -5,5 +5,6 @@
     "Director": "अनूप त्रिवेदी",
     "Venue": "श्रीराम सेंटर सभागार",
     "ForeignKeyId": "075.481",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.481"
 }

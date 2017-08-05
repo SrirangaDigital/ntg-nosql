@@ -10,5 +10,6 @@
     "Music": "मोहनलाल सिंह",
     "Dress": "मनि मिर, बादल गांगुली",
     "ForeignKeyId": "042.529",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.529"
 }

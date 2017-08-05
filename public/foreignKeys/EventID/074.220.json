@@ -3,5 +3,6 @@
     "Place": "दिल्ली",
     "Drama": "तू क्यों रोता है गिरधर",
     "ForeignKeyId": "074.220",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.220"
 }

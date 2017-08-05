@@ -3,5 +3,6 @@
     "Country": "रूस",
     "Drama": "रामायण",
     "ForeignKeyId": "077.743",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.743"
 }

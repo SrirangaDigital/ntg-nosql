@@ -3,5 +3,6 @@
     "Place": "इलाहाबाद",
     "Event": "विविध",
     "ForeignKeyId": "073.053",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.053"
 }

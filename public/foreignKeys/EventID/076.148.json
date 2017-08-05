@@ -5,5 +5,6 @@
     "Writer": "बुददेव बोस",
     "Director": "कौशिक सेन",
     "ForeignKeyId": "076.148",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.148"
 }

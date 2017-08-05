@@ -6,5 +6,6 @@
     "Translator": "वसंत देव",
     "Director": "सतीश आनन्द",
     "ForeignKeyId": "076.304",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.304"
 }

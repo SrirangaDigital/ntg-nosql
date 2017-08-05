@@ -3,5 +3,6 @@
     "Place": "दिल्ली",
     "Drama": "गिरगिट",
     "ForeignKeyId": "074.219",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.219"
 }

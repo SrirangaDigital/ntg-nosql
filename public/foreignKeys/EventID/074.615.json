@@ -7,5 +7,6 @@
     "Director": "रघुनंदन",
     "Dress": "अभिलाषा पिल्लई",
     "ForeignKeyId": "074.615",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.615"
 }

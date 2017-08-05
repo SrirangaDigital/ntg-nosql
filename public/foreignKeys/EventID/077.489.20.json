@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "देखो ड्रैगन (हिन्दी)",
     "ForeignKeyId": "077.489.20",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.20"
 }

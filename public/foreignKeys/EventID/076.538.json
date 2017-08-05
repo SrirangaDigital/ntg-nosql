@@ -6,5 +6,6 @@
     "Director": "विश्वभावन देवलिया",
     "Artist": "गंगा मिश्र (सहायक), उमाकांत रावत (आत्महत्या अधिकारी)",
     "ForeignKeyId": "076.538",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.538"
 }

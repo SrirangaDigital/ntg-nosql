@@ -3,5 +3,6 @@
     "Card-type": "दुर्लभ डायरी",
     "Subject": "भ्रमर गीत - महाकवियों की वाणी के आधार पर एक रूपक",
     "ForeignKeyId": "042.056",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.056"
 }

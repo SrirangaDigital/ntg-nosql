@@ -5,5 +5,6 @@
     "Writer": "तुलसी लाहिडी",
     "Director": "शंभु मित्र",
     "ForeignKeyId": "076.125",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.125"
 }

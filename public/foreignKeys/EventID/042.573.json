@@ -12,5 +12,6 @@
     "Venue": "पोदार कॉलेज हॉल, मंतुंगा",
     "Year": "14, 16, 17 अग., 1957",
     "ForeignKeyId": "042.573",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.573"
 }

@@ -8,5 +8,6 @@
     "Secondvikrut": "प्रतिभा अग्रवाल",
     "Translation": "प्रतिभा अग्रवाल",
     "ForeignKeyId": "077.064",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.064"
 }

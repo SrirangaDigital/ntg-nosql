@@ -6,5 +6,6 @@
     "Translator": "सान्तवना निगम",
     "Director": "एस. डी. चौहान",
     "ForeignKeyId": "077.420",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.420"
 }

@@ -5,5 +5,6 @@
     "Director": "नीना गुप्ता",
     "Artist": "मनोहर सिंह, नीना गुप्ता व अन्य साथी कलाकार",
     "ForeignKeyId": "077.164",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.164"
 }

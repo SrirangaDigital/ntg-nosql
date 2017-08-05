@@ -6,5 +6,6 @@
     "Artist": "शोबा सेन, उत्पल दत्त, सत्य बंधोपाध्याय, चंदा चटर्जी व अन्य",
     "Venue": "कोलकाता",
     "ForeignKeyId": "076.106",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.106"
 }

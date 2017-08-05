@@ -2,5 +2,6 @@
     "Aid": "03",
     "Event": "उत्तरा बावकर शास्त्रीय संगीत सीखते हुए",
     "ForeignKeyId": "078.146",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.146"
 }

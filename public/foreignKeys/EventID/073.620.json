@@ -4,5 +4,6 @@
     "Writer": "चन्द्रशेखर कम्बार",
     "Director": "जयश्री",
     "ForeignKeyId": "073.620",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.620"
 }

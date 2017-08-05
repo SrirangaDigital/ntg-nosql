@@ -4,5 +4,6 @@
     "Drama": "भूखा बंगाल",
     "Photo": "नेमिचन्द्र जैन",
     "ForeignKeyId": "078.299",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.299"
 }

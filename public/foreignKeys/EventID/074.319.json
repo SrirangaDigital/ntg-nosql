@@ -4,5 +4,6 @@
     "Drama": "सोहनी महिवाल",
     "Director": "शीला भाटिया",
     "ForeignKeyId": "074.319",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.319"
 }

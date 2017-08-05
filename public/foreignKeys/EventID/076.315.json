@@ -6,5 +6,6 @@
     "Version": "जावेद अख़्तर खाँ, छोटे लाल खड",
     "Artist": "शाहस्ता रशीद, मोना झा",
     "ForeignKeyId": "076.315",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.315"
 }

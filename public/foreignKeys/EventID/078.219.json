@@ -2,5 +2,6 @@
     "Aid": "03",
     "Person": "गोहरजान",
     "ForeignKeyId": "078.219",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.219"
 }

@@ -6,5 +6,6 @@
     "Director": "विवेकदत्त झा",
     "Artist": "माया शाह (मल्लिका), विभूतिदत्त झा (कालिदास), आलोक प्रताप सिंह (विलोम), वन्दना भट्ट (अम्बिका) की भूमिका में",
     "ForeignKeyId": "076.813",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.813"
 }

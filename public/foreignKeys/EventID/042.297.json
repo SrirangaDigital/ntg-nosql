@@ -4,5 +4,6 @@
     "Subject": "शीशराम के ख्याल",
     "Person": "शीशराम",
     "ForeignKeyId": "042.297",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.297"
 }

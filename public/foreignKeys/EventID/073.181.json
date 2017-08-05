@@ -6,5 +6,6 @@
     "Director": "गिरीश रस्तोगी",
     "Venue": "गोरखपुर क्लब, गोरखपुर",
     "ForeignKeyId": "073.181",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.181"
 }

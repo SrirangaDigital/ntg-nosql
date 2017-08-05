@@ -4,5 +4,6 @@
     "Person": "Gandhi, Shanta",
     "Subject": "Report on U.N.E.S.C.O. Fellowship Study Tour in ``Theatre Education, Theatre in Education, and Theatre, Production 1959-1960",
     "ForeignKeyId": "042.108",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.108"
 }

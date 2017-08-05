@@ -10,5 +10,6 @@
     "Artist": "लोहितस्व, मालती, सत्य संध, चन्द्रशेखर, रवीन्द्र, यतीश कुमार, सुरेन्द्र, चूड़ामणि, रमेश पण्डित, शशि कला व अन्य",
     "Venue": "बंगलूर",
     "ForeignKeyId": "073.454",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.454"
 }

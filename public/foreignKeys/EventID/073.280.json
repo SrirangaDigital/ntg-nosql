@@ -6,5 +6,6 @@
     "Director": "अमरेन्द्र सहाय",
     "Artist": "विकास श्रीवास्तव (बाल अश्वत्थामा), योमेश योग (द्रोणाचार्य), प्रमिला मिश्रा (कृपी)",
     "ForeignKeyId": "073.280",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.280"
 }

@@ -5,5 +5,6 @@
     "Writer": "रामनाथ शास्त्री",
     "Director": "बलवंत ठाकुर",
     "ForeignKeyId": "073.736",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.736"
 }

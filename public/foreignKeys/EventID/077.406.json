@@ -3,5 +3,6 @@
     "Place": "बीकानेर",
     "Drama": "गुंगबोग",
     "ForeignKeyId": "077.406",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.406"
 }

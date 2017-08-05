@@ -4,5 +4,6 @@
     "Drama": "अनिरुद्ध (बांग्ला)",
     "Artist": "कुमार रॉय, ममता चैटर्जी, दीपक बैनर्जी व अन्य",
     "ForeignKeyId": "076.058",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.058"
 }

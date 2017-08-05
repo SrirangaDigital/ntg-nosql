@@ -4,5 +4,6 @@
     "Subject": "नाट्य सुधा भाग - 1 : प्राचीन नाटकों की कथाएॅ",
     "Person": "कैलाशचन्द्र भटनागर",
     "ForeignKeyId": "042.214",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.214"
 }

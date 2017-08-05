@@ -2,5 +2,6 @@
     "Aid": "01",
     "Drama": "राम की शक्ति पूजा",
     "ForeignKeyId": "077.489.33",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.489.33"
 }

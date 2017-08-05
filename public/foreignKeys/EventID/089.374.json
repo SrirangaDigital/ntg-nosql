@@ -6,5 +6,6 @@
     "Venue": "भारत भवन, भोपाल",
     "Year": "मार्च - अप्रैल 1994",
     "ForeignKeyId": "089.374",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.374"
 }

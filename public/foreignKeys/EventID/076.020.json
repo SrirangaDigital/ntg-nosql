@@ -4,5 +4,6 @@
     "Drama": "यक्ष (बांग्ला)",
     "Artist": "ममता चटर्जी, रेबा डे, प्रदीप बनर्जी व अन्य",
     "ForeignKeyId": "076.020",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.020"
 }

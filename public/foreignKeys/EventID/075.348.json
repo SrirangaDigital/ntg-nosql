@@ -5,5 +5,6 @@
     "Writer": "दयाप्रकाश सिन्हा",
     "Director": "दयाप्रकाश सिन्हा",
     "ForeignKeyId": "075.348",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.348"
 }

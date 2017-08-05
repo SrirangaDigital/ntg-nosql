@@ -4,5 +4,6 @@
     "Subject": "The Hindu",
     "Year": "1998",
     "ForeignKeyId": "042.420",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.420"
 }

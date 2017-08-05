@@ -7,5 +7,6 @@
     "Director": "आर. नरेन्द्र प्रसाद",
     "Year": "12-01-1986",
     "ForeignKeyId": "089.298",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.298"
 }

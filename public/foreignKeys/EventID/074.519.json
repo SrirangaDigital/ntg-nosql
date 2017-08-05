@@ -7,5 +7,6 @@
     "Artist": "आशीष विद्यार्थी",
     "Venue": "अभिमंच",
     "ForeignKeyId": "074.519",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.519"
 }

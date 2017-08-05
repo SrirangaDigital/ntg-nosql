@@ -3,5 +3,6 @@
     "Card-type": "अन्य विषय - कुतम्बलम्",
     "Event": "वड़क्कूनाथन मंदिर का लकड़ी का धेरा",
     "ForeignKeyId": "089.155",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "089.155"
 }

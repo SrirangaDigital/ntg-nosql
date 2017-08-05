@@ -7,5 +7,6 @@
     "Director": "इब्राहीम अलकाज़ी",
     "Artist": "मनोहर सिंह",
     "ForeignKeyId": "075.047",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.047"
 }

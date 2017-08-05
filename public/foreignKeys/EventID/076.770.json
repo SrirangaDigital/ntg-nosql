@@ -3,5 +3,6 @@
     "Place": "भोपाल",
     "Director": "बंसी कौल",
     "ForeignKeyId": "076.770",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.770"
 }

@@ -4,5 +4,6 @@
     "Drama": "जाल",
     "Director": "विपिनशर्मा",
     "ForeignKeyId": "075.530",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.530"
 }

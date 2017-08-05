@@ -5,5 +5,6 @@
     "Director": "रुच. के. योग",
     "Music": "नरसिम्हा",
     "ForeignKeyId": "073.480",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.480"
 }

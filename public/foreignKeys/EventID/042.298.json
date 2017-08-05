@@ -4,5 +4,6 @@
     "Person": "शीशराम",
     "Subject": "शीशराम के ख्याल, मेरठ, जनरल पब्लिशिंग हाऊस",
     "ForeignKeyId": "042.298",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.298"
 }

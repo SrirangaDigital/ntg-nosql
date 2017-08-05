@@ -6,5 +6,6 @@
     "Director": "सुशील कुमार सिंह",
     "Artist": "के. कुमार (आचार्य रामानुज), अरुण गुप्ता (यमुनाचार्य), विजय दीक्षित (विक्षिप्त चिंतक)",
     "ForeignKeyId": "073.145",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.145"
 }

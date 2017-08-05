@@ -7,5 +7,6 @@
     "Director": "निर्मला देशमानकर",
     "Artist": "विजय मोडक, विजय दलव, उदय शहाणे व अन्य",
     "ForeignKeyId": "076.518",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.518"
 }

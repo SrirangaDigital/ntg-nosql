@@ -6,5 +6,6 @@
     "Writer": "कुसुम कुमार",
     "Director": "रवि शर्मा",
     "ForeignKeyId": "073.134",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.134"
 }

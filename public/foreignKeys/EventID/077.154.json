@@ -7,5 +7,6 @@
     "Director": "विजया मेहता",
     "Event": "सातवे राष्ट्रीय नाट्य समारोह",
     "ForeignKeyId": "077.154",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.154"
 }

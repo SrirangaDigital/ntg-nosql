@@ -2,5 +2,6 @@
     "Aid": "03",
     "Photo": "पीर गुलाम (प्रकाश-व्यवस्था)",
     "ForeignKeyId": "078.353",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.353"
 }

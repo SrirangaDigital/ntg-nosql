@@ -6,5 +6,6 @@
     "Director": "सत्यव्रत सिन्हा",
     "Artist": "रामचन्द्र गुप्त एवं सुशीला कशालकर",
     "ForeignKeyId": "073.076",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.076"
 }

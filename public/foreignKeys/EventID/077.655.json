@@ -3,5 +3,6 @@
     "Country": "इण्डोनेशिया",
     "Dance": "रामायण कू (Ramayan Ku)",
     "ForeignKeyId": "077.655",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.655"
 }

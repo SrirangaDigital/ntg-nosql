@@ -10,5 +10,6 @@
     "Music": "जे. एन. कौशल",
     "Artist": "ओम शिवपुरी (लियर), मोहन महर्षि (सामंत),राम गोपाल बजाज व अन्य",
     "ForeignKeyId": "075.072",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.072"
 }

@@ -3,5 +3,6 @@
     "Drama": "नौटंकी (पारम्परिक नाट्य)",
     "Event": "गुलाब बाई की पार्टी",
     "ForeignKeyId": "077.567",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.567"
 }

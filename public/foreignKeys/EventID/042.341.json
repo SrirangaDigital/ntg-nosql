@@ -4,5 +4,6 @@
     "Subject": "सोनी महवाल, 1967",
     "Person": "श्रीकृष्ण",
     "ForeignKeyId": "042.341",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.341"
 }

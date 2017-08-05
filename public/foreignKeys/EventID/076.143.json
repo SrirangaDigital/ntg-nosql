@@ -4,5 +4,6 @@
     "Drama": "सीता बनवास",
     "Writer": "आगा हश्र",
     "ForeignKeyId": "076.143",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.143"
 }

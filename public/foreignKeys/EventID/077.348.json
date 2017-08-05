@@ -6,5 +6,6 @@
     "Director": "एच. पी. सक्सेना",
     "Event": "पंचम भाषायी नाटक समारोह",
     "ForeignKeyId": "077.348",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.348"
 }

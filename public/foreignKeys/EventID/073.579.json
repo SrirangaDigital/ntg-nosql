@@ -4,5 +4,6 @@
     "Drama": "पोनम कुडम (सबसे प्यारा बच्चा) (मलयालम बाल नाटक)",
     "Director": "एस. रामानुज",
     "ForeignKeyId": "073.579",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.579"
 }

@@ -4,5 +4,6 @@
     "Drama": "मदीना जाया (गुजराती नाटक)",
     "Writer": "प्रागजी दोसा",
     "ForeignKeyId": "077.267",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.267"
 }

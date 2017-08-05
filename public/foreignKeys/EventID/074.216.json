@@ -6,5 +6,6 @@
     "Director": "चरणदास सिद्धू",
     "Artist": "विनोद दुआ (सुभाष), नीरा सहगल (लक्ष्मी), महेश आनंद (प्रो. नफीस), विजय सुषमा (मनजीत)",
     "ForeignKeyId": "074.216",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.216"
 }

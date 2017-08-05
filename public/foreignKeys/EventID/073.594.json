@@ -11,5 +11,6 @@
     "Singer": "रुपान्दे शाह, अनंग देसाई, भारत मकवाना",
     "Venue": "अखिल भारतीय नाटक समारोह, दिल्ली",
     "ForeignKeyId": "073.594",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.594"
 }

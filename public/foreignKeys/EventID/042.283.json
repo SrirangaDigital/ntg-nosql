@@ -4,5 +4,6 @@
     "Subject": "लैला मजनू उर्फ मक्तव की मुहब्बत, 1967",
     "Person": "नथाराम शर्मा गौड़",
     "ForeignKeyId": "042.283",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.283"
 }

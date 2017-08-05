@@ -6,5 +6,6 @@
     "Natyantar": "ब. व. कारंत",
     "Director": "रॉबिन दास",
     "ForeignKeyId": "075.012",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "075.012"
 }

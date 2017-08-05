@@ -3,5 +3,6 @@
     "Place": "पटना",
     "Drama": "मुद्राराक्षस",
     "ForeignKeyId": "076.340",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.340"
 }

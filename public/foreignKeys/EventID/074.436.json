@@ -9,5 +9,6 @@
     "Dancer": "संगीता शर्मा, फणीश्वर भास्कर, महेन्द्र रावत, मीनाक्षी चौपड़ा व अन्य",
     "Stage": "कमानी सभागार, दिल्ली",
     "ForeignKeyId": "074.436",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.436"
 }

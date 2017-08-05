@@ -11,5 +11,6 @@
     "Makeup": "समूह",
     "Artist": "दरबारी पाल, आनन्द जैन, राजकुमार रायकवाड़, सदानंद पाटील, कन्हैयालाल कैथवास व अन्य",
     "ForeignKeyId": "076.730",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.730"
 }

@@ -5,5 +5,6 @@
     "Writer": "शंकर शेष",
     "Director": "रमेश मनचंदा",
     "ForeignKeyId": "074.308",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.308"
 }

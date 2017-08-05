@@ -4,5 +4,6 @@
     "Drama": "राकेश और परिवेश पत्रो में",
     "Director": "दिनेश ठाकुर",
     "ForeignKeyId": "077.047",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.047"
 }

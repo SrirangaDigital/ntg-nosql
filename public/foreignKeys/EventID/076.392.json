@@ -3,5 +3,6 @@
     "Place": "इम्फाल",
     "Drama": "गेम (Improvisation)",
     "ForeignKeyId": "076.392",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.392"
 }

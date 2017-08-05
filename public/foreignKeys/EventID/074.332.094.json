@@ -4,5 +4,6 @@
     "Event": "महिला नाट्य निर्देशक (पूर्वा फेस्टिवल कॉन्फ्रेंस में शामिल नाट्य निर्देशक",
     "Year": "11-14 जन. 2003",
     "ForeignKeyId": "074.332.094",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "074.332.094"
 }

@@ -7,5 +7,6 @@
     "Light": "के. जी. त्रिवेदी",
     "Artist": "सावन कुमार, वसीम खान, नरेश व्यास आदि",
     "ForeignKeyId": "076.724",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "076.724"
 }

@@ -5,5 +5,6 @@
     "Writer": "विजय तेंडुलकर",
     "Director": "सी. आर. जाम्बे",
     "ForeignKeyId": "073.530",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.530"
 }

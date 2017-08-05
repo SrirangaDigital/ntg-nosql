@@ -9,5 +9,6 @@
     "Artist": "गिरीश कार्नाड (गोडा), बी. जयश्री व अन्य",
     "Photograph": "शिवराजन गुलवदे",
     "ForeignKeyId": "073.456",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.456"
 }

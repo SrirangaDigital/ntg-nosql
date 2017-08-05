@@ -4,5 +4,6 @@
     "Drama": "आजादी की नीद",
     "Writer": "भुवनेश्वर",
     "ForeignKeyId": "077.364",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.364"
 }

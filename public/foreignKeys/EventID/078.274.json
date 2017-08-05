@@ -4,5 +4,6 @@
     "Place": "दिल्ली : राष्ट्रीय नाट्य विद्यालय",
     "Event": "दीक्षांत समारोह",
     "ForeignKeyId": "078.274",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "078.274"
 }

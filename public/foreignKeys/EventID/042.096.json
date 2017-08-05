@@ -5,5 +5,6 @@
     "Translation": "विवेक मृदुल",
     "Person": "शरत्चन्द्र",
     "ForeignKeyId": "042.096",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "042.096"
 }

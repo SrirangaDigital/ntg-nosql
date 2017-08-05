@@ -7,5 +7,6 @@
     "Director": "राजेन्द्र गुप्ता",
     "Translation": "रामेश्वर प्रेम",
     "ForeignKeyId": "073.054",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "073.054"
 }

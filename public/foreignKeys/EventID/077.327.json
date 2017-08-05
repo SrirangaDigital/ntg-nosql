@@ -4,5 +4,6 @@
     "Drama": "स्वपनवासवदत्ता",
     "Director": "हरिराम आचार्य",
     "ForeignKeyId": "077.327",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.327"
 }

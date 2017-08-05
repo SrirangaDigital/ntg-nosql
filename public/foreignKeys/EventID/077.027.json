@@ -4,5 +4,6 @@
     "Drama": "कागज की दीवार (हिन्दी)",
     "Director": "दिनेश ठाकुर",
     "ForeignKeyId": "077.027",
-    "ForeignKeyType": "EventID"
+    "ForeignKeyType": "EventID",
+    "EventID": "077.027"
 }
