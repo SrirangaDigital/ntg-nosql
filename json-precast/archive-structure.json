@@ -4,8 +4,8 @@
 		"sortKey" : "Place"
 	},
 	"Photograph" : {
-		"selectKey" : "EventType",
-		"sortKey" : "Event"
+		"selectKey" : "State",
+		"sortKey" : "Troupe"
 	},
 	"News Paper Clippings" : {
 		"selectKey" : "MediaTitle",
