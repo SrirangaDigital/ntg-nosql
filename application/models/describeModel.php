@@ -44,7 +44,7 @@ class describeModel extends Model {
 
 		$iterator = $collection->aggregate(
 				 [
-					[ '$match' => [ 'Type' => $type, $selectKey => $category ] ],
+					[ '$match' => [ 'DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => $category ] ],
 					[ 
 						'$project' => [
 							'id' => 1,

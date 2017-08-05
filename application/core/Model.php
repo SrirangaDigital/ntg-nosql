@@ -5,6 +5,7 @@ class Model {
 	public function __construct() {
 
 		$this->db = new Database();
+		$this->dataShowFilter = (SHOW_ONLY_IF_DATA_EXISTS) ? '1' : ['$regex' => '0|1'];
 	}
 	
 	public function getPostData() {
@@ -36,10 +37,10 @@ class Model {
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
-		$result = $collection->findOne(['Type' => $type, $selectKey => $category], ['projection' => ['id' => 1], 'skip' => rand(0, $count - 1)]);
+		$result = $collection->findOne(['DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => $category], ['projection' => ['id' => 1], 'skip' => rand(0, $count - 1)]);
 
 		if(!$result)
-			$result = $collection->findOne(['Type' => $type, $selectKey => ['$exists' => false]], ['projection' => ['id' => 1], 'skip' => rand(0, $count - 1)]);
+			$result = $collection->findOne(['DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => ['$exists' => false]], ['projection' => ['id' => 1], 'skip' => rand(0, $count - 1)]);
 		
 		return $result['id'];
 	}
@@ -86,6 +87,14 @@ class Model {
 		return $data;
 	}
 
+	public function insertDataExistsFlag($data){
+
+		$leaves = glob(PHY_DATA_URL . $data['id'] . '/thumbs/*' . PHOTO_FILE_EXT);
+		$data['DataExists'] = (sizeof($leaves)) ? '1' : '0';
+
+		return $data;
+	}
+
 	public function filterSpecialChars($string){
 
 		$string = str_replace('/', '_', $string);
@@ -104,7 +113,7 @@ class Model {
 
 	public function unsetControlParams($data){
 
-		$controlParams = ['_id', 'AccessLevel','oid'];
+		$controlParams = ['_id', 'AccessLevel','oid', 'DataExists', 'ForeignKeyId', 'ForeignKeyType', 'Aid', 'ColorType'];
 
 		foreach ($controlParams as $param) {
 

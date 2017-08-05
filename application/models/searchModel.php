@@ -19,7 +19,8 @@ class searchModel extends Model {
 		$limit = PER_PAGE;
 
 		$iterator = $collection->find(
-			[
+			[	
+				'DataExists' => $this->dataShowFilter,
 				'$text' => [
 					'$search' => $term
 				]

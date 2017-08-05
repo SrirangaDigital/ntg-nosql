@@ -2,6 +2,7 @@
 
 class listingModel extends Model {
 
+
 	public function __construct() {
 
 		parent::__construct();
@@ -17,7 +18,7 @@ class listingModel extends Model {
 
 		$iterator = $collection->aggregate(
 				 [
-					[ '$match' => [ 'Type' => $type ] ],
+					[ '$match' => [ 'DataExists' => $this->dataShowFilter, 'Type' => $type ] ],
 					[ '$group' => [ '_id' => [ 'Category' => '$' . $selectKey, 'Type' => '$Type' ], 'count' => [ '$sum' => 1 ]]],
 					[ '$sort' => [ '_id' => 1 ] ],
 					[ '$skip' => $skip ],
@@ -58,7 +59,7 @@ class listingModel extends Model {
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 
-		$match = ($category == MISCELLANEOUS_NAME) ? ['Type' => $type, $selectKey => ['$exists' => false] ] : [ 'Type' => $type, $selectKey => $category ];
+		$match = ($category == MISCELLANEOUS_NAME) ? ['DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => ['$exists' => false] ] : [ 'DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => $category ];
 		$iterator = $collection->aggregate(
 				 [
 					[ '$match' => $match ],

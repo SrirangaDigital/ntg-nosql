@@ -18,6 +18,7 @@ class data extends Controller {
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
+			$content = $this->model->insertDataExistsFlag($content);
 			$content = $this->model->beforeDbUpadte($content);
 
 			$result = $collection->insertOne($content);
@@ -53,105 +54,45 @@ class data extends Controller {
 		
 		foreach ($jsonFiles as $jsonFile) {
 
-			$parentId = preg_replace('/.*003\/(.*)\/\d{5}\/.*/', "$1", $jsonFile);
-			$parentJsonFile = PHY_METADATA_URL . '003/' . $parentId . '.json';
-			$parentJsonFileOut = PHY_METADATA_URL . 'foreign/' . $parentId . '.json';
-
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
 
-			$parentContentString = file_get_contents($parentJsonFile);
-			$parentContent = json_decode($parentContentString, true);
+			if(isset($content['State'])) {
 
-			$content['id'] = '003/' . $parentId . '/' . $content['id'];
+				$content['State'] = str_replace("हरियाणा, पंजाब", 'HR', $content['State']);
 
-			$content['ColorType'] = $content['type'];
-			unset($content['type']);
-
-			$content = array_filter($content);
-
-			$content['Type'] = 'Photograph';
-			$content['EventID'] = $parentId;
-
-			foreach (array_keys($content) as $key) {
-				
-				if($key != 'id') {
-					
-					$value = $content{$key};
-					unset($content{$key});
-
-					$content{ucwords($key)} = $value;
-				}
-			}
-
-			if(isset($parentContent['state'])){
-
-				$content['State'] = $parentContent['state'];
-				unset($parentContent['state']);
-			}
-
-			if(isset($parentContent['State'])){
-
-				$content['State'] = $parentContent['State'];
-				unset($parentContent['State']);
-			}
-
-			if(isset($parentContent['troup'])){
-
-				$content['Troupe'] = $parentContent['troup'];
-				unset($parentContent['troup']);
-			}
-			
-			if(isset($parentContent['troupe'])){
-
-				$content['Troupe'] = $parentContent['troupe'];
-				unset($parentContent['troupe']);
-			}
-
-			if(isset($parentContent['date'])){
-
-				$content['Date'] = $parentContent['date'];
-				unset($parentContent['date']);
-			}
-
-			if(isset($parentContent['Date'])){
-
-				$content['Date'] = $parentContent['Date'];
-				unset($parentContent['Date']);
-			}
-
-			$parentContent['ForeignKeyId'] = $parentContent['albumID'];
-			unset($parentContent['albumID']);
-
-			$parentContent['ForeignKeyType'] = 'EventID';
-			
-			$content['AccessionCards'] = $parentContent['cardList'];
-			unset($parentContent['cardList']);
-
-			foreach (array_keys($parentContent) as $key) {
-				
-				$value = $parentContent{$key};
-				unset($parentContent{$key});
-
-				$parentContent{ucwords($key)} = $value;
+				$content['State'] = str_replace("AP", "आंध्र प्रदेश", $content['State']);
+				$content['State'] = str_replace("AR", "अरुणाचल प्रदेश", $content['State']);
+				$content['State'] = str_replace("AS", "असम", $content['State']);
+				$content['State'] = str_replace("BR", "बिहार", $content['State']);
+				$content['State'] = str_replace("CG", "छत्तीसगढ़", $content['State']);
+				$content['State'] = str_replace("CH", "चंडीगढ़†", $content['State']);
+				$content['State'] = str_replace("DL", "दिल्ली", $content['State']);
+				$content['State'] = str_replace("GA", "गोआ", $content['State']);
+				$content['State'] = str_replace("GJ", "गुजरात", $content['State']);
+				$content['State'] = str_replace("HP", "हिमाचल प्रदेश", $content['State']);
+				$content['State'] = str_replace("HR", "हरियाणा", $content['State']);
+				$content['State'] = str_replace("JH", "झारखंड", $content['State']);
+				$content['State'] = str_replace("JK", "जम्मू और कश्मीर", $content['State']);
+				$content['State'] = str_replace("KA", "कर्नाटक", $content['State']);
+				$content['State'] = str_replace("KL", "केरल", $content['State']);
+				$content['State'] = str_replace("MH", "महाराष्ट्र", $content['State']);
+				$content['State'] = str_replace("ML", "मेघालय", $content['State']);
+				$content['State'] = str_replace("MN", "मणिपुर", $content['State']);
+				$content['State'] = str_replace("MP", "मध्य प्रदेश", $content['State']);
+				$content['State'] = str_replace("NL", "नागालैंड", $content['State']);
+				$content['State'] = str_replace("OR", "ओड़िशा", $content['State']);
+				$content['State'] = str_replace("PB", "पंजाब", $content['State']);
+				$content['State'] = str_replace("RJ", "राजस्थान", $content['State']);
+				$content['State'] = str_replace("TN", "तमिलनाडु", $content['State']);
+				$content['State'] = str_replace("UK", "उत्तराखण्ड", $content['State']);
+				$content['State'] = str_replace("UP", "उत्तर प्रदेश", $content['State']);
+				$content['State'] = str_replace("WB", "पश्चिम बंगाल", $content['State']);
 			}
 
 			$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-			$parentJson = json_encode($parentContent, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 
 			file_put_contents($jsonFile, $json);
-			file_put_contents($parentJsonFileOut, $parentJson);
-
-			// $content['Type'] = 'Photograph';
-
-			// if(isset($content['albumID'])) unset($content['albumID']);
-
-			// $id = $this->model->getIdFromPath($jsonFile);
-			// $content['id'] = $id;
-
-			// // Remove null elements
-			// $content = array_filter($content);
-			// var_dump($jsonFile);
 		}
 	}
 }
