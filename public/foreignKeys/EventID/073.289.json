@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "कैण्डिडा",
+    "Writer": "जार्ज बर्नाड शॉ",
+    "Director": "राजबिसारिया",
+    "Stage": "राजबिसारिया",
+    "Light": "राजबिसारिया",
+    "ForeignKeyId": "073.289",
+    "ForeignKeyType": "EventID"
+}

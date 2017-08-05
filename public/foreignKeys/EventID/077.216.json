@@ -1,0 +1,13 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "गिरिजा के सपने",
+    "Writer": "बी सुरेश",
+    "Translation": "शैलजा",
+    "Director": "एम. एस. सथ्यू",
+    "Music": "कुलदीप सिंह",
+    "Presentationcoordinator": "शैली सथ्यू",
+    "Venue": "गन्ना संस्थान प्रेक्षागृह, लखनऊ",
+    "ForeignKeyId": "077.216",
+    "ForeignKeyType": "EventID"
+}

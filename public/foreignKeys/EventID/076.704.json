@@ -1,0 +1,9 @@
+{
+    "Aid": "99",
+    "Place": "भोपाल",
+    "Event": "अभिनय प्रशिक्षण",
+    "Director": "अरविन्द पाण्डे",
+    "Venue": "भोपाल",
+    "ForeignKeyId": "076.704",
+    "ForeignKeyType": "EventID"
+}

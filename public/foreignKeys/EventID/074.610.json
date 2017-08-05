@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "चारुवाक",
+    "Writer": "विद्याधर पुण्डालिक",
+    "Director": "रामगोपाल बजाज",
+    "Music": "भास्कर चन्द्रावरकर",
+    "ForeignKeyId": "074.610",
+    "ForeignKeyType": "EventID"
+}

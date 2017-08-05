@@ -1,0 +1,13 @@
+{
+    "Aid": "03",
+    "Card-type": "दुर्लभ डायरी",
+    "Place": "अहमदाबाद",
+    "Drama": "राजा रानी",
+    "Writer": "रवीन्द्रनाथ टैगोर",
+    "Translation": "लेवरचन्द मेधानी",
+    "Director": "देवदास पांड्या",
+    "Venue": "टाऊन हॉल, अहमदाबाद",
+    "Year": "11-01-1962",
+    "ForeignKeyId": "042.492",
+    "ForeignKeyType": "EventID"
+}

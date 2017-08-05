@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "बदनाम मंटो",
+    "Writer": "मंटो",
+    "Version": "ऊषा गांगुली",
+    "Director": "ऊषा गांगुली",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.162",
+    "ForeignKeyType": "EventID"
+}

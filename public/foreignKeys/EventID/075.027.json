@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "इंदर सभा",
+    "Writer": "अमानत लखनवी",
+    "Director": "मोहन उप्रेती",
+    "Venue": "अभिमंच",
+    "ForeignKeyId": "075.027",
+    "ForeignKeyType": "EventID"
+}

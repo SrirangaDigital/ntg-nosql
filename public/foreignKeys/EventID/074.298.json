@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "चार चौगी",
+    "Writer": "प्रशांत दलवी",
+    "Translator": "जी. एस. मराठे",
+    "Director": "अमाल अल्लाना",
+    "Artist": "सलीमा रज़ा, अमित गुप्ता व अन्य",
+    "ForeignKeyId": "074.298",
+    "ForeignKeyType": "EventID"
+}

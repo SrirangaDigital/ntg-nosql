@@ -1,0 +1,13 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "ऑख मिचोली (हास्य नाटक)",
+    "Writer": "चन्द्रकांत प्रभाकर देशपाण्डे",
+    "Translator": "अनिल देशमुख",
+    "Projection": "चेतन दातार",
+    "Director": "चेतन दातार",
+    "Asstdirector": "भूपेन जोशी व अन्य",
+    "Venue": "श्रीराम सेंटर मुख्य सभागार",
+    "ForeignKeyId": "075.367",
+    "ForeignKeyType": "EventID"
+}

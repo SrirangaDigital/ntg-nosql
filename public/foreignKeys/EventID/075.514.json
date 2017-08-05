@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "स्वाधीनता संग्राम",
+    "Writer": "रेखा जैन",
+    "Director": "रेखा जैन",
+    "Venue": "श्रीराम सेंटर मुख्य प्रेक्षागृह",
+    "ForeignKeyId": "075.514",
+    "ForeignKeyType": "EventID"
+}

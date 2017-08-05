@@ -1,0 +1,12 @@
+{
+    "Aid": "03",
+    "Card-type": "निगेटिव",
+    "Place": "दिल्ली",
+    "Event": "सबसे उदास कविता",
+    "Writer": "स्वदेश दीपक",
+    "Director": "अरविन्द गौड़",
+    "Venue": "बिपिन चन्द्र पाल ऑडिटोरियम",
+    "Year": "05-12-1999",
+    "ForeignKeyId": "089.442",
+    "ForeignKeyType": "EventID"
+}

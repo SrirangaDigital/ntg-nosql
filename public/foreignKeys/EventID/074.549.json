@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "विवाह काव्य",
+    "Writer": "निसिम एजिकिएल",
+    "Director": "कृष्णा जिना",
+    "Artist": "मनोहर सिंह, उत्तरा बावकर व अन्य",
+    "ForeignKeyId": "074.549",
+    "ForeignKeyType": "EventID"
+}

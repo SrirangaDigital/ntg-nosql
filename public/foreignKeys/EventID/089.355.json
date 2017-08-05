@@ -1,0 +1,10 @@
+{
+    "Aid": "03",
+    "Card-type": "अन्य विषय - समारोह",
+    "Place": "दिल्ली",
+    "Event": "नेहरू शताब्दी नाट्य समारोह, 1989",
+    "Drama": "चक्रव्यूह",
+    "Director": "रतन थैयम",
+    "ForeignKeyId": "089.355",
+    "ForeignKeyType": "EventID"
+}

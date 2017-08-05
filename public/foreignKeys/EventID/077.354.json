@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "जयपुर",
+    "Drama": "कोमल गांधार",
+    "Writer": "शंकर शेष",
+    "Director": "रश्मि चतुर्वेदी",
+    "Event": "हिन्दी नाट्य प्रतियोगिता",
+    "ForeignKeyId": "077.354",
+    "ForeignKeyType": "EventID"
+}

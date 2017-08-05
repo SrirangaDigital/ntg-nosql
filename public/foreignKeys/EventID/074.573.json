@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "जनमेजय का नागयज्ञ",
+    "Writer": "जयशंकर प्रसाद",
+    "Director": "रोबिन दास",
+    "Venue": "अभिमंच",
+    "ForeignKeyId": "074.573",
+    "ForeignKeyType": "EventID"
+}

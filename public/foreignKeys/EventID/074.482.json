@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "पचकठिया",
+    "Director": "सुरेन्द्र शर्मा",
+    "Artist": "रतन राजपूत व अन्य",
+    "ForeignKeyId": "074.482",
+    "ForeignKeyType": "EventID"
+}

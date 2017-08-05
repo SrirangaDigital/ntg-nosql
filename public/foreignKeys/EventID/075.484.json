@@ -1,0 +1,18 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "मेरी जिन्दगी में चेखव (Chekhov in my life)",
+    "Writer": "लीडीया एविलोव (Lydia Avilov))",
+    "Translation": "डेविड मगरशेक (Magarshack) (ॲग्रेजी), रंजना श्रीवास्तव (हिन्दी)",
+    "Natyantar": "अंबरीश के. सक्सेना व इफरा मुश्ताक",
+    "Projection": "मुश्ताक काका",
+    "Director": "मुश्ताक काक",
+    "Article": "मुश्ताक काक",
+    "Music": "राजेश सिंह",
+    "Dress": "भूपेश जोशी",
+    "Stage": "श्रीकांत वर्मा",
+    "Light": "रविन्दर मिश्रा, नरेश",
+    "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
+    "ForeignKeyId": "075.484",
+    "ForeignKeyType": "EventID"
+}

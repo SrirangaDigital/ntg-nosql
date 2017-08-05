@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "हयवदन",
+    "Writer": "गिरीश कार्नाड",
+    "Translation": "ब. व. कारंत",
+    "Director": "ब. व. कारंत",
+    "Music": "ब. व. कारंत",
+    "ForeignKeyId": "074.330",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "अंतर्यात्र",
+    "Writer": "इलंगोवन (तमिल काव्य-शिलप्पदिकारम्)",
+    "Translation": "गिरधर राढी",
+    "Director": "अनामिका हक्सर",
+    "Assistant": "अर्चना शास्त्री (चित्रकार)",
+    "ForeignKeyId": "074.367",
+    "ForeignKeyType": "EventID"
+}

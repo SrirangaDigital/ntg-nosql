@@ -1,0 +1,13 @@
+{
+    "Aid": "05",
+    "Card-type": "अन्य विषय - कन्नड़ से पंजाबी",
+    "Drama": "नागमण्डल",
+    "Writer": "गिरीश करनाड",
+    "Translator": "सुरजीत पातर",
+    "Director": "नीलम मानसिंह चौधरी",
+    "Music": "ब. व. कारंत",
+    "Artist": "रमनजीत कौर व अन्य",
+    "Venue": "श्रीराम सेंटर",
+    "ForeignKeyId": "089.005",
+    "ForeignKeyType": "EventID"
+}

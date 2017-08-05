@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "ग्रैण्ड फिनाले (अँग्रेजी)",
+    "Writer": "कोपी",
+    "Director": "कविता नागपाल",
+    "Venue": "अभिमंच सभागार",
+    "ForeignKeyId": "074.288",
+    "ForeignKeyType": "EventID"
+}

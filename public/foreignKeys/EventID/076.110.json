@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कोलकाता",
+    "Drama": "नीचेर महल (बांग्ला)",
+    "Writer": "मैक्सिम गोर्की",
+    "Translation": "उमानाथ भट्टाचार्य",
+    "Director": "उत्पल दत्त",
+    "ForeignKeyId": "076.110",
+    "ForeignKeyType": "EventID"
+}

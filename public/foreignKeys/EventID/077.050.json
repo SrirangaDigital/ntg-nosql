@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "सपने (हिन्दी)",
+    "Writer": "टेनिसी विलियम्स (अँग्रेजी)",
+    "Translator": "दिनेश ठाकुर",
+    "Director": "दिनेश ठाकुर",
+    "Artist": "दिनेश ठाकुर, केतकी दवे व अन्य",
+    "ForeignKeyId": "077.050",
+    "ForeignKeyType": "EventID"
+}

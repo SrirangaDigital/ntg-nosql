@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "ओथेलो",
+    "Writer": "शेक्सपियर",
+    "Translator": "रघुवीर सहाय",
+    "Director": "इब्राहीम अलकाज़ी",
+    "Artist": "मनोहर सिंह",
+    "ForeignKeyId": "075.047",
+    "ForeignKeyType": "EventID"
+}

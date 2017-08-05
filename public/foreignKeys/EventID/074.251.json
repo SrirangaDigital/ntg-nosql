@@ -1,0 +1,14 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "ययाति (हिन्दी)",
+    "Writer": "गिरीश कर्नाड (कन्नड़)",
+    "Translation": "बी. आर. नारायण",
+    "Projection": "बिपिन कुमार",
+    "Director": "बिपिन कुमार",
+    "Music": "अजित चौधरी",
+    "Choriography": "किशोर शर्मा",
+    "Venue": "लिटिल थियेटर सभागार, दिल्ली",
+    "ForeignKeyId": "074.251",
+    "ForeignKeyType": "EventID"
+}

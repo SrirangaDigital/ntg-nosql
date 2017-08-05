@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "एक सिग्रेट",
+    "Writer": "यशपाल",
+    "Director": "देवेन्द्र राज अंकुर",
+    "Story": "कोलाज-3",
+    "Venue": "अभिमंच",
+    "ForeignKeyId": "074.495.0",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कानपुर",
+    "Drama": "पोस्टर",
+    "Writer": "शंकर शेष",
+    "Director": "रवि शर्मा",
+    "Event": "उत्तर संभागीय नाट्य समारोह, चण्डीगढ़",
+    "ForeignKeyId": "073.128",
+    "ForeignKeyType": "EventID"
+}

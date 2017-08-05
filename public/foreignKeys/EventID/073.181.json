@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "गोरखपुर",
+    "Drama": "प्रतिबिम्ब (हिन्दी)",
+    "Writer": "महेश एलकंचवार",
+    "Director": "गिरीश रस्तोगी",
+    "Venue": "गोरखपुर क्लब, गोरखपुर",
+    "ForeignKeyId": "073.181",
+    "ForeignKeyType": "EventID"
+}

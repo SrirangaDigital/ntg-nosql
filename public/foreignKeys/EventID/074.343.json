@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "चरणदास चोर",
+    "Writer": "हबीब तनवीर",
+    "Director": "हबीब तनवीर",
+    "Venue": "छत्तीसगढ़ी",
+    "ForeignKeyId": "074.343",
+    "ForeignKeyType": "EventID"
+}

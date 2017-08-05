@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "छुट्टि (हिन्दी)",
+    "Writer": "रवीन्द्रनाथ टैगोर",
+    "Director": "अखिलेश खन्ना",
+    "Venue": "श्रीराम सेंटर सभा, दिल्ली",
+    "ForeignKeyId": "074.171",
+    "ForeignKeyType": "EventID"
+}

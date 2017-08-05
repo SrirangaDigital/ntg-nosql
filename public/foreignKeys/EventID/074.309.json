@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "टीन की तलवार",
+    "Writer": "उत्पल दत्त",
+    "Director": "रमेश मनचंदा",
+    "Event": "उत्तर संभागीय नाट्य समारोह चण्डीगढ़",
+    "Venue": "चण्डीगढ़",
+    "ForeignKeyId": "074.309",
+    "ForeignKeyType": "EventID"
+}

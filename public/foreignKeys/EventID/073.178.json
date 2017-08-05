@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "गोरखपुर",
+    "Drama": "जुलूस",
+    "Writer": "बादल सरकार",
+    "Translation": "यामा अग्रवाल",
+    "Director": "गिरीश रस्तोगी",
+    "ForeignKeyId": "073.178",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "जायज़ हत्यारे",
+    "Writer": "कामू",
+    "Director": "राजेन्द्र गुप्त",
+    "ForeignKeyId": "075.529",
+    "ForeignKeyType": "EventID"
+}

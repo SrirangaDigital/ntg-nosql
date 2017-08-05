@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "आधे - अधूरे (हिन्दी)",
+    "Writer": "मोहन राकेश",
+    "Director": "राजबिसारिया",
+    "Artist": "विमल भगत, राजबिसारिया व अन्य",
+    "Venue": "चेन्नई",
+    "ForeignKeyId": "073.283",
+    "ForeignKeyType": "EventID"
+}

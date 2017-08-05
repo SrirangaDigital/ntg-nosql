@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Card-type": "दुर्लभ डायरी",
+    "Place": "मुम्बई",
+    "Drama": "अभिज्ञान शाकुन्तल (संस्कृत)",
+    "Writer": "कालिदास (संस्कृत)",
+    "Director": "दाजी भाटवडेकर",
+    "Venue": "दिल्ली",
+    "Year": "1954",
+    "ForeignKeyId": "042.463",
+    "ForeignKeyType": "EventID"
+}

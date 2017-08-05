@@ -1,0 +1,11 @@
+{
+    "Aid": "03",
+    "Card-type": "अन्य विषय - लोक कथा",
+    "Place": "ग्वालियर",
+    "Event": "जसमा ओड़न (हिन्दी)",
+    "Writer": "शांता गांधी (गुजराती)",
+    "Director": "कमल वशिष्ठ",
+    "Music": "श्याम अग्रवाल",
+    "ForeignKeyId": "089.324",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "ओथेलो (अंग्रेजी)",
+    "Writer": "शेक्सपियर",
+    "Director": "राजबिसारिया",
+    "Artist": "ब्रिटिश कलाकार",
+    "ForeignKeyId": "073.287",
+    "ForeignKeyType": "EventID"
+}

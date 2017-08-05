@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "साइकलवाला",
+    "Writer": "विजय तेंदुलकर",
+    "Translation": "वसंत देव",
+    "Director": "दादी पदमजी",
+    "Venue": "अभिमंच",
+    "ForeignKeyId": "074.585",
+    "ForeignKeyType": "EventID"
+}

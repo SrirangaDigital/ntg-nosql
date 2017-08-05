@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "दुश्मन",
+    "Writer": "मैक्सिम गोर्की",
+    "Translator": "सफ़दर हाशमी",
+    "Director": "हबीब तनवीर",
+    "ForeignKeyId": "075.127",
+    "ForeignKeyType": "EventID"
+}

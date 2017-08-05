@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "पटना",
+    "Drama": "कुसमा सलहेस",
+    "Writer": "कुणाल",
+    "Director": "कुणाल",
+    "Venue": "विद्यापति भवन, पटना - 800001",
+    "ForeignKeyId": "076.333",
+    "ForeignKeyType": "EventID"
+}

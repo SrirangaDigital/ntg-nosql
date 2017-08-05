@@ -1,0 +1,14 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "रोमियो जूलियट",
+    "Writer": "विलियम शेक्सपियर",
+    "Translator": "अतुल तिवारी",
+    "Projection": "हिमांशु बी. जोशी",
+    "Director": "हिमांशु बी. जोशी",
+    "Asstdirector": "प्रमोद कुमार, मनोज सिंह आदि",
+    "Music": "सैण्डी",
+    "Venue": "श्रीराम सेंटर",
+    "ForeignKeyId": "075.353",
+    "ForeignKeyType": "EventID"
+}

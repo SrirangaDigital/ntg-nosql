@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Card-type": "दुर्लभ डायरी",
+    "Place": "मुम्बई",
+    "Drama": "जादू की कुसी (हिन्दी)",
+    "Writer": "बलराज साहनी एवं रमा राव",
+    "Director": "मोहन सहगल",
+    "Artist": "बलराज साहनी",
+    "Year": "1948",
+    "ForeignKeyId": "042.465",
+    "ForeignKeyType": "EventID"
+}

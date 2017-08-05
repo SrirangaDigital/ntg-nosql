@@ -1,0 +1,11 @@
+{
+    "Aid": "05",
+    "Card-type": "अन्य विषय - अँग्रेजी नाटक",
+    "Place": "लखनऊ",
+    "Drama": "अॉथेलो",
+    "Writer": "शेक्सपियर",
+    "Director": "राजबिसारिया",
+    "Artist": "पीटर ड्राय, अलिण्डर वार्ड व अन्य",
+    "ForeignKeyId": "089.001",
+    "ForeignKeyType": "EventID"
+}

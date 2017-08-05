@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "गैलिलियो (बांग्ला)",
+    "Writer": "बर्टोल्ड ब्रेख़्त",
+    "Translation": "मोहित चट्टोपाध्याय",
+    "Artist": "शंभु मित्र",
+    "Venue": "रवीन्द्र सदन",
+    "ForeignKeyId": "076.057.1",
+    "ForeignKeyType": "EventID"
+}

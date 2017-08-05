@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "बेगूसराय",
+    "Drama": "समझौता",
+    "Writer": "सुमन कुमार",
+    "Director": "प्रवीण कुमार `गुंजन'",
+    "Venue": "दिनकर भवन, बेगूसराय",
+    "ForeignKeyId": "076.346",
+    "ForeignKeyType": "EventID"
+}

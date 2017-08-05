@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "तिलोचमा (मंच व्यवस्था)",
+    "Director": "परविंजो",
+    "Stage": "एम. एस. सथ्यू एवं गौतम जोशी",
+    "ForeignKeyId": "077.105",
+    "ForeignKeyType": "EventID"
+}

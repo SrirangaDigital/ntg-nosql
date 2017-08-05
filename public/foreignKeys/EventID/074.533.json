@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "मध्यम व्यायोग (संस्कृत)",
+    "Writer": "भास",
+    "Director": "शांता गांधी",
+    "Translation": "पंचानन पाठक",
+    "ForeignKeyId": "074.533",
+    "ForeignKeyType": "EventID"
+}

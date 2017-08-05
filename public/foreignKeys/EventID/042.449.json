@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Card-type": "दुर्लभ डायरी",
+    "Place": "कोलकाता",
+    "Drama": "निहारबाला इन-कुहाकी",
+    "Writer": "शेक्सपियर (अॅग्रेजी)",
+    "Artist": "निहारबाला",
+    "Venue": "कोलकाता",
+    "Year": "1920",
+    "ForeignKeyId": "042.449",
+    "ForeignKeyType": "EventID"
+}

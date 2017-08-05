@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "प्रेत",
+    "Photo": "इब्राहिम अल्काजी",
+    "Writer": "इब्सन",
+    "Translation": "नेमिचन्द्र जैन",
+    "Director": "इब्राहिम अल्काजी",
+    "Artist": "उषा बैनर्जी व गोविन्द प्रसाद",
+    "ForeignKeyId": "074.521",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "अलीबाबा और अलादीन",
+    "Writer": "कमला राम चन्दानी",
+    "Director": "फ़ैसल अल्काज़ी",
+    "ForeignKeyId": "075.265",
+    "ForeignKeyType": "EventID"
+}

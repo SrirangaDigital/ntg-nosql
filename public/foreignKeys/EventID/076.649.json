@@ -1,0 +1,17 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "तुम सआदत इसन मंटो हो",
+    "Writer": "राजेश जोशी",
+    "Projection": "एम. के. रैना",
+    "Director": "एम. के. रैना",
+    "Asstdirector": "जयंत देशमुख",
+    "Stage": "जयंत देशमुख, राम रहमान",
+    "Light": "एम. के. रैना",
+    "Lightassistant": "आशुतोष पंड्या व गोपाल दुबे",
+    "Costume": "विभा मिश्र",
+    "Costumeassistant": "हेमलता महावर एवं रविलाल संगधे",
+    "Artist": "संजय मेहता, अनुप जोशी व अन्य",
+    "ForeignKeyId": "076.649",
+    "ForeignKeyType": "EventID"
+}

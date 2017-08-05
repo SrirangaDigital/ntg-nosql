@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "होली",
+    "Writer": "महेश एलकुंचवर",
+    "Director": "उषा गांगुली",
+    "Translator": "वसन्त देव",
+    "ForeignKeyId": "076.185",
+    "ForeignKeyType": "EventID"
+}

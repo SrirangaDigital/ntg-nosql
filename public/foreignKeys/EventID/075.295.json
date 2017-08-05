@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "स्प्रिंग अवैकनिंग",
+    "Writer": "बेडेकिंडस",
+    "Director": "फैसल अलकाज़ी",
+    "ForeignKeyId": "075.295",
+    "ForeignKeyType": "EventID"
+}

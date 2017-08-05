@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "शतरंज के मोहरे",
+    "Dramatized": "हबीब तनवीर",
+    "Director": "हबीब तनवीर",
+    "Writer": "प्रेमचन्द",
+    "Venue": "जामिया",
+    "ForeignKeyId": "074.358",
+    "ForeignKeyType": "EventID"
+}

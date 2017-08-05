@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "कर्फ्यू",
+    "Writer": "लक्ष्मीनारायण लाल",
+    "Director": "राजिन्दर नाथ",
+    "Artist": "अशोक शर्मा, सुधा चोपड़ा व अन्य",
+    "ForeignKeyId": "074.028",
+    "ForeignKeyType": "EventID"
+}

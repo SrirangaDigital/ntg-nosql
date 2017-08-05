@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "मोची की अनोखी पत्नी",
+    "Director": "बंसी कौल",
+    "Venue": "मंजर थिएटर",
+    "ForeignKeyId": "075.332",
+    "ForeignKeyType": "EventID"
+}

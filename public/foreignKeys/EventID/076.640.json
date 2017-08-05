@@ -1,0 +1,13 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "घासीराम कोतवाल",
+    "Writer": "विजय तेन्दुलकर",
+    "Translation": "वसंत देव",
+    "Director": "ब. व. कारन्त",
+    "Language": "हिन्दी",
+    "Music": "ब. व. कारन्त",
+    "Artist": "राजकुमार कामले",
+    "ForeignKeyId": "076.640",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "अंजी (हिन्दी)",
+    "Writer": "विजय तेंन्दुलकर (मराठी)",
+    "Translator": "वसंत देव",
+    "Director": "दिनेश ठाकुर",
+    "Artist": "प्रीति ठाकुर, दिनेश ठाकुर व अन्य",
+    "ForeignKeyId": "077.004",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "मारीच संवाद",
+    "Director": "अरुण मुखर्जी",
+    "Venue": "मंजर थिएटर",
+    "ForeignKeyId": "076.069",
+    "ForeignKeyType": "EventID"
+}

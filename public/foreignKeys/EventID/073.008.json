@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "सिलीगुडी",
+    "Drama": "दिल्ली चलो (हिन्दी)",
+    "Writer": "उत्पल दत्त",
+    "Director": "अखिलेश खन्ना",
+    "Venue": "श्रीराम सेंटर सभागार",
+    "ForeignKeyId": "073.008",
+    "ForeignKeyType": "EventID"
+}

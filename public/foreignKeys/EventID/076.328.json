@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "पटना",
+    "Drama": "इक्कीसवी सदी की ओर",
+    "Writer": "जयनन्दन",
+    "Event": "बिहार आर्ट थिएटर नाट्योत्सव",
+    "ForeignKeyId": "076.328",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "तीसवीं शताब्दी (हिन्दी)",
+    "Writer": "बादल सरकार (बांग्ला)",
+    "Director": "राजिन्दर नाथ",
+    "Translation": "राम गोपाल बजाज",
+    "ForeignKeyId": "074.049",
+    "ForeignKeyType": "EventID"
+}

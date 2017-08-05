@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "कनुप्रिया",
+    "Writer": "धर्मवीर भारती",
+    "Director": "निखिलेश शर्मा",
+    "Music": "मोहन उप्रेती",
+    "ForeignKeyId": "075.052",
+    "ForeignKeyType": "EventID"
+}

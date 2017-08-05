@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Card-type": "अन्य विषय - संस्कृत नाटक",
+    "Place": "अहमदाबाद",
+    "Drama": "प्रबुद्ध रौहिणेय",
+    "Writer": "रामभद्र मुनि",
+    "Director": "गोवर्धन पांचाल",
+    "Year": "नवंबर 1993",
+    "ForeignKeyId": "089.341",
+    "ForeignKeyType": "EventID"
+}

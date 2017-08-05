@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "घर जोरू लोग",
+    "Writer": "साहिद अनवर",
+    "Director": "सुमन कुमार",
+    "Artist": "फैयाज आहवेद एवं अर्चना रावल",
+    "Host": "साहित्य कला परिषद्",
+    "ForeignKeyId": "074.421",
+    "ForeignKeyType": "EventID"
+}

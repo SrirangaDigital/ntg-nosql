@@ -1,0 +1,14 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "द लेसन (The lesson) (उर्दू)",
+    "Writer": "यूजीन आयनेस्को (फ्रेंच)",
+    "Translator": "आर. के. बरारु",
+    "Projection": "भानु भारती",
+    "Director": "भानु भारती",
+    "Stage": "भानु भारती",
+    "Costume": "ज्योति देशपाण्डे",
+    "Artist": "ज्योति देशपाण्डे, उत्तरा बावकर, ओम पुरी",
+    "ForeignKeyId": "075.219",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Photo": "नसीरुद्दीन शाह",
+    "Drama": "एकल अभिनय - बडे भाई साहब",
+    "Writer": "प्रेमचंद",
+    "Artist": "नसीरुद्दीन शाह",
+    "Venue": "अभिमंच",
+    "ForeignKeyId": "074.522",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "वीर अभिमन्यू",
+    "Writer": "राधेश्याम कथावाचक",
+    "Director": "बृज मोहन शाह",
+    "Event": "कालिदास समारोह",
+    "Venue": "उज्जैन",
+    "ForeignKeyId": "074.550",
+    "ForeignKeyType": "EventID"
+}

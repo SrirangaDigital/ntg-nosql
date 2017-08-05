@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "पगला घोड़ा (हिन्दी)",
+    "Writer": "बादल सरकार (बांग्ला)",
+    "Translation": "प्रतिभा अग्रवाल",
+    "Director": "दिनेश ठाकुर",
+    "Artist": "मीनाक्षी ठाकुर व अन्य",
+    "ForeignKeyId": "077.038",
+    "ForeignKeyType": "EventID"
+}

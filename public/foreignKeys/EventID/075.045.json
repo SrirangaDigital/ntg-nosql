@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "एंटीगोन",
+    "Writer": "सोफोक्लीज",
+    "Venue": "मनोहर सिंह व अन्य",
+    "ForeignKeyId": "075.045",
+    "ForeignKeyType": "EventID"
+}

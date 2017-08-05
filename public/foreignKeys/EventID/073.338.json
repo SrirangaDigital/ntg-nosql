@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "बाकी इतिहास (हिन्दी)",
+    "Writer": "बादल सरकार (बांग्ला)",
+    "Translation": "नेमिचन्द्र जैन",
+    "Director": "राजबिसारिया",
+    "Venue": "लखनऊ",
+    "ForeignKeyId": "073.338",
+    "ForeignKeyType": "EventID"
+}

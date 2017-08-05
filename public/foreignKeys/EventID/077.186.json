@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "नागमंडल",
+    "Writer": "गिरीश कर्नाड",
+    "Language": "हिन्दी",
+    "Director": "विजया मेहता",
+    "ForeignKeyId": "077.186",
+    "ForeignKeyType": "EventID"
+}

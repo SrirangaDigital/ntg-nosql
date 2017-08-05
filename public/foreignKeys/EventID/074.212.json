@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "कन्नड़ भारती",
+    "Article": "ययाति",
+    "Writer": "गिरीश करनाड़",
+    "Director": "प्रभाकर",
+    "ForeignKeyId": "074.212",
+    "ForeignKeyType": "EventID"
+}

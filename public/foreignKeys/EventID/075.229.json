@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "संध्याछाया",
+    "Writer": "जयवंत दलवी",
+    "Translation": "कुसुम कुमार",
+    "Director": "उत्तरा बावकर",
+    "Artist": "मनोहर सिंह, उत्तरा बावकर",
+    "ForeignKeyId": "075.229",
+    "ForeignKeyType": "EventID"
+}

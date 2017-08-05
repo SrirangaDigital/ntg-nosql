@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "उरुभंगम",
+    "Writer": "भास",
+    "Translation": "भारत भूषण अग्रवाल",
+    "Director": "सत्यव्रत राउत",
+    "Venue": "श्रीराम सेंटर",
+    "ForeignKeyId": "074.473",
+    "ForeignKeyType": "EventID"
+}

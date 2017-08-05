@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "हिरमा की अमर कहानी",
+    "Writer": "हबीब तनवीर",
+    "Director": "हबीब तनवीर",
+    "Venue": "रेलवे सभागार, बिलासपुर",
+    "ForeignKeyId": "074.360",
+    "ForeignKeyType": "EventID"
+}

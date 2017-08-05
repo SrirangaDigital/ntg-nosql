@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "बम्बई",
+    "Drama": "अब बजाओ बाजा",
+    "Writer": "मनोहर काटदरे",
+    "Translator": "गजानन बंगेरा",
+    "Director": "गजानन बंगेरा",
+    "Event": "रागरंग बम्बई द्वारा आयोजित",
+    "ForeignKeyId": "077.190",
+    "ForeignKeyType": "EventID"
+}

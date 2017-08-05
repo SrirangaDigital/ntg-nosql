@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "मेमो (हिन्दी)",
+    "Writer": "रमाशंकर निशेद",
+    "Director": "एम. एस. आज़ाद",
+    "Venue": "मंजर थियेटर, प्रगति मैदान, दिल्ली",
+    "ForeignKeyId": "075.333",
+    "ForeignKeyType": "EventID"
+}

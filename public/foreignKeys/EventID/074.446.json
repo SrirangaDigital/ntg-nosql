@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "रेशमी रुमाल",
+    "Writer": "त्रिपुरारी शर्मा",
+    "Director": "दिनेश खन्ना",
+    "Music": "जानदीप",
+    "Venue": "मिरांडा हाउस",
+    "ForeignKeyId": "074.446",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "भ्रष्टाचार (कहानी मंच-II के अंतर्गत)",
+    "Director": "नरेश डबराल",
+    "Venue": "श्रीराम सेंटर, दिल्ली",
+    "ForeignKeyId": "075.465",
+    "ForeignKeyType": "EventID"
+}

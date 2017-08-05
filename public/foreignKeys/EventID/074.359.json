@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "सोन सागर",
+    "Writer": "हबीब तनवीर",
+    "Director": "हबीब तनवीर",
+    "Venue": "कॅमानि सभागार, दिल्ली",
+    "ForeignKeyId": "074.359",
+    "ForeignKeyType": "EventID"
+}

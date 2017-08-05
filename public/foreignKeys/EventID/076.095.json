@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "राम कथा राम कहानी",
+    "Writer": "चेतना जालान",
+    "Director": "श्यामानंद जालान",
+    "ForeignKeyId": "076.095",
+    "ForeignKeyType": "EventID"
+}

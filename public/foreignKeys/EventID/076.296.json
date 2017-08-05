@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "पटना",
+    "Drama": "वैशाली",
+    "Writer": "कुणाल",
+    "Director": "कुणाल",
+    "Venue": "कालिदास रंगालय, पटना",
+    "ForeignKeyId": "076.296",
+    "ForeignKeyType": "EventID"
+}

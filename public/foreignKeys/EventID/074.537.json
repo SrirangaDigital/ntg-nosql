@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "यहाँ से शहर को देखो",
+    "Writer": "बर्टोल्ट ब्रेस्ट",
+    "Director": "स्वानंद किरकरे",
+    "Venue": "स्टुडियो थिएटर",
+    "ForeignKeyId": "074.537",
+    "ForeignKeyType": "EventID"
+}

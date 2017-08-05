@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "खुर्च्या",
+    "Writer": "आयनेस्को",
+    "Director": "विजया खोटे",
+    "Language": "मराठी",
+    "Translation": "वृन्दावन दण्डवते",
+    "ForeignKeyId": "077.250",
+    "ForeignKeyType": "EventID"
+}

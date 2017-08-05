@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "बम्बई",
+    "Drama": "अपराजिता",
+    "Writer": "नितीश सेन",
+    "Translation": "तारा पंडित",
+    "Director": "जयदेव हट्टंगडी",
+    "Artist": "रोहिणी हट्टंगडी",
+    "Venue": "कर्नाटक संघ मांटुंगा (प)",
+    "ForeignKeyId": "077.095",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "जल बिन जियत पियासे",
+    "Writer": "अजित पुष्कल",
+    "Director": "योगेश पन्त",
+    "Venue": "बी. एम. शाह प्रेक्षागृह, लखनऊ",
+    "ForeignKeyId": "073.361",
+    "ForeignKeyType": "EventID"
+}

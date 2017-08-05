@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "कथा अमृत समान (बांग्ला)",
+    "Writer": "सांबली मित्र",
+    "Director": "सांबली मित्र",
+    "Venue": "रविन्द्र सदन, कोलकाता",
+    "ForeignKeyId": "076.084",
+    "ForeignKeyType": "EventID"
+}

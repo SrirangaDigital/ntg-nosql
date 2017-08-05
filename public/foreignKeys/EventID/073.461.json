@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "बंगलूर",
+    "Drama": "अलीबाबा",
+    "Writer": "कम्बार",
+    "Director": "प्रेमा कारंत",
+    "Venue": "मक्कट नाटक केन्द्र",
+    "ForeignKeyId": "073.461",
+    "ForeignKeyType": "EventID"
+}

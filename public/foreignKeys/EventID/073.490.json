@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "बंगलूर",
+    "Drama": "मैकबैथ",
+    "Writer": "शेक्सपियर",
+    "Director": "प्रसन्ना",
+    "ForeignKeyId": "073.490",
+    "ForeignKeyType": "EventID"
+}

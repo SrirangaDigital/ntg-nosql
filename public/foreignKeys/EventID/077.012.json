@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "आत्मकथा",
+    "Writer": "महेश एलकुंचवार",
+    "Director": "दिनेश ठाकुर",
+    "Dramatized": "वसंत देव",
+    "Artist": "प्रीति ठाकुर व अन्य",
+    "ForeignKeyId": "077.012",
+    "ForeignKeyType": "EventID"
+}

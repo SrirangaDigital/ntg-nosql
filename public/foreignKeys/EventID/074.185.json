@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "बहादुर चुन्नु",
+    "Writer": "रेखा जैन",
+    "Director": "रेखा जैन",
+    "Venue": "त्रिवेणी कला केन्द्र, आगरा",
+    "ForeignKeyId": "074.185",
+    "ForeignKeyType": "EventID"
+}

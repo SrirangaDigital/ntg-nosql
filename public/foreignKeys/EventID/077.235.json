@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "बली",
+    "Writer": "गिरीश कारनाड",
+    "Director": "सत्यदेव दुबे",
+    "Artist": "नसीरुद्दीन शाह एवं रत्ना पाठ शाह",
+    "ForeignKeyId": "077.235",
+    "ForeignKeyType": "EventID"
+}

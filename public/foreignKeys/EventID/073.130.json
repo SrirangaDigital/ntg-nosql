@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "कानपुर",
+    "Venue": "दर्पण",
+    "Drama": "बाकी इतिहास (हिन्दी)",
+    "Writer": "बादल सरकार",
+    "Director": "बंशी कौल",
+    "Translation": "नेमिचन्द्र जैन",
+    "Artist": "नीरज गुप्ता एवं रतन पॉल",
+    "ForeignKeyId": "073.130",
+    "ForeignKeyType": "EventID"
+}

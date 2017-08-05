@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कोलकाता",
+    "Drama": "कार्यशाला",
+    "Director": "बादल सरकार",
+    "Venue": "लंदन, इग्लैण्ड",
+    "ForeignKeyId": "076.197",
+    "ForeignKeyType": "EventID"
+}

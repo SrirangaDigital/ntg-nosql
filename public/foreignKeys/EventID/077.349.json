@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "जयपुर",
+    "Drama": "मंत्रिमंडल",
+    "Writer": "जितेन्द्र मित्तल",
+    "Director": "राम सहाय पारीक",
+    "Venue": "रवीन्द्र मंच, जयपुर",
+    "ForeignKeyId": "077.349",
+    "ForeignKeyType": "EventID"
+}

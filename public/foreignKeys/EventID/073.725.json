@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "जम्मू",
+    "Drama": "जुलूस",
+    "Originaldrama": "मिछिल (नाटक का मूल बांग्ला नाम)",
+    "Writer": "बादल सरकार (बांग्ला)",
+    "Translator": "यामा अग्रवाल",
+    "Director": "कविरत्न शर्मा",
+    "ForeignKeyId": "073.725",
+    "ForeignKeyType": "EventID"
+}

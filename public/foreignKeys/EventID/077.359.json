@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "जयपुर",
+    "Drama": "कैग्प",
+    "Writer": "रामेश्वर प्रेम",
+    "Director": "सुनील माथुर",
+    "Event": "हिन्दी नाट्य प्रतियोगिता आयोजन",
+    "ForeignKeyId": "077.359",
+    "ForeignKeyType": "EventID"
+}

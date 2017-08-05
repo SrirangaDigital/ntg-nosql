@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "गिलहरी रामायण",
+    "Writer": "ब. व. कारन्त",
+    "Director": "ब. व. कारन्त",
+    "Event": "ग्रीष्म बाल नाट्य कार्यशाला",
+    "ForeignKeyId": "076.636",
+    "ForeignKeyType": "EventID"
+}

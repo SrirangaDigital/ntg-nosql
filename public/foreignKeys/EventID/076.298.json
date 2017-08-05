@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "पटना",
+    "Drama": "पटना टाइम्स",
+    "Event": "चम्पारण नाट्य महोत्सव",
+    "Writer": "प्रसाद रत्नेश्वर",
+    "Director": "प्रसाद रत्नेश्वर",
+    "Venue": "मोतिहारी",
+    "ForeignKeyId": "076.298",
+    "ForeignKeyType": "EventID"
+}

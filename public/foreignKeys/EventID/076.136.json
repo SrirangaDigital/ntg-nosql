@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "राजा",
+    "Writer": "रवीन्द्रनाथ टैगोर",
+    "Director": "शम्भु मित्र",
+    "ForeignKeyId": "076.136",
+    "ForeignKeyType": "EventID"
+}

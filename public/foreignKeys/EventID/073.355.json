@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "पहला और आखिरी",
+    "Writer": "जॉन गॉल्सबदीं",
+    "Director": "अरुण कुमार त्रिवेदी",
+    "Venue": "बी. एम. शाह प्रेक्षागृह, लखनऊ",
+    "ForeignKeyId": "073.355",
+    "ForeignKeyType": "EventID"
+}

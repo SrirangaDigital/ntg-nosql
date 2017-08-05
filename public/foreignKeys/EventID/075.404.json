@@ -1,0 +1,17 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "खामोश अदालत जारी है",
+    "Writer": "विजय तेंदुलकर",
+    "Projection": "अवतार साहनी",
+    "Director": "अवतार साहनी",
+    "Asstdirector": "भूपेश जोशी",
+    "Music": "अनिल मिश्रा",
+    "Song": "अनिल मिश्रा",
+    "Lightingdesign": "अवतार साहनी",
+    "Make-up": "श्रीकांत वर्मा",
+    "Stage": "श्रीकांत वर्मा",
+    "Venue": "श्रीराम सेंटर मुख्य सभागार",
+    "ForeignKeyId": "075.404",
+    "ForeignKeyType": "EventID"
+}

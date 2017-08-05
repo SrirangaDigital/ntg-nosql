@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "अक्स तमाशा",
+    "Writer": "चन्द्रशेखर कम्बार",
+    "Translation": "रामगोपाल बजाज",
+    "Director": "भानु भारती",
+    "Venue": "श्रीराम सेंटर",
+    "ForeignKeyId": "075.005",
+    "ForeignKeyType": "EventID"
+}

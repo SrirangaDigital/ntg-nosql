@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "पगला घोड़ा (हिन्दी)",
+    "Writer": "बादल सरकार (बांग्ला)",
+    "Translation": "प्रतिभा अग्रवाल",
+    "Projection": "बिपिन कुमार",
+    "Director": "बिपिन कुमार",
+    "Venue": "लिटिल थिएटर सभागार, दिल्ली",
+    "ForeignKeyId": "074.239",
+    "ForeignKeyType": "EventID"
+}

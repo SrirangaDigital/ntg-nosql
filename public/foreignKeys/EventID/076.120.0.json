@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "घर बाइरे",
+    "Writer": "रवीन्द्रनाथ टैगोर",
+    "Director": "तृप्ति मित्रा",
+    "ForeignKeyId": "076.120.0",
+    "ForeignKeyType": "EventID"
+}

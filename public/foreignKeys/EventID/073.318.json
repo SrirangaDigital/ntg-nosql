@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "मृच्छकटिक (अवधी/ब्रज)",
+    "Writer": "शूद्रक",
+    "Director": "नवीन शर्मा",
+    "Venue": "संगीत नाटक अकादेमी",
+    "ForeignKeyId": "073.318",
+    "ForeignKeyType": "EventID"
+}

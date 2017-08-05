@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "कथा एक कंस की",
+    "Writer": "दयाप्रकाश सिन्हा",
+    "Director": "विमल लाठ",
+    "ForeignKeyId": "076.033",
+    "ForeignKeyType": "EventID"
+}

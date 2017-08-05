@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "हैदराबाद",
+    "Drama": "खेलें तो कहाँ खेले",
+    "Director": "भास्कर शिवालकर",
+    "Venue": "मैक्समूलर भवन, हैदराबाद",
+    "ForeignKeyId": "073.015",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "कहानियाँ",
+    "Writer": "मोहन राकेश",
+    "Director": "देवेन्द्र राज अंकुर",
+    "Artist": "उत्तरा बावकर व अन्य",
+    "ForeignKeyId": "075.063",
+    "ForeignKeyType": "EventID"
+}

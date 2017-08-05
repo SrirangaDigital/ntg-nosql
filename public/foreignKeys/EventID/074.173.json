@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "जंगल में चुनाव",
+    "Writer": "किरण मोदी",
+    "Director": "रेखा जैन",
+    "Music": "रवि घोष",
+    "ForeignKeyId": "074.173",
+    "ForeignKeyType": "EventID"
+}

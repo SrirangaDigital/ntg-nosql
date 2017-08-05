@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "बीकानेर",
+    "Drama": "जुलूस",
+    "Originaldrama": "मिछिल (बंगला)",
+    "Writer": "बादल सरकार (बांग्ला)",
+    "Translator": "यामा अग्रवाल",
+    "Director": "वागीश कुमार सिंह",
+    "ForeignKeyId": "077.408",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "पटना",
+    "Drama": "एक कतरा खून",
+    "Writer": "सपन मुखर्जी",
+    "Director": "आर. पी. तरुण",
+    "Venue": "नाट्योत्सव",
+    "ForeignKeyId": "076.327",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "चौबोली",
+    "Writer": "स्वयं प्रकाश",
+    "Director": "एन. के. शर्मा",
+    "ForeignKeyId": "074.200",
+    "ForeignKeyType": "EventID"
+}

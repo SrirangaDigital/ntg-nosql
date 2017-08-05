@@ -1,0 +1,13 @@
+{
+    "Aid": "02",
+    "Country": "उतरेख्त, ब्रसल्स, बर्लिन, ग्रोनिन्जन (Utrecht, Brussels, Berlin, Groningen)",
+    "Dance": "पेपर डॉल (डांस थियेटर)",
+    "Projection": "सुमंत जयकृष्णन",
+    "Director": "पदमनी चेत्तुर",
+    "Choreography": "पदमनी चेत्तुर",
+    "Music": "मार्तिन विस्सर",
+    "Dancer": "कृष्णा देवानन्दन, प्रीति अथरेजा, अशिवनी भट्ट व अन्य",
+    "Venue": "श्रीराम सेंटर, दिल्ली",
+    "ForeignKeyId": "077.660",
+    "ForeignKeyType": "EventID"
+}

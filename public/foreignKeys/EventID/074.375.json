@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "फितरती चोर",
+    "Director": "अफसर हुसैन",
+    "Venue": "मंजर थिएटर",
+    "ForeignKeyId": "074.375",
+    "ForeignKeyType": "EventID"
+}

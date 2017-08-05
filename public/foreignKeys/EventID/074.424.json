@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "एकलव्य",
+    "Writer": "शांता गांधी",
+    "Director": "शांता गांधी",
+    "Venue": "बाल भवन",
+    "ForeignKeyId": "074.424",
+    "ForeignKeyType": "EventID"
+}

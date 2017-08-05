@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "भूचाल",
+    "Writer": "आर. जी. आनंद",
+    "Director": "राजिन्दर नाथ",
+    "Artist": "सुधा चौपड़ा, श्याम अरोड़ा एवं अन्य",
+    "ForeignKeyId": "074.146",
+    "ForeignKeyType": "EventID"
+}

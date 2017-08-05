@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "उत्तररामचरित (हिन्दी) (अभ्यास)",
+    "Writer": "भवभूति (संस्कृत)",
+    "Translation": "सत्यनारायण कविरत्न",
+    "Director": "प्रसन्ना",
+    "ForeignKeyId": "075.039",
+    "ForeignKeyType": "EventID"
+}

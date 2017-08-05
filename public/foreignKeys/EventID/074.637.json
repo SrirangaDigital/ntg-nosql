@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "राजा",
+    "Writer": "रवीन्द्र नाथ ठाकुर",
+    "Director": "के. एन. पणिक्कर",
+    "Artist": "केनथ देसाई, सुवर्ण रावत, वाणी सिंह",
+    "ForeignKeyId": "074.637",
+    "ForeignKeyType": "EventID"
+}

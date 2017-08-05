@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "विवाह काव्य",
+    "Writer": "निसिम एजिकिएल",
+    "Director": "कृष्णा जिना",
+    "Artist": "उत्तरा बाउकर, मनोहर सिंह",
+    "ForeignKeyId": "075.264",
+    "ForeignKeyType": "EventID"
+}

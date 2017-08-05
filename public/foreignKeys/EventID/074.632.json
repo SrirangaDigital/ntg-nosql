@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "मुद्रिका रहस्य",
+    "Writer": "शरद जोशी",
+    "Director": "देवेन्द्र राज अंकुर",
+    "Story": "कोलाज-3",
+    "Venue": "अभिमंच",
+    "ForeignKeyId": "074.632",
+    "ForeignKeyType": "EventID"
+}

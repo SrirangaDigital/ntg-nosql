@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "बम्बई",
+    "Drama": "शाकुंतल",
+    "Writer": "कालिदास",
+    "Translator": "मोहन राकेश",
+    "Director": "विजया मेहता",
+    "Event": "सातवे राष्ट्रीय नाट्य समारोह",
+    "ForeignKeyId": "077.154",
+    "ForeignKeyType": "EventID"
+}

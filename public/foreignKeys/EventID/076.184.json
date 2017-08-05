@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "हिम्मत माई",
+    "Writer": "बतोल्त ब्रेख्ट",
+    "Version": "नीलाम",
+    "Director": "ऊषा गांगुली",
+    "Artist": "ऊषा गांगुली",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.184",
+    "ForeignKeyType": "EventID"
+}

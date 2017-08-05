@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "खरदा",
+    "Drama": "अहल्या",
+    "Writer": "प्रवीन गुह",
+    "Director": "प्रवीन गुह",
+    "Event": "राष्ट्रीय नाट्य समारोह",
+    "ForeignKeyId": "076.244",
+    "ForeignKeyType": "EventID"
+}

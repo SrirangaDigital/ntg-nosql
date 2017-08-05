@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "मीड़िया",
+    "Writer": "यूरिमिडीज़",
+    "Director": "फ़ैसल अल्काज़ी",
+    "ForeignKeyId": "075.281",
+    "ForeignKeyType": "EventID"
+}

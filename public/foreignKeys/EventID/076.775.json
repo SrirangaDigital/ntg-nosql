@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "एण्टीगन (हिन्दी)",
+    "Writer": "सोफोक्लीज (ग्रीक)",
+    "Translation": "इंदुजा अवस्थी एवं बी. पी. मिश्र",
+    "Director": "बंसी कौल",
+    "ForeignKeyId": "076.775",
+    "ForeignKeyType": "EventID"
+}

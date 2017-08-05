@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "मजे- मजे मे",
+    "Director": "रमेश नायडू",
+    "Event": "छठा बाल नाट्योत्सव",
+    "ForeignKeyId": "075.589",
+    "ForeignKeyType": "EventID"
+}

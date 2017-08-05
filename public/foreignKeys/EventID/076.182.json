@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "सुबह",
+    "Writer": "फ्रांका रामे",
+    "Translation": "उषा गांगुली (हिन्दी में अनुवाद)",
+    "Director": "बिभास चक्रवर्ती",
+    "Venue": "दिल्ली",
+    "ForeignKeyId": "076.182",
+    "ForeignKeyType": "EventID"
+}

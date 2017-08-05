@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "दो कशितयों का सवार",
+    "Writer": "कारियो गोलदानी",
+    "Translation": "जीत कौशिक",
+    "Director": "बी. एम. शाह",
+    "Venue": "अभिमंच",
+    "ForeignKeyId": "074.619",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कोलकत्ता",
+    "Drama": "हयवदन (हिन्दी)",
+    "Writer": "गिरीश करनाड (कन्नड़)",
+    "Director": "राजिन्दर नाथ",
+    "ForeignKeyId": "076.056",
+    "ForeignKeyType": "EventID"
+}

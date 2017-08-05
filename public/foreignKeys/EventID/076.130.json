@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "पुतुल खेला",
+    "Writer": "इब्सन",
+    "Director": "शम्भु मित्र",
+    "ForeignKeyId": "076.130",
+    "ForeignKeyType": "EventID"
+}

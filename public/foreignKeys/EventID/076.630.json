@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "एण्टीगोन",
+    "Writer": "सोफोक्लीज (ग्रीक)",
+    "Translation": "इंदुजा अवस्थी",
+    "Director": "रुद्रप्रसाद सेनगुप्ता",
+    "Artist": "विभा मिश्र व अन्य",
+    "ForeignKeyId": "076.630",
+    "ForeignKeyType": "EventID"
+}

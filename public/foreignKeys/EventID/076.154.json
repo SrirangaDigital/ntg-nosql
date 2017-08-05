@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "खेलगाड़ी",
+    "Writer": "ऊषा गांगुली",
+    "Director": "ऊषा गांगुली",
+    "Artist": "जोहरा बीबी, ऊषा गांगुलि",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.154",
+    "ForeignKeyType": "EventID"
+}

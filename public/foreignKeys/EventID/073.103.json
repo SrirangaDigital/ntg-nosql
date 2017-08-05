@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कानपुर",
+    "Drama": "कफ़न (हिन्दी) (कहानी)",
+    "Writer": "प्रेमचन्द",
+    "Director": "राजेश अग्रवाल",
+    "Natyantra": "मोहम्मद मेंहदी",
+    "ForeignKeyId": "073.103",
+    "ForeignKeyType": "EventID"
+}

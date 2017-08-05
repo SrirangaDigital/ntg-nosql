@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "गधे की बारात",
+    "Writer": "हरिभाऊ वडगावकर",
+    "Director": "विश्वदीपक त्रिखा",
+    "ForeignKeyId": "075.571",
+    "ForeignKeyType": "EventID"
+}

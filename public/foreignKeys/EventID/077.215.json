@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "बम्बई",
+    "Drama": "एक और द्रोणाचार्य",
+    "Writer": "शंकर शेष",
+    "Director": "शंकर शेष",
+    "Venue": "मंजर थिएटर",
+    "ForeignKeyId": "077.215",
+    "ForeignKeyType": "EventID"
+}

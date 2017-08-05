@@ -1,0 +1,10 @@
+{
+    "Aid": "03",
+    "Place": "इम्फाल",
+    "Event": "ट्रेनिंग एण्ड रिहर्सल",
+    "Director": "एच. कन्हाईलाल",
+    "Artist": "सावित्री हेसनाम व अन्य",
+    "Venue": "रामपुर, असम",
+    "ForeignKeyId": "076.393",
+    "ForeignKeyType": "EventID"
+}

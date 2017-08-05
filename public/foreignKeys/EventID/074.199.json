@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "नसीब",
+    "Writer": "गासिर्या लोर्का",
+    "Director": "शीला भाटिया",
+    "Venue": "श्रीराम सेंटर सभागार",
+    "ForeignKeyId": "074.199",
+    "ForeignKeyType": "EventID"
+}

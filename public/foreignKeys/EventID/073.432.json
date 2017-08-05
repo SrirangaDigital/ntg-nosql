@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "सीतापुर",
+    "Drama": "जुलूस",
+    "Originaldrama": "मिछिल",
+    "Writer": "बादल सरकार (बांग्ला)",
+    "Translator": "यामा अग्रवाल",
+    "Director": "विजय कपूर",
+    "ForeignKeyId": "073.432",
+    "ForeignKeyType": "EventID"
+}

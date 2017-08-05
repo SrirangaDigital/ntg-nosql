@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कोटा",
+    "Drama": "युद् जारी है",
+    "Writer": "हमीदुल्ला",
+    "Director": "शशि शर्मा",
+    "Venue": "अखिल भारतीय नाटक प्रतियोगिता, रायपुर",
+    "ForeignKeyId": "077.337",
+    "ForeignKeyType": "EventID"
+}

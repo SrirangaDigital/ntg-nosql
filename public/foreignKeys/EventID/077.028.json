@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "बम्बई",
+    "Drama": "खामोश अदालत जारी है",
+    "Writer": "विजय तेंडुलकर",
+    "Director": "दिनेश ठाकुर",
+    "Event": "अंक नाट्य समारोह",
+    "ForeignKeyId": "077.028",
+    "ForeignKeyType": "EventID"
+}

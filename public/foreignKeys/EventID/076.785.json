@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "पूर्वाभ्यास",
+    "Writer": "द्वारकेश नेमा",
+    "Director": "जावेद जैदी",
+    "ForeignKeyId": "076.785",
+    "ForeignKeyType": "EventID"
+}

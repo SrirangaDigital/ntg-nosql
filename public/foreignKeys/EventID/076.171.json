@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "मैय्यत",
+    "Writer": "विजय",
+    "Director": "ऊषा गांगुली",
+    "Artist": "रंगकर्मी के कलाकार",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.171",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "महानिर्वाण",
+    "Writer": "सतीश अलेकर",
+    "Director": "रॉयस्टन अबेल",
+    "Music": "पीयूष मिश्रा",
+    "ForeignKeyId": "075.472",
+    "ForeignKeyType": "EventID"
+}

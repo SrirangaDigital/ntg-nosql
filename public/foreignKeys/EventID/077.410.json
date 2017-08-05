@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "बीकानेर",
+    "Drama": "पार्क",
+    "Director": "इकबाल हुसैन",
+    "Event": "रंगट समारोह 1988",
+    "ForeignKeyId": "077.410",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "सुबह के लिए",
+    "Writer": "मधुकर सिंह",
+    "Director": "प्रयाग वर्मा",
+    "Venue": "रवीन्द्रालय, लखनऊ",
+    "ForeignKeyId": "073.382",
+    "ForeignKeyType": "EventID"
+}

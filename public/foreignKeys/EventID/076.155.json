@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "खोज",
+    "Writer": "उषा गांगुली",
+    "Director": "उषा गांगुली",
+    "Artist": "असित मुखोपाध्याय, उषा गांगुली व अन्य",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.155",
+    "ForeignKeyType": "EventID"
+}

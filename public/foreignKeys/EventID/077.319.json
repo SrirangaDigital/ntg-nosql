@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "उदयपुर",
+    "Drama": "भादली (Bhadli)",
+    "Writer": "सुभाष शास (Subhash Shas)",
+    "Director": "सुभाष शास (Subhash Shas)",
+    "Event": "बड़ौदा वर्कशॉप",
+    "ForeignKeyId": "077.319",
+    "ForeignKeyType": "EventID"
+}

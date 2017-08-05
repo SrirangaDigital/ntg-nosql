@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "वामा",
+    "Writer": "फ्रेनी रेम व ब्रैख्ट",
+    "Version": "ऊषा गांगुली",
+    "Artist": "ऊषा गांगुली",
+    "Director": "बिभाश चक्रवर्ती",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.179",
+    "ForeignKeyType": "EventID"
+}

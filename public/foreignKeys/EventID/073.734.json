@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "जम्मू",
+    "Drama": "महाभोज",
+    "Writer": "मन्नू भंडारी",
+    "Director": "बलवंत ठाकुर",
+    "Event": "राष्ट्रीय नाट्य समारोह 1989",
+    "Venue": "संगीत नाटक अकादमी",
+    "ForeignKeyId": "073.734",
+    "ForeignKeyType": "EventID"
+}

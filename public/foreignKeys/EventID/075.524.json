@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "कैम्प",
+    "Writer": "रामेश्वर प्रेम",
+    "Director": "राजेन्द्र गुप्त",
+    "ForeignKeyId": "075.524",
+    "ForeignKeyType": "EventID"
+}

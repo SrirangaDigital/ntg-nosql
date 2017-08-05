@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "गिरगिट",
+    "Writer": "एंटोन चेखव",
+    "Director": "हफीज़ खान",
+    "Venue": "शिविर में आयोजित",
+    "ForeignKeyId": "075.262",
+    "ForeignKeyType": "EventID"
+}

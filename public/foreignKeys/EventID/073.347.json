@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "मैकबेथ (हिन्दी)",
+    "Writer": "शेक्सपियर",
+    "Director": "राज बिसारिया",
+    "Stage": "राज बिसारिया",
+    "Light": "राज बिसारिया",
+    "ForeignKeyId": "073.347",
+    "ForeignKeyType": "EventID"
+}

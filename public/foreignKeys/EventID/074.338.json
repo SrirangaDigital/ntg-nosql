@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "कुशतिया का चपरासी",
+    "Writer": "हबीब तनवीर",
+    "Director": "हबीब तनवीर",
+    "Artist": "हबीब तनवीर",
+    "Venue": "ए. आई. एफ. ए. सी. एस. हॉल, दिल्ली",
+    "ForeignKeyId": "074.338",
+    "ForeignKeyType": "EventID"
+}

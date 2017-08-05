@@ -1,0 +1,15 @@
+{
+    "Aid": "01",
+    "Place": "जबलपुर",
+    "Drama": "मानवबोध बाबू (हिन्दी)",
+    "Writer": "चन्द्रकिशोर जायसवाल",
+    "Natyantar": "संजय गर्ग",
+    "Presentation": "वसंत काशीकर",
+    "Projection": "वसंत काशीकर",
+    "Director": "वसंत काशीकर",
+    "Light": "वसंत काशीकर",
+    "Music": "सचिन उपाध्याय, वसंत काशीकर",
+    "Stage": "अभय पाटक",
+    "ForeignKeyId": "076.557",
+    "ForeignKeyType": "EventID"
+}

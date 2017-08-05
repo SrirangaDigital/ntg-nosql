@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "मुंबई",
+    "Drama": "द्वंद",
+    "Writer": "मंजुल भारद्वाज",
+    "Director": "मंजुल भारद्वाज",
+    "Venue": "हैनोवर, जर्मनी",
+    "ForeignKeyId": "077.130",
+    "ForeignKeyType": "EventID"
+}

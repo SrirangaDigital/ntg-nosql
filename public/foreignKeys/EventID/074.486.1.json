@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "अंधेरे में",
+    "Writer": "मुक्तिबोध",
+    "Director": "सुमन कुमार",
+    "Venue": "स्टूडियो थिएटर",
+    "ForeignKeyId": "074.486.1",
+    "ForeignKeyType": "EventID"
+}

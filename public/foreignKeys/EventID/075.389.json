@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "कंपनी उस्ताद (हिन्दी)",
+    "Writer": "रवीन्द्र भारती",
+    "Director": "संजय उपाध्याय",
+    "ForeignKeyId": "075.389",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "जिस लहौर नई देख्या वो जन्मा इ नई",
+    "Writer": "असग़र वजाहत",
+    "Director": "हबीब तनवीर",
+    "Venue": "श्री राम सेंटर सभागार",
+    "ForeignKeyId": "074.198",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कोलकाता",
+    "Drama": "अजकर शाजहॉ (Ajker Shajahan) (बॉग्ला)",
+    "Writer": "उत्पल दत्त",
+    "Director": "उत्पल दत्त",
+    "Venue": "मंजर थियेटर",
+    "ForeignKeyId": "076.102",
+    "ForeignKeyType": "EventID"
+}

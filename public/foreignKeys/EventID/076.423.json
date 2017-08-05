@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "इम्फाल",
+    "Drama": "सती",
+    "Writer": "एच. एस. शिवप्रकाश",
+    "Director": "एच. तोम्बा",
+    "Venue": "गोलपारा, रामपुर गाँव, असम",
+    "ForeignKeyId": "076.423",
+    "ForeignKeyType": "EventID"
+}

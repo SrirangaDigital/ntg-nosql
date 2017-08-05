@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "ओथेलो (हिन्दी)",
+    "Writer": "शेक्सपियर",
+    "Stage": "राजबिसारिया",
+    "Light": "राजबिसारिया",
+    "Director": "राजबिसारिया",
+    "ForeignKeyId": "075.048",
+    "ForeignKeyType": "EventID"
+}

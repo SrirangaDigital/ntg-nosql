@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "रंगभूमि (हिन्दी)",
+    "Writer": "प्रेमचन्द (उपन्यास)",
+    "Director": "सुरेन्द्र शर्मा",
+    "ForeignKeyId": "074.486.0",
+    "ForeignKeyType": "EventID"
+}

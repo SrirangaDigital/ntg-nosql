@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कानपुर",
+    "Venue": "दर्पण",
+    "Drama": "संस्कार को नमस्कार (हिन्दी)",
+    "Writer": "कुसुम कुमार",
+    "Director": "रवि शर्मा",
+    "ForeignKeyId": "073.134",
+    "ForeignKeyType": "EventID"
+}

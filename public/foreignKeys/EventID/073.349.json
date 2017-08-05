@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "राजा लियर",
+    "Writer": "शेक्सपियर",
+    "Translator": "हरिवंश राय वच्चन",
+    "Director": "रॉबिन दास",
+    "Venue": "बी. एम. शाह प्रेक्षागृह, लखनऊ",
+    "ForeignKeyId": "073.349",
+    "ForeignKeyType": "EventID"
+}

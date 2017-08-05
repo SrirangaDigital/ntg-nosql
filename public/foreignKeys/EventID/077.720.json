@@ -1,0 +1,14 @@
+{
+    "Aid": "01",
+    "Country": "पौलैण्ड",
+    "Drama": "सेवरल विट्टी अब्ज़रवेशन",
+    "Director": "लेज्जेक ब्जदेल (Leszek Bzdyl)",
+    "Choreography": "Katarzyna Chmielewska, Rafal Dziemidok, Leszek Bzdyl",
+    "Presentation": "Katarzyna Chmielewska, Rafal Dziemidok, Leszek Bzdyl",
+    "Music": "Mikolaj Trazaska",
+    "Stage": "Macies Chojnacki",
+    "Light": "Michal Kolodziej",
+    "Venue": "सम्मुख सभागार, रा. ना. वि., दिल्ली",
+    "ForeignKeyId": "077.720",
+    "ForeignKeyType": "EventID"
+}

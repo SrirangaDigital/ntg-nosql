@@ -1,0 +1,13 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "हास्य रसायन (हिन्दी)",
+    "Translation": "सतीश दवे",
+    "Director": "बंसी कौल",
+    "Music": "अंजना पुरी",
+    "Light": "फरीद बज़मी",
+    "Makeup": "समूह",
+    "Artist": "हर्ष दौण्ड, कन्हैयालाल कैथवास, दरबारी पाल व अन्य",
+    "ForeignKeyId": "076.766",
+    "ForeignKeyType": "EventID"
+}

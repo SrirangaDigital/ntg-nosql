@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "थ्री सिस्टर्स (हिन्दी)",
+    "Writer": "एंटन चेखत (रूसी)",
+    "Translation": "ज़ाहिदा ज़ैदी",
+    "Director": "रघुनंदन",
+    "Dress": "अभिलाषा पिल्लई",
+    "ForeignKeyId": "074.615",
+    "ForeignKeyType": "EventID"
+}

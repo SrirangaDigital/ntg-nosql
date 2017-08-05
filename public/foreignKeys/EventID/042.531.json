@@ -1,0 +1,12 @@
+{
+    "Aid": "02",
+    "Card-type": "दुर्लभ डायरी",
+    "Place": "कोलकाता",
+    "Dance": "सरदार भगत सिंह (हिन्दी)",
+    "Writer": "रणधीर साहित्यालंकर",
+    "Director": "मास्टर नैनूराम",
+    "Music": "सुबोध भौमिक, मोहन सिंह",
+    "Dance-director": "पीटर गोम्स",
+    "ForeignKeyId": "042.531",
+    "ForeignKeyType": "EventID"
+}

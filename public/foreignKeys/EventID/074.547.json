@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "विक्रमोर्वशियम",
+    "Writer": "कालिदास",
+    "Translation": "इन्दूजा अवस्थी",
+    "Director": "ब. व. कारंत",
+    "Music": "ब. व. कारंत",
+    "Projection": "बंसी कौल",
+    "ForeignKeyId": "074.547",
+    "ForeignKeyType": "EventID"
+}

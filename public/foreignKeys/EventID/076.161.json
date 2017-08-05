@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कोलकाता",
+    "Drama": "प्रथम प्रथा",
+    "Writer": "बुद्धदेव बोस",
+    "Director": "कौशिक सेन",
+    "ForeignKeyId": "076.161",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,14 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "नये हाथ (हिन्दी)",
+    "Writer": "विनोद रस्तोगी",
+    "Director": "बद्री प्रसाद तिवारी",
+    "Presentation": "श्यामानन्द जालान",
+    "Light": "तापस सेन",
+    "Artist": "श्यामानंद जालान व अन्य",
+    "Book": "Shyamanand Jalan: A Pictorial, Tribute-Dr. Madhuchhandra Chatterjee (सूचना पुस्तक)",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.042",
+    "ForeignKeyType": "EventID"
+}

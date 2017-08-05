@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "मुक्ति",
+    "Writer": "महाश्वेता देवी",
+    "Version": "ऊषा गांगुली",
+    "Director": "ऊषा गांगुली",
+    "Artist": "ऊषा गांगुली",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.168",
+    "ForeignKeyType": "EventID"
+}

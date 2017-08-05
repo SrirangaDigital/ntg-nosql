@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "इम्फाल",
+    "Drama": "पाना लामजेल (Pana Lamjel)",
+    "Writer": "वाई. राजेन्द्र सिंह",
+    "Director": "पी. खगेन्द्र सिंह",
+    "Event": "संगीत नाटक अकादमी समारोह, 1981",
+    "ForeignKeyId": "076.470",
+    "ForeignKeyType": "EventID"
+}

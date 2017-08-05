@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "गुड़िया घर",
+    "Writer": "हेनरिक इब्सन",
+    "Translator": "उषा गांगुली",
+    "Director": "तृप्ति मित्रा",
+    "Artist": "उषा गांगुली व अन्य",
+    "ForeignKeyId": "076.156",
+    "ForeignKeyType": "EventID"
+}

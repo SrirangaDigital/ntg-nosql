@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "रस्सा",
+    "Writer": "रवीन्द्रनाथ ठाकुर",
+    "Translation": "धन्य कुमार जैन",
+    "Director": "राजकमल नायक",
+    "Venue": "रवीन्द्र भवन, भोपाल",
+    "ForeignKeyId": "076.585",
+    "ForeignKeyType": "EventID"
+}

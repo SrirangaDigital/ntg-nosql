@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "अनामदास का पोथा (हिन्दी)",
+    "Writer": "हजारी प्रसाद द्विवेदी (उपन्यास)",
+    "Natyantar": "ब. व. कारंत",
+    "Director": "रॉबिन दास",
+    "ForeignKeyId": "075.012",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "निहारबाला इन कुहाकी (बांग्ला)",
+    "Writer": "विलियम शेक्सपियर",
+    "Artist": "निहारबाला",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.240",
+    "ForeignKeyType": "EventID"
+}

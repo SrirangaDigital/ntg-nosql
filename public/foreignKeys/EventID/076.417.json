@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "इम्फाल",
+    "Drama": "मृत्युखोर",
+    "Writer": "एच. कन्हाई लाल",
+    "Director": "एच. कन्हाई लाल",
+    "Event": "राष्ट्रीय नाट्य समारोह, 1985",
+    "Costume": "गोप कोकगेंग (Kokngang)",
+    "Artist": "सावित्री हेसनाम",
+    "ForeignKeyId": "076.417",
+    "ForeignKeyType": "EventID"
+}

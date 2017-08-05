@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "बंगलूर",
+    "Drama": "मदर",
+    "Director": "आर. पी. प्रसन्ना",
+    "Venue": "मंजर थिएटर",
+    "ForeignKeyId": "073.489",
+    "ForeignKeyType": "EventID"
+}

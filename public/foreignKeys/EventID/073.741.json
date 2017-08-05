@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "जम्मू",
+    "Drama": "अन्ना युग",
+    "Writer": "धर्मवीर भारती",
+    "Translation": "रामनाथ शास्त्री",
+    "Director": "सुधीर महाजन",
+    "Venue": "अभिनय थिएटर, जम्मू",
+    "ForeignKeyId": "073.741",
+    "ForeignKeyType": "EventID"
+}

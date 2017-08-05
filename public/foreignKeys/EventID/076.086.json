@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "नाथवती अनाथवत",
+    "Director": "सांवली मित्र",
+    "Event": "सातवें राष्ट्रीय नाट्य समारोह",
+    "ForeignKeyId": "076.086",
+    "ForeignKeyType": "EventID"
+}

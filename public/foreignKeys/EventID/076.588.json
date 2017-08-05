@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "सूर्य की अंतिम किरण से सूर्य की पहली किरण तक",
+    "Writer": "सुरेन्द्र वर्मा",
+    "Projection": "जयन्त देशमुख",
+    "Director": "जयन्त देशमुख",
+    "Music": "आमोद भट्ट",
+    "ForeignKeyId": "076.588",
+    "ForeignKeyType": "EventID"
+}

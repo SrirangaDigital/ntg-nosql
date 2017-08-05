@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "सजा",
+    "Writer": "टैगोर",
+    "Director": "त्रिपुरारी शर्मा",
+    "ForeignKeyId": "075.508",
+    "ForeignKeyType": "EventID"
+}

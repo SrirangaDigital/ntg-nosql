@@ -1,0 +1,12 @@
+{
+    "Aid": "02",
+    "Card-type": "दुर्लभ डायरी",
+    "Place": "कोलकाता",
+    "Dance": "सीता बनवास (हिन्दी)",
+    "Writer": "आगा हश्र कश्मीरी",
+    "Director": "मास्टर नैनूराम",
+    "Artist": "मास्टर फिदा हुसैन",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "042.532",
+    "ForeignKeyType": "EventID"
+}

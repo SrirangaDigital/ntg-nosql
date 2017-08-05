@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "अम्मा तुझे सलाम",
+    "Writer": "नाग बोडस",
+    "Director": "अरविन्द गौड़",
+    "Music": "संगीत गौड़",
+    "Venue": "बिपिन चन्द्र पाल ऑडिटोरियम",
+    "ForeignKeyId": "074.111",
+    "ForeignKeyType": "EventID"
+}

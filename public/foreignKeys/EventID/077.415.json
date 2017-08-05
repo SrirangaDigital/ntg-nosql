@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "बीकानेर",
+    "Drama": "साक्षात्कार",
+    "Director": "राजानंद",
+    "Event": "रंगट समारोह 1988",
+    "ForeignKeyId": "077.415",
+    "ForeignKeyType": "EventID"
+}

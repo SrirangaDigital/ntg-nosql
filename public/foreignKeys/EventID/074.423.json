@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "सूपना का सपना",
+    "Writer": "शाहिद अनवर",
+    "Director": "सतीश आनन्द",
+    "Venue": "एल. टी. जी. ऑडिटोरियम, मंडी हाऊस",
+    "ForeignKeyId": "074.423",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,13 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "एण्टीगन (Antigone)",
+    "Writer": "सोफोक्लीज़",
+    "Translation": "इंदुजा अवस्थी/भवानी प्रसाद मिश्र",
+    "Director": "कार्तिक अवस्थी",
+    "Music": "नाटक अकादमी",
+    "Event": "उत्तर संभागीय नाट्य समारोह",
+    "Venue": "लखनऊ",
+    "ForeignKeyId": "074.103",
+    "ForeignKeyType": "EventID"
+}

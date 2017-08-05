@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "छायानट (रिहर्सल)",
+    "Writer": "उत्पल दत्त",
+    "Director": "बी. एम. शाह",
+    "Translation": "कृष्ण कुमार",
+    "Music": "देवानन्द पासवान",
+    "ForeignKeyId": "075.414",
+    "ForeignKeyType": "EventID"
+}

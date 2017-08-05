@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "काशीनामा",
+    "Director": "ऊषा गांगुली",
+    "Artist": "ऊषा गांगुली",
+    "Venue": "कलकत्ता",
+    "ForeignKeyId": "076.151",
+    "ForeignKeyType": "EventID"
+}

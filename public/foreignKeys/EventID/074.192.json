@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "सुनहरी मछली (हिन्दी बाल नाटक)",
+    "Writer": "अरुण सिंह",
+    "Director": "अरुण सिंह",
+    "Venue": "नवयुग स्कूल, दिल्ली",
+    "ForeignKeyId": "074.192",
+    "ForeignKeyType": "EventID"
+}

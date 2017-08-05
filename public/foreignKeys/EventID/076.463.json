@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "इम्फाल",
+    "Drama": "नौगदा अपम थोइबा",
+    "Writer": "वाई राजेन्द्र सिंह",
+    "Director": "वाई राजेन्द्र सिंह",
+    "Event": "नाट्य समारोह `1985'",
+    "ForeignKeyId": "076.463",
+    "ForeignKeyType": "EventID"
+}

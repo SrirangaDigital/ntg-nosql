@@ -1,0 +1,16 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "उपाशल्या",
+    "Concept": "तड़ितमित्र",
+    "Design": "तड़ितमित्र",
+    "Article": "तड़ितमित्र",
+    "Director": "तड़ितमित्र",
+    "Set": "अनजन बोस",
+    "Light": "अभिषेक बिश्वास",
+    "Music": "सुभाशीष साहा",
+    "Costume": "रुमा बोस",
+    "Artist": "रुमा बोस, शर्मिला, अदर्स",
+    "ForeignKeyId": "075.540",
+    "ForeignKeyType": "EventID"
+}

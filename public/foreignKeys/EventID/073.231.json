@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "प्रतापगढ़",
+    "Drama": "जुलूस",
+    "Writer": "बादल सरकार",
+    "Director": "सुशील कुमार सिंह",
+    "Translator": "यामा अग्रवाल",
+    "ForeignKeyId": "073.231",
+    "ForeignKeyType": "EventID"
+}

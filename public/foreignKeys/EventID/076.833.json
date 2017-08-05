@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कोल्हापुर",
+    "Drama": "उत्तररामचरित (मराठी)",
+    "Writer": "भवभूति",
+    "Director": "शरत्चन्द्र भूथाडिया",
+    "Venue": "संगीत नाटक अकादेमी",
+    "ForeignKeyId": "076.833",
+    "ForeignKeyType": "EventID"
+}

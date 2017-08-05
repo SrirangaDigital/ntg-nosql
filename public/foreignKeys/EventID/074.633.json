@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "मुर्गाबी",
+    "Writer": "हेनरिक इब्सन",
+    "Translation": "यशपाल",
+    "Director": "अनुराधा कपूर",
+    "Venue": "ए. ना. वि. स्टूडियो नं. 2, नई दिल्ली",
+    "ForeignKeyId": "074.633",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "तमचा खाँ की गजब दास्तान",
+    "Writer": "बर्टोल्ट ब्रेख्ट",
+    "Translation": "नियाज हैदर एवं शमा जैदी",
+    "Director": "बंसी कौल",
+    "Music": "संजय उपाध्याय",
+    "ForeignKeyId": "075.104",
+    "ForeignKeyType": "EventID"
+}

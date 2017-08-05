@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "लखनऊ",
+    "Drama": "खेल दो कौड़ी का (हिन्दी)",
+    "Writer": "बर्टोल्ट ब्रेख्त",
+    "Director": "ललित सिंह पोखरिया",
+    "Translation": "परिमल दत्ता",
+    "Venue": "बी. एम. शाह प्रेक्षगृह, लखनऊ",
+    "ForeignKeyId": "073.274",
+    "ForeignKeyType": "EventID"
+}

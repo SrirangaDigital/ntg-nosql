@@ -1,0 +1,12 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "शाकुंतल (मराठी)",
+    "Writer": "लालीदास (संस्कृत)",
+    "Director": "विजया मेहता",
+    "Language": "मराठी",
+    "Translation": "शंकर वैद्य / द. ग. गोडसे",
+    "Artist": "अर्चना जोगलेकर (शकुंतला) व अन्य",
+    "ForeignKeyId": "077.152",
+    "ForeignKeyType": "EventID"
+}

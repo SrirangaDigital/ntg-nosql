@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "चाँद सौदागर",
+    "Writer": "मनमथ राय",
+    "Director": "प्रदीप भट्टाचार्य",
+    "ForeignKeyId": "076.140",
+    "ForeignKeyType": "EventID"
+}

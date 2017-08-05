@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "छेंड़ा तार",
+    "Writer": "तुलसी लाहिडी",
+    "Director": "शंभु मित्र",
+    "ForeignKeyId": "076.125",
+    "ForeignKeyType": "EventID"
+}

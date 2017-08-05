@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "मांस का दरिया (कहानी मंच के अंतर्गत)",
+    "Director": "भूपेश जोशी",
+    "Venue": "श्रीराम सेंटर",
+    "ForeignKeyId": "075.475",
+    "ForeignKeyType": "EventID"
+}

@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "डिंग डांग पुराना",
+    "Article": "चंद्रशेखर कंबार",
+    "Director": "सी. बासवलिंगा",
+    "Music": "ब. व. कारंत",
+    "ForeignKeyId": "075.437",
+    "ForeignKeyType": "EventID"
+}

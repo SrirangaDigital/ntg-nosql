@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "तीन नेत्र",
+    "Writer": "आशीष धोष",
+    "Director": "आशीष घोष",
+    "Venue": "विपिन चन्द्र पाल सभागार",
+    "ForeignKeyId": "074.005",
+    "ForeignKeyType": "EventID"
+}

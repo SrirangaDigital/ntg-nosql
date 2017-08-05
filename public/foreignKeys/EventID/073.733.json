@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "जम्मू",
+    "Drama": "भोमा",
+    "Writer": "बादल सरकार",
+    "Director": "बलवन्त ठाकुर",
+    "Event": "जम्मू नाट्य शिविर - 1989 में प्रस्तुत",
+    "ForeignKeyId": "073.733",
+    "ForeignKeyType": "EventID"
+}

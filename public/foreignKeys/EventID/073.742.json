@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "जम्मू",
+    "Drama": "तीसवीं शताब्दी",
+    "Translation": "आर. सी. बजाज",
+    "Director": "सुधीर महाजन",
+    "Venue": "अभिनय थिएटर, जम्मू",
+    "ForeignKeyId": "073.742",
+    "ForeignKeyType": "EventID"
+}

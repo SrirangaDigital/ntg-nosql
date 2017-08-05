@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "देख रहे हैं नयन",
+    "Writer": "हबीब तनवीर",
+    "Artist": "हबीब तनवीर",
+    "Director": "हबीब तनवीर",
+    "Venue": "श्रीराम सेन्टर, दिल्ली",
+    "ForeignKeyId": "074.346",
+    "ForeignKeyType": "EventID"
+}

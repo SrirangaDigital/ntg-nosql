@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "किनू कहारेर थियेटर",
+    "Writer": "मनोज मित्र",
+    "Director": "कुमार राय",
+    "ForeignKeyId": "076.115",
+    "ForeignKeyType": "EventID"
+}

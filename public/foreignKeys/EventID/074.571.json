@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "चन्द्रहास (हिन्दी)",
+    "Director": "ब. व. कारंत",
+    "Stage": "अभिलाष पिल्लई",
+    "Venue": "श्रीराम सेंटर",
+    "ForeignKeyId": "074.571",
+    "ForeignKeyType": "EventID"
+}

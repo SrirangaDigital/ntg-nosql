@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "मुम्बई",
+    "Drama": "हयवदन",
+    "Writer": "गिरीश कारनाड",
+    "Director": "विजया मेहता",
+    "Language": "मराठी",
+    "ForeignKeyId": "077.156",
+    "ForeignKeyType": "EventID"
+}

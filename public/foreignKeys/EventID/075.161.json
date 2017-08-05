@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "बड़े न खेले छोटे खेल",
+    "Writer": "डारियो फ़ो",
+    "Translation": "श्री वल्लभ व्यास",
+    "Director": "रोबिन दास",
+    "ForeignKeyId": "075.161",
+    "ForeignKeyType": "EventID"
+}

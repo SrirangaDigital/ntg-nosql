@@ -1,0 +1,10 @@
+{
+    "Aid": "01",
+    "Place": "कोलकाता",
+    "Drama": "मानुष",
+    "Writer": "समरेश बोस (कहानी)",
+    "Director": "कौशिक सेन",
+    "Artist": "चित्रा सेन व अन्य",
+    "ForeignKeyId": "076.167",
+    "ForeignKeyType": "EventID"
+}

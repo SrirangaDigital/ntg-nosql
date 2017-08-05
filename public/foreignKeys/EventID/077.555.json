@@ -1,0 +1,8 @@
+{
+    "Aid": "01",
+    "Place": "भोपाल",
+    "Drama": "तेरूकूत्तु",
+    "Event": "नुक्कड़ मेला",
+    "ForeignKeyId": "077.555",
+    "ForeignKeyType": "EventID"
+}

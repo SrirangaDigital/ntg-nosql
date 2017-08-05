@@ -1,0 +1,9 @@
+{
+    "Aid": "01",
+    "Place": "कलकत्ता",
+    "Drama": "चार अध्याय",
+    "Writer": "रवीन्द्रनाथ टैगोर",
+    "Director": "शम्भू मित्र",
+    "ForeignKeyId": "076.121",
+    "ForeignKeyType": "EventID"
+}

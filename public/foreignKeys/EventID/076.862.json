@@ -1,0 +1,11 @@
+{
+    "Aid": "01",
+    "Place": "पुणे",
+    "Drama": "शनिवार-रविवार",
+    "Writer": "सतीश आलेकर",
+    "Director": "सतीश आलेकर",
+    "Host": "ट्रेड फेयर अथारिटी ऑफ इंडिया",
+    "Venue": "मंजर थिएटर",
+    "ForeignKeyId": "076.862",
+    "ForeignKeyType": "EventID"
+}

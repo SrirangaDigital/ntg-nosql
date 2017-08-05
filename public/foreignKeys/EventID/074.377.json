@@ -1,0 +1,13 @@
+{
+    "Aid": "01",
+    "Place": "दिल्ली",
+    "Drama": "ला-इलाज",
+    "Writer": "बचन पचहरा",
+    "Director": "बचन पचहरा",
+    "Lyrics": "बचन पचहरा",
+    "Music": "बचन पचहरा",
+    "Artist": "बचन पचहरा एवं अंजु शर्मा",
+    "Venue": "श्रीराम सेंटर",
+    "ForeignKeyId": "074.377",
+    "ForeignKeyType": "EventID"
+}
