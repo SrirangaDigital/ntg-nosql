@@ -6,5 +6,9 @@
 	"Photograph" : {
 		"selectKey" : "EventType",
 		"sortKey" : "Event"
+	},
+	"News Paper Clippings" : {
+		"selectKey" : "MediaTitle",
+		"sortKey" : "Date"
 	}
 }
