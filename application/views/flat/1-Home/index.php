@@ -20,12 +20,12 @@
         <div class="col-md-12">
             <h1>The Collection</h1>
             <ul class="list-inline">
-                <!-- <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/albums/<?=NEWSPAPERS?>">
+				<li class="stat-elem">
+					<a href="<?=BASE_URL?>listing/Categories/News Paper Clippings">
                         <h2><i class="fa fa-newspaper-o"></i></h2>
                         <p>News Paper Clippings</p>
                     </a>
-                </li> -->
+                </li>
                 <li class="stat-elem">
                     <a href="<?=BASE_URL?>listing/Categories/Brochure">
                         <h2><i class="fa fa-files-o"></i></h2>
