@@ -32,12 +32,12 @@
                         <p>Brochures</p>
                     </a>
                 </li>
-                 <!-- <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/photoAlbums/<?=PHOTOS?>">
+                 <li class="stat-elem">
+                    <a href="<?=BASE_URL?>listing/Categories/Photograph">
                         <h2><i class="fa fa-image"></i></h2>
                         <p>Photographs</p>
                     </a>
-                </li> -->
+                </li>
             </ul>
         </div>
     </div>

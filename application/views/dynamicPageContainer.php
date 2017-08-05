@@ -5,6 +5,8 @@
             <ul class="list-inline sub-nav">
                 <li><a href="<?=BASE_URL?>listing/Categories/Brochure">Brochures</a></li>
                 <li><a>·</a></li>
+                <li><a href="<?=BASE_URL?>listing/Categories/Photograph">Photographs</a></li>
+                <li><a>·</a></li>
                 <li><a href="<?=BASE_URL?>listing/Categories/News Paper Clippings">News Paper Clippings</a></li>
                 <li><a>·</a></li>
                 <li id="searchForm">
