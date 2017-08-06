@@ -108,7 +108,7 @@ class viewHelper extends View {
         foreach (explode(',', $accessionCards) as $card) {
             
             $card = trim($card);
-            $cardThumbPath = PUBLIC_URL . 'accessionCards/' . preg_replace('/(\d+)\.(\d+)/', "$1/thumbs/$1.$2.jpg", $card);
+            $cardThumbPath = PUBLIC_URL . 'accessionCards/' . preg_replace('/(\d+)\.(.*)/', "$1/thumbs/$1.$2.jpg", $card);
             $cardPath = str_replace('thumbs', '', $cardThumbPath);
             
             if(file_exists(str_replace(PUBLIC_URL, PHY_PUBLIC_URL, $cardThumbPath)))
