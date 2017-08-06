@@ -54,45 +54,31 @@ class data extends Controller {
 		
 		foreach ($jsonFiles as $jsonFile) {
 
+			$parentId = preg_replace('/.*003\/(.*)\/\d{5}\/.*/', "$1", $jsonFile);
+			
+			$parentJsonFile = PHY_FOREIGN_KEYS_URL . 'EventID/' . $parentId . '.json';
+			$parentJsonFileOut = PHY_METADATA_URL . 'foreign/' . $parentId . '.json';
+			
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
 
-			if(isset($content['State'])) {
+			$parentContentString = file_get_contents($parentJsonFile);
+			$parentContent = json_decode($parentContentString, true);
 
-				$content['State'] = str_replace("हरियाणा, पंजाब", 'HR', $content['State']);
+			if((!isset($content['State'])) && (isset($parentContent['Place']))) {
 
-				$content['State'] = str_replace("AP", "आंध्र प्रदेश", $content['State']);
-				$content['State'] = str_replace("AR", "अरुणाचल प्रदेश", $content['State']);
-				$content['State'] = str_replace("AS", "असम", $content['State']);
-				$content['State'] = str_replace("BR", "बिहार", $content['State']);
-				$content['State'] = str_replace("CG", "छत्तीसगढ़", $content['State']);
-				$content['State'] = str_replace("CH", "चंडीगढ़†", $content['State']);
-				$content['State'] = str_replace("DL", "दिल्ली", $content['State']);
-				$content['State'] = str_replace("GA", "गोआ", $content['State']);
-				$content['State'] = str_replace("GJ", "गुजरात", $content['State']);
-				$content['State'] = str_replace("HP", "हिमाचल प्रदेश", $content['State']);
-				$content['State'] = str_replace("HR", "हरियाणा", $content['State']);
-				$content['State'] = str_replace("JH", "झारखंड", $content['State']);
-				$content['State'] = str_replace("JK", "जम्मू और कश्मीर", $content['State']);
-				$content['State'] = str_replace("KA", "कर्नाटक", $content['State']);
-				$content['State'] = str_replace("KL", "केरल", $content['State']);
-				$content['State'] = str_replace("MH", "महाराष्ट्र", $content['State']);
-				$content['State'] = str_replace("ML", "मेघालय", $content['State']);
-				$content['State'] = str_replace("MN", "मणिपुर", $content['State']);
-				$content['State'] = str_replace("MP", "मध्य प्रदेश", $content['State']);
-				$content['State'] = str_replace("NL", "नागालैंड", $content['State']);
-				$content['State'] = str_replace("OR", "ओड़िशा", $content['State']);
-				$content['State'] = str_replace("PB", "पंजाब", $content['State']);
-				$content['State'] = str_replace("RJ", "राजस्थान", $content['State']);
-				$content['State'] = str_replace("TN", "तमिलनाडु", $content['State']);
-				$content['State'] = str_replace("UK", "उत्तराखण्ड", $content['State']);
-				$content['State'] = str_replace("UP", "उत्तर प्रदेश", $content['State']);
-				$content['State'] = str_replace("WB", "पश्चिम बंगाल", $content['State']);
+				if(($parentContent['Place'] == 'पांडिचेरी')) {
+
+					$content['State'] = $parentContent['Place'];
+					unset($parentContent['Place']);
+		
+					$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+					$parentJson = json_encode($parentContent, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+
+					file_put_contents($jsonFile, $json);
+					file_put_contents($parentJsonFileOut, $parentJson);
+				}
 			}
-
-			$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-
-			file_put_contents($jsonFile, $json);
 		}
 	}
 }
