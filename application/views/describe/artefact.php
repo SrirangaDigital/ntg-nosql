@@ -40,6 +40,15 @@ $(document).ready(function(){
                 <ul class="list-unstyled">
                 <?php
 
+                    // Bring AccessionCards to the last row
+                    $accessionCards = [];
+                    if (isset($data['details']['AccessionCards'])) {
+
+                        $accessionCards = $data['details']['AccessionCards'];
+                        unset($data['details']['AccessionCards']);
+                        $data['details']['AccessionCards'] = $accessionCards;
+                    }
+
                     $idURL = str_replace('/', '_', $data['details']['id']);
                     foreach ($data['details'] as $key => $value) {
 
@@ -49,8 +58,9 @@ $(document).ready(function(){
                 <?php if(isset($_SESSION['login'])) {?>
                     <?=$viewHelper->linkPDFIfExists($data['details']['id'])?>
                     <li><a class="editDetails" href="<?=BASE_URL?>edit/artefact/<?=$idURL?>">Edit Details</a></li>
-                <?php } ?>    
+                <?php } ?>
                 </ul>
+               <?php if($accessionCards) echo $viewHelper->includeAccessionCards($accessionCards); ?>
             </div>
         </div>
     </div>

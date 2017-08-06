@@ -107,8 +107,13 @@ jQuery(window).load(function () {
         }
       };
     if(document.getElementById('viewletterimages')){
+        
+        var viewer = new Viewer(document.getElementById('viewletterimages'),vieweroptions);
+    }
+
+    if(document.getElementById('viewCardImages')){
 		
-		var viewer = new Viewer(document.getElementById('viewletterimages'),vieweroptions);
+		var viewerCard = new Viewer(document.getElementById('viewCardImages'),vieweroptions);
 	}
 
 });

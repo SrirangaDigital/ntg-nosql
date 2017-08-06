@@ -99,6 +99,25 @@ class viewHelper extends View {
             return '<li><a href="' . DATA_URL . $id . '/index.pdf" target="_blank">Click here to view PDF</a></li>'; 
         }
     }
+
+    public function includeAccessionCards($accessionCards){
+
+        if(!$accessionCards) return '';
+
+        $accessionCardsHtml  = '<div id="viewCardImages">';
+        foreach (explode(',', $accessionCards) as $card) {
+            
+            $card = trim($card);
+            $cardThumbPath = PUBLIC_URL . 'accessionCards/' . preg_replace('/(\d+)\.(\d+)/', "$1/thumbs/$1.$2.jpg", $card);
+            $cardPath = str_replace('thumbs', '', $cardThumbPath);
+            
+            if(file_exists(str_replace(PUBLIC_URL, PHY_PUBLIC_URL, $cardThumbPath)))
+                $accessionCardsHtml .= '<img class="img-responsive" data-original="' . $cardPath . '" src="' . $cardThumbPath . '">';
+        }
+        $accessionCardsHtml .= '</div>';
+
+        return $accessionCardsHtml;
+    }
 }
 
 ?>
