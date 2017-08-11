@@ -2,8 +2,8 @@
     "id": "001/027.14/00046",
     "AccessionNumber": "46",
     "Type": "Brochure",
-    "AccessLevel": "0",
     "Date": "00-00-1986",
     "Place": "Kolkata",
-    "State": "वेस्ट बेंगल"
+    "State": "वेस्ट बेंगल",
+    "AccessLevel": 0
 }

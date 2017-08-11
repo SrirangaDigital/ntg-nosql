@@ -2,8 +2,8 @@
     "id": "001/082.21/05360",
     "AccessionNumber": "5360",
     "Type": "Brochure",
-    "AccessLevel": "0",
     "Date": "00-00-1457",
     "Place": "Nashik",
-    "State": "महाराष्ट्र"
+    "State": "महाराष्ट्र",
+    "AccessLevel": 0
 }

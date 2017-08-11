@@ -2,8 +2,8 @@
     "id": "001/083.06/03222",
     "AccessionNumber": "3222",
     "Type": "Brochure",
-    "AccessLevel": "0",
     "Date": "18-11-1997",
     "Place": "Bombay",
-    "State": "महाराष्ट्र"
+    "State": "महाराष्ट्र",
+    "AccessLevel": 0
 }

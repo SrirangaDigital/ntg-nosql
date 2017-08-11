@@ -2,8 +2,8 @@
     "id": "001/082.25/05356",
     "AccessionNumber": "5356",
     "Type": "Brochure",
-    "AccessLevel": "0",
     "Date": "24-12-2016",
     "Place": "Pune",
-    "State": "महाराष्ट्र"
+    "State": "महाराष्ट्र",
+    "AccessLevel": 0
 }

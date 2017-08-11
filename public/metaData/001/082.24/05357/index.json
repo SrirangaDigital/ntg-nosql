@@ -2,8 +2,8 @@
     "id": "001/082.24/05357",
     "AccessionNumber": "5357",
     "Type": "Brochure",
-    "AccessLevel": "0",
     "Date": "16-10-1984",
     "Place": "Matunga",
-    "State": "महाराष्ट्र"
+    "State": "महाराष्ट्र",
+    "AccessLevel": 0
 }

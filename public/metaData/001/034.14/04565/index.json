@@ -2,8 +2,8 @@
     "id": "001/034.14/04565",
     "AccessionNumber": "4565",
     "Type": "Brochure",
-    "AccessLevel": "0",
     "Date": "03-09-2001",
     "Place": "Jaipur",
-    "State": "राजस्थान"
+    "State": "राजस्थान",
+    "AccessLevel": 0
 }
