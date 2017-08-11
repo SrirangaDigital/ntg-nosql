@@ -9,8 +9,7 @@
 	"Photograph" : {
 		"selectKey" : [
 			"State",
-			"Place",
-			"Troupe"
+			"Place"
 		],
 		"sortKey" : "Date"
 	},
