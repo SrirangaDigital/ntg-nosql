@@ -1,7 +1,7 @@
 {
     "id": "001/030.21/03147",
-    "AccessionCards": "",
     "AccessionNumber": "3147",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": "0",
+    "State": "NAN"
 }

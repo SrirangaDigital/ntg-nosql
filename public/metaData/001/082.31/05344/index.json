@@ -1,7 +1,9 @@
 {
     "id": "001/082.31/05344",
-    "AccessionCards": "",
     "AccessionNumber": "5344",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": "0",
+    "Date": "00-00-1984",
+    "Place": "Nagpur",
+    "State": "महाराष्ट्र"
 }
