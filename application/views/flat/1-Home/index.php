@@ -21,19 +21,19 @@
             <h1>The Collection</h1>
             <ul class="list-inline">
 				<li class="stat-elem">
-					<a href="<?=BASE_URL?>listing/Categories/News Paper Clippings">
+					<a href="<?=BASE_URL?>listing/Categories/News Paper Clippings?select=MediaTitle">
                         <h2><i class="fa fa-newspaper-o"></i></h2>
                         <p>News Paper Clippings</p>
                     </a>
                 </li>
                 <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/Categories/Brochure">
+                    <a href="<?=BASE_URL?>listing/Categories/Brochure?select=State">
                         <h2><i class="fa fa-files-o"></i></h2>
                         <p>Brochures</p>
                     </a>
                 </li>
                  <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/Categories/Photograph">
+                    <a href="<?=BASE_URL?>listing/Categories/Photograph?select=State">
                         <h2><i class="fa fa-image"></i></h2>
                         <p>Photographs</p>
                     </a>
