@@ -737,14 +737,20 @@ img.img-center{
   margin-bottom: 20px;
   text-align: center;
   background-color: #DDD;
-}
-.albumTitle span{
+  color: #FFFFFF;
   font-family: "Open Sans", sans-serif;
+}
+.albumTitle span.head{
   font-size: 24px;
   font-weight: 400;
   text-transform: uppercase;
-  color: #FFFFFF;
   letter-spacing: 1.5px;
+  line-height: 48px;
+}
+.albumTitle span.select{
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
 }
 .albumTitle.Letter{
   background-color: #3F51B5;
@@ -942,5 +948,9 @@ img.img-center{
     text-align: right;
   }
 }
-
+.term-not-exists{
+  color: #d9534f !important;
+  text-decoration: line-through;
+  font-style: italic;
+}
 

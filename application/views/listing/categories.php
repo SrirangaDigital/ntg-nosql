@@ -1,11 +1,16 @@
 <?php 
-    $auxilairy = array_pop($data);
-    $parentType = $auxilairy['parentType'];
+    $auxiliary = array_pop($data);
+    $parentType = $auxiliary['parentType'];
+    $filter = $auxiliary['filter'];
 ?>
 <script>
 $(document).ready(function(){
 
-    $('#posts').prepend('<div class="post no-border"><div class="albumTitle <?=$parentType?>"><span><?=$parentType?></span></div></div>');
+    if($('.post').length < <?=PER_PAGE?>) {
+
+        $('#grid').attr('data-go', '0');
+        $('#grid').append('<div id="no-more-icon">No more<br />items<br />to show</div>');
+    }
 
     $(window).scroll(function(){
 
@@ -16,7 +21,8 @@ $(document).ready(function(){
                 var pagenum = parseInt($('#grid').attr('data-page')) + 1;
                 $('#grid').attr('data-page', pagenum);
 
-                getresult(base_url + 'listing/categories/' + '<?=$parentType?>' + '/?page='+pagenum);
+                var nextURL = window.location.href + '&page=' + pagenum;
+                getresult(nextURL);
             }
         }
     });
@@ -24,9 +30,18 @@ $(document).ready(function(){
 </script>
 <div id="grid" class="container-fluid" data-page="1" data-go="1">
     <div id="posts">
+        <div class="post no-border">
+            <div class="albumTitle <?=$parentType?>">
+                <span class="head"><?=$parentType?>S</span><br />
+<?php foreach ($filter as $key => $value) { ?>
+                <span class="select"><em><?=$key?>:</em> <?=$value?></span><br />
+<?php } ?>
+                <span class="select"><?=$auxiliary['selectKey']?><em>-wise</em></span>
+            </div>
+        </div>
 <?php foreach ($data as $row) { ?>
         <div class="post">
-            <a href="<?=BASE_URL?>listing/artefacts/<?=$row['parentType'] . '/' . $row['nameURL']?>" title="<?=$row['name']?>" target="_blank">
+            <a href="<?=$row['nextURL']?>" title="<?=$row['name']?>" target="_blank">
                 <div class="fixOverlayDiv">
                     <img class="img-responsive" src="<?=$row['thumbnailPath']?>">
                     <div class="OverlayText"><?=$row['leafCount']?> <?=$row['parentType']?><?php if($row['leafCount'] > 1) echo 's'; ?><br /><span class="link"><i class="fa fa-link"></i></span></div>

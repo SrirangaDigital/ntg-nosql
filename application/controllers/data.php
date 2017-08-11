@@ -7,26 +7,30 @@ class data extends Controller {
 		parent::__construct();
 	}
 
-	public function syncJsonToDB() {
+	public function buildDBFromJson() {
+
+		if(file_exists(PHY_FOREIGN_KEYS_URL)){
+
+			$this->insertForeignKeys();
+		}
 
 		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/index.json$/i');
 		
 		$db = $this->model->db->useDB();
 		$collection = $this->model->db->createCollection($db, ARTEFACT_COLLECTION);
 
+		$foreignKeys = $this->model->getForeignKeyTypes($db);
+
 		foreach ($jsonFiles as $jsonFile) {
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
+
+			$content = $this->model->insertForeignKeyDetails($db, $content, $foreignKeys);
 			$content = $this->model->insertDataExistsFlag($content);
-			$content = $this->model->beforeDbUpadte($content);
+			$content = $this->model->beforeDbUpdate($content);
 
 			$result = $collection->insertOne($content);
-		}
-		
-		if(file_exists(PHY_FOREIGN_KEYS_URL)){
-
-			$this->insertForeignKeys();
 		}
 	}
 	
@@ -41,7 +45,7 @@ class data extends Controller {
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
-			$content = $this->model->beforeDbUpadte($content);
+			$content = $this->model->beforeDbUpdate($content);
 
 			$result = $collection->insertOne($content);
 		}
@@ -54,19 +58,17 @@ class data extends Controller {
 		
 		foreach ($jsonFiles as $jsonFile) {
 
-			$contentString = file_get_contents($jsonFile);
-			$content = json_decode($contentString, true);
+			if(preg_match('/IMFG/', $jsonFile)){
 
-			if(isset($content['State'])) {
-
-				if(($content['State'] == 'चंडीगढ़†')) {
-
-					$content['State'] = 'चंडीगढ़';
-		
-					$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-					file_put_contents($jsonFile, $json);
-				}
+				var_dump($jsonFile);
 			}
+			// $contentString = file_get_contents($jsonFile);
+			// $content = json_decode($contentString, true);
+
+			// $content = array_filter($content);
+			// $json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+	
+			// file_put_contents($jsonFile, $json);
 		}
 	}
 }

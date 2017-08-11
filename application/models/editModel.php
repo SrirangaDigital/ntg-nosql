@@ -10,7 +10,7 @@ class editModel extends Model {
 
 	public function editArtefact($id) {
 		
-		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $id);
+		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $id);		
 		$file = PHY_METADATA_URL . $id . '/index.json';
 		$artefactDetails = file_get_contents($file);
 		$data = json_decode($artefactDetails);

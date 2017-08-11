@@ -11,13 +11,13 @@ class listing extends Controller {
 
 		if($type == 'Miscellaneous') $this->redirect('listing/artefacts/Miscellaneous/' . MISCELLANEOUS_NAME);
 
-		$page = (isset($query['page'])) ? $query['page'] : "1";
+		$query['select'] = (isset($query['select'])) ? $query['select'] : ''; $selectKey = $query['select']; unset($query['select']);
+		$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);
 
-		$selectKey = $this->model->getPrecastKey($type, 'selectKey');
+		$precastSelectKeys = $this->model->getPrecastKey($type, 'selectKey');
+		if(array_search($selectKey, $precastSelectKeys) === false) {$this->view('error/index');return;}
 
-		if(!($selectKey)) {$this->view('error/index');return;}
-
-		$categories = $this->model->getCategories($type, $selectKey, $page);
+		$categories = $this->model->getCategories($type, $selectKey, $page, $query);
 
 		if($page == '1')
 			($categories != 'noData') ? $this->view('listing/categories', $categories) : $this->view('error/index');
@@ -25,19 +25,12 @@ class listing extends Controller {
 			echo json_encode($categories);
 	}
 
-	public function artefacts($query = [], $type = DEFAULT_TYPE, $category = '') {
+	public function artefacts($query = [], $type = DEFAULT_TYPE) {
 
-		$category = str_replace('_', '/', $category);
-		$category = htmlspecialchars_decode($category, ENT_QUOTES);
-
-		$page = (isset($query['page'])) ? $query['page'] : "1";
-
-		$selectKey = $this->model->getPrecastKey($type, 'selectKey');
+		$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);
 		$sortKey = $this->model->getPrecastKey($type, 'sortKey');
 
-		if(!($selectKey)) {$this->view('error/index');return;}
-
-		$artefacts = $this->model->getArtefacts($type, $category, $selectKey, $sortKey, $page);
+		$artefacts = $this->model->getArtefacts($type, $sortKey, $page, $query);
 
 		if($page == '1')
 			($artefacts != 'noData') ? $this->view('listing/artefacts', $artefacts) : $this->view('error/index');

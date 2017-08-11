@@ -13,10 +13,10 @@ $(document).ready(function(){
         <div class="col-md-9">
             <ul class="pager">
                 <?php if($data['neighbours']['prevID']) {?> 
-                <li class="previous"><a href="<?=BASE_URL?>describe/artefact/<?=$data['neighbours']['prevID']?>">&lt; Previous</a></li>
+                <li class="previous"><a href="<?=BASE_URL?>describe/artefact/<?=$data['neighbours']['prevID']?>?<?=$data['filter']?>">&lt; Previous</a></li>
                 <?php } ?>
                 <?php if($data['neighbours']['nextID']) {?> 
-                <li class="next"><a href="<?=BASE_URL?>describe/artefact/<?=$data['neighbours']['nextID']?>">Next &gt;</a></li>
+                <li class="next"><a href="<?=BASE_URL?>describe/artefact/<?=$data['neighbours']['nextID']?>?<?=$data['filter']?>">Next &gt;</a></li>
                 <?php } ?>
             </ul>
             <div id="viewletterimages" class="letter_thumbnails">
