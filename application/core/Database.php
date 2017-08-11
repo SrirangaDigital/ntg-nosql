@@ -28,7 +28,7 @@ class Database extends PDO {
 		$collection = $this->selectCollection($db, $collectionName);
 
 		//Create fulltext index on every field
-		$collection->createIndex(['$**' => 'text']);
+		$collection->createIndex(['$**' => 'text'], [ 'language_override' => "mylanguage" ]);
 
 		return $collection;
 	}
