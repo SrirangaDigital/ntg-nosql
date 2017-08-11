@@ -5,5 +5,6 @@
     "AccessionNumber": "4903",
     "Type": "Brochure",
     "States": "हिमाचल प्रदेश, बिहार",
-    "Places": "Mandi, Patna, Pandarak, Arrah, Patna"
+    "Places": "Mandi, Patna, Pandarak, Arrah, Patna",
+    "AccessLevel": 0
 }

@@ -5,5 +5,6 @@
     "Date": "19-01-2000, 20-01-2000, 14-01-2000, 17-01-2000, 14-01-2000, 18-01-2000, 15-01-2000, 16-01-2000, 18-01-2000",
     "AccessionNumber": "4878",
     "Type": "Brochure",
-    "Places": "Pandarak, Patna, Purnia, Buxar, Hajipur"
+    "Places": "Pandarak, Patna, Purnia, Buxar, Hajipur",
+    "AccessLevel": 0
 }

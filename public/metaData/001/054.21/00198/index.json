@@ -5,5 +5,6 @@
     "Place": "Delhi",
     "Date": "19-02-1958, 03-03-1958, 08-03-1958, 24-03-1958, 29-03-1958, 08-03-1958, 29-03-1958",
     "AccessionNumber": "198-(1-4)",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

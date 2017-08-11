@@ -5,5 +5,6 @@
     "AccessionNumber": "681-(1-9)",
     "Type": "Brochure",
     "States": "तमिलनाडु, दिल्ली, मणिपुर, महाराष्ट्र, पश्चिम बंगाल, मणिपुर, महाराष्ट्र",
-    "Places": "Madurai, Delhi, Imphal, Mumbai, Kolkata, Imphal, Mumbai"
+    "Places": "Madurai, Delhi, Imphal, Mumbai, Kolkata, Imphal, Mumbai",
+    "AccessLevel": 0
 }

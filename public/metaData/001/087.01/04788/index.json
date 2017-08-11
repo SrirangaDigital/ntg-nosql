@@ -5,5 +5,6 @@
     "AccessionNumber": "4788",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, हिमाचल प्रदेश",
-    "Places": "Allahabad, Kanpur, Rampur, Kullu, Mandi, Shimla"
+    "Places": "Allahabad, Kanpur, Rampur, Kullu, Mandi, Shimla",
+    "AccessLevel": 0
 }

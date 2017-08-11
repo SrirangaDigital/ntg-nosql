@@ -5,5 +5,6 @@
     "AccessionNumber": "4805-(1-6)",
     "Type": "Brochure",
     "States": "दिल्ली, हिमाचल प्रदेश",
-    "Places": "Delhi, Kullu, Nahan, Mandi, Shimla, Solan"
+    "Places": "Delhi, Kullu, Nahan, Mandi, Shimla, Solan",
+    "AccessLevel": 0
 }

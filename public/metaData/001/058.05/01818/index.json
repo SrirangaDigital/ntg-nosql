@@ -5,5 +5,6 @@
     "AccessionNumber": "1818",
     "Type": "Brochure",
     "States": "दिल्ली, मध्य प्रदेश, महाराष्ट्र, राजस्थान, महाराष्ट्र",
-    "Places": "Delhi, Bhopal, Mumbai, Bikaner, Mumbai"
+    "Places": "Delhi, Bhopal, Mumbai, Bikaner, Mumbai",
+    "AccessLevel": 0
 }

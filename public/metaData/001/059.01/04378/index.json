@@ -5,5 +5,6 @@
     "AccessionNumber": "4378-(1-6)",
     "Type": "Brochure",
     "States": "ओड़िशा, केरल, जम्मू और कश्मीर, दिल्ली, मणिपुर, महाराष्ट्र, जम्मू और कश्मीर, मणिपुर",
-    "Places": "Bhubaneswar, Thiruvananthapuram, Jammu, Delhi, Imphal, Mumbai, Jammu, Imphal"
+    "Places": "Bhubaneswar, Thiruvananthapuram, Jammu, Delhi, Imphal, Mumbai, Jammu, Imphal",
+    "AccessLevel": 0
 }

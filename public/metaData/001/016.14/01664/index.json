@@ -5,5 +5,6 @@
     "Place": "Trivandrum",
     "Date": "16-02-1985",
     "AccessionNumber": "1664",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

@@ -5,5 +5,6 @@
     "Place": "Panaji",
     "Date": "00-00-1986",
     "AccessionNumber": "2987",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

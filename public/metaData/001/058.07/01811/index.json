@@ -5,5 +5,6 @@
     "AccessionNumber": "1811",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, चंडीगढ़†, जम्मू और कश्मीर, दिल्ली, हिमाचल प्रदेश, दिल्ली, जम्मू और कश्मीर",
-    "Places": "Allahabad, Jammu, Delhi, Shimla, Delhi, Srinagar"
+    "Places": "Allahabad, Jammu, Delhi, Shimla, Delhi, Srinagar",
+    "AccessLevel": 0
 }

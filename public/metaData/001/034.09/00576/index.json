@@ -5,5 +5,6 @@
     "AccessionNumber": "576(1-13)",
     "Type": "Brochure",
     "States": "असम, आंध्र प्रदेश, कर्नाटक, केरल, गुजरात, दिल्ली, महाराष्ट्र, पंजाब, पश्चिम बंगाल, दिल्ली",
-    "Places": "Guwahati, Tirupati, Ahmedabad, Delhi, Mumbai, Amritsar, Chittaranjan, Bardhaman, Batanagar, Mumbai, Amritsar, Chittaranjan, Burdwan, Batanagar, Delhi"
+    "Places": "Guwahati, Tirupati, Ahmedabad, Delhi, Mumbai, Amritsar, Chittaranjan, Bardhaman, Batanagar, Mumbai, Amritsar, Chittaranjan, Burdwan, Batanagar, Delhi",
+    "AccessLevel": 0
 }

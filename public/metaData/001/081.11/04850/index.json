@@ -5,5 +5,6 @@
     "AccessionNumber": "4850",
     "Type": "Brochure",
     "States": "कर्नाटक, गुजरात, मध्य प्रदेश, पश्चिम बंगाल",
-    "Places": "Bangalore, Ahmedabad, Bhopal, Calcutta"
+    "Places": "Bangalore, Ahmedabad, Bhopal, Calcutta",
+    "AccessLevel": 0
 }

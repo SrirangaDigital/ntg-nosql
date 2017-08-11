@@ -5,5 +5,6 @@
     "AccessionNumber": "4562",
     "Type": "Brochure",
     "States": "दिल्ली, बिहार",
-    "Places": "Delhi, Patna"
+    "Places": "Delhi, Patna",
+    "AccessLevel": 0
 }

@@ -4,5 +4,6 @@
     "AccessionNumber": "5229",
     "Type": "Brochure",
     "Date": "09-12-1916",
-    "State": "NAN"
+    "State": "NAN",
+    "AccessLevel": 0
 }

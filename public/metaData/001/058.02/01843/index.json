@@ -5,5 +5,6 @@
     "AccessionNumber": "1843",
     "Type": "Brochure",
     "States": "असम, ओड़िशा, दिल्ली, मणिपुर, बिहार, मणिपुर",
-    "Places": "Guwahati, Bhubaneswar, Delhi, Ranchi"
+    "Places": "Guwahati, Bhubaneswar, Delhi, Ranchi",
+    "AccessLevel": 0
 }

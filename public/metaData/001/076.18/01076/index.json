@@ -5,5 +5,6 @@
     "AccessionNumber": "1076-(1-8)",
     "Type": "Brochure",
     "States": "आंध्र प्रदेश, कर्नाटक, गुजरात, जम्मू और कश्मीर, मध्य प्रदेश, राजस्थान, जम्मू और कश्मीर",
-    "Places": "Bhagyanagar, Bangalore, Ahmedabad, Jammu, Bhopal, Jodhpur, Jammu"
+    "Places": "Bhagyanagar, Bangalore, Ahmedabad, Jammu, Bhopal, Jodhpur, Jammu",
+    "AccessLevel": 0
 }

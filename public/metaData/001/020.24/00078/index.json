@@ -4,5 +4,6 @@
     "AccessionNumber": "78",
     "Type": "Brochure",
     "Date": "18-09-1975",
-    "State": "दिल्ली"
+    "State": "दिल्ली",
+    "AccessLevel": 0
 }

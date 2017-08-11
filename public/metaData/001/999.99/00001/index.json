@@ -4,5 +4,6 @@
     "State": "दिल्ली",
     "Place": "Delhi",
     "Date": "03-12-1980",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

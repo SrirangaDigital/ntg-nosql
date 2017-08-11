@@ -5,5 +5,6 @@
     "AccessionNumber": "5020",
     "Type": "Brochure",
     "States": "असम, ओड़िशा, उत्तर प्रदेश, गुजरात, दिल्ली, दिल्ली",
-    "Places": "Tezpur, Balasore, Rajkot, Delhi, Oran, Algeria, Panauti, Kavre, Nepal, Karachi, Pakistan, Dhaka, Bangladesh, Delhi"
+    "Places": "Tezpur, Balasore, Rajkot, Delhi, Oran, Algeria, Panauti, Kavre, Nepal, Karachi, Pakistan, Dhaka, Bangladesh, Delhi",
+    "AccessLevel": 0
 }

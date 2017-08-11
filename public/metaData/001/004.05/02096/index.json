@@ -3,5 +3,6 @@
     "AccessionCards": "",
     "AccessionNumber": "2096",
     "Type": "Brochure",
-    "State": "NAN"
+    "State": "NAN",
+    "AccessLevel": 0
 }

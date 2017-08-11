@@ -5,5 +5,6 @@
     "Place": "Shimla",
     "Date": "21-07-1978",
     "AccessionNumber": "3012",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

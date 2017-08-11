@@ -5,5 +5,6 @@
     "AccessionNumber": "124-(1-4)",
     "Type": "Brochure",
     "States": "गुजरात, दिल्ली, मध्य प्रदेश, महाराष्ट्र",
-    "Places": "Kamla, Delhi, Indore, Mumbai"
+    "Places": "Kamla, Delhi, Indore, Mumbai",
+    "AccessLevel": 0
 }

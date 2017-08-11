@@ -5,5 +5,6 @@
     "Place": "Ujjain",
     "Date": "13-07-2000",
     "AccessionNumber": "3203",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

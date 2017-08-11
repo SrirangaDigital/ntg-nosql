@@ -3,5 +3,6 @@
     "AccessionCards": "061.131, 061.135, 061.261, 061.262, 069.140",
     "State": "दिल्ली",
     "Place": "Delhi",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

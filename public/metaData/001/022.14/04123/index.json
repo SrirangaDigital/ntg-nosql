@@ -3,5 +3,6 @@
     "AccessionNumber": "4123",
     "Type": "Brochure",
     "Date": "27-12-2009",
-    "State": "दिल्ली"
+    "State": "दिल्ली",
+    "AccessLevel": 0
 }

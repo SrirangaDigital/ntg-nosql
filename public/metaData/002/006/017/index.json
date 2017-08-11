@@ -4,5 +4,6 @@
     "Date": "2015-09-07",
     "Media": "News Paper",
     "MediaTitle": "Open",
-    "Place": "National"
+    "Place": "National",
+    "AccessLevel": 0
 }

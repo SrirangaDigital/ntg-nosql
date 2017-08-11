@@ -4,5 +4,6 @@
     "Date": "01-10-1985, 01-08-1985, 01-10-1985, 07-10-1985",
     "Type": "Brochure",
     "States": "केरल, दिल्ली, मणिपुर, महाराष्ट्र, पश्चिम बंगाल, मणिपुर",
-    "Places": "Trivandrum, Delhi, Imphal, Mumbai, Kolkata, Imphal"
+    "Places": "Trivandrum, Delhi, Imphal, Mumbai, Kolkata, Imphal",
+    "AccessLevel": 0
 }

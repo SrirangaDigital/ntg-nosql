@@ -2,5 +2,6 @@
     "id": "001/024.08/05180",
     "AccessionNumber": "5180",
     "Type": "Brochure",
-    "State": "NAN"
+    "State": "NAN",
+    "AccessLevel": 0
 }

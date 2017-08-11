@@ -5,5 +5,6 @@
     "Place": "Moradabad",
     "Date": "15-06-1988",
     "AccessionNumber": "2355",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

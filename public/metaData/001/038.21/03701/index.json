@@ -5,5 +5,6 @@
     "Place": "Delhi",
     "Date": "21-02-2007, 22-02-2007, 20-02-2007, 21-02-2007, 20-02-2007, 20-02-2007, 22-02-2007, 21-02-2007",
     "AccessionNumber": "3701",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

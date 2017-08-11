@@ -3,5 +3,6 @@
     "Type": "News Paper Clippings",
     "Date": "2015-07-00",
     "Media": "News Paper",
-    "Place": "National"
+    "Place": "National",
+    "AccessLevel": 0
 }

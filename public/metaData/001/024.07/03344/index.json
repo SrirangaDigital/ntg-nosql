@@ -5,5 +5,6 @@
     "AccessionNumber": "3344",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, मध्य प्रदेश",
-    "Places": "Pauri Garhwal, Ujjain"
+    "Places": "Pauri Garhwal, Ujjain",
+    "AccessLevel": 0
 }

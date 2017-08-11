@@ -5,5 +5,6 @@
     "AccessionNumber": "1791",
     "Type": "Brochure",
     "States": "ओड़िशा, तमिलनाडु, दिल्ली, हिमाचल प्रदेश, तमिलनाडु",
-    "Places": "Bhubaneswar, Visakhapatnam, Delhi, Mandi, Visakhapatnam"
+    "Places": "Bhubaneswar, Visakhapatnam, Delhi, Mandi, Visakhapatnam",
+    "AccessLevel": 0
 }

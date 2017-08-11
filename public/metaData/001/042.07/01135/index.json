@@ -5,5 +5,6 @@
     "AccessionNumber": "1135(1-2)",
     "Type": "Brochure",
     "States": "दिल्ली, हिमाचल प्रदेश",
-    "Places": "Delhi, Shimla"
+    "Places": "Delhi, Shimla",
+    "AccessLevel": 0
 }

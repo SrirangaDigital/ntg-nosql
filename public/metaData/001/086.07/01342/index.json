@@ -5,5 +5,6 @@
     "Place": "Rohtak",
     "Date": "01-01-1991",
     "AccessionNumber": "1342",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

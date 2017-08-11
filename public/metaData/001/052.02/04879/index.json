@@ -5,5 +5,6 @@
     "AccessionNumber": "4879",
     "Type": "Brochure",
     "States": "असम, कर्नाटक, केरल, गुजरात, जम्मू और कश्मीर, दिल्ली, मणिपुर, मध्य प्रदेश, महाराष्ट्र, राजस्थान, पश्चिम बंगाल",
-    "Places": "Udalguri, Nagaon, Trichur, Ahmedabad, Jammu, Delhi, Imphal, Bhopal, Pune, Mumbai, Jodhpur, Korea, Kolkata"
+    "Places": "Udalguri, Nagaon, Trichur, Ahmedabad, Jammu, Delhi, Imphal, Bhopal, Pune, Mumbai, Jodhpur, Korea, Kolkata",
+    "AccessLevel": 0
 }

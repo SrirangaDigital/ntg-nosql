@@ -5,5 +5,6 @@
     "AccessionNumber": "578(1-9)",
     "Type": "Brochure",
     "States": "असम, आंध्र प्रदेश, ओड़िशा, दिल्ली, महाराष्ट्र, पश्चिम बंगाल, दिल्ली, पश्चिम बंगाल",
-    "Places": "Hyderabad, Rourkela, Delhi, Mumbai, Kolkata, Chittaranjan, Delhi, Kolkata"
+    "Places": "Hyderabad, Rourkela, Delhi, Mumbai, Kolkata, Chittaranjan, Delhi, Kolkata",
+    "AccessLevel": 0
 }

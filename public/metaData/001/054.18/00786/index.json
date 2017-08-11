@@ -5,5 +5,6 @@
     "AccessionNumber": "786",
     "Type": "Brochure",
     "States": "दिल्ली, राजस्थान",
-    "Places": "Delhi, Udaipur"
+    "Places": "Delhi, Udaipur",
+    "AccessLevel": 0
 }

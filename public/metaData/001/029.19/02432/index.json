@@ -5,5 +5,6 @@
     "AccessionNumber": "2432(1-4)",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, दिल्ली",
-    "Places": "Kanpur, Gorakhpur, Lucknow, Delhi"
+    "Places": "Kanpur, Gorakhpur, Lucknow, Delhi",
+    "AccessLevel": 0
 }

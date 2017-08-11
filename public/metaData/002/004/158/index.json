@@ -3,5 +3,6 @@
     "Type": "News Paper Clippings",
     "Date": "2015-11-03",
     "Media": "News Paper",
-    "Place": "Pune"
+    "Place": "Pune",
+    "AccessLevel": 0
 }

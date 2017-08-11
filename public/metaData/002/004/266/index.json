@@ -3,5 +3,6 @@
     "Type": "News Paper Clippings",
     "Date": "2015-11-07",
     "Media": "News Paper",
-    "Place": "Calcutta"
+    "Place": "Calcutta",
+    "AccessLevel": 0
 }

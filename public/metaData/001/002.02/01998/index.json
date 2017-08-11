@@ -5,5 +5,6 @@
     "Place": "Hyderabad",
     "Date": "11-05-1961",
     "AccessionNumber": "1998",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

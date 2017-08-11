@@ -4,5 +4,6 @@
     "Date": "01-01-1969, 00-00-1969, 29-12-1968, 28-12-1968, 31-12-1968, 28-12-1968",
     "Type": "Brochure",
     "States": "दिल्ली, पश्चिम बंगाल",
-    "Places": "Delhi, Kolkata"
+    "Places": "Delhi, Kolkata",
+    "AccessLevel": 0
 }

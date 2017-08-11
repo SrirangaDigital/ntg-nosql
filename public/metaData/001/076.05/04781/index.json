@@ -5,5 +5,6 @@
     "AccessionNumber": "4781",
     "Type": "Brochure",
     "States": "असम, दिल्ली, तमिलनाडु, मध्य प्रदेश, राजस्थान, हरियाणा, पंजाब",
-    "Places": "Guwahati, Delhi, Ujjain, Udaipur, Yamunanagr, Amritsar"
+    "Places": "Guwahati, Delhi, Ujjain, Udaipur, Yamunanagr, Amritsar",
+    "AccessLevel": 0
 }

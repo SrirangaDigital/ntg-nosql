@@ -5,5 +5,6 @@
     "AccessionNumber": "5037(1-5)",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, उत्तराखण्ड, दिल्ली, महाराष्ट्र",
-    "Places": "Faridabad, Shahjahanpur, Roorkee, Delhi, Mumbai"
+    "Places": "Faridabad, Shahjahanpur, Roorkee, Delhi, Mumbai",
+    "AccessLevel": 0
 }

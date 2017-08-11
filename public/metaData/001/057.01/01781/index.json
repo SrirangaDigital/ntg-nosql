@@ -5,5 +5,6 @@
     "AccessionNumber": "1781",
     "Type": "Brochure",
     "States": "गुजरात, तमिलनाडु, दिल्ली, मणिपुर, मध्य प्रदेश, महाराष्ट्र, पश्चिम बंगाल, दिल्ली, मणिपुर",
-    "Places": "Ahmedabad, Madras, Delhi, Imphal, Bhopal, Mumbai, Kolkata, Delhi, Imphal"
+    "Places": "Ahmedabad, Madras, Delhi, Imphal, Bhopal, Mumbai, Kolkata, Delhi, Imphal",
+    "AccessLevel": 0
 }

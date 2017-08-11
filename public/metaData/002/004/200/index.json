@@ -3,5 +3,6 @@
     "Type": "News Paper Clippings",
     "Date": "2015-11-03",
     "Media": "News Paper",
-    "Place": "Lucknow"
+    "Place": "Lucknow",
+    "AccessLevel": 0
 }

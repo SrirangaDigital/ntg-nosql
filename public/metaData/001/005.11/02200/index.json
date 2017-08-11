@@ -5,5 +5,6 @@
     "Place": "Kanpur",
     "Date": "02-10-1984",
     "AccessionNumber": "2200",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

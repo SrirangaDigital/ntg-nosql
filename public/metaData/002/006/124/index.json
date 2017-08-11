@@ -4,5 +4,6 @@
     "Date": "2015-08-21",
     "Media": "News Paper",
     "MediaTitle": "Mumbai Mirror",
-    "Place": "Mumbai"
+    "Place": "Mumbai",
+    "AccessLevel": 0
 }

@@ -5,5 +5,6 @@
     "Place": "Roorkee",
     "Date": "27-02-2005",
     "AccessionNumber": "3674",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

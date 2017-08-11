@@ -5,5 +5,6 @@
     "AccessionNumber": "1815",
     "Type": "Brochure",
     "States": "ओड़िशा, दिल्ली, मणिपुर, पश्चिम बंगाल, मणिपुर",
-    "Places": "Dhenkanal, Delhi, Imphal, Jalpaiguri, Imphal"
+    "Places": "Dhenkanal, Delhi, Imphal, Jalpaiguri, Imphal",
+    "AccessLevel": 0
 }

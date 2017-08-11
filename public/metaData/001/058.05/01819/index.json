@@ -5,5 +5,6 @@
     "AccessionNumber": "1819",
     "Type": "Brochure",
     "States": "आंध्र प्रदेश, कर्नाटक, केरल, तमिलनाडु, दिल्ली, बिहार, तमिलनाडु",
-    "Places": "Visakhapatnam, Bangalore, Trivandrum, Madras, Delhi, Purnia, Chennai"
+    "Places": "Visakhapatnam, Bangalore, Trivandrum, Madras, Delhi, Purnia, Chennai",
+    "AccessLevel": 0
 }

@@ -5,5 +5,6 @@
     "AccessionNumber": "1793",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, कर्नाटक, जम्मू और कश्मीर, दिल्ली, मणिपुर, मध्य प्रदेश, हरियाणा, पंजाब, जम्मू और कश्मीर, मणिपुर",
-    "Places": "Lucknow, Bangalore, Jammu, Delhi, Imphal, Bhopal, Amritsar, Jammu, Imphal"
+    "Places": "Lucknow, Bangalore, Jammu, Delhi, Imphal, Bhopal, Amritsar, Jammu, Imphal",
+    "AccessLevel": 0
 }

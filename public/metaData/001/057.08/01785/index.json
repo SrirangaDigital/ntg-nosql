@@ -5,5 +5,6 @@
     "AccessionNumber": "1785",
     "Type": "Brochure",
     "States": "ओड़िशा, दिल्ली, मणिपुर, मध्य प्रदेश, पश्चिम बंगाल, मणिपुर",
-    "Places": "Bhubaneswar, Delhi, Imphal, Bhopal, Raipur, Kolkata, Imphal"
+    "Places": "Bhubaneswar, Delhi, Imphal, Bhopal, Raipur, Kolkata, Imphal",
+    "AccessLevel": 0
 }

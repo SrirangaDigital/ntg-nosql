@@ -5,5 +5,6 @@
     "AccessionNumber": "4838",
     "Type": "Brochure",
     "States": "तमिलनाडु, दिल्ली, मध्य प्रदेश",
-    "Places": "Chennai, Delhi, Indore"
+    "Places": "Chennai, Delhi, Indore",
+    "AccessLevel": 0
 }

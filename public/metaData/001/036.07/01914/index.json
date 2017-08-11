@@ -5,5 +5,6 @@
     "Place": "Mumbai",
     "Date": "13-09-1968, 14-09-1968, 13-09-1968",
     "AccessionNumber": "1914",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

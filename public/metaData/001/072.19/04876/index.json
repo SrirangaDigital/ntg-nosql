@@ -5,5 +5,6 @@
     "AccessionNumber": "4876-(1-10)",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, पश्चिम बंगाल, बिहार",
-    "Places": "Varanasi, Patna, Buxar"
+    "Places": "Varanasi, Patna, Buxar",
+    "AccessLevel": 0
 }

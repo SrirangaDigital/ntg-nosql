@@ -5,5 +5,6 @@
     "AccessionNumber": "1075-(1-7)",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, दिल्ली, मध्य प्रदेश",
-    "Places": "Kanpur, Delhi, Gwalior, Jabalpur, Bhopal"
+    "Places": "Kanpur, Delhi, Gwalior, Jabalpur, Bhopal",
+    "AccessLevel": 0
 }

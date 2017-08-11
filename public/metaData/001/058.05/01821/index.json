@@ -5,5 +5,6 @@
     "AccessionNumber": "1821",
     "Type": "Brochure",
     "States": "गुजरात, गोआ, मध्य प्रदेश, राजस्थान, महाराष्ट्र",
-    "Places": "Ahmedabad, Goa, Ujjain, Udaipur, Pune"
+    "Places": "Ahmedabad, Goa, Ujjain, Udaipur, Pune",
+    "AccessLevel": 0
 }

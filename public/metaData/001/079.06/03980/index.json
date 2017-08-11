@@ -5,5 +5,6 @@
     "Date": "23-03-2001, 24-03-2001, 26-03-2001, 22-05-2000, 22-05-2001, 27-05-2001, 25-05-2001",
     "AccessionNumber": "3980-(1-6)",
     "Type": "Brochure",
-    "Places": "Jabalpur, Bhopal"
+    "Places": "Jabalpur, Bhopal",
+    "AccessLevel": 0
 }

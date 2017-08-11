@@ -6,5 +6,6 @@
     "ColorType": "01;02",
     "EventID": "073.600",
     "State": "गुजरात",
-    "AccessionCards": "073.600"
+    "AccessionCards": "073.600",
+    "AccessLevel": 0
 }

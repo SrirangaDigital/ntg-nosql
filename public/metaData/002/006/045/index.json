@@ -2,5 +2,6 @@
     "id": "002/006/045",
     "Type": "News Paper Clippings",
     "Media": "News Paper",
-    "Place": "Amritsar"
+    "Place": "Amritsar",
+    "AccessLevel": 0
 }

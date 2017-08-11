@@ -5,5 +5,6 @@
     "Place": "Bikaner",
     "Date": "13-12-1997",
     "AccessionNumber": "3076",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

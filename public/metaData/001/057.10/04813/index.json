@@ -5,5 +5,6 @@
     "AccessionNumber": "4813",
     "Type": "Brochure",
     "States": "असम, केरल, जम्मू और कश्मीर, दिल्ली, महाराष्ट्र, पश्चिम बंगाल, बिहार",
-    "Places": "Guwahati, Thiruvananthapuram, Jammu, Delhi, Mumbai, Kolkata, Patna"
+    "Places": "Guwahati, Thiruvananthapuram, Jammu, Delhi, Mumbai, Kolkata, Patna",
+    "AccessLevel": 0
 }

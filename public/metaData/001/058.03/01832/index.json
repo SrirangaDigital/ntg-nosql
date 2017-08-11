@@ -5,5 +5,6 @@
     "AccessionNumber": "1832",
     "Type": "Brochure",
     "States": "दिल्ली, मणिपुर, महाराष्ट्र, राजस्थान, पंजाब, मणिपुर, महाराष्ट्र",
-    "Places": "Delhi, Imphal, Pune, Jodhpur, Ambala, Imphal, Pune"
+    "Places": "Delhi, Imphal, Pune, Jodhpur, Ambala, Imphal, Pune",
+    "AccessLevel": 0
 }

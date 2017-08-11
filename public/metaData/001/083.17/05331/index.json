@@ -3,5 +3,6 @@
     "AccessionNumber": "5331",
     "Type": "Brochure",
     "Place": "Bombay",
-    "State": "महाराष्ट्र"
+    "State": "महाराष्ट्र",
+    "AccessLevel": 0
 }

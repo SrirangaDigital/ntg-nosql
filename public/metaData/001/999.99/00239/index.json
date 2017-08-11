@@ -4,5 +4,6 @@
     "State": "दिल्ली",
     "Place": "Delhi",
     "Date": "03-05-1977",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

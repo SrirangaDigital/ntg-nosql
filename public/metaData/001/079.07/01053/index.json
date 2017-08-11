@@ -5,5 +5,6 @@
     "Place": "Bhopal",
     "Date": "25-12-1987",
     "AccessionNumber": "1053",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

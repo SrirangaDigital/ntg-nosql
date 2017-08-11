@@ -5,5 +5,6 @@
     "Place": "Kolkata",
     "Date": "03-08-1997",
     "AccessionNumber": "2878",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

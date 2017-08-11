@@ -5,5 +5,6 @@
     "Date": "24-02-1994, 28-02-1994, 26-01-1994, 23-02-1994, 27-02-1994, 25-02-1994",
     "AccessionNumber": "2270-(1-6)",
     "Type": "Brochure",
-    "Places": "Indore, Ujjain, Gwalior, Jabalpur, Bhopal, Raipur"
+    "Places": "Indore, Ujjain, Gwalior, Jabalpur, Bhopal, Raipur",
+    "AccessLevel": 0
 }

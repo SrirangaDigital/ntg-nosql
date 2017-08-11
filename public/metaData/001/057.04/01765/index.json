@@ -5,5 +5,6 @@
     "AccessionNumber": "1765",
     "Type": "Brochure",
     "States": "कर्नाटक, गुजरात, तमिलनाडु, दिल्ली, मणिपुर, पश्चिम बंगाल, तमिलनाडु, दिल्ली, पश्चिम बंगाल, मणिपुर",
-    "Places": "Bangalore, Ahmedabad, Madras, Delhi, Imphal, Kolkata, Madras, Delhi, Kolkata, Imphal"
+    "Places": "Bangalore, Ahmedabad, Madras, Delhi, Imphal, Kolkata, Madras, Delhi, Kolkata, Imphal",
+    "AccessLevel": 0
 }

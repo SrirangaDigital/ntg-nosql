@@ -5,5 +5,6 @@
     "Place": "Dehradun",
     "Date": "25-06-1978",
     "AccessionNumber": "2007",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

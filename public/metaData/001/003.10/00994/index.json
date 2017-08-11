@@ -5,5 +5,6 @@
     "Place": "Almora",
     "Date": "28-03-1993",
     "AccessionNumber": "994",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

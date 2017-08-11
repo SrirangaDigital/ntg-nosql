@@ -5,5 +5,6 @@
     "AccessionNumber": "4829",
     "Type": "Brochure",
     "States": "असम, तमिलनाडु, दिल्ली, महाराष्ट्र, पॉण्डिचेरी",
-    "Places": "Guwahati, Chennai, Delhi, Pune, Mumbai"
+    "Places": "Guwahati, Chennai, Delhi, Pune, Mumbai",
+    "AccessLevel": 0
 }

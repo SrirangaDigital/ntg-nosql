@@ -5,5 +5,6 @@
     "AccessionNumber": "4812",
     "Type": "Brochure",
     "States": "असम, दिल्ली, मणिपुर",
-    "Places": "Guwahati, Delhi, Imphal"
+    "Places": "Guwahati, Delhi, Imphal",
+    "AccessLevel": 0
 }

@@ -5,5 +5,6 @@
     "Place": "Allahabad",
     "Date": "30-06-1995",
     "AccessionNumber": "2659",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

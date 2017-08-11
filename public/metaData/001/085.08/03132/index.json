@@ -5,5 +5,6 @@
     "Date": "10-01-1994, 19-11-1994, 21-01-1994, 18-01-1994",
     "AccessionNumber": "3132-(1-4)",
     "Type": "Brochure",
-    "Places": "Jaipur, Jodhpur, Bikaner"
+    "Places": "Jaipur, Jodhpur, Bikaner",
+    "AccessLevel": 0
 }

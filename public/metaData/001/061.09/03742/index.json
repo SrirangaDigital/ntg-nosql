@@ -5,5 +5,6 @@
     "Place": "Delhi",
     "Date": "16-06-2000, 19-06-2000, 20-06-2000, 14-06-2000, 17-06-2000, 19-06-2000, 18-06-2000, 17-06-2000",
     "AccessionNumber": "3742",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

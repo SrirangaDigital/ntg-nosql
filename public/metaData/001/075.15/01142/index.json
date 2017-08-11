@@ -5,5 +5,6 @@
     "Place": "Gwalior",
     "Date": "20-11-1993",
     "AccessionNumber": "1142",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

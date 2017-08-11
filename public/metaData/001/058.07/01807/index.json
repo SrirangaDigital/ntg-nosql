@@ -5,5 +5,6 @@
     "AccessionNumber": "1807",
     "Type": "Brochure",
     "States": "आंध्र प्रदेश, कर्नाटक, केरल, तमिलनाडु, दिल्ली, तमिलनाडु",
-    "Places": "Visakhapatnam, Bangalore, Trichur, Trivandrum, Gandhigram, Delhi, Gandhigram"
+    "Places": "Visakhapatnam, Bangalore, Trichur, Trivandrum, Gandhigram, Delhi, Gandhigram",
+    "AccessLevel": 0
 }

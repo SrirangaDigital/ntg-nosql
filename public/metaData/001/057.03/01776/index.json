@@ -4,5 +4,6 @@
     "State": "गुजरात",
     "Place": "Ahmedabad",
     "AccessionNumber": "1776",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

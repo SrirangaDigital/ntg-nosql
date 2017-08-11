@@ -4,5 +4,6 @@
     "AccessionNumber": "5766",
     "Type": "Brochure",
     "Date": "17-08-1981",
-    "State": "New Delhi"
+    "State": "New Delhi",
+    "AccessLevel": 0
 }

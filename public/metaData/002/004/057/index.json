@@ -3,5 +3,6 @@
     "Type": "News Paper Clippings",
     "Date": "2015-10-29",
     "Media": "News Paper",
-    "Place": "Hyderabad"
+    "Place": "Hyderabad",
+    "AccessLevel": 0
 }

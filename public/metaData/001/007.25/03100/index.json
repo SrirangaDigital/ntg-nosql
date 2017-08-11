@@ -5,5 +5,6 @@
     "AccessionNumber": "3100",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, दिल्ली",
-    "Places": "Gorakhpur, Delhi"
+    "Places": "Gorakhpur, Delhi",
+    "AccessLevel": 0
 }

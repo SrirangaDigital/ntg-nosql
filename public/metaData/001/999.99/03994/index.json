@@ -4,5 +4,6 @@
     "Date": "02-12-2004, 24-01-2004, 25-01-2004, 20-12-2004, 27-01-2004, 20-12-2004, 23-01-2004, 26-01-2004, 22-01-2004",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, दिल्ली, मध्य प्रदेश, महाराष्ट्र, राजस्थान, पंजाब",
-    "Places": "Lucknow, Delhi, Bhopal, Mumbai, Jaipur, Chandigarh"
+    "Places": "Lucknow, Delhi, Bhopal, Mumbai, Jaipur, Chandigarh",
+    "AccessLevel": 0
 }

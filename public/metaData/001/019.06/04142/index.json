@@ -5,5 +5,6 @@
     "Date": "20-08-2001",
     "AccessionNumber": "4142",
     "Type": "Brochure",
-    "Places": "Jammu, Srinagar"
+    "Places": "Jammu, Srinagar",
+    "AccessLevel": 0
 }

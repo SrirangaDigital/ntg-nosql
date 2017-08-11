@@ -5,5 +5,6 @@
     "Place": "Agra",
     "Date": "09-03-1983",
     "AccessionNumber": "2086",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

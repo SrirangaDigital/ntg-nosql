@@ -5,5 +5,6 @@
     "AccessionNumber": "1824",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, दिल्ली",
-    "Places": "Kanpur, Lucknow, Delhi"
+    "Places": "Kanpur, Lucknow, Delhi",
+    "AccessLevel": 0
 }

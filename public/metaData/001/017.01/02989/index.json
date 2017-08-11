@@ -5,5 +5,6 @@
     "AccessionNumber": "2989(1-4)",
     "Type": "Brochure",
     "States": "गुजरात, महाराष्ट्र, राजस्थान",
-    "Places": "Ahmedabad, Pune, Udaipur"
+    "Places": "Ahmedabad, Pune, Udaipur",
+    "AccessLevel": 0
 }

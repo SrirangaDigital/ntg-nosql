@@ -5,5 +5,6 @@
     "Place": "Lucknow",
     "Date": "27-03-1990",
     "AccessionNumber": "2425",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

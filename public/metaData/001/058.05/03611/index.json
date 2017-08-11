@@ -5,5 +5,6 @@
     "AccessionNumber": "3611-(1-4)",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, जम्मू और कश्मीर, दिल्ली, हरियाणा, जम्मू और कश्मीर",
-    "Places": "Lucknow, Jammu, Delhi, Ambala Cantt, Mandi"
+    "Places": "Lucknow, Jammu, Delhi, Ambala Cantt, Mandi",
+    "AccessLevel": 0
 }

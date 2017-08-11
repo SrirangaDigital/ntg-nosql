@@ -4,5 +4,6 @@
     "Date": "11-01-1986, 09-01-1986, 12-01-1986, 15-01-1986, 09-01-1986, 13-01-1986, 09-01-1986",
     "Type": "Brochure",
     "States": "ओड़िशा, कर्नाटक, केरल, गुजरात, दिल्ली, मणिपुर, महाराष्ट्र, मणिपुर",
-    "Places": "Bhubaneswar, Bangalore, Trivandrum, Ahmedabad, Delhi, Imphal, Mumbai, Imphal"
+    "Places": "Bhubaneswar, Bangalore, Trivandrum, Ahmedabad, Delhi, Imphal, Mumbai, Imphal",
+    "AccessLevel": 0
 }

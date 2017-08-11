@@ -5,5 +5,6 @@
     "AccessionNumber": "4377-(1-7)",
     "Type": "Brochure",
     "States": "असम, उत्तर प्रदेश, केरल, दिल्ली, महाराष्ट्र, पंजाब, बिहार, महाराष्ट्र, पंजाब, महाराष्ट्र",
-    "Places": "Guwahati, Kanpur, Trichur, Delhi, Pune, Amritsar, Patna, Pune, Amritsar, Pune"
+    "Places": "Guwahati, Kanpur, Trichur, Delhi, Pune, Amritsar, Patna, Pune, Amritsar, Pune",
+    "AccessLevel": 0
 }

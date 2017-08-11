@@ -5,5 +5,6 @@
     "AccessionNumber": "1833",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, गुजरात, चंडीगढ़†, दिल्ली, मध्य प्रदेश, चंडीगढ़†",
-    "Places": "Lucknow, Ahmedabad, Delhi, Bhopal"
+    "Places": "Lucknow, Ahmedabad, Delhi, Bhopal",
+    "AccessLevel": 0
 }

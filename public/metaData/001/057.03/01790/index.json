@@ -5,5 +5,6 @@
     "AccessionNumber": "1790",
     "Type": "Brochure",
     "States": "ओड़िशा, दिल्ली, मणिपुर",
-    "Places": "Bhubaneswar, Delhi"
+    "Places": "Bhubaneswar, Delhi",
+    "AccessLevel": 0
 }

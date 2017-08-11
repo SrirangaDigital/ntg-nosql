@@ -5,5 +5,6 @@
     "AccessionNumber": "1787",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, जम्मू और कश्मीर, दिल्ली, सिक्किम, हिमाचल प्रदेश, पंजाब, हिमाचल प्रदेश, सिक्किम, पंजाब",
-    "Places": "Lucknow, Jammu, Delhi, Gangtok, Shimla, Amritsar, Shimla, Gangtok, Amritsar"
+    "Places": "Lucknow, Jammu, Delhi, Gangtok, Shimla, Amritsar, Shimla, Gangtok, Amritsar",
+    "AccessLevel": 0
 }

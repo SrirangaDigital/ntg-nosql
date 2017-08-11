@@ -4,5 +4,6 @@
     "State": "दिल्ली",
     "Place": "Delhi",
     "AccessionNumber": "2509",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

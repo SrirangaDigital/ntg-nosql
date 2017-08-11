@@ -5,5 +5,6 @@
     "Place": "Delhi",
     "Date": "06-12-1982",
     "AccessionNumber": "5117",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

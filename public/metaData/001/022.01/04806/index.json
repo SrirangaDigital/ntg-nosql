@@ -5,5 +5,6 @@
     "AccessionNumber": "4806(1-14)",
     "Type": "Brochure",
     "States": "कर्नाटक, दिल्ली, मणिपुर, महाराष्ट्र, पंजाब, पश्चिम बंगाल",
-    "Places": "Bangalore, Delhi, Imphal, Mumbai, Herat, Afghanistan, Kathmandu, Nepal, Karachi, Pakistan, Dhaka, Bangladesh, Thimphu, Bhutan, Maldives, Myanmar, Colombo, Srilanka, Chandigarh, Kolkata"
+    "Places": "Bangalore, Delhi, Imphal, Mumbai, Herat, Afghanistan, Kathmandu, Nepal, Karachi, Pakistan, Dhaka, Bangladesh, Thimphu, Bhutan, Maldives, Myanmar, Colombo, Srilanka, Chandigarh, Kolkata",
+    "AccessLevel": 0
 }

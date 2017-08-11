@@ -4,5 +4,6 @@
     "Date": "24-09-1986",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, दिल्ली, मध्य प्रदेश, महाराष्ट्र, पश्चिम बंगाल, बिहार",
-    "Places": "Lucknow, Delhi, Raipur, Mumbai, Kolkata, Patna"
+    "Places": "Lucknow, Delhi, Raipur, Mumbai, Kolkata, Patna",
+    "AccessLevel": 0
 }

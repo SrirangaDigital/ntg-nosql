@@ -5,5 +5,6 @@
     "Place": "Gorakhpur",
     "Date": "28-01-1996",
     "AccessionNumber": "1876",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

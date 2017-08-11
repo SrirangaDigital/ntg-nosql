@@ -5,5 +5,6 @@
     "Place": "Badhai",
     "Date": "02-06-1990",
     "AccessionNumber": "2333",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

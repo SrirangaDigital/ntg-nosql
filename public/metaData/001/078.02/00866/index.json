@@ -5,5 +5,6 @@
     "Date": "07-01-1991",
     "AccessionNumber": "866-(1-7)",
     "Type": "Brochure",
-    "Places": "Indore, Ujjain, Gwalior, Jabalpur, Bhopal, Raipur"
+    "Places": "Indore, Ujjain, Gwalior, Jabalpur, Bhopal, Raipur",
+    "AccessLevel": 0
 }

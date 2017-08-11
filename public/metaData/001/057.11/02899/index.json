@@ -5,5 +5,6 @@
     "AccessionNumber": "2899-(1-10)",
     "Type": "Brochure",
     "States": "आंध्र प्रदेश, उत्तर प्रदेश, गुजरात, दिल्ली, राजस्थान, पश्चिम बंगाल, दिल्ली",
-    "Places": "Hyderabad, Lucknow, Ahmedabad, Delhi, Udaipur, Kolkata, Delhi"
+    "Places": "Hyderabad, Lucknow, Ahmedabad, Delhi, Udaipur, Kolkata, Delhi",
+    "AccessLevel": 0
 }

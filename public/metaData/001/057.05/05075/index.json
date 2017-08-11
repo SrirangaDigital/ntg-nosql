@@ -5,5 +5,6 @@
     "AccessionNumber": "5075-(1-7)",
     "Type": "Brochure",
     "States": "ओड़िशा, उत्तर प्रदेश, कर्नाटक, केरल, गुजरात, दिल्ली, मणिपुर, महाराष्ट्र",
-    "Places": "Bhubaneswar, Lucknow, Bangalore, Trivandrum, Ahmedabad, Delhi, Imphal, Mumbai"
+    "Places": "Bhubaneswar, Lucknow, Bangalore, Trivandrum, Ahmedabad, Delhi, Imphal, Mumbai",
+    "AccessLevel": 0
 }

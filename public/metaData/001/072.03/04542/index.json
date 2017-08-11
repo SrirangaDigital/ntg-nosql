@@ -5,5 +5,6 @@
     "Place": "Patna",
     "Date": "05-08-2008",
     "AccessionNumber": "4542",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

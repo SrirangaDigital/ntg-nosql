@@ -4,5 +4,6 @@
     "Date": "07-01-2007, 22-08-2007, 21-08-2007, 23-08-2007, 21-08-2007, 22-08-2007, 19-08-2007, 20-08-2007, 19-08-2007, 23-08-2007, 19-08-2007, 22-08-2007, 20-08-2007, 23-08-2007, 21-08-2007, 20-08-2007, 19-08-2007",
     "Type": "Brochure",
     "States": "दिल्ली, महाराष्ट्र, बिहार",
-    "Places": "Delhi, Mumbai, Naubatpur, Patna, Begusarai, Muzaffarpur, Saharsa, Hajipur"
+    "Places": "Delhi, Mumbai, Naubatpur, Patna, Begusarai, Muzaffarpur, Saharsa, Hajipur",
+    "AccessLevel": 0
 }

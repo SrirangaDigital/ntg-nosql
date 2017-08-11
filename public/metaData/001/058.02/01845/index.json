@@ -5,5 +5,6 @@
     "AccessionNumber": "1845",
     "Type": "Brochure",
     "States": "दिल्ली, मध्य प्रदेश, महाराष्ट्र, राजस्थान, महाराष्ट्र",
-    "Places": "Delhi, Bhopal, Aurangabad, Pune, Solapur, Jodhpur, Pune"
+    "Places": "Delhi, Bhopal, Aurangabad, Pune, Solapur, Jodhpur, Pune",
+    "AccessLevel": 0
 }

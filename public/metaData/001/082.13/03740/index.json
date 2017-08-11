@@ -5,5 +5,6 @@
     "Place": "Mumbai",
     "Date": "04-03-2000",
     "AccessionNumber": "3740",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }

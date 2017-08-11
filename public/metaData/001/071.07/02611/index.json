@@ -5,5 +5,6 @@
     "Place": "Purnia",
     "Date": "12-01-1997",
     "AccessionNumber": "2611",
-    "Type": "Brochure"
+    "Type": "Brochure",
+    "AccessLevel": 0
 }
