@@ -22,7 +22,7 @@ class gitcvsModel extends Model {
 		
 		$files['A'] = $files['M'] = $files['D'] = array();
 		
-		$metadaDataPath = str_replace(BASE_URL, '', METADATA_URL);
+		$metadaDataPath = str_replace(BASE_URL, '', PUBLIC_URL);
 		$metadaDataPath = str_replace('/', '\/', $metadaDataPath);
 
 		foreach ($lines as $file) {
@@ -30,7 +30,7 @@ class gitcvsModel extends Model {
 			// Extract files into three bins - A->Added, M->Modified and D->Deleted. 
 			if(
 				(preg_match('/^([AMD])\s(.*)/', $file, $matches)) && 
-				(preg_match('/' . $metadaDataPath . '.*?\/.*?\/.*?\/index\.json/', $file))
+				(preg_match('/' . $metadaDataPath . '.*\/.+\.json/', $file))
 			  ) {
 
 				array_push($files[$matches[1]], $matches[2]);

@@ -14,7 +14,7 @@
         </div>            
         <div class="col-md-8">
             <div class="image-desc-full">
-                <form  method="POST" class="form-inline updateDataArchive" role="form" id="updateData" action="<?=BASE_URL?>edit/updateArtefactJson" onsubmit="return validate()">
+                <form  method="POST" class="form-inline updateDataArchive" role="form" id="updateData" action="<?=BASE_URL?>edit/updateArtefact" onsubmit="return validate()">
 <?php
     foreach ($data as $key => $value) {
 

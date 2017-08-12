@@ -9,7 +9,7 @@
         <div class="col-md-2"></div>
         <div class="col-md-8">
             <div class="image-desc-full">
-                <form  method="POST" class="form-inline updateDataArchive" role="form" id="updateData" action="<?=BASE_URL?>edit/updateForeignKeyJson" onsubmit="return validate()">
+                <form  method="POST" class="form-inline updateDataArchive" role="form" id="updateData" action="<?=BASE_URL?>edit/updateForeignKey" onsubmit="return validate()">
 <?php
     foreach ($data as $key => $value) {
 

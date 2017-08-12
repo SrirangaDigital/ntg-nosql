@@ -43,7 +43,7 @@ class edit extends Controller {
 		}
 	}
 
-	public function updateArtefactJson() {
+	public function updateArtefact() {
 		
 		// Get post data	
 		$data = $this->model->getPostData();
@@ -79,6 +79,45 @@ class edit extends Controller {
 		$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $jsonData['id']));
 	}
 
+	public function updateForeignKey() {
+		
+		// Get post data	
+		$data = $this->model->getPostData();
+		if(!$data){$this->view('error/index');return;}
+
+		// Rearrange data in key value pairs
+		$jsonData = [];
+		foreach($data as $value){
+
+			$jsonData[$value[0]] = $value[1];
+		}
+
+		// Preprocess data before update
+		$jsonData = $this->model->beforeDbUpdate($jsonData);
+
+		// Write updated data to json file
+		$path = PHY_FOREIGN_KEYS_URL . $jsonData['ForeignKeyType'] . '/' . $jsonData['ForeignKeyId'] . '.json';
+		if(!($this->model->writeJsonToPath($jsonData, $path))){
+			$this->view('error/prompt',["msg"=>"Problem in writing data to file"]); return;
+		}
+
+		// Replace data in database
+		$dbData = $jsonData;
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
+
+		if(!($this->model->replaceJsonDataInDB($collection, $dbData, 'ForeignKeyId', $dbData['ForeignKeyId']))) {
+			$this->view('error/prompt',["msg"=>"Problem in writing data to database"]); return;
+		}
+
+		$collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
+		
+		if(!($this->model->resyncAffectedArtefacts($db, $dbData['ForeignKeyType'], $dbData[$dbData['ForeignKeyType']]))) {
+			$this->view('error/prompt',["msg"=>"Problem in resyncing artefact details"]); return;			
+		}
+
+		$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $jsonData['id']));
+	}
 }
 
 ?>
