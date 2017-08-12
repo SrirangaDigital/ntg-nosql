@@ -16,7 +16,6 @@ class edit extends Controller {
 		if($data) {
 			
 			$db = $this->model->db->useDB();
-
 			$data['auxiliary']['thumbnailPath'] = $this->model->getThumbnailPath($id);
 			$data['auxiliary']['idURL'] = $idURL;
 			$data['auxiliary']['foreignKeys'] = $this->model->getForeignKeyTypes($db);
@@ -46,59 +45,38 @@ class edit extends Controller {
 
 	public function updateArtefactJson() {
 		
+		// Get post data	
 		$data = $this->model->getPostData();
 		if(!$data){$this->view('error/index');return;}
 
-		$fileContents = array();
-
+		// Rearrange data in key value pairs
+		$jsonData = [];
 		foreach($data as $value){
 
-			$fileContents[$value[0]] = $value[1];
+			$jsonData[$value[0]] = $value[1];
 		}
 
-		if(isset($fileContents['id'])){
+		// Preprocess data before update
+		$jsonData = $this->model->beforeDbUpdate($jsonData);
 
-			$path = PHY_METADATA_URL . $fileContents['id'] . "/index.json";
-			$collectionName = ARTEFACT_COLLECTION;
-			$id = $fileContents['id'];
-			$idKey = 'id';
-			$url =  BASE_URL . 'describe/artefact/' . str_replace('/', '_', $id);
-		}
-		else{
-
-			$path = PHY_FOREIGN_KEYS_URL . $fileContents['ForeignKeyType'] . "/" . $fileContents['ForeignKeyId'] . ".json";
-			$collectionName = FOREIGN_KEY_COLLECTION;
-			$id = $fileContents['ForeignKeyId'];
-			$idKey = 'ForeignKeyId';
-			$url =  BASE_URL;
-
+		// Write updated data to json file
+		$path = PHY_METADATA_URL . $jsonData['id'] . "/index.json";
+		if(!($this->model->writeJsonToPath($jsonData, $path))){
+			$this->view('error/prompt',["msg"=>"Problem in writing data to file"]); return;
 		}
 
-		// var_dump($path);
-		// echo "<br /><br />";
-		// var_dump($collectionName);
-		// echo "<br /><br />";
+		// Insert foreignKey details to artefact details
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
+		$foreignKeys = $this->model->getForeignKeyTypes($db);
+		$dbData = $this->model->insertForeignKeyDetails($db, $jsonData , $foreignKeys);
 
-		$fileContentsJson = json_encode($fileContents,JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+		// Replace data in database
+		if(!($this->model->replaceJsonDataInDB($collection, $dbData, 'id', $dbData['id']))){
+			$this->view('error/prompt',["msg"=>"Problem in writing data to database"]); return;
+		}
 
-		if(file_put_contents($path, $fileContentsJson))
-		{
-			$this->model->syncArtefactJsonToDB($idKey, $id, $collectionName, $path);
-			
-			// if(REQUIRE_GIT_TRACKING)
-			// {
-			// 	$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $id));
-			// }
-			// else
-			// {				
-			// 	$this->absoluteRedirect($url);
-			// }
-			
-		}
-		else
-		{
-			$this->view('error/prompt',["msg"=>"Problem in writing data to a file"]);
-		}
+		$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $jsonData['id']));
 	}
 
 }

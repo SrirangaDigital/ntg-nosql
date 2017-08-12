@@ -76,11 +76,12 @@ class Model {
 		$content = json_decode($contentString, true);
 		$content = $this->beforeDbUpdate($content);
 
-		$result = $collection->replaceOne(
-			[ $idKey => $id ],	
-			$content
-		);
 
+	}
+
+	public function replaceJsonDataInDB($collection, $data, $key, $value) {
+
+		return $collection->replaceOne([ $key => $value ], $data);
 	}
 
 	public function beforeDbUpdate($data){
@@ -92,6 +93,8 @@ class Model {
 				unset($data['Date']);
 			}
 		}
+		if(isset($data['AccessLevel'])) $data['AccessLevel'] = intval($data['AccessLevel']);
+
 		return $data;
 	}
 

@@ -12,19 +12,27 @@ class gitcvs extends Controller {
 
 	public function updateRepo($query, $idURL = ''){
 
-		$statusMsg = array();
-
 		$url =  BASE_URL . 'describe/artefact/' . $idURL;
+		if(!(REQUIRE_GIT_TRACKING)){
+
+			$this->absoluteRedirect($url);
+			return;
+		}
+
+		$statusMsg = array();
 
 		$repo = Git::open(PHY_BASE_URL . '.git');
 
 		// Before all operations, a git pull is done to sync local and remote repos.
-		$repo->run('pull ' . GIT_REMOTE . ' master');
-		array_push($statusMsg, 'Repo synced with remote');
+	
+		if(REQUIRE_GITHUB_SYNC) {
+
+			$repo->run('pull ' . GIT_REMOTE . ' master');
+			array_push($statusMsg, 'Repo synced with remote');
+		}
 
 		$files = $this->model->getChangesFromGit($repo);
 		array_push($statusMsg, 'Files to be updated listed');
-
 
 		$user['email'] = $_SESSION['email'];
 		//$user['password'] = $_SESSION['password'];
@@ -44,13 +52,14 @@ class gitcvs extends Controller {
 				array_push($statusMsg, ' Deleted of JSON for Albums / Archives are completed');
 		}	
 		
-		$repo->run('push ' . GIT_REMOTE . ' master');
-		
-		array_push($statusMsg, 'Local changes pushed to remote');
+		if(REQUIRE_GITHUB_SYNC) {
+			
+			$repo->run('push ' . GIT_REMOTE . ' master');
+			array_push($statusMsg, 'Local changes pushed to remote');
+		}
 		
 		$this->absoluteRedirect($url);
 	}
-
 }	
 
 ?>

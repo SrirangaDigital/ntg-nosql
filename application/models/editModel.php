@@ -16,7 +16,13 @@ class editModel extends Model {
 		$result = $collection->findOne([$key => $value], ['projection' => ['ForeignKeyId' => 1]]);
 
 		return ($result) ? $result['ForeignKeyId'] : '';
-	}	
+	}
+
+	public function writeJsonToPath($data, $path) {
+
+		$jsonString = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+		return (file_put_contents($path, $jsonString)) ? True : False;
+	}
 }
 
 ?>

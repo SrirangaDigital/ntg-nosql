@@ -17,6 +17,7 @@ define('PHOTO_FILE_EXT', '.JPG');
 // user settings (login and registration)
 define('REQUIRE_EMAIL_VALIDATION', False);//Set these values to True only
 define('REQUIRE_RESET_PASSWORD', False);//if outbound mails can be sent from the server
-define('REQUIRE_GIT_TRACKING', False);
+define('REQUIRE_GIT_TRACKING', True);
+define('REQUIRE_GITHUB_SYNC', False);
 
 ?>
