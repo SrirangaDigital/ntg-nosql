@@ -1,8 +1,8 @@
 {
     "id": "001/017.13/04759",
-    "AccessionCards": "",
     "AccessionNumber": "4759",
     "Type": "Brochure",
     "States": "NA",
-    "AccessLevel": 0
+    "AccessLevel": "0",
+    "Date": "DD-MM-YYYY"
 }

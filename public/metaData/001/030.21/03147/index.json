@@ -3,5 +3,6 @@
     "AccessionNumber": "3147",
     "Type": "Brochure",
     "AccessLevel": "0",
-    "States": "NA"
+    "States": "NA",
+    "Date": "DD-MM-YYYY"
 }

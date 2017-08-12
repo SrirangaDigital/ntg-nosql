@@ -4,5 +4,6 @@
     "AccessionNumber": "871",
     "Type": "Brochure",
     "Places": "Colombo, Srilanka",
-    "AccessLevel": 0
+    "AccessLevel": "0",
+    "Date": "DD-MM-YYYY"
 }

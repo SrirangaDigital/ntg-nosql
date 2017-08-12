@@ -1,7 +1,8 @@
 {
     "id": "001/034.06/05792",
-    "AccessionCards": "",
     "AccessionNumber": "5792",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": "0",
+    "Place": "Bopal",
+    "State": "दिल्ली"
 }

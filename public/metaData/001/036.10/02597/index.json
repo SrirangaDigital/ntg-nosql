@@ -4,5 +4,6 @@
     "AccessionNumber": "2597",
     "Type": "Brochure",
     "AccessLevel": "0",
-    "States": "NA"
+    "States": "NA",
+    "Date": "DD-MM-YYYY"
 }

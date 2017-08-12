@@ -1,7 +1,8 @@
 {
     "id": "001/080.09/01110",
-    "AccessionCards": "",
     "AccessionNumber": "1110",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": "0",
+    "Place": "Bhopal",
+    "State": "मध्य प्रदेश"
 }

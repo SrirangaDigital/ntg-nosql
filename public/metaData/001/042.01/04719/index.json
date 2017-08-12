@@ -6,5 +6,6 @@
     "Date": "14-09-0000",
     "AccessionNumber": "4719",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": "0",
+    "key1": "value1"
 }
