@@ -1,4 +1,5 @@
 <?php
+    $refererArtefact = array_pop($data);
     $disableKeys = ['id', 'albumID', 'ForeignKeyId', 'ForeignKeyType'];
     $count = 0;
     $formgroup = 0;
@@ -10,6 +11,7 @@
         <div class="col-md-8">
             <div class="image-desc-full">
                 <form  method="POST" class="form-inline updateDataArchive" role="form" id="updateData" action="<?=BASE_URL?>edit/updateForeignKey" onsubmit="return validate()">
+                    <input type="hidden" name="refererArtefact" value="<?=$refererArtefact?>">
 <?php
     foreach ($data as $key => $value) {
 

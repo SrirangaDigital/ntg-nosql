@@ -12,8 +12,8 @@ class gitcvs extends Controller {
 
 	public function updateRepo($query, $idURL = ''){
 
-		$url =  BASE_URL . 'describe/artefact/' . $idURL;
-		if(!(REQUIRE_GIT_TRACKING)){
+		$url = ($idURL) ? BASE_URL . 'describe/artefact/' . $idURL : BASE_URL;
+		if(!(REQUIRE_GIT_TRACKING)) {
 
 			$this->absoluteRedirect($url);
 			return;

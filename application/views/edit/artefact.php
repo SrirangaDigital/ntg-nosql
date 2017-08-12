@@ -1,4 +1,5 @@
 <?php
+    $refererId = str_replace('/', '_', $data['id']);
     $auxiliary = array_pop($data);
     $disableKeys = ['id', 'albumID', 'ForeignKeyId', 'ForeignKeyType'];
     $count = 0;
@@ -26,7 +27,7 @@
         <?php if(!($disable)) { ?>
                         <i class="fa fa-times" title="Remove field" onclick="removeUpdateDataElement('frmgroup<?=$formgroup?>')" value="Remove"></i>
         <?php } if(($auxiliary['foreignKeys']) && (in_array($key, $auxiliary['foreignKeys']))) { ?>
-                        <a  class="editDetails" href="<?=BASE_URL?>edit/foreignKey/<?=urlencode($key) . '/'. urlencode($value)?>">Edit</a>
+                        <a  class="editDetails" href="<?=BASE_URL?>edit/foreignKey/<?=urlencode($key) . '/'. urlencode($value)?>?refererArtefact=<?=$refererId?>">Edit</a>
         <?php } ?>
                     </div>
 <?php 

@@ -30,11 +30,13 @@ class edit extends Controller {
 
 	public function foreignKey($query, $key, $value) {
 		
+		$refererArtefact = (isset($query['refererArtefact'])) ? $query['refererArtefact'] : '';
 		$foreignKeyId = $this->model->getForeignKeyId($key, $value);
 
 		if($foreignKeyId){
 
 			$data = $this->model->getArtefactFromJsonPath(PHY_FOREIGN_KEYS_URL . $key . '/' . $foreignKeyId . '.json');
+			$data['refererArtefact'] = $refererArtefact;
 			$this->view('edit/foreignKey', $data);
 		}
 		else {
@@ -83,6 +85,10 @@ class edit extends Controller {
 		
 		// Get post data	
 		$data = $this->model->getPostData();
+
+		$data['refererArtefact'] = (isset($data['refererArtefact'])) ? $data['refererArtefact'] : '';
+		$refererArtefact = $data['refererArtefact']; unset($data['refererArtefact']);
+
 		if(!$data){$this->view('error/index');return;}
 
 		// Rearrange data in key value pairs
@@ -116,7 +122,7 @@ class edit extends Controller {
 			$this->view('error/prompt',["msg"=>"Problem in resyncing artefact details"]); return;			
 		}
 
-		$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $jsonData['id']));
+		$this->redirect('gitcvs/updateRepo/' . $refererArtefact);
 	}
 }
 

@@ -36,7 +36,7 @@ $(document).ready(function(){
         </div>            
         <div class="col-md-3">
             <div class="image-desc-full">
-                <div class="albumTitle <?=$data['details']['Type']?>"><span><?=$data['details']['Type']?></span></div>
+                <div class="albumTitle <?=$data['details']['Type']?>"><span class="head"><?=$data['details']['Type']?></span></div>
                 <ul class="list-unstyled">
                 <?php
 
