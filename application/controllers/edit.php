@@ -8,36 +8,41 @@ class edit extends Controller {
 		parent::__construct();
 	}
 
-	public function artefact($query, $id='') {
-	
-		$data = $this->model->editArtefact($id);
+	public function artefact($query, $idURL = '') {
+		
+		$id = $this->model->urlToActualID($idURL);
+		$data = $this->model->getArtefactFromJsonPath(PHY_METADATA_URL . $id . '/index.json');
 
-		if($data){
+		if($data) {
 			
-			$foreignKeys = $this->model->getForeignKeyTypes(FOREIGN_KEY_TYPE);
-			$data->foreignKeys =  (array)$foreignKeys;
-			$this->view('edit/artefact', $data); 
-		} else {
+			$db = $this->model->db->useDB();
+
+			$data['auxiliary']['thumbnailPath'] = $this->model->getThumbnailPath($id);
+			$data['auxiliary']['idURL'] = $idURL;
+			$data['auxiliary']['foreignKeys'] = $this->model->getForeignKeyTypes($db);
+
+			$this->view('edit/artefact', $data);
+		}
+		else {
 			
 			$this->view('error/index');
 		}
 	}	
 
-	public function foreignkey($query, $key, $value) {
-	
-		$data = $this->model->editForeignKey($key,$value);
+	public function foreignKey($query, $key, $value) {
+		
+		$foreignKeyId = $this->model->getForeignKeyId($key, $value);
 
-		if($data){
+		if($foreignKeyId){
 
-			$this->view('edit/foreignkey', $data); 
-		} else {
+			$data = $this->model->getArtefactFromJsonPath(PHY_FOREIGN_KEYS_URL . $key . '/' . $foreignKeyId . '.json');
+			$this->view('edit/foreignKey', $data);
+		}
+		else {
 			
 			$this->view('error/index');
 		}
 	}
-
-
-
 
 	public function updateArtefactJson() {
 		
@@ -80,14 +85,14 @@ class edit extends Controller {
 		{
 			$this->model->syncArtefactJsonToDB($idKey, $id, $collectionName, $path);
 			
-			if(REQUIRE_GIT_TRACKING)
-			{
-				$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $id));
-			}
-			else
-			{				
-				$this->absoluteRedirect($url);
-			}
+			// if(REQUIRE_GIT_TRACKING)
+			// {
+			// 	$this->redirect('gitcvs/updateRepo/' . str_replace('/', '_', $id));
+			// }
+			// else
+			// {				
+			// 	$this->absoluteRedirect($url);
+			// }
 			
 		}
 		else

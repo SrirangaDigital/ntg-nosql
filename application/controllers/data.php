@@ -23,9 +23,7 @@ class data extends Controller {
 
 		foreach ($jsonFiles as $jsonFile) {
 
-			$contentString = file_get_contents($jsonFile);
-			$content = json_decode($contentString, true);
-
+			$content = $this->model->getArtefactFromJsonPath($jsonFile);
 			$content = $this->model->insertForeignKeyDetails($db, $content, $foreignKeys);
 			$content = $this->model->insertDataExistsFlag($content);
 			$content = $this->model->beforeDbUpdate($content);

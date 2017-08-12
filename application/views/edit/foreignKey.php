@@ -1,5 +1,4 @@
 <?php
-    $auxiliary = array_pop($data);
     $disableKeys = ['id', 'albumID', 'ForeignKeyId', 'ForeignKeyType'];
     $count = 0;
     $formgroup = 0;
@@ -7,14 +6,10 @@
 
 <div class="container">
     <div class="row gap-above-med">
-        <div class="col-md-4">
-            <div class="image-reduced-size">
-                <img class="img-responsive" src="<?=$auxiliary['thumbnailPath']?>">
-            </div>
-        </div>            
+        <div class="col-md-2"></div>
         <div class="col-md-8">
             <div class="image-desc-full">
-                <form  method="POST" class="form-inline updateDataArchive" role="form" id="updateData" action="<?=BASE_URL?>edit/updateArtefactJson" onsubmit="return validate()">
+                <form  method="POST" class="form-inline updateDataArchive" role="form" id="updateData" action="<?=BASE_URL?>edit/updateForeignKeyJson" onsubmit="return validate()">
 <?php
     foreach ($data as $key => $value) {
 
@@ -25,8 +20,6 @@
                         <input type="text" class="form-control edit value" name="id<?=$count?>[]"  value="<?=$value?>"  <?=$disable?> />
         <?php if(!($disable)) { ?>
                         <i class="fa fa-times" title="Remove field" onclick="removeUpdateDataElement('frmgroup<?=$formgroup?>')" value="Remove"></i>
-        <?php } if(($auxiliary['foreignKeys']) && (in_array($key, $auxiliary['foreignKeys']))) { ?>
-                        <a  class="editDetails" href="<?=BASE_URL?>edit/foreignKey/<?=urlencode($key) . '/'. urlencode($value)?>">Edit</a>
         <?php } ?>
                     </div>
 <?php 

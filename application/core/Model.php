@@ -25,6 +25,14 @@ class Model {
 		}
 	}
 
+	public function getArtefactFromJsonPath($path){
+
+		$contentString = file_get_contents($path);
+		$content = json_decode($contentString, true);
+
+		return $content;
+	}
+
 	public function getPrecastKey($type, $key){
 
 	    $structure = json_decode(file_get_contents(PHY_JSON_PRECAST_URL . 'archive-structure.json'), true);
@@ -66,7 +74,7 @@ class Model {
 
 		$contentString = file_get_contents($jsonFile);
 		$content = json_decode($contentString, true);
-		$content = $this->beforeDbUpadte($content);
+		$content = $this->beforeDbUpdate($content);
 
 		$result = $collection->replaceOne(
 			[ $idKey => $id ],	
@@ -161,6 +169,13 @@ class Model {
 		$urlFilter = implode('&', $urlFilterArray);
 
 		return $urlFilter;
+	}
+
+	public function urlToActualID($id){
+
+		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $id);
+
+		return $id;
 	}
 }
 

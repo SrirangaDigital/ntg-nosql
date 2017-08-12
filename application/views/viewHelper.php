@@ -6,53 +6,6 @@ class viewHelper extends View {
 
     }
 
-    public function displayDataInForm($json, $foreignKeys='') {
-
-        $data = json_decode($json, true);
-        
-        // if ($auxJson) $data = array_merge($data, json_decode($auxJson, true));
-
-        $count = 0;
-        $formgroup = 0;
-
-        foreach ($data as $key => $value) {
-             //~ echo "Key: $key; Value: $value\n";
-             if($key == 'albumID') {
-				
-				if (preg_match('/__/', $value)) {
-				
-					$id = preg_split('/__/', $value);
-					$value = $id[1];
-				}
-			 }
-    
-            $disable = (($key == 'id') || ($key == 'albumID') || ($key == 'ForeignKeyId')|| ($key == 'ForeignKeyType'))? 'readonly' : '';
-            
-            $editForeignKey = "";
-
-            if($foreignKeys){
-                if(in_array($key, $foreignKeys)){
-                    $editForeignKey = '<a  class="editDetails" href="' . BASE_URL . 'edit/foreignkey/'. urlencode($key) . '/'. urlencode($value) . '">Edit Event</a>';            
-                }
-            }
-            echo '<div class="form-group" id="frmgroup' . $formgroup . '">' . "\n";
-            echo '<input type="text" class="form-control edit key" name="id'. $count . '[]"  value="' . $key . '"' . $disable  . ' />';
-            echo '<input type="text" class="form-control edit value" name="id'. $count . '[]"  value="' . $value . '"' . $disable . ' />';
-    
-            if($disable != "readonly")
-                echo '<i class="fa fa-times" title="Remove field" onclick="removeUpdateDataElement(\'frmgroup'. $formgroup .'\')" value="Remove"></i>&nbsp;&nbsp;' . $editForeignKey . "\n";
-
-            echo '</div>' . "\n";
-            $count++;
-            $formgroup++;
-        }
-
-        echo '<div id="keyvalues">' . "\n";
-        echo '</div>' . "\n";
-        echo '<i class="fa fa-plus" title="Add new field" id="keyvaluebtn" onclick="addnewfields(keyvaluebtn)"></i>' . "\n";
-        echo '<input class="updateSubmit" type="submit" id="submit" value="Update Data" />' . "\n";
-    }
-
     public function includeEditButton($albumID) {
 
         if(isset($_SESSION['login']))
