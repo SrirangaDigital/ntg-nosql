@@ -2,7 +2,7 @@
     "id": "001/081.20/05651",
     "AccessionNumber": "5651",
     "Type": "Brochure",
-    "AccessLevel": "0",
+    "AccessLevel": 0,
     "States": "NA",
     "Date": "DD-MM-YYYY"
 }

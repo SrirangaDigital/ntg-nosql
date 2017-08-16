@@ -2,7 +2,7 @@
     "id": "001/040.06/04398",
     "AccessionNumber": "4398",
     "Type": "Brochure",
-    "AccessLevel": "0",
+    "AccessLevel": 0,
     "Date": "DD-MM-YYYY",
     "State": "NA"
 }
