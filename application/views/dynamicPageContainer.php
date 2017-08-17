@@ -7,7 +7,7 @@
                 <li><a>·</a></li>
                 <li><a href="<?=BASE_URL?>listing/Categories/Photograph?select=State">Photographs</a></li>
                 <li><a>·</a></li>
-                <li><a href="<?=BASE_URL?>listing/Categories/News Paper Clippings?select=MediaTitle">News Paper Clippings</a></li>
+                <li><a href="<?=BASE_URL?>listing/Categories/Newspaper Clipping?select=MediaTitle">Newspaper Clipping</a></li>
                 <li><a>·</a></li>
                 <li id="searchForm">
                     <form class="navbar-form" role="search" action="<?=BASE_URL?>search/field/" method="get">
