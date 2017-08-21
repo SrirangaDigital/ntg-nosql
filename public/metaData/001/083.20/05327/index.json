@@ -2,7 +2,6 @@
     "id": "001/083.20/05327",
     "AccessionNumber": "5327-(1-22)",
     "Type": "Brochure",
-    "AccessLevel": "0",
-    "Date": "01-11-0000",
-    "States": "NA"
+    "AccessLevel": 0,
+    "Date": "01-11-0000"
 }

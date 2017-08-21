@@ -2,7 +2,6 @@
     "id": "001/082.31/05346",
     "AccessionNumber": "5346",
     "Type": "Brochure",
-    "AccessLevel": "0",
-    "Date": "23-12-2016",
-    "States": "NA"
+    "AccessLevel": 0,
+    "Date": "23-12-2016"
 }

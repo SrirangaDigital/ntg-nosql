@@ -27,7 +27,7 @@ $(document).ready(function(){
                     foreach ($data['images'] as $imageThumbPath ) {
                             
                         $imagePath = str_replace('thumbs/', '', $imageThumbPath);
-
+                        if(!isset($_SESSION['login'])){$imagePath = $imageThumbPath;}
                         if ($class == 'img-center ') $imageThumbPath = $imagePath;
                         echo '<img class="' . $class . 'img-responsive" data-original="' . $imagePath . '" src="' . $imageThumbPath . '">';
                     }

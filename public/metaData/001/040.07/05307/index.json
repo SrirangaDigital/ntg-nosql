@@ -3,7 +3,6 @@
     "AccessionCards": "",
     "AccessionNumber": "5307",
     "Type": "Brochure",
-    "AccessLevel": "0",
-    "State": "NA",
-    "Date": "DD-MM-YYYY"
+    "AccessLevel": 0,
+    "State": "NA"
 }

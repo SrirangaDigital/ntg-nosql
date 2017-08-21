@@ -21,9 +21,9 @@
             <h1>The Collection</h1>
             <ul class="list-inline">
 				<li class="stat-elem">
-					<a href="<?=BASE_URL?>listing/Categories/News Paper Clippings?select=MediaTitle">
+					<a href="<?=BASE_URL?>listing/Categories/Newspaper Clipping?select=MediaTitle">
                         <h2><i class="fa fa-newspaper-o"></i></h2>
-                        <p>News Paper Clippings</p>
+                        <p>Newspaper Clipping</p>
                     </a>
                 </li>
                 <li class="stat-elem">

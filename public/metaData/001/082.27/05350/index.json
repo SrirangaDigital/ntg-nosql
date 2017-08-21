@@ -2,7 +2,6 @@
     "id": "001/082.27/05350",
     "AccessionNumber": "5350",
     "Type": "Brochure",
-    "AccessLevel": "0",
-    "Date": "13-12-0000",
-    "States": "NA"
+    "AccessLevel": 0,
+    "Date": "13-12-0000"
 }
