@@ -72,6 +72,7 @@ class edit extends Controller {
 		$collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
 		$foreignKeys = $this->model->getForeignKeyTypes($db);
 		$dbData = $this->model->insertForeignKeyDetails($db, $jsonData , $foreignKeys);
+		$dbData = $this->model->insertDataExistsFlag($dbData);
 
 		// Replace data in database
 		if(!($this->model->replaceJsonDataInDB($collection, $dbData, 'id', $dbData['id']))){
