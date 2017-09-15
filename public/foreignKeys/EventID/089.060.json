@@ -6,9 +6,9 @@
     "Writer": "भास (भास दर्शन में शामिल कृतियों से)",
     "Director": "सी. आर. जाम्बे",
     "Projection": "सी. आर. जाम्बे",
-    "Rewrite": "सी. आर. जाम्बे",
     "Venue": "बी. एम. शाह प्रेक्षागृह, लखनऊ",
     "ForeignKeyId": "089.060",
     "ForeignKeyType": "EventID",
-    "EventID": "089.060"
+    "EventID": "089.060",
+    "Rewriter": "सी. आर. जाम्बे"
 }

@@ -2,10 +2,10 @@
     "Aid": "01",
     "Drama": "एक घोड़ा छः सवार (हिन्दी)",
     "Writer": "जार्ज एवट एवं जे. सी. होम्स (ॲग्रेजी)",
-    "Roopantar": "रंजीत कपूर",
     "Director": "रंजीत कपूर",
     "Artist": "ज्ञान शिवपुरी, अमिताभ श्रीवास्तव अ अन्य",
     "ForeignKeyId": "074.214",
     "ForeignKeyType": "EventID",
-    "EventID": "074.214"
+    "EventID": "074.214",
+    "Roopantaran": "रंजीत कपूर"
 }

@@ -3,7 +3,6 @@
     "Card-type": "निगेटिव",
     "Event": "ऑपरेशन थ्री स्टार",
     "Writer": "दारियो फ़ो",
-    "Roopantar": "अमिताभ श्रीवास्तव",
     "Director": "अरविन्द गौड़",
     "Song": "पीयूष मिश्र",
     "Music": "पीयूष मिश्र",
@@ -11,5 +10,6 @@
     "Year": "15-01-2000",
     "ForeignKeyId": "089.441",
     "ForeignKeyType": "EventID",
-    "EventID": "089.441"
+    "EventID": "089.441",
+    "Roopantaran": "अमिताभ श्रीवास्तव"
 }
