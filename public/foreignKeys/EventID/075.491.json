@@ -5,7 +5,6 @@
     "Translation": "देवेन्द्र राज अंकुर",
     "Projection": "देवेन्द्र राज अंकुर",
     "Director": "देवेन्द्र राज अंकुर",
-    "Asstdirector": "किरण शर्मा",
     "Music": "विजय शुक्ला",
     "Costume": "राजेश तिवारी",
     "Stage": "राजेश कुमार सिन्हा व ए. आर. शम्सी",
@@ -14,5 +13,6 @@
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.491",
     "ForeignKeyType": "EventID",
-    "EventID": "075.491"
+    "EventID": "075.491",
+    "Asst-director": "किरण शर्मा"
 }

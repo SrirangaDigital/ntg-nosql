@@ -1,9 +1,9 @@
 {
     "Aid": "02",
     "Dance": "शकुन्तला (बैले)",
-    "Choriography": "सिंहजीत सिंह",
     "Artist": "सिंहजीत सिंह (दुष्यंत), चारू माथुर (शकुन्तला) व अन्य",
     "ForeignKeyId": "074.289",
     "ForeignKeyType": "EventID",
-    "EventID": "074.289"
+    "EventID": "074.289",
+    "Choreography": "सिंहजीत सिंह"
 }

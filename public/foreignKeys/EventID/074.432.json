@@ -2,8 +2,8 @@
     "Aid": "01",
     "Drama": "पंचतंत्र का शेर (बैले)",
     "Director": "नरेन्द्र शर्मा",
-    "Choriographer": "नरेन्द्र शर्मा",
     "ForeignKeyId": "074.432",
     "ForeignKeyType": "EventID",
-    "EventID": "074.432"
+    "EventID": "074.432",
+    "Choreographer": "नरेन्द्र शर्मा"
 }

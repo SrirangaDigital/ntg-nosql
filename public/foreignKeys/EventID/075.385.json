@@ -5,7 +5,6 @@
     "Writer": "चन्द्रशेखर कम्बार (कन्नड़)",
     "Translator": "वसंत देव",
     "Director": "राजिन्दर नाथ",
-    "Asstdirector": "पंचानन पाठक",
     "Music": "मोहन उप्रेती",
     "Singer": "नन्दिनी भट्टाचार्य",
     "Costume": "प्रभाकर राव",
@@ -17,5 +16,6 @@
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.385",
     "ForeignKeyType": "EventID",
-    "EventID": "075.385"
+    "EventID": "075.385",
+    "Asst-director": "पंचानन पाठक"
 }

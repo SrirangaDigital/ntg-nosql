@@ -4,7 +4,6 @@
     "Writer": "अलैक्ज़ेंडर गेलमैन (रूसी)",
     "Projection": "भारती शर्मा",
     "Director": "भारती शर्मा",
-    "Asstdirector": "राजेश सिंह",
     "Music": "भारती शर्मा",
     "Costume": "बासु शर्मा",
     "Stage": "रोहित द्विवेदी",
@@ -13,5 +12,6 @@
     "Venue": "रशियन सेंटर अॉफ साइंस एण्ड कल्चर, फिरोजशाह रोड़, दिल्ली",
     "ForeignKeyId": "074.234",
     "ForeignKeyType": "EventID",
-    "EventID": "074.234"
+    "EventID": "074.234",
+    "Asst-director": "राजेश सिंह"
 }

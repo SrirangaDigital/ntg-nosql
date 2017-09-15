@@ -4,7 +4,6 @@
     "Writer": "मिथिलेश्वर (कहानी)",
     "Dramatized": "विभांशु वैभव",
     "Director": "ब. व. कारंत",
-    "Asstdirector": "मीना वैभव",
     "Drawing": "ब. व. कारंत",
     "Music": "ब. व. कारंत",
     "Costume": "राजेश तिवारी",
@@ -15,5 +14,6 @@
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.459",
     "ForeignKeyType": "EventID",
-    "EventID": "075.459"
+    "EventID": "075.459",
+    "Asst-director": "मीना वैभव"
 }

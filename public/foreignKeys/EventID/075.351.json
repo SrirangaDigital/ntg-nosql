@@ -5,10 +5,10 @@
     "Translator": "सान्त्वना निगम",
     "Projection": "भारती शर्मा",
     "Director": "भारती शर्मा",
-    "Asstdirector": "मुक्ता-चड्डा, अमित बसोया",
     "Costume": "सुहास पाठक व अन्य",
     "Venue": "श्रीराम सेंटर मुख्य सभागार",
     "ForeignKeyId": "075.351",
     "ForeignKeyType": "EventID",
-    "EventID": "075.351"
+    "EventID": "075.351",
+    "Asst-director": "मुक्ता-चड्डा, अमित बसोया"
 }

@@ -4,7 +4,6 @@
     "Writer": "त्रिपुरारी शर्मा",
     "Director": "त्रिपुरारी शर्मा",
     "Music": "संदीप श्रीवास्तव",
-    "Choriography": "Gilles Chuyen",
     "Dress": "अम्बा सान्याल",
     "Makeup": "सदानंद पाटील",
     "Stage": "रॉबिन दास",
@@ -14,5 +13,6 @@
     "Venue": "अभिमंच सभागार, दिल्ली",
     "ForeignKeyId": "075.145",
     "ForeignKeyType": "EventID",
-    "EventID": "075.145"
+    "EventID": "075.145",
+    "Choreography": "Gilles Chuyen"
 }

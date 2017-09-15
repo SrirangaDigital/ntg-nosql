@@ -5,7 +5,6 @@
     "Writer": "महेश एलकुंचवार (मराठी)",
     "Translation": "वसंत देव",
     "Director": "सत्यदेव दुबे",
-    "Asstdirector": "उत्तरा बावकर",
     "Music": "आर. एस. बैनर्जी",
     "Costume": "जी. पी. नामदेव",
     "Stage": "अब्दुल हकीम",
@@ -15,5 +14,6 @@
     "Venue": "रा. ना. वि.",
     "ForeignKeyId": "075.222",
     "ForeignKeyType": "EventID",
-    "EventID": "075.222"
+    "EventID": "075.222",
+    "Asst-director": "उत्तरा बावकर"
 }

@@ -4,7 +4,6 @@
     "Writer": "फेडरिको गार्शिया लोर्का (स्पैनिश)",
     "Translator": "संजीव शर्मा",
     "Director": "के. चन्द्रशेखर",
-    "Asstdirector": "रमन चावला",
     "Costume": "रुपेन तमंग",
     "Make-up": "दीपक जौहरी",
     "Light": "जुलेखा अलाना",
@@ -12,5 +11,6 @@
     "Venue": "बिपिन चन्द्रपाल सभागार, दिल्ली",
     "ForeignKeyId": "074.264",
     "ForeignKeyType": "EventID",
-    "EventID": "074.264"
+    "EventID": "074.264",
+    "Asst-director": "रमन चावला"
 }

@@ -4,7 +4,6 @@
     "Writer": "बर्टोल्ट ब्रेख्त (जर्मनी) (`मदर करेज' पर आधारित)",
     "Dramatized": "नीलाभ",
     "Director": "अमाल अल्लाना",
-    "Asstdirector": "रति टंडन",
     "Music": "लुईस बैंक्स",
     "Costume": "अमाल अल्लाना",
     "Costumeconsultant": "रोशन अल्काज़ी",
@@ -16,5 +15,6 @@
     "Venue": "कमानी ऑडिटोरियम",
     "ForeignKeyId": "074.303",
     "ForeignKeyType": "EventID",
-    "EventID": "074.303"
+    "EventID": "074.303",
+    "Asst-director": "रति टंडन"
 }

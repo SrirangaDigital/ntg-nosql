@@ -8,10 +8,10 @@
     "Makeup": "सदानंद पाटील",
     "Stage": "बंसी कौल",
     "Light": "साउती चक्रवर्ती",
-    "Choriography": "Giles Chuyen",
     "Artist": "सज्जाद हुसैन खान (काफ्का), नवीन सिंह ठाकुर (पिता), नेहा सराफ (ओट्ला), चिन्मय दास (गुस्तव) व अन्य",
     "Venue": "सम्मुख सभागार, रा. ना. वि.",
     "ForeignKeyId": "075.069",
     "ForeignKeyType": "EventID",
-    "EventID": "075.069"
+    "EventID": "075.069",
+    "Choreography": "Giles Chuyen"
 }

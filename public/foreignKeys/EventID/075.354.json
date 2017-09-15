@@ -5,12 +5,12 @@
     "Translation": "राजेन्द्र यादव",
     "Projection": "नौशाद मोहम्मद",
     "Director": "नौशाद मोहम्मद",
-    "Asstdirector": "पल्लवी एवं जतीन",
     "Music": "नायिका तरुन, कपिल, काशलेन्द्र",
     "Lyrics": "नायिका तरुन, कपिल, काशलेन्द्र",
     "Costume": "कीर्ति",
     "Venue": "श्रीराम सेंटर मुख्य सभागार",
     "ForeignKeyId": "075.354",
     "ForeignKeyType": "EventID",
-    "EventID": "075.354"
+    "EventID": "075.354",
+    "Asst-director": "पल्लवी एवं जतीन"
 }

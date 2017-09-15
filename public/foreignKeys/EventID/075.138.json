@@ -5,7 +5,6 @@
     "Writer": "विलियम सरोयन",
     "Version": "जितेन्द्रनाथ कौशल",
     "Director": "जितेन्द्रनाथ कौशल",
-    "Asstdirector": "हेमा सिंह",
     "Music": "जितेन्द्रनाथ कौशल",
     "Stage": "जितेन्द्रनाथ कौशल",
     "Costume": "नूतन सूर्या",
@@ -17,5 +16,6 @@
     "Date": "30-05-1988",
     "ForeignKeyId": "075.138",
     "ForeignKeyType": "EventID",
-    "EventID": "075.138"
+    "EventID": "075.138",
+    "Asst-director": "हेमा सिंह"
 }

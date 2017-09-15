@@ -5,10 +5,10 @@
     "Translator": "अतुल तिवारी",
     "Projection": "हिमांशु बी. जोशी",
     "Director": "हिमांशु बी. जोशी",
-    "Asstdirector": "प्रमोद कुमार, मनोज सिंह आदि",
     "Music": "सैण्डी",
     "Venue": "श्रीराम सेंटर",
     "ForeignKeyId": "075.353",
     "ForeignKeyType": "EventID",
-    "EventID": "075.353"
+    "EventID": "075.353",
+    "Asst-director": "प्रमोद कुमार, मनोज सिंह आदि"
 }

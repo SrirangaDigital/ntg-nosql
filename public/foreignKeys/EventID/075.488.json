@@ -5,7 +5,6 @@
     "Translator": "वी. के.",
     "Projection": "अवतार साहनी",
     "Director": "अवतार साहनी",
-    "Asstdirector": "चेतन त्यागी",
     "Music": "डी. के. श्रीवास्तव (बबली)",
     "Costume": "दीपक पाण्डे, करुणा पाण्डे व अन्य",
     "Make-up": "श्रीकांत वर्मा, करुणा पाण्डे",
@@ -15,5 +14,6 @@
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.488",
     "ForeignKeyType": "EventID",
-    "EventID": "075.488"
+    "EventID": "075.488",
+    "Asst-director": "चेतन त्यागी"
 }

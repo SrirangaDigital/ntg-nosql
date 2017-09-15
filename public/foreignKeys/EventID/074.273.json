@@ -5,10 +5,10 @@
     "Direction": "Ovlyakuli Khosakuli, Mohammad Aghebati and Abhilash Pillai",
     "Music": "Artyom Kim, Sankar venkateswaran (Uzbekistan, India)",
     "Dress": "Mariya Soshina, Jalile Helbaten, पारीजीत कौर (उजबेकिस्तान, इरान, भारत)",
-    "Choriography": "Malika Iskandarova, Ali Moini (उजबेकिस्तान, इरान)",
     "Stage": "Daisuke Nakayama (जापान फाउण्डेशन)",
     "Venue": "अभिमंच सभागार, रा. ना. वि. दिल्ली",
     "ForeignKeyId": "074.273",
     "ForeignKeyType": "EventID",
-    "EventID": "074.273"
+    "EventID": "074.273",
+    "Choreography": "Malika Iskandarova, Ali Moini (उजबेकिस्तान, इरान)"
 }

@@ -2,11 +2,11 @@
     "Aid": "02",
     "Dance": "लोक नृत्य",
     "Artist": "आरती, वृंदावन",
-    "Choriography": "दक्षा सेठ",
     "Music": "देवीसराब",
     "Projection": "देवीसराब",
     "Director": "देवीसराब",
     "ForeignKeyId": "078.089",
     "ForeignKeyType": "EventID",
-    "EventID": "078.089"
+    "EventID": "078.089",
+    "Choreography": "दक्षा सेठ"
 }

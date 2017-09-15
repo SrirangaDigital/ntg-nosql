@@ -5,7 +5,6 @@
     "Writer": "रवीन्द्रनाथ ठाकुर (बांग्ला)",
     "Translator": "अशोक राहाणे",
     "Director": "सुलभा देशपांडे",
-    "Asstdirector": "रामनाथ थरवाल",
     "Music": "चन्द्रशेखर मिलिंद",
     "Poemtranslation": "माधव सखरदंडे (गीतांजलि - कविता संग्रह)",
     "Stage": "प्रदीप मुले",
@@ -17,5 +16,6 @@
     "Venue": "कमानी सभागार, रा.ना.वि., दिल्ली",
     "ForeignKeyId": "077.076",
     "ForeignKeyType": "EventID",
-    "EventID": "077.076"
+    "EventID": "077.076",
+    "Asst-director": "रामनाथ थरवाल"
 }

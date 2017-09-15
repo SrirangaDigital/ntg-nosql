@@ -4,7 +4,6 @@
     "Writer": "रॉबिन, मौघम",
     "Translator": "रमेश भथेजा",
     "Director": "चितरंजन गिरि",
-    "Asstdirector": "ज्ञान प्रकाश",
     "Music": "समीप सिंह",
     "Costume": "ज्ञान प्रकाश",
     "Scene": "ज्ञान प्रकाश",
@@ -16,5 +15,6 @@
     "Book": "रंगयात्रा-II/रा. ना. वि., रंगमंडल (सूचना स्रोत पुस्तक)",
     "ForeignKeyId": "075.141",
     "ForeignKeyType": "EventID",
-    "EventID": "075.141"
+    "EventID": "075.141",
+    "Asst-director": "ज्ञान प्रकाश"
 }

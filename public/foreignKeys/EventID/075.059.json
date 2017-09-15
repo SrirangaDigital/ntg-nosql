@@ -4,7 +4,6 @@
     "Writer": "यूजीन ओ नील",
     "Translator": "जे. एन. कौशल, गोविंद नामदेव और हिमानी शिवपुरी, नूतन सूर्या तथा अन्य",
     "Director": "रौडनी मैरियट",
-    "Asstdirector": "गोविन्द नामदेव",
     "Music": "सुशील दास गुप्ता",
     "Costume": "हेमा सिंह",
     "Make-up": "अरेक्कल",
@@ -18,5 +17,6 @@
     "Venue": "दिल्ली",
     "ForeignKeyId": "075.059",
     "ForeignKeyType": "EventID",
-    "EventID": "075.059"
+    "EventID": "075.059",
+    "Asst-director": "गोविन्द नामदेव"
 }

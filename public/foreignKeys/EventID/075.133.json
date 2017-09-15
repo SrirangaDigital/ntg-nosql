@@ -4,7 +4,6 @@
     "Writer": "कार्लो गोल्ढोनी",
     "Translator": "वी. के. शर्मा",
     "Director": "बृजमोहन शाह",
-    "Asstdirector": "ललित बहल",
     "Music": "लोकेन्द्र त्रिवेदी, रवि खानविलकर",
     "Costume": "हेमा सहाय, भरत सिंह",
     "Make-up": "सुरेन्द्र प्रसाद",
@@ -15,5 +14,6 @@
     "Venue": "दिल्ली",
     "ForeignKeyId": "075.133",
     "ForeignKeyType": "EventID",
-    "EventID": "075.133"
+    "EventID": "075.133",
+    "Asst-director": "ललित बहल"
 }

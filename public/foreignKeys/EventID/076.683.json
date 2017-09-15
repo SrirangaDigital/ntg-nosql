@@ -5,7 +5,6 @@
     "Writer": "रामेश्वर प्रेम",
     "Director": "ब. व. कारंत",
     "Music": "ब. व. कारंत",
-    "Asstdirector": "अमर सिंह लहरे",
     "Costume": "गोविन्द दीक्षित, सरोज शर्मा",
     "Make-up": "अनीता दुबे, गणेश चौरसिया",
     "Stage": "जयंत देशमुख, भूषण भट्ट",
@@ -15,5 +14,6 @@
     "Venue": "भारत भवन, भोपाल",
     "ForeignKeyId": "076.683",
     "ForeignKeyType": "EventID",
-    "EventID": "076.683"
+    "EventID": "076.683",
+    "Asst-director": "अमर सिंह लहरे"
 }

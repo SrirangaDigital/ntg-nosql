@@ -6,7 +6,6 @@
     "Projection": "प्रसन्ना",
     "Director": "प्रसन्ना",
     "Music": "गोविन्द पाण्डे",
-    "Choriography": "विद्या शिम्लाड्कर्",
     "Dress": "अर्चना शास्त्री",
     "Stage": "संजय मापरे, अनूप त्रिवेदी",
     "Light": "पराग सर्माहा",
@@ -14,5 +13,6 @@
     "Venue": "सम्मुख सभागार, दिल्ली",
     "ForeignKeyId": "075.042",
     "ForeignKeyType": "EventID",
-    "EventID": "075.042"
+    "EventID": "075.042",
+    "Choreography": "विद्या शिम्लाड्कर्"
 }

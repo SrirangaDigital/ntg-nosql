@@ -5,7 +5,6 @@
     "Translation": "अनुया दलवी",
     "Projection": "ज्योति सुभाष",
     "Director": "ज्योति सुभाष",
-    "Asstdirector": "पंकज चौधरी",
     "Music": "ज्योति सुभाष",
     "Costume": "भावना गुप्ता, सोनू मिश्रा व अन्य",
     "Make-up": "प्रदीप बवेजा, रतन लाल",
@@ -15,5 +14,6 @@
     "Venue": "श्रीराम सेंटर, प्रेक्षागृह, दिल्ली",
     "ForeignKeyId": "075.509",
     "ForeignKeyType": "EventID",
-    "EventID": "075.509"
+    "EventID": "075.509",
+    "Asst-director": "पंकज चौधरी"
 }

@@ -4,7 +4,6 @@
     "Writer": "बादल सरकार (बांग्ला)",
     "Translator": "प्रतिभा अग्रवाल",
     "Director": "सत्यदेव दुबे",
-    "Asstdirector": "श्री वल्लभ व्यास",
     "Stage": "सत्यदेव दुबे",
     "Costume": "सत्यदेव दुबे",
     "Music": "एस. एन. दासगुप्ता, भारती शर्मा व अन्य",
@@ -15,5 +14,6 @@
     "Venue": "रा. ना. वि.",
     "ForeignKeyId": "075.135",
     "ForeignKeyType": "EventID",
-    "EventID": "075.135"
+    "EventID": "075.135",
+    "Asst-director": "श्री वल्लभ व्यास"
 }

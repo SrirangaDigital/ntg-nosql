@@ -6,7 +6,6 @@
     "Compilation": "राजेश तेलंग",
     "Song": "राजेश तेलंग",
     "Director": "अभिलाष पिल्लई",
-    "Asstdirector": "हरीश खन्ना",
     "Make-up": "रोशन एन. जी.",
     "Stagecontent": "रोशन एन. जी.",
     "Light": "गौतम मजुमदार",
@@ -19,5 +18,6 @@
     "Venue": "अभिमंच सभागार, दिल्ली",
     "ForeignKeyId": "074.628",
     "ForeignKeyType": "EventID",
-    "EventID": "074.628"
+    "EventID": "074.628",
+    "Asst-director": "हरीश खन्ना"
 }

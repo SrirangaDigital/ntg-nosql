@@ -4,7 +4,6 @@
     "Writer": "विजय तेंदुलकर",
     "Projection": "अवतार साहनी",
     "Director": "अवतार साहनी",
-    "Asstdirector": "भूपेश जोशी",
     "Music": "अनिल मिश्रा",
     "Song": "अनिल मिश्रा",
     "Lightingdesign": "अवतार साहनी",
@@ -13,5 +12,6 @@
     "Venue": "श्रीराम सेंटर मुख्य सभागार",
     "ForeignKeyId": "075.404",
     "ForeignKeyType": "EventID",
-    "EventID": "075.404"
+    "EventID": "075.404",
+    "Asst-director": "भूपेश जोशी"
 }

@@ -2,8 +2,8 @@
     "Aid": "01",
     "Drama": "गोपी गवैया बाधा बजैया",
     "Director": "रेखा जैन",
-    "Asstdirector": "हरीश वर्मा",
     "ForeignKeyId": "074.168",
     "ForeignKeyType": "EventID",
-    "EventID": "074.168"
+    "EventID": "074.168",
+    "Asst-director": "हरीश वर्मा"
 }

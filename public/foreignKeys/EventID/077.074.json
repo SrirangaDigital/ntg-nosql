@@ -5,7 +5,6 @@
     "Writer": "सिद्धार्थ तांबे",
     "Projection": "गिरीश पतके",
     "Director": "गिरीश पतके",
-    "Codirector": "मंगेश क्षीरसागर",
     "Music": "चेतन दातार",
     "Stage": "विवेक जाधव",
     "Producer": "अकण काकड़े",
@@ -13,5 +12,6 @@
     "Venue": "मराठी भाषा एवं साहित्य भवन, विद्यानगरी",
     "ForeignKeyId": "077.074",
     "ForeignKeyType": "EventID",
-    "EventID": "077.074"
+    "EventID": "077.074",
+    "Co-director": "मंगेश क्षीरसागर"
 }

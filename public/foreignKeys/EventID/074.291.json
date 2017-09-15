@@ -1,8 +1,8 @@
 {
     "Aid": "02",
     "Dance": "सीता (मणिपुरी बैले)",
-    "Choriography": "सिंहजीत सिंह",
     "ForeignKeyId": "074.291",
     "ForeignKeyType": "EventID",
-    "EventID": "074.291"
+    "EventID": "074.291",
+    "Choreography": "सिंहजीत सिंह"
 }

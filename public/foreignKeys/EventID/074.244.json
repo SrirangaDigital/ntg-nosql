@@ -5,7 +5,6 @@
     "Version": "माया मिश्र",
     "Projection": "विवेक मिश्र",
     "Director": "विवेक मिश्र",
-    "Asstdirector": "राजेश सिंह",
     "Costume": "समस्त कलाकार",
     "Make-up": "समस्त कलाकार",
     "Light": "विवेक मिश्र",
@@ -14,5 +13,6 @@
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "074.244",
     "ForeignKeyType": "EventID",
-    "EventID": "074.244"
+    "EventID": "074.244",
+    "Asst-director": "राजेश सिंह"
 }

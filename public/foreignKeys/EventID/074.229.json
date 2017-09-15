@@ -4,7 +4,6 @@
     "Writer": "विद्याधर पुंडलीक",
     "Projection": "बिपिन कुमार",
     "Director": "बिपिन कुमार",
-    "Asstdirector": "तुलसी बिष्ट",
     "Music": "नरेन्द्र सिंह नेगी, वीरेन्द्र कश्यप",
     "Make-up": "मनोज रावत `अंजुल', लक्ष्मी रावत",
     "Costume": "मनोज कुमार `मनु'",
@@ -14,5 +13,6 @@
     "Venue": "प्रक्षागृह, पौड़ी",
     "ForeignKeyId": "074.229",
     "ForeignKeyType": "EventID",
-    "EventID": "074.229"
+    "EventID": "074.229",
+    "Asst-director": "तुलसी बिष्ट"
 }

@@ -4,7 +4,6 @@
     "Writer": "चिंगिज ऐत्मतोव और कालताय मोहम्मेजनोव (रुसी)",
     "Translator": "भीष्म साहनी",
     "Director": "प्रसन्ना",
-    "Asstdirector": "श्रीवल्लभ व्यास",
     "Projection": "प्रसन्ना",
     "Stage": "प्रसन्ना",
     "Music": "रंजीत कपूर",
@@ -15,5 +14,6 @@
     "Venue": "दिल्ली",
     "ForeignKeyId": "075.151",
     "ForeignKeyType": "EventID",
-    "EventID": "075.151"
+    "EventID": "075.151",
+    "Asst-director": "श्रीवल्लभ व्यास"
 }

@@ -4,7 +4,6 @@
     "Writer": "बर्टोल्ट ब्रैख्त (रुसी)",
     "Translator": "अनिल चौधरी",
     "Director": "फ्रिट्ज बेनेविट्ज",
-    "Asstdirector": "अनिल चौधरी",
     "Music": "ब. व. कारंत",
     "Song": "अनिल चौधरी",
     "Musicassistant": "रघुवीर यादव, ज्ञान शिवपुरी",
@@ -18,5 +17,6 @@
     "Venue": "रा. ना. वि., दिल्ली",
     "ForeignKeyId": "075.086",
     "ForeignKeyType": "EventID",
-    "EventID": "075.086"
+    "EventID": "075.086",
+    "Asst-director": "अनिल चौधरी"
 }

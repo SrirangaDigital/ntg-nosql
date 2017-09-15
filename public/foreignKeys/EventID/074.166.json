@@ -3,12 +3,12 @@
     "Drama": "गणित देश",
     "Writer": "रेखा जैन",
     "Director": "रेखा जैन",
-    "Asstdirector": "मोनिका खन्ना, भगवती प्रसाद पाण्डेय",
     "Projection": "रेखा जैन",
     "Music": "आभा घोष",
     "Light": "सितांशु मुखर्जी",
     "Venue": "कमानी समागार",
     "ForeignKeyId": "074.166",
     "ForeignKeyType": "EventID",
-    "EventID": "074.166"
+    "EventID": "074.166",
+    "Asst-director": "मोनिका खन्ना, भगवती प्रसाद पाण्डेय"
 }

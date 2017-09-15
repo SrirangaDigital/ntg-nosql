@@ -4,7 +4,6 @@
     "Writer": "सैयद आगा हसन, अमानत लखनवी",
     "Article": "नईमा उप्रेती",
     "Director": "मोहन उप्रैति",
-    "Asstdirector": "सीताराम पांचाल",
     "Music": "मोहन उप्रेती",
     "Costume": "गुरुशरण कौर",
     "Make-up": "राजेश शर्मा, हरविंदर कौर",
@@ -16,5 +15,6 @@
     "Venue": "कमानी सभागार, दिल्ली",
     "ForeignKeyId": "075.028",
     "ForeignKeyType": "EventID",
-    "EventID": "075.028"
+    "EventID": "075.028",
+    "Asst-director": "सीताराम पांचाल"
 }

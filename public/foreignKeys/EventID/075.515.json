@@ -4,7 +4,6 @@
     "Writer": "शाहिद अनवर",
     "Projection": "मुश्ताक काक",
     "Director": "मुश्ताक काक",
-    "Asstdirector": "राखी कुमारी",
     "Music": "राजेश कुमार सिंह",
     "Costume": "राखी कुमारी",
     "Make-up": "श्रीकांत व सपना खटाना",
@@ -14,5 +13,6 @@
     "Venue": "श्रीराम सेंटर मुख्य सभागार",
     "ForeignKeyId": "075.515",
     "ForeignKeyType": "EventID",
-    "EventID": "075.515"
+    "EventID": "075.515",
+    "Asst-director": "राखी कुमारी"
 }

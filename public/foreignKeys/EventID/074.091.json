@@ -4,7 +4,6 @@
     "Writer": "देवाशीष मजूमदार",
     "Translation": "सांत्वना",
     "Director": "राजिन्दर नाथ",
-    "Asstdirector": "सांत्वना",
     "Music": "पंचानन पाठक",
     "Stage": "अशोक कुमार पाण्डे",
     "Light": "गिरधारी लाल, सुरेश अरोड़ा",
@@ -13,5 +12,6 @@
     "Venue": "श्रीराम सेंटर सभागार",
     "ForeignKeyId": "074.091",
     "ForeignKeyType": "EventID",
-    "EventID": "074.091"
+    "EventID": "074.091",
+    "Asst-director": "सांत्वना"
 }

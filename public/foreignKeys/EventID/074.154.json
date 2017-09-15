@@ -7,7 +7,6 @@
     "Music": "ब. व. कारन्त",
     "Projection": "ब. व. कारन्त",
     "Director": "ब. व. कारन्त",
-    "Asstdirector": "हरीश वर्मा",
     "Lyrics": "माला पुंगा, चित्रा सिंह व पूर्वा जोशी",
     "Light": "गौतम भट्टाचार्य",
     "Costume": "भूषण भट्ट, पूर्वा",
@@ -18,5 +17,6 @@
     "Venue": "कमानी सभागार, मण्डी हाउस, दिल्ली",
     "ForeignKeyId": "074.154",
     "ForeignKeyType": "EventID",
-    "EventID": "074.154"
+    "EventID": "074.154",
+    "Asst-director": "हरीश वर्मा"
 }

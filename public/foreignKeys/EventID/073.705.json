@@ -4,11 +4,11 @@
     "Drama": "बी थ्री",
     "Writer": "शाहिद अनवर",
     "Director": "हीरामन मानिकपुरी",
-    "Asstdirector": "ऊषा वाणी",
     "Stageside": "उषा आठले, व अन्य",
     "Light": "अजय आठले",
     "Stage": "उषा आठले, व अन्य",
     "ForeignKeyId": "073.705",
     "ForeignKeyType": "EventID",
-    "EventID": "073.705"
+    "EventID": "073.705",
+    "Asst-director": "ऊषा वाणी"
 }

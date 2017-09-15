@@ -4,7 +4,6 @@
     "Writer": "उत्पल दत्त (बांग्ला)",
     "Translation": "कृष्ण कुमार",
     "Director": "बृज मोहन शाह",
-    "Asstdirector": "सुंदर लाल छाबड़ा",
     "Stage": "सुंदर लाल छाबड़ा",
     "Visualmanagement": "बृज मोहन शाह",
     "Music": "देवानन्द पासवान",
@@ -14,5 +13,6 @@
     "Artist": "प्रकाश चतुर्वेदी, रचना जोशी, शबनम साहनी, संजय सिंह व अन्य",
     "ForeignKeyId": "075.415",
     "ForeignKeyType": "EventID",
-    "EventID": "075.415"
+    "EventID": "075.415",
+    "Asst-director": "सुंदर लाल छाबड़ा"
 }

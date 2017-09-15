@@ -4,7 +4,6 @@
     "Writer": "प्रेमचन्द (कहानी)",
     "Version": "अनीस आज़मी",
     "Director": "अजय मनचन्दा",
-    "Asstdirector": "रजनीश",
     "Make-up": "अश्विनी शास्त्री",
     "Costume": "दीपक भारद्वाज",
     "Stagecontent": "दीपक भारद्वाज",
@@ -15,5 +14,6 @@
     "Venue": "श्रीराम सेन्टर सभागार",
     "ForeignKeyId": "074.195",
     "ForeignKeyType": "EventID",
-    "EventID": "074.195"
+    "EventID": "074.195",
+    "Asst-director": "रजनीश"
 }

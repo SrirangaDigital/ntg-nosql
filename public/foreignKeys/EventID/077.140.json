@@ -4,7 +4,6 @@
     "Drama": "मैकबैथ (अँग्रेजी)",
     "Writer": "शेक्सपियर",
     "Director": "अलिक पद्मसी",
-    "Codirector": "कारला सिंह",
     "Music": "लुइस बैंक्स",
     "Costume": "तरुण तहिलानी",
     "Stage": "फाली अनवल्ला",
@@ -13,5 +12,6 @@
     "Venue": "कमानी सभागार, दिल्ली",
     "ForeignKeyId": "077.140",
     "ForeignKeyType": "EventID",
-    "EventID": "077.140"
+    "EventID": "077.140",
+    "Co-director": "कारला सिंह"
 }

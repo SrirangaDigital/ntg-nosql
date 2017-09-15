@@ -5,7 +5,6 @@
     "Translator": "सुरेखा सीकरी",
     "Lyricstranslation": "शीला भाटिया",
     "Director": "फ्रिट्ज बेनेविट्ज़",
-    "Asstdirector": "अमाल अल्काजी",
     "Music": "वनराज भाटिया",
     "Costume": "अमाल अल्काजी",
     "Make-up": "इब्राहिम अल्काजी",
@@ -17,5 +16,6 @@
     "Venue": "दिल्ली",
     "ForeignKeyId": "074.507",
     "ForeignKeyType": "EventID",
-    "EventID": "074.507"
+    "EventID": "074.507",
+    "Asst-director": "अमाल अल्काजी"
 }

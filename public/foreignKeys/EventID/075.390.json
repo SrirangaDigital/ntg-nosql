@@ -3,7 +3,6 @@
     "Drama": "कम्पनी उस्ताद (हिन्दी)",
     "Writer": "रवीन्द्र भारती",
     "Director": "संजय उपाध्याय",
-    "Asstdirector": "रतन वार्ष्णेय",
     "Music": "संजय उपाध्याय",
     "Drawing": "संजय उपाध्याय",
     "Costume": "राजेश तिवारी",
@@ -14,5 +13,6 @@
     "Venue": "श्रीराम सेंटर सभागार, दिल्ली",
     "ForeignKeyId": "075.390",
     "ForeignKeyType": "EventID",
-    "EventID": "075.390"
+    "EventID": "075.390",
+    "Asst-director": "रतन वार्ष्णेय"
 }
