@@ -4,9 +4,9 @@
     "Drama": "शकुन्तला (चाइनीज़)",
     "Writer": "कालिदास (संस्कृत)",
     "Director": "वू हुसूह (Wu Hsueh)",
-    "Artdirector": "शांग शेग यू (Chang Cheng-Yu)",
     "Artist": "पाईशान (Pai Shan) (शकुंतला), मी हसी (Mei Hsi) (दुष्यंत) व अन्य",
     "ForeignKeyId": "077.680",
     "ForeignKeyType": "EventID",
-    "EventID": "077.680"
+    "EventID": "077.680",
+    "Art-director": "शांग शेग यू (Chang Cheng-Yu)"
 }

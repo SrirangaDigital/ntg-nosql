@@ -4,7 +4,6 @@
     "Drama": "पोस्टर",
     "Writer": "शंकर शेष",
     "Director": "जयदेव हट्टंगडी",
-    "Asstdirection": "अजित भगत",
     "Music": "शॉक नील",
     "Costume": "देवीदास पित्तले (Pitle)",
     "Stage": "सीताराम कुंभार, सीताराम कदम व अन्य",
@@ -14,5 +13,6 @@
     "Venue": "मंज़र थिएटर, प्रगति मैदान, दिल्ली",
     "ForeignKeyId": "077.081",
     "ForeignKeyType": "EventID",
-    "EventID": "077.081"
+    "EventID": "077.081",
+    "Asst-director": "अजित भगत"
 }
