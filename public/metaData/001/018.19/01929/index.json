@@ -4,7 +4,7 @@
     "AccessionNumber": "1929",
     "Type": "Brochure",
     "Date": "05-09-1982",
-    "Place ": "Chandigarh",
     "State": "पंजाब",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "चंडीगढ़"
 }

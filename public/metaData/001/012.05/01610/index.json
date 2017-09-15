@@ -4,7 +4,7 @@
     "AccessionNumber": "1610",
     "Type": "Brochure",
     "Date": "30-12-1995",
-    "Place ": "Lucknow",
     "State": "उत्तर प्रदेश",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "लखनऊ"
 }

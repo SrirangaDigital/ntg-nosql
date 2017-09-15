@@ -4,7 +4,7 @@
     "AccessionNumber": "1940",
     "Type": "Brochure",
     "Date": "20-03-1987",
-    "Place ": "Chandigarh",
     "State": "पंजाब",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "चंडीगढ़"
 }

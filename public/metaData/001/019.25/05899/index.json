@@ -4,7 +4,7 @@
     "AccessionNumber": "5899",
     "Type": "Brochure",
     "Date": "15-10-1989",
-    "Place ": "Jammu",
     "State": "जम्मू और कश्मीर",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "जम्मू"
 }

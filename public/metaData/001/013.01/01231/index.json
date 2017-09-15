@@ -4,7 +4,7 @@
     "AccessionNumber": "1231",
     "Type": "Brochure",
     "Date": "25-06-1995",
-    "Place ": "Varanasi",
     "State": "उत्तर प्रदेश",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "वाराणसी"
 }

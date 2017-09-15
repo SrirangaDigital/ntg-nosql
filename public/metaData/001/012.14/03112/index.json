@@ -4,7 +4,7 @@
     "AccessionNumber": "3112",
     "Type": "Brochure",
     "Date": "05-03-1995",
-    "Place ": "Lucknow",
     "State": "उत्तर प्रदेश",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "लखनऊ"
 }

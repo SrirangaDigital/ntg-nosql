@@ -4,7 +4,7 @@
     "AccessionNumber": "5210",
     "Type": "Brochure",
     "Date": "00-00-1959",
-    "Place ": "Ahmedabad",
     "State": "गुजरात",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "अहमदाबाद"
 }

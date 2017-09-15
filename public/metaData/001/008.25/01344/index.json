@@ -4,7 +4,7 @@
     "AccessionNumber": "1344",
     "Type": "Brochure",
     "Date": "04-12-1995",
-    "Place ": "New Delhi",
     "State": "दिल्ली",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "दिल्ली"
 }

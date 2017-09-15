@@ -4,7 +4,7 @@
     "AccessionNumber": "5215-(1-2)",
     "Type": "Brochure",
     "Date": "08-12-1916",
-    "Place ": "Baroda",
     "State": "गुजरात",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "बरोदा"
 }

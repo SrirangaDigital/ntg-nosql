@@ -3,7 +3,7 @@
     "AccessionCards": "",
     "AccessionNumber": "5252",
     "Type": "Brochure",
-    "Place ": "Jammu",
     "State": "जम्मू और कश्मीर",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "जम्मू"
 }

@@ -4,7 +4,7 @@
     "AccessionNumber": "2120",
     "Type": "Brochure",
     "Date": "08-04-1973",
-    "Place ": "Allahabad",
     "State": "उत्तर प्रदेश",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "इलाहबाद"
 }

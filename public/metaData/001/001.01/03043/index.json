@@ -4,7 +4,7 @@
     "AccessionNumber": "3043",
     "Type": "Brochure",
     "Date": "27-01-1993",
-    "Place ": "North lakhimpur",
     "State": "असम",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "लखीमपुर"
 }

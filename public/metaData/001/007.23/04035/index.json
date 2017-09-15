@@ -4,7 +4,7 @@
     "AccessionNumber": "4035",
     "Type": "Brochure",
     "Date": "13-08-1994",
-    "Place ": "Gorakhpur",
     "State": "उत्तर प्रदेश",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "गोरखपुर"
 }

@@ -4,7 +4,7 @@
     "AccessionNumber": "5241",
     "Type": "Brochure",
     "Date": "05-03-1985",
-    "Place ": "Jammu",
     "State": "जम्मू और कश्मीर",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "जम्मू"
 }
