@@ -5,9 +5,9 @@
     "Writer": "विजया तेंदुलकर",
     "Director": "विजया मेहता",
     "Language": "मराठी",
-    "Person'sline": "मथू",
     "Photo": "विजया मेहता",
     "ForeignKeyId": "078.559",
     "ForeignKeyType": "EventID",
-    "EventID": "078.559"
+    "EventID": "078.559",
+    "PersonLine": "मथू"
 }

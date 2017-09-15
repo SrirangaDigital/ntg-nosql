@@ -6,9 +6,9 @@
     "Director": "बंसी कौल",
     "Music": "अंजना पुरी",
     "Light": "फरीद बज़मी",
-    "Makeup": "समूह",
     "Artist": "हर्ष दौण्ड, कन्हैयालाल कैथवास, दरबारी पाल व अन्य",
     "ForeignKeyId": "076.766",
     "ForeignKeyType": "EventID",
-    "EventID": "076.766"
+    "EventID": "076.766",
+    "Make-up": "समूह"
 }

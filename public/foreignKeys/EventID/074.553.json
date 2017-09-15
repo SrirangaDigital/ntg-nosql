@@ -2,10 +2,10 @@
     "Aid": "01",
     "Drama": "सत्ता का खेल (हिन्दी) (शूद्रक के मृच्छकटिकम् पर आधारित)",
     "Writer": "शूद्रक (संस्कृत)",
-    "Natyantar": "नीलाभ",
     "Director": "ब. व. कारंत",
     "Venue": "इलाहाबाद",
     "ForeignKeyId": "074.553",
     "ForeignKeyType": "EventID",
-    "EventID": "074.553"
+    "EventID": "074.553",
+    "Natyantra": "नीलाभ"
 }

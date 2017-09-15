@@ -5,9 +5,9 @@
     "Article": "तोरित मित्रा",
     "Director": "तोरित मित्रा",
     "Music": "अर्नव दासगुप्ता",
-    "Makeup": "हरि खोलिया",
     "Artist": "दिपांकर खान, रुमा बोस आदि",
     "ForeignKeyId": "075.559",
     "ForeignKeyType": "EventID",
-    "EventID": "075.559"
+    "EventID": "075.559",
+    "Make-up": "हरि खोलिया"
 }

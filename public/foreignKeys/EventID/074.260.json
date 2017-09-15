@@ -6,11 +6,11 @@
     "Song-writer": "वी. के.",
     "Director": "वी. के.",
     "Music": "चितरंजन त्रिपाठी",
-    "Makeup": "बी. एस. रावत",
     "Artist": "फ्लोरा बॉस, राजिन्दर शर्मा, गीता गुहा, निखिल साहू व अन्य",
     "Venue": "श्रीराम सेंटर, दिल्ली",
     "ForeignKeyId": "074.260",
     "ForeignKeyType": "EventID",
     "EventID": "074.260",
-    "Choreography": "विक्रम मोहन"
+    "Choreography": "विक्रम मोहन",
+    "Make-up": "बी. एस. रावत"
 }

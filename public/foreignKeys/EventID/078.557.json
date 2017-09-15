@@ -5,9 +5,9 @@
     "Writer": "जी. एन. धान्देकर",
     "Director": "विजया मेहता",
     "Language": "मराठी",
-    "Person'sline": "शीतू",
     "Photo": "विजया मेहता",
     "ForeignKeyId": "078.557",
     "ForeignKeyType": "EventID",
-    "EventID": "078.557"
+    "EventID": "078.557",
+    "PersonLine": "शीतू"
 }

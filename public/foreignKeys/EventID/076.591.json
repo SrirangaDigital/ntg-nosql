@@ -4,9 +4,9 @@
     "Drama": "ईदगाह (हिन्दी) (बाल नाटक)",
     "Writer": "प्रेमचन्द्र (कहानी)",
     "Director": "विभा मिश्र",
-    "Natyantar": "विभा मिश्र",
     "Venue": "भारत भवन, भोपाल",
     "ForeignKeyId": "076.591",
     "ForeignKeyType": "EventID",
-    "EventID": "076.591"
+    "EventID": "076.591",
+    "Natyantra": "विभा मिश्र"
 }

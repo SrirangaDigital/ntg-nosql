@@ -4,11 +4,11 @@
     "Place": "इलाहबाद",
     "Event": "मंथन (हिन्दी)",
     "Writer": "अनिल रंजन भौमिक (कथा)",
-    "Natyantar": "विभांशु वैभव",
     "Projection": "अनिल रंजन भौमिक",
     "Director": "अनिल रंजन भौमिक",
     "Year": "25 दिस., 1995",
     "ForeignKeyId": "089.204",
     "ForeignKeyType": "EventID",
-    "EventID": "089.204"
+    "EventID": "089.204",
+    "Natyantra": "विभांशु वैभव"
 }

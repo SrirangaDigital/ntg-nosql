@@ -1,8 +1,8 @@
 {
     "Aid": "03",
     "Card-type": "दुर्लभ डायरी",
-    "Suject": "Sangeet Natak Akademi",
     "ForeignKeyId": "042.424",
     "ForeignKeyType": "EventID",
-    "EventID": "042.424"
+    "EventID": "042.424",
+    "Subject": "Sangeet Natak Akademi"
 }

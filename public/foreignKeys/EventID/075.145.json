@@ -5,7 +5,6 @@
     "Director": "त्रिपुरारी शर्मा",
     "Music": "संदीप श्रीवास्तव",
     "Dress": "अम्बा सान्याल",
-    "Makeup": "सदानंद पाटील",
     "Stage": "रॉबिन दास",
     "Light": "पराग सर्माहा",
     "Singer": "संदीप श्रीवास्तव, गोविन्द पाण्डे, समीप सिंह, दक्षिणा शर्मा, प्रीति झा व अन्य",
@@ -14,5 +13,6 @@
     "ForeignKeyId": "075.145",
     "ForeignKeyType": "EventID",
     "EventID": "075.145",
-    "Choreography": "Gilles Chuyen"
+    "Choreography": "Gilles Chuyen",
+    "Make-up": "सदानंद पाटील"
 }

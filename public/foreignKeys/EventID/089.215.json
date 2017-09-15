@@ -4,9 +4,9 @@
     "Place": "जम्मू",
     "Event": "सवा सेर कनक",
     "Writer": "प्रेमचंद",
-    "Natyalek": "शिवराम दीप (डोगरी)",
     "Director": "मुस्ताक काक",
     "ForeignKeyId": "089.215",
     "ForeignKeyType": "EventID",
-    "EventID": "089.215"
+    "EventID": "089.215",
+    "Natyalekh": "शिवराम दीप (डोगरी)"
 }

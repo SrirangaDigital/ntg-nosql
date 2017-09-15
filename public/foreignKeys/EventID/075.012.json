@@ -2,9 +2,9 @@
     "Aid": "01",
     "Drama": "अनामदास का पोथा (हिन्दी)",
     "Writer": "हजारी प्रसाद द्विवेदी (उपन्यास)",
-    "Natyantar": "ब. व. कारंत",
     "Director": "रॉबिन दास",
     "ForeignKeyId": "075.012",
     "ForeignKeyType": "EventID",
-    "EventID": "075.012"
+    "EventID": "075.012",
+    "Natyantra": "ब. व. कारंत"
 }
