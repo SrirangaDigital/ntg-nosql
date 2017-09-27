@@ -1,0 +1,82 @@
+Third Year
+Students
+
+Name
+Birth Place
+Mother Tongue
+
+Jayal Seal
+Guwahati
+Assamese
+
+Name
+Birth Place
+Mother Tongue
+
+Chetan Pandit
+Dewas (H.1’.)
+Malwi
+
+Name
+Birth Place
+Mother Tongue
+
+Ashraf-ul-Haque
+Goal Para (Assam)
+Assamese
+
+Name
+Birth Place
+Mother Tongue
+
+Meghna Malik
+Sonepat
+Haryanavi
+
+Name
+
+Debyendu
+Bhattacharyya
+Calcutta
+Bengali
+
+Name
+Birth Place
+Mother Tongue
+
+Rajpal Yadav
+Shahjahanpur
+(U.P.)
+Hindi
+
+Manoj Goyal
+Hissar
+Hindustani
+
+Name
+Birth Place
+Mother Tongue
+
+Manohar Teli
+Udaipur
+Rajasthani
+
+c
+
+Birth Place
+Mother Tongue
+‘7
+
+lName
+Birth Place
+Mother Tongue
+
+Hrishikesh Joshi
+Kolhapur
+Marathi
+
+Name
+Birth Place
+Mother Tongue
+
+
