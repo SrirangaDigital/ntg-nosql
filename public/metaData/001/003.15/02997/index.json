@@ -2,9 +2,18 @@
     "id": "001/003.15/02997",
     "AccessionCards": "054.337",
     "State": "उत्तर प्रदेश",
-    "Place": "उन्नाओ",
     "Date": "21-09-1997",
     "AccessionNumber": "2997",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "उन्नाओ",
+    "Troupe": "अनुष्ठान",
+    "Title": "बकरी",
+    "Writer": "सर्वेश्वरदयाल सक्सेना",
+    "Projection": "विजय पंडित",
+    "Direction": "विजय पंडित",
+    "Music": "हरिश्चन्द्र",
+    "Size": "22X28 से. मी.",
+    "Pages": "10",
+    "Venue": "गांधी भवन प्रेक्षागृह, लखनऊ"
 }

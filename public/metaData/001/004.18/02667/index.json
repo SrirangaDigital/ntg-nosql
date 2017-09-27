@@ -2,9 +2,15 @@
     "id": "001/004.18/02667",
     "AccessionCards": "054.327",
     "State": "उत्तर प्रदेश",
-    "Place": "इलाहबाद",
     "Date": "08-01-1998",
     "AccessionNumber": "2667",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "इलाहबाद",
+    "Troupe": "समानान्तर इंटिमेट थियेटर",
+    "Title": "कोर्ट मार्शल",
+    "Writer": "स्वदेश दीपक",
+    "Direction": "अनिल रंजन भौमिक",
+    "Size": "21.5X9.5 से. मी.",
+    "Pages": "6"
 }

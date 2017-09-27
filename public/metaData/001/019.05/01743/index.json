@@ -1,10 +1,19 @@
 {
     "id": "001/019.05/01743",
     "AccessionCards": "054.158",
-    "State": "ओड़िशा",
-    "Place": "कट्टक",
     "Date": "20-12-1967",
     "AccessionNumber": "1743",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "State": "ओड़िशा",
+    "Place": "कट्टक",
+    "Troupe": "कलाश्री थियेटर",
+    "Title": "सस्ती (उड़िया नाटक)",
+    "Writer": "जानकी वल्लभ महन्ती",
+    "Dramatization": "कन्हू चरण महन्ती",
+    "Event": "II वाँ एन्युअल फेस्टिवल",
+    "Sponsor": "गवर्नमेंट अॉफ़ उड़ीसा",
+    "Size": "13X21 से. मी.",
+    "Pages": "2",
+    "Venue": "रंगमंच एग्ज़िविशॅन ग्राउन्ड, दिल्ली"
 }

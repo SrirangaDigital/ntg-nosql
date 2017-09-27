@@ -1,10 +1,17 @@
 {
     "id": "001/001.19/01991",
     "AccessionCards": "054.172",
-    "State": "ओड़िशा",
-    "Place": "भुबनेश्वर",
     "Date": "23-05-1976",
     "AccessionNumber": "1991",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "State": "ओड़िशा",
+    "Place": "भुबनेश्वर",
+    "Troupe": "इण्टरनेशनल थियेटर",
+    "Title": "अनुभूति",
+    "Writer": "मनोज भटनागर",
+    "Direction": "गोविंद गुप्ता",
+    "Size": "25X18 से. मी.",
+    "Pages": "8",
+    "Venue": "रवीन्द्र मण्डप भुवनेश्वर"
 }

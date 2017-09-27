@@ -1,10 +1,20 @@
 {
     "id": "001/057.03/01791",
     "AccessionCards": "054.195, 056.613, 064.199, 066.682, 069.128, 069.420",
-    "Date": "02-01-1989, 03-01-1989, 02-01-1989, 04-01-1989, 03-01-1989",
+    "Date": "02-01-1989",
     "AccessionNumber": "1791",
     "Type": "Brochure",
-    "States": "ओड़िशा, तमिलनाडु, दिल्ली, हिमाचल प्रदेश, तमिलनाडु",
-    "Places": "Bhubaneswar, Visakhapatnam, Delhi, Mandi, Visakhapatnam",
-    "AccessLevel": 0
+    "States": "ओड़िशा, तमिलनाडु, दिल्ली, हिमाचल प्रदेश",
+    "Places": "Bhubaneswar, Visakhapatnam, Delhi, Mandi",
+    "AccessLevel": 0,
+    "Troupe": "मुक्ति थियेटर",
+    "Title": "झमिती खेला (उड़िया नाटक)",
+    "Writer": "राजेश जोशी",
+    "Direction": "सत्यव्रत राउत",
+    "Event": "नाट्य समारोह, 02-05 जनवरी 1989",
+    "Music": "आमोद भट्ट एवं सुभाष महापात्र",
+    "Host": "संगीत नाटक अकादमी, दिल्ली",
+    "Size": "22X14 से. मी.",
+    "Pages": "5",
+    "Venue": "कमानी अॉडिटोरियम, दिल्ली"
 }

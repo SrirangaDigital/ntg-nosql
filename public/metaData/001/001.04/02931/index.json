@@ -2,9 +2,17 @@
     "id": "001/001.04/02931",
     "AccessionCards": "054.079",
     "State": "असम",
-    "Place": "डिब्रूगढ़",
     "Date": "02-08-1997",
     "AccessionNumber": "2931",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "डिब्रूगढ़",
+    "Troupe": "चयनिका",
+    "Title": "कोर्ट मार्शल (असमिया )",
+    "Writer": "स्वदेश दीपक",
+    "Direction": "अरविन्द गौड़",
+    "Music": "संगीता गौड़",
+    "Size": "24.5X18.5 से. मी.",
+    "Venue": "असम",
+    "Desc": "अस्मिता दिल्ली द्वारा प्रस्तुत"
 }

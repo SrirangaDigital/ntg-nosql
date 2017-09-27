@@ -1,10 +1,16 @@
 {
     "id": "001/002.01/01999",
     "AccessionCards": "054.121",
-    "State": "तेलंगाना",
     "Place": "हैदराबाद",
     "Date": "17-12-1964",
     "AccessionNumber": "1999",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "State": "तेलंगाना",
+    "Troupe": "ड्रामेटिक सर्कल",
+    "Title": "द मैन हू केम टू डिनर",
+    "Writer": "जार्ज एस. फॉफ़मैन एवं मॉस हर्ट",
+    "Size": "17.5X27 से. मी.",
+    "Pages": "8",
+    "Venue": "रवीन्द्र भारती, हैदराबाद"
 }

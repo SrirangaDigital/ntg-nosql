@@ -1,10 +1,18 @@
 {
     "id": "001/001.20/01993",
     "AccessionCards": "054.165",
-    "State": "ओड़िशा",
-    "Place": "जतनी",
     "Date": "10-02-1982",
     "AccessionNumber": "1993",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "State": "ओड़िशा",
+    "Place": "जतनी",
+    "Troupe": "संगीता",
+    "Title": "तेतर्कित अपराह्न",
+    "Writer": "मनोरंजन दास",
+    "Direction": "गोपाल डे",
+    "Host": "श्रीराम सेंटर फॉर आर्ट एण्ड कल्चर, दिल्ली",
+    "Size": "24X18 से. मी.",
+    "Pages": "2",
+    "Venue": "राष्ट्रीय नाट्य विद्यालय, दिल्ली"
 }

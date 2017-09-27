@@ -1,9 +1,18 @@
 {
     "id": "001/999.99/01801",
     "AccessionCards": "054.170, 056.078, 056.199, 056.263, 064.192, 064.193, 065.077, 066.266, 069.572",
-    "Date": "11-01-1986, 09-01-1986, 12-01-1986, 15-01-1986, 09-01-1986, 13-01-1986, 09-01-1986",
+    "Date": "09-01-1986",
     "Type": "Brochure",
-    "States": "ओड़िशा, कर्नाटक, केरल, गुजरात, दिल्ली, मणिपुर, महाराष्ट्र, मणिपुर",
-    "Places": "Bhubaneswar, Bangalore, Trivandrum, Ahmedabad, Delhi, Imphal, Mumbai, Imphal",
-    "AccessLevel": 0
+    "States": "ओड़िशा, कर्नाटक, केरल, गुजरात, दिल्ली, मणिपुर, महाराष्ट्र",
+    "Places": "Bhubaneswar, Bangalore, Trivandrum, Ahmedabad, Delhi, Imphal, Mumbai",
+    "AccessLevel": 0,
+    "Troupe": "अन्वेषण",
+    "Title": "मुक्तिपथ (उड़िया नाटक)",
+    "Writer": "नारायण पति",
+    "Direction": "नारायण पति",
+    "Event": "नाट्य समारोह, 09-15 जनवरी 1986",
+    "Host": "संगीत नाटक अकादमी, दिल्ली",
+    "Size": "24X12.5 से. मी.",
+    "Pages": "8",
+    "Venue": "कमानी अॉडिटोरियम, दिल्ली"
 }

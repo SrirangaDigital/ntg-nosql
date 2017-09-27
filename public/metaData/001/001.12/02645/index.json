@@ -1,10 +1,17 @@
 {
     "id": "001/001.12/02645",
     "AccessionCards": "054.156",
-    "State": "ओड़िशा",
-    "Place": "कट्टक",
     "Date": "14-11-1997",
     "AccessionNumber": "2645",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "State": "ओड़िशा",
+    "Place": "कट्टक",
+    "Troupe": "उत्कल युवा सांस्कृतिक संघ",
+    "Title": "चैती घोडा",
+    "Writer": "कार्तिक चन्द्र रथ",
+    "Direction": "कार्तिक चन्द्र रथ",
+    "Size": "25.5X19 से. मी.",
+    "Pages": "4",
+    "Venue": "लिटिल थियेटर ग्रुप आडिटोरियम, दिल्ली"
 }

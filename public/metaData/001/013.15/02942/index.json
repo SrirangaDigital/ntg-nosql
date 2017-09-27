@@ -2,9 +2,16 @@
     "id": "001/013.15/02942",
     "AccessionCards": "054.464",
     "State": "उत्तर प्रदेश",
-    "Place": "कशी",
     "Date": "04-10-1978",
     "AccessionNumber": "2942",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "काशी",
+    "Troupe": "रंगमंच, काशी",
+    "Title": "रसगन्धर्व",
+    "Writer": "मणि मधुकर",
+    "Direction": "गया प्रसाद शास्त्री",
+    "Size": "25X18.5 से. मी.",
+    "Pages": "8",
+    "Venue": "नागरी नाटक मंडली, वाराणसी"
 }

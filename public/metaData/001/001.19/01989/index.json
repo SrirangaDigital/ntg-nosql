@@ -1,10 +1,18 @@
 {
     "id": "001/001.19/01989",
     "AccessionCards": "054.176",
-    "State": "ओड़िशा",
-    "Place": "भुबनेश्वर",
     "Date": "16-01-1977",
     "AccessionNumber": "1989",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "State": "ओडिशा",
+    "Place": "भुबनेश्वर",
+    "Troupe": "इण्टरनेशनल थियेटर",
+    "Title": "शब्दलिपि",
+    "Writer": "मनोरंजन दास",
+    "Translation": "विजया गुप्ता एवं अब्दुल दयन",
+    "Direction": "गोविंद गुप्ता",
+    "Size": "25X18 से. मी.",
+    "Pages": "8",
+    "Venue": "सूचना भवन, भुवनेश्वर"
 }

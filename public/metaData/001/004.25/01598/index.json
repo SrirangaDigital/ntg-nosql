@@ -1,10 +1,16 @@
 {
     "id": "001/004.25/01598",
     "AccessionCards": "054.295, 054.523, 065.248, 066.490",
-    "Date": "24-02-1996, 26-02-1996, 25-02-1996",
+    "Date": "24-02-1996",
     "AccessionNumber": "1598",
     "Type": "Brochure",
     "States": "उत्तर प्रदेश, मध्य प्रदेश, राजस्थान",
-    "Places": "Allahabad, Gorakhpur, Gwalior, Jaipur",
-    "AccessLevel": 0
+    "Places": "Gorakhpur, Gwalior, Jaipur, इलाहाबाद",
+    "AccessLevel": 0,
+    "Troupe": "उत्तर मध्य क्षेत्र सांस्कृतिक केन्द्र इलाहाबाद",
+    "Title": "नाट्योत्सव-1996",
+    "Event": "अमली, अंधी दौड़, कोर्ट मार्शल",
+    "Host": "राजस्थान संगीत नाटक अकादमी, जोधपुर एवं रसधारा भीलवाडा",
+    "Size": "22X14 से. मी.",
+    "Pages": "10"
 }

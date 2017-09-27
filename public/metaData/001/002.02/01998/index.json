@@ -1,10 +1,18 @@
 {
     "id": "001/002.02/01998",
     "AccessionCards": "054.143",
-    "State": "तेलंगाना",
     "Place": "हैदराबाद",
     "Date": "11-05-1961",
     "AccessionNumber": "1998",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "State": "तेलंगाना",
+    "Troupe": "संगीत नाटक अकादमी",
+    "Title": "बसंत",
+    "Writer": "रविन्द्रनाथ टैगोर",
+    "Choreography": "स्निग्धपाल",
+    "Event": "टैगोर सेंचुरी सेलिब्रेशॅन्स 1961",
+    "Size": "18X23 से. मी.",
+    "Pages": "12",
+    "Venue": "हैदराबाद"
 }

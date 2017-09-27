@@ -2,9 +2,16 @@
     "id": "001/004.18/03044",
     "AccessionCards": "054.316",
     "State": "उत्तर प्रदेश",
-    "Place": "इलाहबाद",
     "Date": "08-03-1998",
     "AccessionNumber": "3044",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "इलाहबाद",
+    "Troupe": "समानान्तर",
+    "Title": "पाँचाली",
+    "Writer": "विभांशु वैभव",
+    "Direction": "अनिल रंजन भौमिक",
+    "Size": "22.5X9.7 से. मी.",
+    "Pages": "1",
+    "Venue": "सांस्कृतिक केन्द्र"
 }

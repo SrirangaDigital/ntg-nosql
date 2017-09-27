@@ -2,8 +2,18 @@
     "id": "001/004.18/01337",
     "AccessionCards": "054.323",
     "State": "उत्तर प्रदेश",
-    "Place": "इलाहबाद",
     "AccessionNumber": "1337",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Place": "इलाहबाद",
+    "Troupe": "समानान्तर इंटिमेट थियेटर",
+    "Title": "आदि विद्रोही",
+    "Writer": "हावर्डफास्ट (मूल उपन्यास `स्पार्टकस' पर आधारित)",
+    "Version": "अमृतराय (हिन्दी रूपांतर)",
+    "Translation": "रति बार्थोलोम्यु",
+    "Dramatization": "बादल सरकार",
+    "Direction": "अनिल रंजन भौमिक",
+    "Size": "35X22 से. मी.",
+    "Pages": "2",
+    "Date": "00-00-0000"
 }

@@ -1,10 +1,20 @@
 {
     "id": "001/058.07/01807",
     "AccessionCards": "054.116, 056.049, 056.164, 056.192, 056.573, 064.266, 069.403",
-    "Date": "14-09-1986, 18-09-1986",
+    "Date": "14-09-1986",
     "AccessionNumber": "1807",
     "Type": "Brochure",
-    "States": "आंध्र प्रदेश, कर्नाटक, केरल, तमिलनाडु, दिल्ली, तमिलनाडु",
-    "Places": "Visakhapatnam, Bangalore, Trichur, Trivandrum, Gandhigram, Delhi, Gandhigram",
-    "AccessLevel": 0
+    "States": "आंध्र प्रदेश, कर्नाटक, केरल, तमिलनाडु, दिल्ली",
+    "Places": "Visakhapatnam, Bangalore, Trichur, Trivandrum, Gandhigram, Delhi",
+    "AccessLevel": 0,
+    "Troupe": "कलातरंगिणी",
+    "Title": "मुद्राराक्षसम् (तेलुगु नाटक)",
+    "Writer": "विशाखदत्त",
+    "Translation": "शरत पूर्णिमा",
+    "Direction": "के. जी. आर. गांधी",
+    "Event": "साउथ जॉन थियेटर फेस्टिवल, 14-18 सितंबर 1986",
+    "Host": "संगीत नाटक अकादमी, दिल्ली, एवं डायरेक्टरेट अॉफ़ कन्नड़ एण्ड कल्चर, बंगलूर",
+    "Size": "26X12 से. मी.",
+    "Pages": "5",
+    "Venue": "कलामंदिर, मैसूर"
 }

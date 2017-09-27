@@ -1,10 +1,19 @@
 {
     "id": "001/003.12/00885",
     "AccessionCards": "054.212",
-    "State": "उत्तराखण्ड",
     "Place": "अल्मोड़ा",
     "Date": "03-07-1993",
     "AccessionNumber": "885",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "State": " उत्तराखण्ड",
+    "Troupe": "जन नाट्य मंच",
+    "Title": "हास्य चूड़ामणि",
+    "Writer": "वत्सराज",
+    "Translation": "राधावल्लभ त्रिपाठी",
+    "Direction": "योगेश पन्त",
+    "Event": "पर्वतीय नाट्य समारोह 1993",
+    "Size": "23X13.5 से. मी.",
+    "Pages": "2",
+    "Venue": "शैले हॉल, नैनीताल"
 }

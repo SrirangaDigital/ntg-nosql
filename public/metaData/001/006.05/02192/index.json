@@ -5,6 +5,14 @@
     "Date": "13-02-1997",
     "AccessionNumber": "2192",
     "Type": "Brochure",
-    "Places": "Kanpur, Khanpur",
-    "AccessLevel": 0
+    "Place": "कानपुर",
+    "AccessLevel": 0,
+    "Troupe": "दर्पण",
+    "Title": "दहलीज़ के पार उर्फ तीन बेटियां",
+    "Writer": "त्रिपुरारी शर्मा",
+    "Gimmickry": "सिद्देश्वर अवस्थी",
+    "Direction": "आशारानी-मधु अग्रवाल",
+    "Size": "21X13 से. मी.",
+    "Pages": "4",
+    "Venue": "लाजपत भवन"
 }

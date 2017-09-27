@@ -3,7 +3,14 @@
     "AccessionCards": "054.099",
     "State": "असम",
     "Place": "लखीमपुर",
-    "Date": "27-01-1993",
+    "Date": "27-01-1993 &&& 27-01-1993;29-01-1993",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Troupe": "नट सैनिक",
+    "Title": "लौन्भिता",
+    "Writer": "ज्योतिप्रसाद अग्रवाल",
+    "Direction": "अली हैदर",
+    "Size": "23X9.5 से. मी.",
+    "Pages": "6",
+    "Venue": "गाँधी मैदान"
 }

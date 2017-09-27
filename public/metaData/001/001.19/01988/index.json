@@ -1,10 +1,17 @@
 {
     "id": "001/001.19/01988",
     "AccessionCards": "054.177",
-    "State": "ओड़िशा",
-    "Place": "भुबनेश्वर",
     "Date": "23-07-1977",
     "AccessionNumber": "1988",
     "Type": "Brochure",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "State": "ओड़िशा",
+    "Place": "भुबनेश्वर",
+    "Troupe": "इण्टरनेशनल थियेटर",
+    "Title": "सूर्यास्त पूर्बारू (उड़िया नाटक)",
+    "Writer": "जे. पी. दास",
+    "Direction": "गोविंद गुप्ता",
+    "Size": "25X18 से. मी.",
+    "Pages": "8",
+    "Venue": "सूचना भवन, भुवनेश्वर"
 }
