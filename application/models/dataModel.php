@@ -29,6 +29,13 @@ class dataModel extends Model {
 		// $id = str_replace('/', '_', $id);
 		return $id;
 	}
+
+	public function processFulltext($text){
+
+		$text = preg_replace('/\s+/', ' ', $text);
+		return $text;
+	}
+
 }
 
 ?>

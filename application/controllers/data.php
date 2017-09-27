@@ -27,10 +27,13 @@ class data extends Controller {
 
 			$result = $collection->insertOne($content);
 		}
+
+		// Insert fulltext
+		$this->insertFulltext();
 	}
 	
-	private function insertForeignKeys()
-	{
+	private function insertForeignKeys() {
+
 		$jsonFiles = $this->model->getFilesIteratively(PHY_FOREIGN_KEYS_URL, $pattern = '/.json$/i');
 		
 		$db = $this->model->db->useDB();
@@ -46,19 +49,61 @@ class data extends Controller {
 		}
 	}
 
+	public function insertFulltext() {
+
+		$txtFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/\/text\/\d+\.txt$/i');
+
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->createCollection($db, FULLTEXT_COLLECTION);
+
+		foreach ($txtFiles as $txtFile) {
+
+			$content['text'] = file_get_contents($txtFile);
+			$content['text'] = $this->model->processFulltext($content['text']);
+			
+			$txtFile = str_replace(PHY_METADATA_URL, '', $txtFile);
+			preg_match('/^(.*)\/text\/(.*)\.txt/', $txtFile, $matches);
+
+			$content['id'] = $matches[1];
+			$content['page'] = $matches[2];
+
+			$content = $this->model->beforeDbUpdate($content);
+			$result = $collection->insertOne($content);
+		}
+	}
+
 	// Use this method for global changes in json files
 	public function modify() {
 
-		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL , $pattern = '/index.json$/i');
+		// $db = $this->model->db->useDB();
+		// $collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
+
+		// $iterator = $collection->distinct("State", ["Type" => "Brochure"]);
+
+		// $data = [];
+		// foreach ($iterator as $state) {
+			
+		// 	$Places = $collection->distinct("Place", ["State" => $state]);
+		// 	$data[$state][] = $Places;
+		// }
+		// file_put_contents("StatePlaces.txt", json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+
+
+		$jsonFiles = $this->model->getFilesIteratively(PHY_FOREIGN_KEYS_URL , $pattern = '/json$/i');
 		
 		foreach ($jsonFiles as $jsonFile) {
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
+			
+			if(isset($content['Asstdirector'])) {
 
-			if(isset($content['Date']) && $content['Date'] == '00-00-0000') { 
-				unset($content['Date']);
+				$value = $content['Asstdirector'];
+				$content['Asst-director'] = $value;
+				unset($content['Asstdirection']);
 				$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+				// var_dump($json);
+		
 				file_put_contents($jsonFile, $json);
 			}
 		}
@@ -66,4 +111,3 @@ class data extends Controller {
 }
 
 ?>
-

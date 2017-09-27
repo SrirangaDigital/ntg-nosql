@@ -180,6 +180,16 @@ class Model {
 
 		return $id;
 	}
+
+	public function preProcessURLQuery($filter){
+
+		foreach ($filter as $key => $value) {
+			
+			$filter{$key} = str_replace('_', '/', $filter{$key});
+		}
+
+		return $filter;
+	}
 }
 
 ?>

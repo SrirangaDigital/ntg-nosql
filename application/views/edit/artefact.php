@@ -1,7 +1,7 @@
 <?php
     $refererId = str_replace('/', '_', $data['id']);
     $auxiliary = array_pop($data);
-    $disableKeys = ['id', 'albumID', 'ForeignKeyId', 'ForeignKeyType'];
+    $disableKeys = ['id', 'albumID', 'Toc', 'Box', 'File', 'ForeignKeyId', 'ForeignKeyType'];
     $count = 0;
     $formgroup = 0;
 ?>

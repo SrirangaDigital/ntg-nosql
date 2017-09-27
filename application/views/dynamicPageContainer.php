@@ -15,6 +15,11 @@
                             <input type="text" class="form-control" placeholder="Search" name="term" id="term">
                             <div class="input-group-btn">
                                 <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                                <div class="checkbox" id="toggleSearchType">
+                                    <label>
+                                        <input type="checkbox"> Fulltext search
+                                    </label>
+                                </div>
                             </div>
                         </div>
                     </form>

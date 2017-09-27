@@ -25,6 +25,25 @@ class search extends Controller {
 		else
 			echo json_encode($result);
 	}
+
+	public function fulltext($query = []) {
+		
+		if(!(isset($query['term']))) {
+
+			$this->view('error/index');
+			return;
+		}
+
+		$data['term'] = $query['term'];
+		$page = (isset($query['page'])) ? $query['page'] : "1";
+
+		$result = $this->model->getFullTextSearchResults($data, $page);
+
+		if($page == '1')
+			($result != 'noData') ? $this->view('search/fulltextResult', $result) : $this->view('error/noResults', 'search/index/');
+		else
+			echo json_encode($result);
+	}
 }
 
 ?>

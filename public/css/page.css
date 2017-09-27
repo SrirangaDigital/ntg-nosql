@@ -169,7 +169,7 @@ a.moretag {
     padding: 30px 4px 0 4px;
     vertical-align: middle;
 }
-.sub-nav > li > a{
+.sub-nav > li > a, .input-group-btn{
     
     font-size: 12px;
     line-height: 21px;
@@ -179,6 +179,12 @@ a.moretag {
     text-transform: uppercase;
     color: #5d5d5d;
     text-decoration: none;
+}
+.input-group-btn{
+  margin-bottom: 2px; 
+}
+#searchForm .input-group-btn input[type="checkbox"]{
+  padding-top: 10px;
 }
 .sub-nav > li > a.active,
 .sub-nav > li > a:hover{
@@ -241,7 +247,10 @@ a.moretag {
 .image-desc > small:empty{
     display: none;
 }
+.image-desc .fulltextSnippet > span:not(:last-of-type):after{
 
+  content: ', ';
+}
 #grid.container .post img { padding: 0; }
 
 /* Small devices */
@@ -646,13 +655,24 @@ button.toggle-button{
 }
 
 .toc{
-  display: none;
-  padding-left: 1em;
+    padding-left: 20px;
 }
-
-.toc .toc-author{
-  font-size: 11px;
+.toc li{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #ededed;
+  line-height: 24px;
+}
+.toc li a{
+  text-decoration: none;
+  cursor: pointer;
+}
+.toc li .author{
   font-style: italic;
+  margin-left: 20px;
+}
+.toc li .author:before{
+  content: '–';
 }
 
 .spp-general{
@@ -755,7 +775,7 @@ img.img-center{
 .albumTitle.Letter{
   background-color: #3F51B5;
 }
-.albumTitle.Newspaper{
+.albumTitle.Article, .albumTitle.Publication, .albumTitle.Newspaper {
   background-color: #00AA8D;
 }
 .albumTitle.Book{
