@@ -1,11 +1,18 @@
 <script>
 $(document).ready(function(){
 
-    var bgColor = $('.albumTitle.' + '<?=$data['details']['Type']?>').css('background-color');
+    var bgColor = $('.albumTitle').css('background-color');
     var fgColor = $('.albumTitle span').css('color');
 
     $('.albumTitle span').css('color', bgColor);
-    $('.albumTitle.' + '<?=$data['details']['Type']?>').css('background-color', fgColor);
+    $('.albumTitle').css('background-color', fgColor);
+
+    // Triggering a click event on page which has to be opened
+    $('.toc a').on('click', function(e){
+
+        var imageID = $(this).attr('data-href');
+        $('#' + imageID).trigger('click');
+    });
 });
 </script>
 <div class="container">
@@ -27,9 +34,13 @@ $(document).ready(function(){
                     foreach ($data['images'] as $imageThumbPath ) {
                             
                         $imagePath = str_replace('thumbs/', '', $imageThumbPath);
-                        if(!isset($_SESSION['login'])){$imagePath = $imageThumbPath;}
+
                         if ($class == 'img-center ') $imageThumbPath = $imagePath;
-                        echo '<img class="' . $class . 'img-responsive" data-original="' . $imagePath . '" src="' . $imageThumbPath . '">';
+
+                        $imageID = str_replace(DATA_URL . $data['details']['id'] . '/', '', $imagePath);
+                        $imageID = 'image_' . intval(str_replace(PHOTO_FILE_EXT, '', $imageID));
+
+                        echo '<img id="' . $imageID . '" class="' . $class . 'img-responsive" data-original="' . $imagePath . '" src="' . $imageThumbPath . '">';
                     }
                 ?>
             </div>
@@ -50,6 +61,10 @@ $(document).ready(function(){
                     }
 
                     $idURL = str_replace('/', '_', $data['details']['id']);
+
+                    $toc = $data['details']['Toc'] = (isset($data['details']['Toc'])) ? $data['details']['Toc'] : '';
+                    unset($data['details']['Toc']);
+
                     foreach ($data['details'] as $key => $value) {
 
                         echo '<li><strong>' . $key . ':</strong><span class="image-desc-meta">' . $viewHelper->formatDisplayString($value) . '</span></li>';
@@ -60,7 +75,8 @@ $(document).ready(function(){
                     <li><a class="editDetails" href="<?=BASE_URL?>edit/artefact/<?=$idURL?>">Edit Details</a></li>
                 <?php } ?>
                 </ul>
-               <?php if($accessionCards) echo $viewHelper->includeAccessionCards($accessionCards); ?>
+                <?php if($accessionCards) echo $viewHelper->includeAccessionCards($accessionCards); ?>
+                <?php if($toc) echo $viewHelper->displayToc($toc); ?>
             </div>
         </div>
     </div>
