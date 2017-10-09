@@ -16,7 +16,7 @@
 </div>
 
 <div class="container-fluid stats" id="collection">
-    <div class="row">
+    <div class="row  clear-margins">
         <div class="col-md-12">
             <h1>The Collection</h1>
             <ul class="list-inline">
