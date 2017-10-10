@@ -190,6 +190,15 @@ class Model {
 
 		return $filter;
 	}
+
+	public function getTypeByID($id){
+
+		$fileName = PHY_METADATA_URL . $id . '/index.json';
+		$contentString = file_get_contents($fileName);
+		$content = json_decode($contentString, true);
+		
+		return (isset($content['Type'])) ? $content['Type'] : '';
+	}
 }
 
 ?>

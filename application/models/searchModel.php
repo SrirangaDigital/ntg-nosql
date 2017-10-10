@@ -94,14 +94,16 @@ class searchModel extends Model {
 			$row['id'] = $row['_id'];
 			$row['pages'] = (array) $row['pages'];
 			$row['idURL'] = str_replace('/', '_', $row['id']);
-			
-			$row['cardName'] = '<span class="fulltextSnippet">';
+			$type = $this->getTypeByID($row['id']);
+
+			$row['cardName'] = '<strong>Type : ' . $type . '</strong><br/>';
+			$row['cardName'] .= '<span class="fulltextSnippet">';
 			$row['cardName'] .= '<strong>Found at page(s): </strong>';
 
 			sort($row['pages']);
 			foreach ($row['pages'] as $page) {
 					
-				$row['cardName'] .= '<span><a href="#' . $page . '">' . preg_replace('/^0+/', '', $page) . '</a></span>';
+				$row['cardName'] .= '<span><a href="' . BASE_URL . 'vendor/pdfjs/web/viewer.php?#page=' . $page  . '&search=' . $term . '&id=' . $row['idURL'] . '" target="_blank">' . preg_replace('/^0+/', '', $page) . '</a></span>';
 			}
 			$row['cardName'] .= '</span>';
 
