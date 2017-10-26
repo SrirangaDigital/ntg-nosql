@@ -6,7 +6,7 @@ $(document).ready(function() {
     if(isWider.length) {
         $( window ).scroll(function() {
 
-            var tp = $( 'body' ).scrollTop();
+            var tp = $( 'html' ).scrollTop();
 
             if(tp > 50) {
 

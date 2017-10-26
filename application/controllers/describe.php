@@ -17,6 +17,9 @@ class describe extends Controller {
 			$artefact['images'] = $this->model->getArtefactImages($id);
 			$artefact['neighbours'] = $this->model->getNeighbourhood($artefact['details'], $query);
 			$artefact['filter'] = $this->model->filterArrayToString($query);
+			$artefact = $this->model->includeExternalResources($artefact);
+
+			$artefact['details'] = $this->model->unsetControlParams($artefact['details']);
 		}
 
 		($artefact['details']) ? $this->view('describe/artefact', $artefact) : $this->view('error/index');

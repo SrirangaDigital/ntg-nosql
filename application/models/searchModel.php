@@ -101,10 +101,13 @@ class searchModel extends Model {
 			$row['cardName'] .= '<strong>Found at page(s): </strong>';
 
 			sort($row['pages']);
+
 			foreach ($row['pages'] as $page) {
-					
-				$row['cardName'] .= '<span><a href="' . BASE_URL . 'vendor/pdfjs/web/viewer.php?#page=' . $page  . '&search=' . $term . '&id=' . $row['idURL'] . '" target="_blank">' . preg_replace('/^0+/', '', $page) . '</a></span>';
+				
+				$pdfPath = (isset($_SESSION['login']) || SHOW_PDF) ?  BASE_URL . 'vendor/pdfjs/web/viewer.php?#page=' . $page  . '&search=' . $term . '&id=' . $row['idURL'] : 'javascript:void()';
+				$row['cardName'] .= '<span><a href="' . $pdfPath . '" target="_blank">' . preg_replace('/^0+/', '', $page) . '</a></span>';
 			}
+
 			$row['cardName'] .= '</span>';
 
 			$row['thumbnailPath'] = $this->getThumbnailPath($row['id']);
