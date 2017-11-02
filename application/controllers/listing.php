@@ -32,9 +32,9 @@ class listing extends Controller {
 		$query = $this->model->preProcessURLQuery($query);
 
 		$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);
-		$sortKey = $this->model->getPrecastKey($type, 'sortKey');
+		$sortKeys = $this->model->getPrecastKey($type, 'sortKey');
 
-		$artefacts = $this->model->getArtefacts($type, $sortKey, $page, $query);
+		$artefacts = $this->model->getArtefacts($type, $sortKeys, $page, $query);
 
 		if($page == '1')
 			($artefacts != 'noData') ? $this->view('listing/artefacts', $artefacts) : $this->view('error/index');

@@ -367,10 +367,26 @@ a.moretag {
 
 
 /*Image overlays*/
+.fixOverlayDivHome{
+    position: relative;
+    width:100%; 
+    padding:0px;
+    background: url('../images/stock/slide1.jpg') no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+.fixOverlayDivHome img{
+    margin-left: auto;
+    margin-right: auto;
+}
 .fixOverlayDiv{
     position: relative;
     width:100%; 
     padding:0px;
+}
+.fixOverlayDiv img{
+    margin-left: auto;
+    margin-right: auto;
 }
 .OverlayText, .OverlayTextMain{
     bottom: 0;
@@ -725,6 +741,24 @@ button.toggle-button{
 }
 .letter_thumbnails{
 }
+.iframeHolder{
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  min-height: 500px;
+  padding: 30px;
+}
+.iframeHolder iframe{
+  min-width: 80%;
+  min-height: 450px;
+}
+.iframeHolder i{
+  color: #E0E0E0;
+  font-size: 72px;
+}
+.iframeHolder .noExternalResource{
+  font-weight: 300;
+}
 img.img-small{
   height: 200px;
   display: inline-block;
@@ -732,6 +766,10 @@ img.img-small{
 }
 img.img-center{
   margin: 0 auto;
+}
+#viewletterimages, #viewCardImages{
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
 }
 #viewletterimages, #viewCardImages{
   cursor: -webkit-zoom-in;
@@ -784,7 +822,7 @@ img.img-center{
 .albumTitle.Photograph{
   background-color: #0091EA;
 }
-.albumTitle.Brochure{
+.albumTitle.Brochure, .albumTitle.Multimedia{
   background-color: #F57C00;
 }
 .albumTitle.Miscellaneous{

@@ -4,19 +4,17 @@
 			"State",
 			"Place"
 		],
-		"sortKey" : "Date"
+		"sortKey" : {"Date" : -1}
 	},
 	"Photograph" : {
 		"selectKey" : [
 			"State",
 			"Place"
 		],
-		"sortKey" : "Date"
+		"sortKey" : {"Date" : -1}
 	},
 	"Newspaper Clipping" : {
-		"selectKey" : [
-			"MediaTitle"
-		],
-		"sortKey" : "Date"
+		"selectKey" : ["MediaTitle"],
+		"sortKey" : {"Date" : -1}
 	}
 }

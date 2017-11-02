@@ -73,7 +73,7 @@ class listingModel extends Model {
 		return $data;
 	}
 
-	public function getArtefacts($type, $sortKey, $page, $filter){
+	public function getArtefacts($type, $sortKeys, $page, $filter){
 		
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
@@ -81,27 +81,33 @@ class listingModel extends Model {
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 
+		// Form match filter array
 		$matchFilter = $this->preProcessQueryFilter($filter);
-
 		$match = ['DataExists' => $this->dataShowFilter, 'Type' => $type] + $matchFilter;
+
+		// Form Projection array
+		$projectArray['Type'] = 1;
+		foreach ($sortKeys as $key => $value) {
+			
+			if(!isset($firstKey)) $firstKey = $key;
+			$projectArray[$key] = 1;
+		}
+		$projectArray['id'] = 1;
+		$projectArray['sortKeyExists'] = [ '$cond' => [ '$' . $firstKey, '1', '0' ]];
+
+		// Form sort array
+		$sortArray['sortKeyExists'] = -1;
+		foreach ($sortKeys as $key => $value) {
+			
+			$sortArray[$key] = $value;
+		}
+		$sortArray['id'] = 1;
+
 		$iterator = $collection->aggregate(
 				 [
 					[ '$match' => $match ],
-					[ 
-						'$project' => [
-							'Type' => 1,
-							$sortKey => 1,
-							'id' => 1,
-							'sortKeyExists' => [ '$cond' => [ '$' . $sortKey, '1', '0' ]]
-						]
-					],
-					[
-						'$sort' => [
-							'sortKeyExists' => -1,
-							$sortKey => 1,
-							'id' => 1
-						]
-					],
+					[ '$project' => $projectArray ],
+					[ '$sort' => $sortArray	],
 					[ '$skip' => $skip ],
 					[ '$limit' => $limit ]
 				]
@@ -117,14 +123,20 @@ class listingModel extends Model {
 			$artefact = $this->unsetControlParams($artefact);
 			$artefact['thumbnailPath'] = $this->getThumbnailPath($artefact['id']);
 			$artefact['idURL'] = str_replace('/', '_', $artefact['id']);
-			$artefact['cardName'] = (isset($artefact{$sortKey})) ? $artefact{$sortKey} : '';
-			$artefact['cardName'] = $viewHelper->formatDisplayString($artefact['cardName']);
-
+			// $artefact['cardName'] = (isset($artefact{$sortKeys[0]})) ? $artefact{$sortKeys[0]} : '';
+			
+			$artefact['cardName'] = [];
+			foreach ($sortKeys as $key => $value) {
+					
+				if(isset($artefact{$key})) $artefact['cardName'][] =  $viewHelper->formatDisplayString($artefact{$key});
+			}
+			$artefact['cardName'] = '<span>' . implode('</span><br/><span>', $artefact['cardName']) . '</span>';
+			
 			array_push($data, $artefact);
 		}
 
 		if($data){
-			$auxiliary = ['filterString' => $this->filterArrayToString($filter), 'filter' => $filter, 'sortKey' => $sortKey];
+			$auxiliary = ['filterString' => $this->filterArrayToString($filter), 'filter' => $filter, 'sortKey' => $sortKeys];
 			$data['auxiliary'] = $auxiliary;
 		}
 		else

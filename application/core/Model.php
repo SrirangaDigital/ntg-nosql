@@ -5,7 +5,7 @@ class Model {
 	public function __construct() {
 
 		$this->db = new Database();
-		$this->dataShowFilter = (SHOW_ONLY_IF_DATA_EXISTS) ? '1' : ['$regex' => '0|1'];
+		$this->dataShowFilter = (SHOW_ONLY_IF_DATA_EXISTS) ? ['$regex' => '1|External'] : ['$regex' => '0|1|External'];
 	}
 	
 	public function getPostData() {
@@ -88,6 +88,9 @@ class Model {
 
 		if(isset($data['Date'])){
 
+			// handle mm-dd-yyyy format
+	        $data['Date'] = preg_replace('/(\d{2})\-(\d{2})\-(\d{4})/', "$3-$2-$1", $data['Date']);
+
 			if(preg_match('/^0000\-/', $data['Date'])) {
 
 				unset($data['Date']);
@@ -101,7 +104,11 @@ class Model {
 	public function insertDataExistsFlag($data){
 
 		$leaves = glob(PHY_DATA_URL . $data['id'] . '/thumbs/*' . PHOTO_FILE_EXT);
-		$data['DataExists'] = (sizeof($leaves)) ? '1' : '0';
+
+		if(!isset($data['DataExists'])){
+
+			$data['DataExists'] = (sizeof($leaves)) ? '1' : '0';
+		}
 
 		return $data;
 	}
@@ -189,6 +196,26 @@ class Model {
 		}
 
 		return $filter;
+	}
+
+	public function getTypeByID($id){
+
+		$fileName = PHY_METADATA_URL . $id . '/index.json';
+		$contentString = file_get_contents($fileName);
+		$content = json_decode($contentString, true);
+		
+		return (isset($content['Type'])) ? $content['Type'] : '';
+	}
+
+	public function includeExternalResources($artefact){
+
+        if($artefact['details']['DataExists'] == 'External'){
+
+
+            $fileName = str_replace(BASE_URL, '', DATA_URL) . $artefact['details']['id'] . '/'. EXTERNAL_RESOURCE;
+            $artefact['external']['fileName'] = (file_exists($fileName)) ? $fileName : EXTERNAL_RESOURCE_NOT_EXISTS;
+        }
+		return $artefact;
 	}
 }
 

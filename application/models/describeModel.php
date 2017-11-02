@@ -11,9 +11,7 @@ class describeModel extends Model {
 		
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
-
 		$result = $collection->findOne(['id' => $id ]);
-		$result = $this->unsetControlParams($result);
 
 		return $result;
 	}
@@ -35,30 +33,36 @@ class describeModel extends Model {
 
 		$id = $details['id'];
 		$type = $details['Type'];
-		$sortKey = $this->getPrecastKey($type, 'sortKey');
+		$sortKeys = $this->getPrecastKey($type, 'sortKey');
 
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
+		// Form match filter array
 		$matchFilter = $this->preProcessQueryFilter($filter);
-		
 		$match = [ 'DataExists' => $this->dataShowFilter, 'Type' => $type] + $matchFilter;
+		
+		// Form Projection array
+		$projectArray['id'] = 1;
+		foreach ($sortKeys as $key => $value) {
+			
+			if(!isset($firstKey)) $firstKey = $key;
+			$projectArray[$key] = 1;
+		}
+		$projectArray['sortKeyExists'] = [ '$cond' => [ '$' . $firstKey, '1', '0' ]];
+
+		// Form sort array
+		$sortArray['sortKeyExists'] = -1;
+		foreach ($sortKeys as $key => $value) {
+			
+			$sortArray[$key] = $value;
+		}
+		
 		$iterator = $collection->aggregate(
 				 [
 					[ '$match' => $match ],
-					[ 
-						'$project' => [
-							'id' => 1,
-							$sortKey => 1,
-							'sortKeyExists' => [ '$cond' => [ '$' . $sortKey, '1', '0' ]]
-						]
-					],
-					[
-						'$sort' => [
-							'sortKeyExists' => -1,
-							$sortKey => 1
-						]
-					]
+					[ '$project' => $projectArray ],
+					[ '$sort' => $sortArray	],
 				]
 			);
 
