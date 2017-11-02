@@ -7,7 +7,7 @@ define('USER_COLLECTION', 'userdetails');
 
 //Default Values
 define('SHOW_ONLY_IF_DATA_EXISTS', True);
-define('SHOW_PDF', False);
+define('SHOW_PDF', True);
 define('DEFAULT_TYPE', 'Letter');
 define('MISCELLANEOUS_NAME', 'Miscellaneous');
 define('FOREIGN_KEY_TYPE', 'ForeignKeyType');
