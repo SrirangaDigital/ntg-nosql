@@ -15,7 +15,7 @@ class viewHelper extends View {
     public function formatDisplayString($str){
 		
 		if(preg_match('/^\d{4}\-/', $str))
-		$str = preg_replace('/\b(\d)\b/',"0$1",$str);
+			$str = preg_replace('/\b(\d)\b/',"0$1",$str);
 
         // handle mm-dd-yyyy format
         $str = preg_replace('/(\d{2})\-(\d{2})\-(\d{4})/', "$3-$2-$1", $str);
@@ -52,8 +52,15 @@ class viewHelper extends View {
 
         if(file_exists(PHY_DATA_URL . $id . '/index.pdf')) {
 
-            return '<li><a href="' . DATA_URL . $id . '/index.pdf" target="_blank">Click here to view PDF</a></li>'; 
+			echo '<li><a href="' . BASE_URL . 'artefact/pdf/' . str_replace('/', '_', $id) . '" target="_blank">Click here to view PDF</a></li>';
         }
+
+        if(file_exists(PHY_DATA_URL . $id . '/transcription.pdf')) {
+
+            echo '<li><a href="' . BASE_URL . 'describe/transcription/' . str_replace('/', '_', $id) . '" target="_blank">Transcript (Side-by-side View)</a></li>';
+        }        
+
+        return;        
     }
 
     public function includeAccessionCards($accessionCards){
@@ -73,6 +80,24 @@ class viewHelper extends View {
         $accessionCardsHtml .= '</div>';
 
         return $accessionCardsHtml;
+    }
+
+    public function displayToc($toc){
+
+        $tocHtml = '
+            <div id="toc"><p><strong>Table of Contents:</strong></p><ul class="toc">';
+
+        foreach ($toc as $row) {
+
+            $page = explode(',', $row['Page'])[0];
+
+            $tocHtml .= '<li><a data-href="image_' . $page . '">' . $row['Title'] . '</a><br />';
+            if(isset($row['Author'])) $tocHtml .= '<span class="author">' . $row['Author'] . '</span>';
+            $tocHtml .= '</li>';
+        }
+
+        $tocHtml .= '</ul></div>';
+        return $tocHtml;
     }
 }
 

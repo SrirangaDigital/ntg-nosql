@@ -13,7 +13,8 @@ $(document).ready(function(){
                 var pagenum = parseInt($('#grid').attr('data-page')) + 1;
                 $('#grid').attr('data-page', pagenum);
 
-                getresult(base_url + 'search/fulltext/?page=' + pagenum + '&term=' + '<?=$term?>');
+                var nextURL = window.location.href + '&page=' + pagenum;
+                getresult(nextURL);
             }
         }
     });

@@ -21,7 +21,10 @@ class data extends Controller {
 		foreach ($jsonFiles as $jsonFile) {
 
 			$content = $this->model->getArtefactFromJsonPath($jsonFile);
-			$content = $this->model->insertForeignKeyDetails($db, $content, $foreignKeys);
+	
+			if(array_key_exists(FOREIGN_KEY_TYPE, $content))
+				$content = $this->model->insertForeignKeyDetails($db, $content, $foreignKeys);
+	
 			$content = $this->model->insertDataExistsFlag($content);
 			$content = $this->model->beforeDbUpdate($content);
 
@@ -51,6 +54,8 @@ class data extends Controller {
 
 	public function insertFulltext() {
 
+		ini_set('max_execution_time', 300);
+
 		$txtFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/\/text\/\d+\.txt$/i');
 
 		$db = $this->model->db->useDB();
@@ -69,6 +74,54 @@ class data extends Controller {
 
 			$content = $this->model->beforeDbUpdate($content);
 			$result = $collection->insertOne($content);
+		}
+	}
+
+	public function bulkReplaceAction() {
+		
+		// Get post data	
+		$data = $this->model->getPostData();
+
+		$metaDataJsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL  , $pattern = '/index.json$/i');
+		$foreignKeyJsonFiles = $this->model->getFilesIteratively(PHY_FOREIGN_KEYS_URL , $pattern = '/json$/i');
+		
+		$jsonFiles = array_merge($metaDataJsonFiles, $foreignKeyJsonFiles);
+
+		$resultBoolean = True;
+		$affectedFiles = [];
+		foreach ($jsonFiles as $jsonFile) {
+
+			$contentString = file_get_contents($jsonFile);
+			$content = json_decode($contentString, true);
+			
+			if(isset($content[$data['key']])) {
+
+				if($content[$data['key']] == $data['oldValue']) { 
+
+					$content[$data['key']] = $data['newValue'];
+					
+					if(!(@$this->model->writeJsonToPath($content, $jsonFile))){
+
+						$resultBoolean = False;
+						break;
+					}
+					array_push($affectedFiles, $jsonFile);
+				}
+			}
+		}
+
+		if($resultBoolean){
+
+			$this->buildDBFromJson();
+			$this->redirect('gitcvs/updateRepo');
+		}
+		else{
+
+			require_once 'application/controllers/gitcvs.php';
+
+			$gitcvs = new gitcvs;
+			$gitcvs->checkoutFiles($affectedFiles);
+			$this->view('error/prompt',["msg"=>"Problem in writing data to file"]); return;
 		}
 	}
 

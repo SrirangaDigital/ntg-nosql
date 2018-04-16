@@ -11,20 +11,37 @@ class searchModel extends Model {
 	
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
-	
-		$term = $data['term'];
-		$term = preg_quote($term, '/');
+
+		$dataFilter = [];
+		$displayString = '';
+
+		$dataFilter['DataExists'] = $this->dataShowFilter;
+
+		if(isset($data['term'])) {
+		
+			$term = $data['term'];
+			$term = preg_quote($term, '/');
+			$dataFilter['$text'] = ['$search' => $term ];
+			$displayString = $term;
+		}
+		else {
+
+			$term = '';
+
+			foreach ($data as $key => $value) {
+
+				$dataFilter[$key] = ['$regex'=>$value];
+				$displayString .= $key . ': ' . $value . '<br />';
+			}
+
+			$term = implode(' ', $data);
+		}	
 	
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 	
 		$iterator = $collection->find(
-			[	
-				'DataExists' => $this->dataShowFilter,
-				'$text' => [
-					'$search' => $term
-				]
-			], 
+			$dataFilter,
 			[
 				'projection' => [
 					'score' => [
@@ -55,7 +72,7 @@ class searchModel extends Model {
 		}
 	
 		if(!empty($data))
-			$data['term'] = $term;
+			$data['displayString'] = $displayString;
 		else
 			$data = 'noData';
 	
@@ -104,7 +121,7 @@ class searchModel extends Model {
 
 			foreach ($row['pages'] as $page) {
 				
-				$pdfPath = (isset($_SESSION['login']) || SHOW_PDF) ?  BASE_URL . 'vendor/pdfjs/web/viewer.php?#page=' . $page  . '&search=' . $term . '&id=' . $row['idURL'] : 'javascript:void()';
+				$pdfPath = (isset($_SESSION['login']) || SHOW_PDF) ?  BASE_URL . 'artefact/transcript/' . $row['idURL'] . '/#' . $page  : 'javascript:void()';
 				$row['cardName'] .= '<span><a href="' . $pdfPath . '" target="_blank">' . preg_replace('/^0+/', '', $page) . '</a></span>';
 			}
 
@@ -154,6 +171,9 @@ class searchModel extends Model {
 		$termsRegex = implode('|', $terms);
 		$allWords = array_map('strtolower', $terms);
 
+		// if(array_search(strtolower($descArray['Type']), $allWords))
+		// 	unset($allWords[array_search(strtolower($descArray['Type']))]);
+
 		$matches = [];
 		if(isset($descArray['Type'])) array_push($matches, '<strong>Type</strong> : ' . $descArray['Type']);
 
@@ -164,11 +184,17 @@ class searchModel extends Model {
 				if(preg_match('/' . $term . '/i', $value)){
 
 					$value = preg_replace("/($termsRegex)/i", "<span class=\"highlight\">$1</span>", $value);
+					// if(isset($descArray['Type']) && $term != $descArray['Type'])
 					array_push($matches, '<strong>' . $key . '</strong> : ' . $value);
 					unset($descArray{$key});
 				}
 			}			
 		}
+
+		$index = preg_grep('/<strong>Type<\/strong>/', $matches);
+
+		if(sizeof($index) > 1)
+			unset($matches[0]);
 
 		$html = implode($matches, '<br />');
 

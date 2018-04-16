@@ -3,6 +3,30 @@ RewriteEngine On
 
 RewriteBase /ntg-nosql
 
+RewriteCond %{REQUEST_URI}  artefact/.*build.*
+RewriteRule artefact/.*(build.*) public/pdfjs/$1 [QSA,L]
+
+RewriteCond %{REQUEST_URI}  artefact/.*locale/.*
+RewriteRule artefact/.*locale/(.*) public/pdfjs/web/locale/$1 [QSA,L]
+
+RewriteCond %{REQUEST_URI}  artefact/.*cmaps/.*
+RewriteRule artefact/.*cmaps/(.*) public/pdfjs/web/cmaps/$1 [QSA,L]
+
+RewriteCond %{REQUEST_URI}  artefact/.*images/.*
+RewriteRule artefact/.*images/(.*) public/pdfjs/web/images/$1 [QSA,L]
+
+RewriteCond %{REQUEST_URI}  artefact/.*viewer.*
+RewriteRule artefact/.*(viewer.*) public/pdfjs/web/$1 [QSA,L]
+
+RewriteCond %{REQUEST_URI}  artefact/.*debugger.*
+RewriteRule artefact/.*(debugger.*) public/pdfjs/web/$1 [QSA,L]
+
+RewriteCond %{REQUEST_URI}  /artefact/pdf/.*
+RewriteRule artefact/pdf/(.*?)_(.*?)_(.*) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/index.pdf [QSA,L]
+
+RewriteCond %{REQUEST_URI}  /artefact/transcript/.*
+RewriteRule artefact/transcript/(.*?)_(.*?)_(.*) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/transcription.pdf [QSA,L]
+
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 

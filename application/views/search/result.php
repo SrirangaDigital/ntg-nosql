@@ -1,8 +1,11 @@
-<?php $term = array_pop($data); ?>
+<?php 
+    $term = $data['displayString']; 
+    unset($data['displayString']);
+?>
 <script>
 $(document).ready(function(){
 
-    $('.post.no-border').prepend('<div class="albumTitle Search"><span><i class="fa fa-search"></i> ' + '<?=$term?>' + '</span></div>');
+    $('.post.no-border').prepend('<div class="albumTitle Search"><span><i class="fa fa-search"> ' + '<br /><br /><?=$term?>' + '</i> </span></div>');
 
     $(window).scroll(function(){
 
@@ -13,7 +16,8 @@ $(document).ready(function(){
                 var pagenum = parseInt($('#grid').attr('data-page')) + 1;
                 $('#grid').attr('data-page', pagenum);
 
-                getresult(base_url + 'search/field/?page=' + pagenum + '&term=' + '<?=$term?>');
+                var nextURL = window.location.href + '&page=' + pagenum;
+                getresult(nextURL);
             }
         }
     });
