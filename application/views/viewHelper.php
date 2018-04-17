@@ -17,13 +17,17 @@ class viewHelper extends View {
 		if(preg_match('/^\d{4}\-/', $str))
 			$str = preg_replace('/\b(\d)\b/',"0$1",$str);
 
-        // handle mm-dd-yyyy format
-        $str = preg_replace('/(\d{2})\-(\d{2})\-(\d{4})/', "$3-$2-$1", $str);
-
         if(preg_match('/^\d{4}\-\d{2}\-\d{2}/', $str)) {
 
-            $str = $this->formatDate($str);
+            $dates = array_filter(array_map('trim', preg_split('/,|;/', $str)));
+            $data = [];
+
+            foreach ($dates as $date)
+                array_push($data, $this->formatDate($date));
+
+            $str = implode(', ', $data);
         }
+
         return $str;
     }
 
