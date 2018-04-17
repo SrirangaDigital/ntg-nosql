@@ -121,8 +121,8 @@ class searchModel extends Model {
 
 			foreach ($row['pages'] as $page) {
 				
-				$pdfPath = (isset($_SESSION['login']) || SHOW_PDF) ?  BASE_URL . 'artefact/transcript/' . $row['idURL'] . '/#page=' . $page . '&search=' . $term : 'javascript:void()';
-				$row['cardName'] .= '<span><a href="' . $pdfPath . '" target="_blank">' . preg_replace('/^0+/', '', $page) . '</a></span>';
+				$pdfPath = (isset($_SESSION['login']) || SHOW_PDF) ?  BASE_URL . 'artefact/fulltext/' . $row['idURL'] . '/#page=' . preg_replace('/^0+/', '', $page) . '&search=' . $term : 'javascript:void()';
+				$row['cardName'] .= '<span><a href="' . $pdfPath . '" target="_blank">' . preg_replace('/^0+/', '', $page) . '</a></span> ';
 			}
 
 			$row['cardName'] .= '</span>';

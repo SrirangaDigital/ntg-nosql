@@ -249,7 +249,7 @@ a.moretag {
 }
 .image-desc .fulltextSnippet > span:not(:last-of-type):after{
 
-  content: ', ';
+  content: ' ';
 }
 #grid.container .post img { padding: 0; }
 
