@@ -1939,7 +1939,7 @@ function webViewerInitialized() {
   
   if(pdfURL.match('artefact/transcript')) {
 	//~ file = pdfURL.replace(/(.*)\/article\/text\/(.*)\/(.*)\/#(.*)/, '$1/public/data/$2/$3/index.pdf#$4');
-	file = pdfURL.replace(/(.*)\/artefact\/transcript\/(.*?)_(.*?)_(.*)\/#(.*)/, '$1/public/data/$2/$3/$4/transcription.pdf#$4');
+	file = pdfURL.replace(/(.*)\/artefact\/transcript\/(.*?)_(.*?)_(.*)\/#(.*)/, '$1/public/data/$2/$3/$4/index.pdf#$4');
   }
   if(pdfURL.match('artefact/pdf')) {
 	file = pdfURL.replace(/(.*)\/artefact\/pdf\/(.*?)_(.*?)_(.*)/, '$1/public/data/$2/$3/$4/index.pdf');
