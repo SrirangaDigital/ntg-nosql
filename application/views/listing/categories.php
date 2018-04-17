@@ -34,9 +34,9 @@ $(document).ready(function(){
             <div class="albumTitle <?=$parentType?>">
                 <span class="head"><?=$parentType?>S</span><br />
 <?php foreach ($filter as $key => $value) { ?>
-                <span class="select"><em><?=$key?>:</em> <?=$value?></span><br />
+                <span class="select"><em><?=preg_replace('/([A-Z])/', " $1", $key)?>:</em> <?=$value?></span><br />
 <?php } ?>
-                <span class="select"><?=$auxiliary['selectKey']?><em>-wise</em></span>
+                <span class="select"><?=preg_replace('/([A-Z])/', " $1", $auxiliary['selectKey'])?><em> - wise</em></span>
             </div>
         </div>
 <?php foreach ($data as $row) { ?>

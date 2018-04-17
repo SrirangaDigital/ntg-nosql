@@ -2,7 +2,7 @@
 <script>
 $(document).ready(function(){
 
-    $('.post.no-border').prepend('<div class="albumTitle Search"><span><i class="fa fa-search"></i> ' + '<?=$term?>' + '</span></div>');
+    $('.post.no-border').prepend('<div class="albumTitle Search"><span><i class="fa fa-search"></i> ' + '<br /><?=$term?>' + '</span></div>');
 
     $(window).scroll(function(){
 
