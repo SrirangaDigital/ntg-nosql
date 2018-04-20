@@ -30,7 +30,7 @@ class searchModel extends Model {
 
 			foreach ($data as $key => $value) {
 
-				$dataFilter[$key] = ['$regex'=>$value];
+				$dataFilter[$key] = ['$regex' => $value, '$options' => 'i'];
 				$displayString .= $key . ': ' . $value . '<br />';
 			}
 
