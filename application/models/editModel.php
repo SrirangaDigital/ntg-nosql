@@ -18,12 +18,6 @@ class editModel extends Model {
 		return ($result) ? $result['ForeignKeyId'] : '';
 	}
 
-	public function writeJsonToPath($data, $path) {
-
-		$jsonString = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-		return (file_put_contents($path, $jsonString)) ? True : False;
-	}
-
 	public function resyncAffectedArtefacts($db, $key, $value) {
 
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
@@ -37,6 +31,7 @@ class editModel extends Model {
 			$id = $row['id'];
 			$artefactData = $this->getArtefactFromJsonPath(PHY_METADATA_URL . $id . '/index.json');
 			$artefactData = $this->insertForeignKeyDetails($db, $artefactData , $foreignKeys);
+			$artefactData = $this->insertDataExistsFlag($artefactData);
 			
 			$isResult = $isResult and $this->replaceJsonDataInDB($collection, $artefactData, 'id', $artefactData['id']);
 		}

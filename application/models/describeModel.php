@@ -11,6 +11,7 @@ class describeModel extends Model {
 		
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
+
 		$result = $collection->findOne(['id' => $id ]);
 
 		return $result;

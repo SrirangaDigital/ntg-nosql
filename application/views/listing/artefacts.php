@@ -31,7 +31,7 @@ $(document).ready(function(){
             <div class="albumTitle <?=$parentType?>">
                 <span class="head"><?=$parentType?>S</span><br />
 <?php foreach (array_reverse($filter) as $key => $value) { ?>
-                <span class="select"><em><?=$key?>:</em> <?=$value?></span><br />
+                <span class="select"><em><?=preg_replace('/([A-Z])/', " $1", $key)?>:</em> <?=$value?></span><br />
 <?php } ?>
             </div>
         </div>

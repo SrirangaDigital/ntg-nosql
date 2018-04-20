@@ -4,7 +4,7 @@ class Controller {
 	
 	public function __construct() {
 		
-		session_start();
+		if(!isset($_SESSION)) session_start();
 	}
 
 	public function loadModel($model) {

@@ -16,6 +16,10 @@ class edit extends Controller {
 		if($data) {
 			
 			$db = $this->model->db->useDB();
+
+			// In need of better solution, this line is written. Currently nested arrays are sent for editing as json strings
+			if(isset($data['Toc'])) $data['Toc'] = htmlspecialchars(json_encode($data['Toc'], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+
 			$data['auxiliary']['thumbnailPath'] = $this->model->getThumbnailPath($id);
 			$data['auxiliary']['idURL'] = $idURL;
 			$data['auxiliary']['foreignKeys'] = $this->model->getForeignKeyTypes($db);
@@ -57,6 +61,9 @@ class edit extends Controller {
 
 			$jsonData[$value[0]] = $value[1];
 		}
+
+		// Here, obtained json string from nested array is put back as an associative array
+		if(isset($jsonData['Toc'])) $jsonData['Toc'] = json_decode(htmlspecialchars_decode($jsonData['Toc'], ENT_QUOTES), True);
 
 		// Preprocess data before update
 		$jsonData = $this->model->beforeDbUpdate($jsonData);
@@ -125,6 +132,11 @@ class edit extends Controller {
 
 		$this->redirect('gitcvs/updateRepo/' . $refererArtefact);
 	}
-}
 
+	public function bulkReplace($query) {
+		
+		$this->view('edit/bulkReplace', '');
+	}
+
+}
 ?>

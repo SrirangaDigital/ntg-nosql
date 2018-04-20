@@ -217,6 +217,21 @@ class Model {
         }
 		return $artefact;
 	}
+
+	public function writeJsonToPath($data, $path) {
+
+		$jsonString = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+		return (file_put_contents($path, $jsonString)) ? True : False;
+	}
+
+	public function getUniqueKeys(){
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, ARTEFACT_KEYS_COLLECTION);
+
+		$result = array_values(array_filter($collection->distinct('_id')));
+		return $result;
+	}
 }
 
 ?>

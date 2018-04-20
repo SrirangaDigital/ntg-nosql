@@ -38,6 +38,9 @@
 	border-color: #777;
 	background-color: transparent;	
 }
+.navbar-form {
+	padding: 10px 0px;
+}
 #pr_email_show {
     display: none;
 }

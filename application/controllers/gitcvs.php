@@ -60,6 +60,18 @@ class gitcvs extends Controller {
 		
 		$this->absoluteRedirect($url);
 	}
+
+	public function checkoutFiles($files){
+
+		$repo = Git::open(PHY_BASE_URL . '.git');
+
+		foreach ($files as $file) {
+		
+			$repo->run('checkout ' . $file);
+		}
+		return;
+	}
+
 }	
 
 ?>
