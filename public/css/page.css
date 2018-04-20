@@ -962,6 +962,18 @@ img.img-center{
 .main .general-list li{
   margin-bottom: 10px;
 }
+.main .strip {
+  margin: 65px 0 30px;
+  font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+.main .strip p{
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;  
+}
+.main .strip a, .main .strip a:hover{
+  color: #3F51B5;
+}
 .sidebar{
   padding: 30px 0 0 30px;
 }
