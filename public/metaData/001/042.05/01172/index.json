@@ -3,5 +3,6 @@
     "AccessionNumber": "1172",
     "Type": "Brochure",
     "AccessLevel": 0,
-    "Date": "30-04-1963"
+    "Date": "1963-04-30",
+    "key1": "valuew"
 }
