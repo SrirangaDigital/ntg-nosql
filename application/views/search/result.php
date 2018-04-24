@@ -5,7 +5,7 @@
 <script>
 $(document).ready(function(){
 
-    $('.post.no-border').prepend('<div class="albumTitle Search"><span><i class="fa fa-search"> ' + '<br /><br /><?=$term?>' + '</i> </span></div>');
+    $('.post.no-border').prepend('<div class="albumTitle Search"><i class="fa fa-search"></i>' + '<br /><br /><span class="select"><?=$term?>' + '</span></div>');
 
     $(window).scroll(function(){
 

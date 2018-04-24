@@ -232,6 +232,17 @@ class Model {
 		$result = array_values(array_filter($collection->distinct('_id')));
 		return $result;
 	}
+	
+	public function getDataFromApi($url){
+
+		$curl = curl_init($url);
+		curl_setopt($curl, CURLOPT_RETURNTRANSFER, True);
+
+		$result = curl_exec($curl);
+		curl_close($curl);
+
+		return $result;
+	}
 }
 
 ?>

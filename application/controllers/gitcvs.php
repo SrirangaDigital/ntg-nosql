@@ -71,7 +71,5 @@ class gitcvs extends Controller {
 		}
 		return;
 	}
-
 }	
-
 ?>

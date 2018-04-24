@@ -17,7 +17,8 @@ class data extends Controller {
 		$collection = $this->model->db->createCollection($db, ARTEFACT_COLLECTION);
 
 		$foreignKeys = $this->model->getForeignKeyTypes($db);
-
+		ini_set('max_execution_time', 300);
+		
 		foreach ($jsonFiles as $jsonFile) {
 
 			$content = $this->model->getArtefactFromJsonPath($jsonFile);
@@ -30,6 +31,7 @@ class data extends Controller {
 
 		// Insert fulltext
 		$this->insertFulltext();
+		//~ $this->buildDBFromXml();
 	}
 	
 	private function insertForeignKeys() {
@@ -52,7 +54,7 @@ class data extends Controller {
 	public function insertFulltext() {
 
 		ini_set('max_execution_time', 300);
-
+		
 		$txtFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/\/text\/\d+\.txt$/i');
 
 		$db = $this->model->db->useDB();
@@ -122,6 +124,14 @@ class data extends Controller {
 		}
 	}
 
+	public function buildDBFromXml() {
+
+		$this->model->xml2Json();
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->createCollection($db, ARTICLES_COLLECTION);
+		$this->model->insertEntries($collection);
+	}
+
 	// Use this method for global changes in json files
 	public function modify() {
 
@@ -138,25 +148,48 @@ class data extends Controller {
 		// }
 		// file_put_contents("StatePlaces.txt", json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
+		// echo '<!DOCTYPE html>';
+		// echo '<html lang="en">';
+		// echo '<head>';
+		// echo '<meta charset="utf-8">';
+		// echo '<title>JSS Mahavidyapeetha</title>';
+		// echo '<body>';
 
-		$jsonFiles = $this->model->getFilesIteratively(PHY_FOREIGN_KEYS_URL , $pattern = '/json$/i');
+		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL . '001/' , $pattern = '/index.json$/i');
 		
 		foreach ($jsonFiles as $jsonFile) {
 
 			$contentString = file_get_contents($jsonFile);
 			$content = json_decode($contentString, true);
-			
-			if(isset($content['Asstdirector'])) {
-
-				$value = $content['Asstdirector'];
-				$content['Asst-director'] = $value;
-				unset($content['Asstdirection']);
-				$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-				// var_dump($json);
-		
-				file_put_contents($jsonFile, $json);
-			}
+			$fileID = preg_replace('/.*\/(.*)\/.*/', "$1", $content['id']);
+			// echo $content['id'] . "<br />";
+			unset($content['Correspondence']);
+			unset($content['Box']);
+			unset($content['File']);
+			$content['FileID'] = $fileID;
+			file_put_contents($jsonFile, json_encode($content, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 		}
+		// To generate ForeignKey id
+		// $folders1 = glob(PHY_METADATA_URL . '001/*', GLOB_ONLYDIR);
+
+		// foreach ($folders1 as $folder) {
+
+		// 	$data = [];
+		// 	$folders2 = glob($folder . '/*', GLOB_ONLYDIR);
+		// 	$jsonFile = $folders2[0] . '/index.json';
+		// 	$contentString = file_get_contents($jsonFile);
+		// 	$content = json_decode($contentString, true);
+		// 	$fileID = preg_replace('/.*\/(.*)\/.*/', "$1", $content['id']);
+		// 	$foreignKeyData['ForeignKeyId'] = $fileID;
+		// 	$foreignKeyData['ForeignKeyType'] = 'FileID';
+		// 	$foreignKeyData['BoxTitle'] = (preg_match('/(.*)\/(.*)/', $content['Correspondence'], $matches)) ? trim($matches[1]) : $content['Correspondence'];
+		// 	$foreignKeyData['FileTitle'] = (preg_match('/(.*)\/(.*)/', $content['Correspondence'], $matches)) ? trim($matches[2]) : '';
+		// 	$foreignKeyData['Box'] = $content['Box'];
+		// 	$foreignKeyData['File'] = $content['File'];
+		// 	$foreignKeyData['FileID'] = $fileID;
+
+		// 	file_put_contents(PHY_FOREIGN_KEYS_URL . 'FileID/' . $fileID . '.json', json_encode($foreignKeyData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+		// }
 	}
 }
 

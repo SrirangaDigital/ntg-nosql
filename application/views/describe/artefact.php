@@ -97,4 +97,3 @@ $(document).ready(function(){
 </div>
 
 <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js"></script>
-

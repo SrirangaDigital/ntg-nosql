@@ -20,6 +20,9 @@
     body{
         overflow-y: hidden;
     }
+    .gap-above-large {
+		margin: 0px;
+	}
 </style>
 
     <div class="row clear-margins">
