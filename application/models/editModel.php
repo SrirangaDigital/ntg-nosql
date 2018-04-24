@@ -32,7 +32,7 @@ class editModel extends Model {
 			$artefactData = $this->getArtefactFromJsonPath(PHY_METADATA_URL . $id . '/index.json');
 			$artefactData = $this->insertForeignKeyDetails($db, $artefactData , $foreignKeys);
 			$artefactData = $this->insertDataExistsFlag($artefactData);
-			
+
 			$isResult = $isResult and $this->replaceJsonDataInDB($collection, $artefactData, 'id', $artefactData['id']);
 		}
 

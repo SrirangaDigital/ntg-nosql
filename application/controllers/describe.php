@@ -38,7 +38,6 @@ class describe extends Controller {
 
 		($artefact['details']) ? $this->view('describe/sideBySide', $artefact) : $this->view('error/index');
 	}
-
 }
 
 ?>
