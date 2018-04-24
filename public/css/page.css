@@ -181,7 +181,7 @@ a.moretag {
     text-decoration: none;
 }
 .input-group-btn{
-  margin-bottom: 2px; 
+  margin-bottom: 2px;
 }
 #searchForm .input-group-btn input[type="checkbox"]{
   padding-top: 10px;
@@ -364,21 +364,7 @@ a.moretag {
     float: left;
     text-transform: capitalize;
 }
-
-
 /*Image overlays*/
-.fixOverlayDivHome{
-    position: relative;
-    width:100%; 
-    padding:0px;
-    background: url('../images/stock/slide1.jpg') no-repeat;
-    background-size: cover;
-    min-height: 500px;
-}
-.fixOverlayDivHome img{
-    margin-left: auto;
-    margin-right: auto;
-}
 .fixOverlayDiv{
     position: relative;
     width:100%; 
@@ -571,7 +557,6 @@ a.moretag {
 .stats h1{
     font-size: 24px;
     margin-bottom: 60px;
-    
 }
 .stats .stat-elem a{
     display: inline-block;
@@ -588,7 +573,6 @@ a.moretag {
 .stats .stat-elem p{
     font-size: 15px;
 }
-
 /*Physical space*/
 .physical{
     background-color: #FFF;
@@ -739,8 +723,6 @@ button.toggle-button{
   line-height: 18px;
   color: #999;
 }
-.letter_thumbnails{
-}
 .iframeHolder{
   margin: 0 auto;
   width: 100%;
@@ -767,11 +749,7 @@ img.img-small{
 img.img-center{
   margin: 0 auto;
 }
-#viewletterimages, #viewCardImages{
-  cursor: -webkit-zoom-in;
-  cursor: zoom-in;
-}
-#viewletterimages, #viewCardImages{
+#viewletterimages, #viewCardImages, #transcribeimages{
   cursor: -webkit-zoom-in;
   cursor: zoom-in;
 }
@@ -1023,4 +1001,3 @@ img.img-center{
   text-decoration: line-through;
   font-style: italic;
 }
-
