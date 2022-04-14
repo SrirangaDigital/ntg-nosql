@@ -176,7 +176,8 @@ class searchModel extends Model {
 
 		$matches = [];
 		if(isset($descArray['Type'])) array_push($matches, '<strong>Type</strong> : ' . $descArray['Type']);
-
+		if(isset($descArray['Drama'])) array_push($matches, '<strong>Drama</strong> : ' . $descArray['Drama']);
+		
 		foreach ($terms as $term) {
 			
 			foreach ($descArray as $key => $value) {
