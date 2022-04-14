@@ -93,3 +93,10 @@
 .updateDataArchives{
 	text-align: center;
 }
+.selecttype{
+	text-align: right;
+	width: 240px;
+}
+.selecttypevalue{
+	margin-left: 30px;	
+}

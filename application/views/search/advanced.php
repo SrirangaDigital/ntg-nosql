@@ -10,6 +10,14 @@
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
 			<form method="GET" class="form-inline updateDataArchive" role="form" id="updateData" action="<?=BASE_URL?>search/field" onsubmit="return validate()">
+				<div class="form-group">
+					<label class="selecttype" for="Type">Select Type</label>
+					<select class="form-control selecttypevalue" name="Type">
+						<option value="Photograph">Photograph</option>
+						<option value="Brochure">Brochure</option>
+						<option value="Newspaper Clipping">Newspaper Clipping</option>
+					</select><br />
+				</div>
 				<div class="keyValuePair">	
 					<div class="form-group">
 						<select class="keySelect form-control">

@@ -52,7 +52,17 @@ class search extends Controller {
 
 	public function advanced(){
 
-		$arrayOfKeys = $this->model->getUniqueKeys();
+		$arrayOfKeys = (array)$this->model->getUniqueKeysNew();
+
+		sort($arrayOfKeys);	
+
+		for($i=0;$i<sizeof($arrayOfKeys); $i++){
+
+			if ($arrayOfKeys[$i] == 'Type' || $arrayOfKeys[$i] == '_id')
+				unset($arrayOfKeys[$i]);
+
+		}
+
 		($arrayOfKeys)? $this->view('search/advanced', $arrayOfKeys) : $this->view('error/noResults', 'search/index/');
 	}
 

@@ -206,5 +206,32 @@ class searchModel extends Model {
 
 		return ($remainigWords) ? $html . '<br />' . $remainingWordsString : $html;
 	}
+
+
+	public function getUniqueKeysNew(){
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
+
+
+		$aggregatePipeline = [
+				[ '$project' => [ 'arrayofkeyvalue' => [ '$objectToArray' => '$$ROOT' ] ] ], 
+				[ '$unwind' => '$arrayofkeyvalue' ], 			
+				[ '$group' => ['_id' => null, 'allkeys' => [ '$addToSet' => '$arrayofkeyvalue.k' ] ] ] 
+			];
+
+		$iterator = $collection->aggregate($aggregatePipeline);
+
+		$result = iterator_to_array($iterator, true);
+		//var_dump($result[0]['allkeys']); exit(0);
+	
+		if(sizeof($result[0]['allkeys']) > 0 )
+			return $result[0]['allkeys'];
+		else
+			return '';
+
+	}
+
+
 }
 ?>
