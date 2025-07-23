@@ -23,11 +23,20 @@ class describeModel extends Model {
 		$images = [];
 		$images = glob($artefactPath);
 		
-		array_walk($images, function(&$value, &$key) {
+		array_walk($images, function(&$value, $key) {
 		    $value = str_replace(PHY_DATA_URL, DATA_URL, $value);
 		});
 
 		return $images;
+	}
+
+	public function getBrochureDetails($id){
+
+		$jsonFile = PHY_METADATA_URL . $id . '/index.json';
+		$contents = file_get_contents($jsonFile);
+		$contents = json_decode($contents,JSON_OBJECT_AS_ARRAY );
+		
+		return $contents;
 	}
 
 	public function getNeighbourhood($details, $filter) {
