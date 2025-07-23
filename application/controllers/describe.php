@@ -22,7 +22,25 @@ class describe extends Controller {
 			$artefact['details'] = $this->model->unsetControlParams($artefact['details']);
 		}
 
+		// var_dump($artefact); exit(0);
+
 		($artefact['details']) ? $this->view('describe/artefact', $artefact) : $this->view('error/index');
+	}	
+
+	public function brochure($query = [], $id = '') {
+
+		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $id);
+
+		$artefact['details'] = $this->model->getBrochureDetails($id);
+
+		if($artefact['details']) {
+		
+			$artefact['images'] = $this->model->getArtefactImages($id);
+			$artefact['details'] = $this->model->unsetControlParams($artefact['details']);
+		}
+
+
+		($artefact['details']) ? $this->view('describe/brochure', $artefact) : $this->view('error/index');
 	}
 
 	public function transcription($query = [], $id = '') {
