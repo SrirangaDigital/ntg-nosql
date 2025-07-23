@@ -5,7 +5,7 @@
             <ul class="list-unstyled" style="column-count: 10; column-gap: 30px;">
 
                 <?php foreach (array_reverse($data) as  $id) { ?>
-                        <li><a href="<?=$viewHelper->genLink($id)?>"><?=$id?></a></li>
+                        <li><a href="<?=$viewHelper->genLink($id)?>" target="_blank"><?=$id?></a></li>
                 <?php } ?>
 
             </ul>
