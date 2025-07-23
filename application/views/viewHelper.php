@@ -186,6 +186,12 @@ class viewHelper extends View {
     
         return $month;
     }
+
+    public function genLink($id){
+
+        $link = BASE_URL . 'describe/brochure/' . preg_replace('/\//', '_', $id);
+        return $link;
+    }
 }
 
 ?>

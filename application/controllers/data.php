@@ -8,8 +8,8 @@ class data extends Controller {
 	}
 
 	public function buildDBFromJson() {
-
-		$this->insertForeignKeys();
+		
+		$this->insertForeignKeys(); 
 
 		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/index.json$/i');
 		
@@ -212,6 +212,194 @@ class data extends Controller {
 		}
 		file_put_contents(PHY_BASE_URL . 'sumne.txt', $data);
 	}
+
+	public function buildKeys() {
+		
+		ini_set('memory_limit', '512M'); 
+		$type = 'Newspaper Clipping';
+
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
+
+		try{
+
+		    // 3. Define the aggregation pipeline
+		    $pipeline = [
+		        // Stage 1: Filter documents where 'Type' is 'type'
+		        [
+		            '$match' => [
+		                'Type' => $type
+		            ]
+		        ],
+		        // Stage 2: Convert each document into an array of its key-value pairs
+		        // $$ROOT refers to the entire document currently in the pipeline
+		        [
+		            '$project' => [
+		                'fields' => [ '$objectToArray' => '$$ROOT' ]
+		            ]
+		        ],
+		        // Stage 3: Deconstruct the 'fields' array into individual documents
+		        // Each document now represents a single key-value pair from the original document
+		        [
+		            '$unwind' => '$fields'
+		        ],
+				[
+            		'$match' => [
+                		'fields.k' => [ '$ne' => '_id' ] // Exclude the '_id' key
+            		]
+        		],
+		        // Stage 4: Group by the 'k' (key) field to get distinct field names
+		        // _id will hold the unique field names
+		        [
+		            '$group' => [
+		                '_id' => '$fields.k'
+		            ]
+		        ],
+		        // Stage 5 (Optional): Project to rename _id to 'fieldName' for cleaner output
+		        [
+		            '$project' => [
+		                '_id' => 0, // Exclude the default _id field
+		                'fieldName' => '$_id' // Rename the grouped _id to 'fieldName'
+		            ]
+		        ]
+		    ];
+
+		    // 4. Execute the aggregation pipeline
+		    $result = $collection->aggregate($pipeline);
+
+		    echo "Unique keys (field names) for documents with Type $type:\n";
+		    echo "--------------------------------------------------------------\n";
+
+		    $allUniqueFieldNames = [];
+
+		    // 5. Iterate over the results and print each unique key
+		    foreach ($result as $doc) {
+		        if (isset($doc['fieldName'])) {
+		            array_push($allUniqueFieldNames,$doc['fieldName']);
+		        }
+		    }
+
+			// $emptyAssociativeArray = [];
+		    // foreach ($allUniqueFieldNames as $key) {
+		    //     $emptyAssociativeArray[$key] = ''; // Initialize with an empty string or null, or any default value
+		    // }
+
+
+		    // --- Part 2: Iterate through type documents and normalize them ---
+
+		    $filter = [
+		        'Type' => $type
+		    ];
+
+		    $photographDocumentsCursor = $collection->find($filter);
+
+		    $normalizedDocuments = [];
+
+		    echo "--- Processing and Normalizing Documents ---\n";
+
+		    foreach ($photographDocumentsCursor as $originalDocument) {
+		        $newNormalizedDocument = [];
+
+		        // Initialize the new document with all unique keys set to a default value (e.g., null or empty string)
+		        foreach ($allUniqueFieldNames as $key) {
+		            $newNormalizedDocument[$key] = null; // Default to null if not found
+		        }
+
+		        // Now, fill in the values from the original document where keys match
+		        foreach ($originalDocument as $key => $value) {
+		            // Check if this key is one of our identified unique keys
+		            // (This check is technically redundant if $newNormalizedDocument was initialized with all unique keys,
+		            // but it's good for clarity and if you wanted to exclude some keys later)
+		            if (in_array($key, $allUniqueFieldNames)) {
+		                // Handle different BSON types for better representation in the new document
+		                if ($value instanceof ObjectId) {
+		                    $newNormalizedDocument[$key] = (string) $value; // Convert ObjectId to string
+		                } elseif ($value instanceof UTCDateTime) {
+		                    // Convert UTCDateTime to a human-readable date string (e.g., YYYY-MM-DD HH:MM:SS)
+		                    $newNormalizedDocument[$key] = $value->toDateTime()->format('Y-m-d H:i:s');
+		                } elseif (is_array($value) || is_object($value)) {
+		                    // For nested arrays/objects, convert to JSON string for flat representation
+		                    $newNormalizedDocument[$key] = json_encode($value);
+		                } else {
+		                    // For scalar values (string, int, float, bool)
+		                    $newNormalizedDocument[$key] = $value;
+		                }
+		            }
+		        }
+		        $normalizedDocuments[] = $newNormalizedDocument;
+		    }
+
+
+			// --- Part 3: Generate CSV content ---
+
+		    $csvFileName = 'newpaper_clipping_documents.csv';
+		    $csvFile = fopen('php://temp', 'r+'); // Use a temporary file in memory
+
+		    // Write the header row
+		    fputcsv($csvFile, $allUniqueFieldNames);
+
+		    // Write the data rows
+		    foreach ($normalizedDocuments as $document) {
+		        $rowData = [];
+		        foreach ($allUniqueFieldNames as $header) {
+		            // Ensure the order matches the header and provide empty string if key is missing
+		            $rowData[] = isset($document[$header]) ? $document[$header] : '';
+		        }
+		        fputcsv($csvFile, $rowData);
+		    }
+
+		    // Rewind the file pointer to the beginning to read its content
+		    rewind($csvFile);
+		    $csvContent = stream_get_contents($csvFile);
+		    fclose($csvFile);
+
+		    // --- Part 4: Output CSV for download (or save to a file) ---
+
+		    // Option A: Force download the CSV file directly from the browser
+		    header('Content-Type: text/csv');
+		    header('Content-Disposition: attachment; filename="' . $csvFileName . '"');
+		    echo $csvContent;
+
+		    // Option B: Save the CSV content to a file on your server (uncomment to use)
+		    // file_put_contents($csvFileName, $csvContent);
+		    // echo "CSV file '$csvFileName' created successfully on the server.\n";
+
+
+		} catch (MongoDBException $e) {
+		    // Handle connection or query errors
+		    echo "An error occurred: " . $e->getMessage() . "\n";
+		    echo "Code: " . $e->getCode() . "\n";
+		} catch (Exception $e) {
+		    // Catch any other general exceptions
+		    echo "A general error occurred: " . $e->getMessage() . "\n";
+		}	
+
+	}
+
+	public function listids(){
+
+		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL . '001/', $pattern = '/index.json$/i');
+		$data = [];
+		foreach($jsonFiles as $jsonFile){
+
+			$contents = file_get_contents($jsonFile);
+			$contents = json_decode($contents,JSON_OBJECT_AS_ARRAY);
+			
+			if(isset($contents["Type"]) && ($contents["Type"] === "Brochure")){ 
+				// $doc[] = $contents["id"];
+				array_push($data, $contents["id"]);
+			}
+			else{
+				//echo $contents["id"] . "<br />";
+			}
+		}
+
+		rsort($data);
+	
+		($data) ? $this->view('data/brochures', $data) : $this->view('error/index');
+	}
+
+
 }
 
 ?>
